@@ -4,7 +4,31 @@ Havoc is an agentic incident-triage assistant that investigates synthetic produc
 
 ## Architecture
 
-An alert enters a LangGraph agent, which can call tools for metric anomaly detection, log-pattern search, and runbook retrieval. The agent uses the collected evidence to generate a schema-validated RCA report.
+## Architecture
+
+The following diagram shows the incident-triage workflow, evidence-gathering tools, and RCA validation loop.
+
+```mermaid
+flowchart TD
+    A["Incoming incident alert"] --> B["Classify incident"]
+    B --> C["LangGraph triage agent"]
+    C --> D{"Evidence sufficient?"}
+
+    D -- "No: investigate" --> E["Select and call tools"]
+    E --> F["Metric anomaly detection"]
+    E --> G["Log-pattern search"]
+    E --> H["Runbook and postmortem RAG"]
+    F --> I["Collect evidence"]
+    G --> I
+    H --> I
+    I --> C
+
+    D -- "Yes" --> J["Generate structured RCA"]
+    J --> K["Pydantic validation"]
+    K --> L{"Valid report?"}
+    L -- "No: retry once" --> J
+    L -- "Yes" --> M["RCA report with remediation"]
+```
 
 ## Technology Stack
 
