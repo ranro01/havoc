@@ -1,0 +1,3 @@
+# Real semantic embeddings (pulls in PyTorch, which is large). Not needed for tests/CI.
+langchain-huggingface>=1.0
+sentence-transformers>=3.0

@@ -1,0 +1,122 @@
+{
+  "INC-001": {
+    "fault_id": "expired_tls_certificate",
+    "onset_index": 153
+  },
+  "INC-002": {
+    "fault_id": "downstream_dependency_timeout",
+    "onset_index": 157
+  },
+  "INC-003": {
+    "fault_id": "thread_pool_exhaustion",
+    "onset_index": 165
+  },
+  "INC-004": {
+    "fault_id": "bad_deployment_regression",
+    "onset_index": 164
+  },
+  "INC-005": {
+    "fault_id": "db_conn_pool_exhausted",
+    "onset_index": 164
+  },
+  "INC-006": {
+    "fault_id": "bad_config_change",
+    "onset_index": 153
+  },
+  "INC-007": {
+    "fault_id": "container_oom_kill_loop",
+    "onset_index": 171
+  },
+  "INC-008": {
+    "fault_id": "cache_outage_redis",
+    "onset_index": 188
+  },
+  "INC-009": {
+    "fault_id": "dns_resolution_failure",
+    "onset_index": 159
+  },
+  "INC-010": {
+    "fault_id": "traffic_spike_cpu_saturation",
+    "onset_index": 179
+  },
+  "INC-011": {
+    "fault_id": "disk_full",
+    "onset_index": 151
+  },
+  "INC-012": {
+    "fault_id": "network_packet_loss",
+    "onset_index": 194
+  },
+  "INC-013": {
+    "fault_id": "jvm_memory_leak",
+    "onset_index": 167
+  },
+  "INC-014": {
+    "fault_id": "vendor_rate_limit_429",
+    "onset_index": 184
+  },
+  "INC-015": {
+    "fault_id": "slow_query_missing_index",
+    "onset_index": 154
+  },
+  "INC-016": {
+    "fault_id": "db_conn_pool_exhausted",
+    "onset_index": 182
+  },
+  "INC-017": {
+    "fault_id": "vendor_rate_limit_429",
+    "onset_index": 179
+  },
+  "INC-018": {
+    "fault_id": "slow_query_missing_index",
+    "onset_index": 198
+  },
+  "INC-019": {
+    "fault_id": "disk_full",
+    "onset_index": 186
+  },
+  "INC-020": {
+    "fault_id": "downstream_dependency_timeout",
+    "onset_index": 173
+  },
+  "INC-021": {
+    "fault_id": "traffic_spike_cpu_saturation",
+    "onset_index": 186
+  },
+  "INC-022": {
+    "fault_id": "bad_deployment_regression",
+    "onset_index": 167
+  },
+  "INC-023": {
+    "fault_id": "dns_resolution_failure",
+    "onset_index": 178
+  },
+  "INC-024": {
+    "fault_id": "cache_outage_redis",
+    "onset_index": 197
+  },
+  "INC-025": {
+    "fault_id": "jvm_memory_leak",
+    "onset_index": 174
+  },
+  "INC-026": {
+    "fault_id": "network_packet_loss",
+    "onset_index": 175
+  },
+  "INC-027": {
+    "fault_id": "expired_tls_certificate",
+    "onset_index": 187
+  },
+  "INC-028": {
+    "fault_id": "bad_config_change",
+    "onset_index": 151
+  },
+  "INC-029": {
+    "fault_id": "container_oom_kill_loop",
+    "onset_index": 196
+  },
+  "INC-030": {
+    "fault_id": "thread_pool_exhaustion",
+    "onset_index": 197
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "detector": {
+    "n": 30,
+    "zscore_onset_within_15min": 30,
+    "isolation_forest_within_15min": 19
+  },
+  "retrieval": {
+    "n": 30,
+    "alert_only@1": 5,
+    "alert_only@3": 10,
+    "alert+logs@1": 16,
+    "alert+logs@3": 26
+  },
+  "llm": {}
+}

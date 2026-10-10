@@ -1,0 +1,272 @@
+2026-03-23T10:00:00Z INFO [payment-gateway] GET /api/v1/cart 200 99ms
+2026-03-23T10:00:16Z INFO [payment-gateway] GET /api/v1/users 200 56ms
+2026-03-23T10:02:20Z INFO [payment-gateway] GET /api/v1/search 200 52ms
+2026-03-23T10:02:35Z INFO [payment-gateway] GET /api/v1/search 200 30ms
+2026-03-23T10:02:49Z INFO [payment-gateway] GET /api/v1/users 200 91ms
+2026-03-23T10:05:18Z INFO [payment-gateway] GET /api/v1/cart 200 41ms
+2026-03-23T10:06:32Z INFO [payment-gateway] GET /api/v1/cart 200 45ms
+2026-03-23T10:07:28Z INFO [payment-gateway] GET /api/v1/items 200 83ms
+2026-03-23T10:09:31Z INFO [payment-gateway] GET /api/v1/cart 200 63ms
+2026-03-23T10:10:12Z INFO [payment-gateway] GET /api/v1/orders 200 22ms
+2026-03-23T10:13:32Z INFO [payment-gateway] GET /api/v1/users 200 27ms
+2026-03-23T10:16:56Z INFO [payment-gateway] GET /api/v1/search 200 35ms
+2026-03-23T10:19:07Z INFO [payment-gateway] GET /api/v1/cart 200 96ms
+2026-03-23T10:26:02Z INFO [payment-gateway] GET /api/v1/cart 200 69ms
+2026-03-23T10:28:47Z INFO [payment-gateway] GET /api/v1/search 200 109ms
+2026-03-23T10:29:38Z INFO [payment-gateway] GET /api/v1/items 200 33ms
+2026-03-23T10:30:30Z INFO [payment-gateway] GET /api/v1/items 200 37ms
+2026-03-23T10:31:11Z INFO [payment-gateway] GET /api/v1/health 200 51ms
+2026-03-23T10:37:09Z INFO [payment-gateway] GET /api/v1/search 200 89ms
+2026-03-23T10:38:00Z INFO [payment-gateway] GET /api/v1/items 200 48ms
+2026-03-23T10:39:15Z INFO [payment-gateway] GET /api/v1/cart 200 63ms
+2026-03-23T10:41:01Z INFO [payment-gateway] GET /api/v1/orders 200 101ms
+2026-03-23T10:42:24Z INFO [payment-gateway] GET /api/v1/orders 200 52ms
+2026-03-23T10:44:25Z INFO [payment-gateway] GET /api/v1/items 200 98ms
+2026-03-23T10:44:29Z INFO [payment-gateway] GET /api/v1/users 200 19ms
+2026-03-23T10:45:05Z INFO [payment-gateway] GET /api/v1/orders 200 108ms
+2026-03-23T10:45:26Z INFO [payment-gateway] GET /api/v1/orders 200 101ms
+2026-03-23T10:46:47Z INFO [payment-gateway] GET /api/v1/cart 200 86ms
+2026-03-23T10:46:50Z INFO [payment-gateway] GET /api/v1/search 200 104ms
+2026-03-23T10:47:34Z INFO [payment-gateway] GET /api/v1/users 200 115ms
+2026-03-23T10:53:12Z INFO [payment-gateway] GET /api/v1/health 200 115ms
+2026-03-23T10:53:24Z INFO [payment-gateway] GET /api/v1/search 200 106ms
+2026-03-23T10:54:32Z INFO [payment-gateway] GET /api/v1/orders 200 75ms
+2026-03-23T10:55:06Z INFO [payment-gateway] GET /api/v1/cart 200 38ms
+2026-03-23T10:55:21Z INFO [payment-gateway] GET /api/v1/cart 200 92ms
+2026-03-23T10:57:16Z INFO [payment-gateway] GET /api/v1/cart 200 48ms
+2026-03-23T10:57:22Z INFO [payment-gateway] GET /api/v1/orders 200 38ms
+2026-03-23T10:57:41Z INFO [payment-gateway] GET /api/v1/health 200 62ms
+2026-03-23T10:57:59Z INFO [payment-gateway] GET /api/v1/items 200 100ms
+2026-03-23T10:59:47Z INFO [payment-gateway] GET /api/v1/search 200 115ms
+2026-03-23T11:03:36Z INFO [payment-gateway] GET /api/v1/users 200 15ms
+2026-03-23T11:03:54Z INFO [payment-gateway] GET /api/v1/health 200 35ms
+2026-03-23T11:04:10Z INFO [payment-gateway] GET /api/v1/users 200 40ms
+2026-03-23T11:05:00Z INFO [payment-gateway] GET /api/v1/orders 200 29ms
+2026-03-23T11:05:04Z INFO [payment-gateway] GET /api/v1/items 200 54ms
+2026-03-23T11:06:38Z INFO [payment-gateway] GET /api/v1/cart 200 20ms
+2026-03-23T11:10:17Z INFO [payment-gateway] GET /api/v1/orders 200 52ms
+2026-03-23T11:11:43Z INFO [payment-gateway] GET /api/v1/search 200 55ms
+2026-03-23T11:11:58Z INFO [payment-gateway] GET /api/v1/search 200 118ms
+2026-03-23T11:12:01Z INFO [payment-gateway] GET /api/v1/users 200 72ms
+2026-03-23T11:12:15Z INFO [payment-gateway] GET /api/v1/items 200 15ms
+2026-03-23T11:12:47Z INFO [payment-gateway] GET /api/v1/users 200 15ms
+2026-03-23T11:13:32Z WARN [payment-gateway] Certificate for api.internal expires in 24 days
+2026-03-23T11:14:45Z INFO [payment-gateway] GET /api/v1/orders 200 119ms
+2026-03-23T11:16:39Z INFO [payment-gateway] GET /api/v1/search 200 99ms
+2026-03-23T11:16:49Z INFO [payment-gateway] GET /api/v1/health 200 17ms
+2026-03-23T11:17:26Z INFO [payment-gateway] GET /api/v1/users 200 70ms
+2026-03-23T11:19:04Z INFO [payment-gateway] GET /api/v1/users 200 92ms
+2026-03-23T11:22:49Z INFO [payment-gateway] GET /api/v1/search 200 62ms
+2026-03-23T11:23:32Z INFO [payment-gateway] GET /api/v1/cart 200 79ms
+2026-03-23T11:26:24Z INFO [payment-gateway] GET /api/v1/search 200 42ms
+2026-03-23T11:26:53Z INFO [payment-gateway] GET /api/v1/users 200 35ms
+2026-03-23T11:27:47Z INFO [payment-gateway] GET /api/v1/items 200 86ms
+2026-03-23T11:28:23Z INFO [payment-gateway] GET /api/v1/search 200 48ms
+2026-03-23T11:29:43Z INFO [payment-gateway] GET /api/v1/orders 200 26ms
+2026-03-23T11:30:07Z INFO [payment-gateway] GET /api/v1/users 200 105ms
+2026-03-23T11:30:20Z INFO [payment-gateway] GET /api/v1/health 200 8ms
+2026-03-23T11:31:17Z INFO [payment-gateway] GET /api/v1/users 200 40ms
+2026-03-23T11:34:06Z INFO [payment-gateway] GET /api/v1/users 200 54ms
+2026-03-23T11:35:12Z INFO [payment-gateway] GET /api/v1/cart 200 47ms
+2026-03-23T11:36:27Z INFO [payment-gateway] GET /api/v1/health 200 46ms
+2026-03-23T11:37:13Z INFO [payment-gateway] GET /api/v1/search 200 18ms
+2026-03-23T11:38:59Z INFO [payment-gateway] GET /api/v1/search 200 45ms
+2026-03-23T11:41:08Z INFO [payment-gateway] GET /api/v1/health 200 37ms
+2026-03-23T11:42:51Z INFO [payment-gateway] GET /api/v1/orders 200 11ms
+2026-03-23T11:43:07Z INFO [payment-gateway] GET /api/v1/search 200 46ms
+2026-03-23T11:43:31Z INFO [payment-gateway] GET /api/v1/orders 200 20ms
+2026-03-23T11:44:25Z INFO [payment-gateway] GET /api/v1/items 200 20ms
+2026-03-23T11:44:30Z INFO [payment-gateway] GET /api/v1/cart 200 60ms
+2026-03-23T11:44:44Z INFO [payment-gateway] GET /api/v1/search 200 11ms
+2026-03-23T11:46:10Z INFO [payment-gateway] GET /api/v1/health 200 102ms
+2026-03-23T11:47:00Z INFO [payment-gateway] GET /api/v1/health 200 114ms
+2026-03-23T11:47:17Z INFO [payment-gateway] GET /api/v1/cart 200 107ms
+2026-03-23T11:47:42Z INFO [payment-gateway] GET /api/v1/users 200 75ms
+2026-03-23T11:50:19Z INFO [payment-gateway] GET /api/v1/users 200 119ms
+2026-03-23T11:50:36Z INFO [payment-gateway] GET /api/v1/orders 200 36ms
+2026-03-23T11:50:44Z WARN [payment-gateway] Certificate for api.internal expires in 24 days
+2026-03-23T11:54:08Z INFO [payment-gateway] GET /api/v1/cart 200 41ms
+2026-03-23T11:54:37Z INFO [payment-gateway] GET /api/v1/health 200 118ms
+2026-03-23T11:56:26Z INFO [payment-gateway] GET /api/v1/items 200 102ms
+2026-03-23T12:00:54Z INFO [payment-gateway] GET /api/v1/users 200 43ms
+2026-03-23T12:01:21Z INFO [payment-gateway] GET /api/v1/cart 200 94ms
+2026-03-23T12:02:07Z INFO [payment-gateway] GET /api/v1/users 200 99ms
+2026-03-23T12:05:30Z WARN [payment-gateway] Deprecated endpoint /v1/orders/legacy called
+2026-03-23T12:07:00Z INFO [payment-gateway] GET /api/v1/health 200 32ms
+2026-03-23T12:08:08Z INFO [payment-gateway] GET /api/v1/users 200 60ms
+2026-03-23T12:08:16Z INFO [payment-gateway] GET /api/v1/users 200 66ms
+2026-03-23T12:08:59Z INFO [payment-gateway] GET /api/v1/cart 200 84ms
+2026-03-23T12:09:42Z INFO [payment-gateway] GET /api/v1/items 200 20ms
+2026-03-23T12:11:59Z INFO [payment-gateway] GET /api/v1/users 200 15ms
+2026-03-23T12:14:13Z INFO [payment-gateway] GET /api/v1/items 200 44ms
+2026-03-23T12:16:06Z INFO [payment-gateway] GET /api/v1/search 200 90ms
+2026-03-23T12:17:35Z INFO [payment-gateway] GET /api/v1/items 200 68ms
+2026-03-23T12:19:19Z INFO [payment-gateway] GET /api/v1/orders 200 55ms
+2026-03-23T12:21:38Z INFO [payment-gateway] GET /api/v1/orders 200 45ms
+2026-03-23T12:27:33Z INFO [payment-gateway] GET /api/v1/cart 200 33ms
+2026-03-23T12:27:59Z INFO [payment-gateway] GET /api/v1/health 200 53ms
+2026-03-23T12:30:43Z INFO [payment-gateway] GET /api/v1/search 200 110ms
+2026-03-23T12:30:46Z INFO [payment-gateway] GET /api/v1/health 200 35ms
+2026-03-23T12:32:27Z INFO [payment-gateway] GET /api/v1/users 200 17ms
+2026-03-23T12:33:53Z INFO [payment-gateway] GET /api/v1/health 200 21ms
+2026-03-23T12:34:15Z INFO [payment-gateway] GET /api/v1/cart 200 61ms
+2026-03-23T12:36:04Z INFO [payment-gateway] GET /api/v1/users 200 50ms
+2026-03-23T12:36:08Z WARN [payment-gateway] Resolver retry 652 for inventory-service.internal
+2026-03-23T12:39:57Z INFO [payment-gateway] GET /api/v1/orders 200 86ms
+2026-03-23T12:40:07Z INFO [payment-gateway] GET /api/v1/items 200 35ms
+2026-03-23T12:40:13Z ERROR [payment-gateway] UnknownHostException: auth-service.internal
+2026-03-23T12:41:40Z WARN [payment-gateway] DNS lookup timed out after 3708ms
+2026-03-23T12:42:12Z INFO [payment-gateway] GET /api/v1/items 200 102ms
+2026-03-23T12:42:19Z ERROR [payment-gateway] Failed to connect to twilio: no such host
+2026-03-23T12:43:11Z INFO [payment-gateway] GET /api/v1/users 200 72ms
+2026-03-23T12:43:14Z INFO [payment-gateway] GET /api/v1/cart 200 17ms
+2026-03-23T12:43:15Z WARN [payment-gateway] Health check slow: 4889ms
+2026-03-23T12:43:22Z ERROR [payment-gateway] Failed to connect to pricing-service: no such host
+2026-03-23T12:43:26Z WARN [payment-gateway] Health check slow: 8418ms
+2026-03-23T12:43:43Z ERROR [payment-gateway] UnknownHostException: payment-gateway.internal
+2026-03-23T12:43:45Z INFO [payment-gateway] GET /api/v1/health 200 91ms
+2026-03-23T12:44:08Z INFO [payment-gateway] GET /api/v1/items 200 33ms
+2026-03-23T12:44:22Z INFO [payment-gateway] GET /api/v1/cart 200 31ms
+2026-03-23T12:44:25Z ERROR [payment-gateway] Failed to connect to auth-service: no such host
+2026-03-23T12:45:07Z INFO [payment-gateway] GET /api/v1/search 200 84ms
+2026-03-23T12:45:08Z WARN [payment-gateway] Health check slow: 995ms
+2026-03-23T12:47:43Z WARN [payment-gateway] DNS lookup timed out after 2585ms
+2026-03-23T12:48:52Z INFO [payment-gateway] GET /api/v1/items 200 99ms
+2026-03-23T12:48:55Z ERROR [payment-gateway] Temporary failure in name resolution for auth-service.internal
+2026-03-23T12:49:08Z WARN [payment-gateway] Health check slow: 1108ms
+2026-03-23T12:49:27Z ERROR [payment-gateway] Temporary failure in name resolution for inventory-service.internal
+2026-03-23T12:49:58Z INFO [payment-gateway] GET /api/v1/cart 200 114ms
+2026-03-23T12:50:54Z ERROR [payment-gateway] Temporary failure in name resolution for pricing-service.internal
+2026-03-23T12:51:06Z INFO [payment-gateway] GET /api/v1/health 200 60ms
+2026-03-23T12:51:11Z ERROR [payment-gateway] Failed to connect to twilio: no such host
+2026-03-23T12:51:36Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T12:51:40Z ERROR [payment-gateway] Failed to connect to stripe: no such host
+2026-03-23T12:51:43Z ERROR [payment-gateway] Failed to connect to inventory-service: no such host
+2026-03-23T12:53:00Z ERROR [payment-gateway] Temporary failure in name resolution for inventory-service.internal
+2026-03-23T12:53:38Z INFO [payment-gateway] GET /api/v1/items 200 38ms
+2026-03-23T12:53:54Z INFO [payment-gateway] GET /api/v1/cart 200 97ms
+2026-03-23T12:54:00Z WARN [payment-gateway] DNS lookup timed out after 8833ms
+2026-03-23T12:54:04Z INFO [payment-gateway] GET /api/v1/orders 200 60ms
+2026-03-23T12:54:10Z INFO [payment-gateway] GET /api/v1/cart 200 96ms
+2026-03-23T12:54:19Z ERROR [payment-gateway] Temporary failure in name resolution for stripe.internal
+2026-03-23T12:54:24Z ERROR [payment-gateway] UnknownHostException: twilio.internal
+2026-03-23T12:55:49Z INFO [payment-gateway] GET /api/v1/orders 200 26ms
+2026-03-23T12:55:59Z WARN [payment-gateway] DNS lookup timed out after 1263ms
+2026-03-23T12:56:40Z WARN [payment-gateway] Health check slow: 1116ms
+2026-03-23T12:57:02Z ERROR [payment-gateway] Failed to connect to auth-service: no such host
+2026-03-23T12:57:09Z INFO [payment-gateway] GET /api/v1/orders 200 28ms
+2026-03-23T12:57:25Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T12:57:27Z WARN [payment-gateway] DNS lookup timed out after 1779ms
+2026-03-23T12:57:36Z INFO [payment-gateway] GET /api/v1/items 200 45ms
+2026-03-23T12:58:22Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-23T12:59:03Z INFO [payment-gateway] GET /api/v1/health 200 58ms
+2026-03-23T12:59:31Z WARN [payment-gateway] DNS lookup timed out after 6356ms
+2026-03-23T13:00:47Z ERROR [payment-gateway] UnknownHostException: pricing-service.internal
+2026-03-23T13:02:37Z INFO [payment-gateway] GET /api/v1/orders 200 16ms
+2026-03-23T13:03:39Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:03:41Z INFO [payment-gateway] GET /api/v1/items 200 55ms
+2026-03-23T13:04:55Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:05:12Z INFO [payment-gateway] GET /api/v1/items 200 86ms
+2026-03-23T13:05:19Z INFO [payment-gateway] GET /api/v1/search 200 46ms
+2026-03-23T13:05:31Z INFO [payment-gateway] GET /api/v1/cart 200 76ms
+2026-03-23T13:05:34Z INFO [payment-gateway] GET /api/v1/users 200 28ms
+2026-03-23T13:05:42Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-23T13:06:13Z INFO [payment-gateway] GET /api/v1/search 200 31ms
+2026-03-23T13:06:22Z INFO [payment-gateway] GET /api/v1/search 200 49ms
+2026-03-23T13:06:45Z INFO [payment-gateway] GET /api/v1/cart 200 35ms
+2026-03-23T13:07:56Z INFO [payment-gateway] GET /api/v1/users 200 118ms
+2026-03-23T13:08:05Z ERROR [payment-gateway] Temporary failure in name resolution for pricing-service.internal
+2026-03-23T13:08:26Z INFO [payment-gateway] GET /api/v1/users 200 56ms
+2026-03-23T13:08:34Z ERROR [payment-gateway] Temporary failure in name resolution for auth-service.internal
+2026-03-23T13:08:52Z ERROR [payment-gateway] UnknownHostException: pricing-service.internal
+2026-03-23T13:09:09Z INFO [payment-gateway] GET /api/v1/search 200 49ms
+2026-03-23T13:09:21Z INFO [payment-gateway] GET /api/v1/cart 200 61ms
+2026-03-23T13:09:23Z INFO [payment-gateway] GET /api/v1/orders 200 43ms
+2026-03-23T13:09:37Z ERROR [payment-gateway] UnknownHostException: payment-gateway.internal
+2026-03-23T13:09:55Z INFO [payment-gateway] GET /api/v1/orders 200 33ms
+2026-03-23T13:10:42Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-23T13:10:48Z INFO [payment-gateway] GET /api/v1/orders 200 112ms
+2026-03-23T13:11:01Z INFO [payment-gateway] GET /api/v1/health 200 55ms
+2026-03-23T13:12:36Z ERROR [payment-gateway] UnknownHostException: payment-gateway.internal
+2026-03-23T13:12:57Z INFO [payment-gateway] GET /api/v1/search 200 53ms
+2026-03-23T13:13:00Z ERROR [payment-gateway] Temporary failure in name resolution for twilio.internal
+2026-03-23T13:13:58Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:14:07Z INFO [payment-gateway] GET /api/v1/users 200 99ms
+2026-03-23T13:14:38Z ERROR [payment-gateway] Failed to connect to payment-gateway: no such host
+2026-03-23T13:16:58Z WARN [payment-gateway] Health check slow: 5368ms
+2026-03-23T13:17:00Z INFO [payment-gateway] GET /api/v1/search 200 13ms
+2026-03-23T13:17:03Z ERROR [payment-gateway] UnknownHostException: inventory-service.internal
+2026-03-23T13:17:03Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-23T13:17:09Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:18:45Z INFO [payment-gateway] GET /api/v1/search 200 83ms
+2026-03-23T13:18:45Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:18:55Z INFO [payment-gateway] GET /api/v1/items 200 96ms
+2026-03-23T13:19:03Z ERROR [payment-gateway] Failed to connect to payment-gateway: no such host
+2026-03-23T13:19:27Z INFO [payment-gateway] GET /api/v1/cart 200 69ms
+2026-03-23T13:19:42Z INFO [payment-gateway] GET /api/v1/cart 200 110ms
+2026-03-23T13:20:06Z INFO [payment-gateway] GET /api/v1/health 200 25ms
+2026-03-23T13:21:24Z INFO [payment-gateway] GET /api/v1/items 200 117ms
+2026-03-23T13:22:14Z ERROR [payment-gateway] UnknownHostException: twilio.internal
+2026-03-23T13:22:15Z INFO [payment-gateway] GET /api/v1/search 200 107ms
+2026-03-23T13:25:10Z ERROR [payment-gateway] Failed to connect to pricing-service: no such host
+2026-03-23T13:25:25Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:25:29Z ERROR [payment-gateway] UnknownHostException: auth-service.internal
+2026-03-23T13:25:43Z WARN [payment-gateway] DNS lookup timed out after 4812ms
+2026-03-23T13:26:02Z WARN [payment-gateway] DNS lookup timed out after 3157ms
+2026-03-23T13:26:18Z ERROR [payment-gateway] UnknownHostException: auth-service.internal
+2026-03-23T13:26:21Z INFO [payment-gateway] GET /api/v1/cart 200 103ms
+2026-03-23T13:28:03Z INFO [payment-gateway] GET /api/v1/cart 200 106ms
+2026-03-23T13:28:12Z WARN [payment-gateway] Health check slow: 6149ms
+2026-03-23T13:28:31Z INFO [payment-gateway] GET /api/v1/orders 200 74ms
+2026-03-23T13:28:57Z WARN [payment-gateway] Health check slow: 3613ms
+2026-03-23T13:29:17Z INFO [payment-gateway] GET /api/v1/items 200 51ms
+2026-03-23T13:31:04Z ERROR [payment-gateway] Temporary failure in name resolution for pricing-service.internal
+2026-03-23T13:31:31Z INFO [payment-gateway] GET /api/v1/items 200 10ms
+2026-03-23T13:32:03Z WARN [payment-gateway] DNS lookup timed out after 3475ms
+2026-03-23T13:32:06Z ERROR [payment-gateway] Failed to connect to pricing-service: no such host
+2026-03-23T13:33:11Z WARN [payment-gateway] DNS lookup timed out after 1234ms
+2026-03-23T13:33:28Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-23T13:33:52Z INFO [payment-gateway] GET /api/v1/orders 200 22ms
+2026-03-23T13:34:30Z WARN [payment-gateway] Health check slow: 3348ms
+2026-03-23T13:35:22Z WARN [payment-gateway] DNS lookup timed out after 7830ms
+2026-03-23T13:35:58Z INFO [payment-gateway] GET /api/v1/cart 200 37ms
+2026-03-23T13:36:19Z ERROR [payment-gateway] Failed to connect to inventory-service: no such host
+2026-03-23T13:36:20Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:37:03Z ERROR [payment-gateway] Temporary failure in name resolution for stripe.internal
+2026-03-23T13:37:13Z INFO [payment-gateway] GET /api/v1/users 200 86ms
+2026-03-23T13:37:25Z WARN [payment-gateway] DNS lookup timed out after 4658ms
+2026-03-23T13:38:09Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:38:14Z WARN [payment-gateway] Health check slow: 2316ms
+2026-03-23T13:38:47Z ERROR [payment-gateway] Temporary failure in name resolution for twilio.internal
+2026-03-23T13:39:26Z ERROR [payment-gateway] Request failed with status 500
+2026-03-23T13:39:54Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-23T13:40:18Z INFO [payment-gateway] GET /api/v1/search 200 109ms
+2026-03-23T13:40:21Z INFO [payment-gateway] GET /api/v1/search 200 96ms
+2026-03-23T13:40:29Z WARN [payment-gateway] Health check slow: 3141ms
+2026-03-23T13:41:31Z ERROR [payment-gateway] Failed to connect to twilio: no such host
+2026-03-23T13:41:37Z ERROR [payment-gateway] UnknownHostException: inventory-service.internal
+2026-03-23T13:43:42Z WARN [payment-gateway] DNS lookup timed out after 1547ms
+2026-03-23T13:43:59Z WARN [payment-gateway] DNS lookup timed out after 6298ms
+2026-03-23T13:44:06Z INFO [payment-gateway] GET /api/v1/users 200 54ms
+2026-03-23T13:44:50Z WARN [payment-gateway] DNS lookup timed out after 5443ms
+2026-03-23T13:45:37Z INFO [payment-gateway] GET /api/v1/health 200 56ms
+2026-03-23T13:47:31Z ERROR [payment-gateway] Temporary failure in name resolution for auth-service.internal
+2026-03-23T13:48:31Z WARN [payment-gateway] DNS lookup timed out after 5002ms
+2026-03-23T13:48:36Z ERROR [payment-gateway] Temporary failure in name resolution for stripe.internal
+2026-03-23T13:51:36Z INFO [payment-gateway] GET /api/v1/health 200 117ms
+2026-03-23T13:51:58Z ERROR [payment-gateway] Temporary failure in name resolution for stripe.internal
+2026-03-23T13:52:44Z INFO [payment-gateway] GET /api/v1/health 200 86ms
+2026-03-23T13:54:03Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-23T13:54:33Z INFO [payment-gateway] GET /api/v1/orders 200 118ms
+2026-03-23T13:54:34Z INFO [payment-gateway] GET /api/v1/items 200 49ms
+2026-03-23T13:55:32Z INFO [payment-gateway] GET /api/v1/users 200 82ms
+2026-03-23T13:56:42Z ERROR [payment-gateway] Failed to connect to inventory-service: no such host
+2026-03-23T13:57:01Z INFO [payment-gateway] GET /api/v1/users 200 87ms
+2026-03-23T13:57:20Z ERROR [payment-gateway] Failed to connect to inventory-service: no such host
+2026-03-23T13:58:16Z INFO [payment-gateway] GET /api/v1/cart 200 43ms
+2026-03-23T13:58:26Z INFO [payment-gateway] GET /api/v1/search 200 80ms
+2026-03-23T13:58:39Z ERROR [payment-gateway] Failed to connect to auth-service: no such host
+2026-03-23T13:58:41Z INFO [payment-gateway] GET /api/v1/search 200 91ms
+2026-03-23T13:58:45Z INFO [payment-gateway] GET /api/v1/health 200 28ms
+2026-03-23T13:58:59Z ERROR [payment-gateway] UnknownHostException: twilio.internal
+2026-03-23T13:59:52Z INFO [payment-gateway] GET /api/v1/orders 200 45ms

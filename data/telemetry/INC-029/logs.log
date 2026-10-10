@@ -1,0 +1,299 @@
+2026-04-12T10:00:24Z INFO [inventory-service] GET /api/v1/cart 200 78ms
+2026-04-12T10:01:04Z INFO [inventory-service] GET /api/v1/items 200 8ms
+2026-04-12T10:01:54Z INFO [inventory-service] GET /api/v1/items 200 27ms
+2026-04-12T10:03:18Z INFO [inventory-service] GET /api/v1/users 200 100ms
+2026-04-12T10:03:31Z INFO [inventory-service] GET /api/v1/users 200 14ms
+2026-04-12T10:03:38Z INFO [inventory-service] GET /api/v1/users 200 64ms
+2026-04-12T10:04:00Z INFO [inventory-service] GET /api/v1/cart 200 58ms
+2026-04-12T10:05:01Z INFO [inventory-service] GET /api/v1/search 200 73ms
+2026-04-12T10:07:33Z INFO [inventory-service] GET /api/v1/items 200 115ms
+2026-04-12T10:10:43Z INFO [inventory-service] GET /api/v1/search 200 41ms
+2026-04-12T10:12:20Z INFO [inventory-service] GET /api/v1/cart 200 90ms
+2026-04-12T10:17:25Z INFO [inventory-service] GET /api/v1/search 200 46ms
+2026-04-12T10:19:03Z INFO [inventory-service] GET /api/v1/items 200 99ms
+2026-04-12T10:19:41Z INFO [inventory-service] GET /api/v1/users 200 48ms
+2026-04-12T10:19:44Z INFO [inventory-service] GET /api/v1/search 200 25ms
+2026-04-12T10:20:09Z INFO [inventory-service] GET /api/v1/orders 200 34ms
+2026-04-12T10:24:55Z INFO [inventory-service] GET /api/v1/health 200 9ms
+2026-04-12T10:25:36Z INFO [inventory-service] GET /api/v1/cart 200 55ms
+2026-04-12T10:26:26Z INFO [inventory-service] GET /api/v1/cart 200 78ms
+2026-04-12T10:26:28Z INFO [inventory-service] GET /api/v1/users 200 114ms
+2026-04-12T10:27:22Z INFO [inventory-service] GET /api/v1/search 200 85ms
+2026-04-12T10:28:54Z INFO [inventory-service] GET /api/v1/users 200 99ms
+2026-04-12T10:31:59Z INFO [inventory-service] GET /api/v1/search 200 42ms
+2026-04-12T10:33:03Z INFO [inventory-service] GET /api/v1/health 200 39ms
+2026-04-12T10:33:05Z INFO [inventory-service] GET /api/v1/items 200 16ms
+2026-04-12T10:33:32Z INFO [inventory-service] GET /api/v1/cart 200 17ms
+2026-04-12T10:35:33Z INFO [inventory-service] GET /api/v1/search 200 107ms
+2026-04-12T10:35:49Z INFO [inventory-service] GET /api/v1/items 200 103ms
+2026-04-12T10:41:24Z INFO [inventory-service] GET /api/v1/users 200 34ms
+2026-04-12T10:41:59Z WARN [inventory-service] Certificate for api.internal expires in 24 days
+2026-04-12T10:43:36Z INFO [inventory-service] GET /api/v1/items 200 80ms
+2026-04-12T10:47:03Z INFO [inventory-service] GET /api/v1/items 200 69ms
+2026-04-12T10:47:13Z INFO [inventory-service] GET /api/v1/items 200 24ms
+2026-04-12T10:47:36Z INFO [inventory-service] GET /api/v1/items 200 59ms
+2026-04-12T10:47:48Z INFO [inventory-service] GET /api/v1/search 200 24ms
+2026-04-12T10:47:50Z INFO [inventory-service] GET /api/v1/orders 200 67ms
+2026-04-12T10:49:59Z INFO [inventory-service] GET /api/v1/users 200 109ms
+2026-04-12T10:51:19Z INFO [inventory-service] GET /api/v1/users 200 92ms
+2026-04-12T10:51:41Z INFO [inventory-service] GET /api/v1/orders 200 62ms
+2026-04-12T10:52:58Z INFO [inventory-service] GET /api/v1/health 200 119ms
+2026-04-12T10:53:31Z INFO [inventory-service] GET /api/v1/orders 200 25ms
+2026-04-12T11:00:47Z INFO [inventory-service] GET /api/v1/users 200 18ms
+2026-04-12T11:01:26Z INFO [inventory-service] GET /api/v1/orders 200 9ms
+2026-04-12T11:03:24Z INFO [inventory-service] GET /api/v1/search 200 97ms
+2026-04-12T11:03:48Z INFO [inventory-service] GET /api/v1/users 200 9ms
+2026-04-12T11:04:26Z INFO [inventory-service] GET /api/v1/search 200 23ms
+2026-04-12T11:04:42Z INFO [inventory-service] GET /api/v1/health 200 25ms
+2026-04-12T11:04:57Z INFO [inventory-service] GET /api/v1/orders 200 97ms
+2026-04-12T11:05:44Z INFO [inventory-service] GET /api/v1/health 200 104ms
+2026-04-12T11:07:31Z INFO [inventory-service] GET /api/v1/orders 200 50ms
+2026-04-12T11:10:37Z INFO [inventory-service] GET /api/v1/search 200 14ms
+2026-04-12T11:11:43Z INFO [inventory-service] GET /api/v1/users 200 25ms
+2026-04-12T11:11:56Z INFO [inventory-service] GET /api/v1/items 200 95ms
+2026-04-12T11:12:04Z WARN [inventory-service] Slow request 640ms for GET /api/v1/items
+2026-04-12T11:13:49Z INFO [inventory-service] GET /api/v1/orders 200 15ms
+2026-04-12T11:13:49Z INFO [inventory-service] GET /api/v1/search 200 87ms
+2026-04-12T11:15:02Z INFO [inventory-service] GET /api/v1/orders 200 86ms
+2026-04-12T11:15:25Z INFO [inventory-service] GET /api/v1/orders 200 62ms
+2026-04-12T11:16:27Z INFO [inventory-service] GET /api/v1/search 200 96ms
+2026-04-12T11:21:20Z INFO [inventory-service] GET /api/v1/users 200 17ms
+2026-04-12T11:22:32Z INFO [inventory-service] GET /api/v1/orders 200 105ms
+2026-04-12T11:23:26Z INFO [inventory-service] GET /api/v1/orders 200 32ms
+2026-04-12T11:24:42Z INFO [inventory-service] GET /api/v1/health 200 94ms
+2026-04-12T11:25:28Z INFO [inventory-service] GET /api/v1/health 200 29ms
+2026-04-12T11:26:39Z INFO [inventory-service] GET /api/v1/health 200 57ms
+2026-04-12T11:26:59Z INFO [inventory-service] GET /api/v1/health 200 40ms
+2026-04-12T11:27:10Z INFO [inventory-service] GET /api/v1/orders 200 23ms
+2026-04-12T11:28:53Z INFO [inventory-service] GET /api/v1/items 200 92ms
+2026-04-12T11:29:30Z INFO [inventory-service] GET /api/v1/users 200 66ms
+2026-04-12T11:30:20Z INFO [inventory-service] GET /api/v1/items 200 53ms
+2026-04-12T11:30:57Z INFO [inventory-service] GET /api/v1/health 200 84ms
+2026-04-12T11:34:31Z INFO [inventory-service] GET /api/v1/items 200 101ms
+2026-04-12T11:35:32Z INFO [inventory-service] GET /api/v1/items 200 119ms
+2026-04-12T11:37:54Z INFO [inventory-service] GET /api/v1/health 200 32ms
+2026-04-12T11:38:08Z INFO [inventory-service] GET /api/v1/orders 200 85ms
+2026-04-12T11:38:36Z INFO [inventory-service] GET /api/v1/users 200 44ms
+2026-04-12T11:38:48Z INFO [inventory-service] GET /api/v1/users 200 73ms
+2026-04-12T11:39:04Z INFO [inventory-service] GET /api/v1/search 200 9ms
+2026-04-12T11:39:27Z INFO [inventory-service] GET /api/v1/cart 200 49ms
+2026-04-12T11:40:03Z INFO [inventory-service] GET /api/v1/search 200 43ms
+2026-04-12T11:40:31Z INFO [inventory-service] GET /api/v1/search 200 15ms
+2026-04-12T11:43:33Z INFO [inventory-service] GET /api/v1/search 200 112ms
+2026-04-12T11:44:20Z INFO [inventory-service] GET /api/v1/users 200 36ms
+2026-04-12T11:46:03Z INFO [inventory-service] GET /api/v1/users 200 91ms
+2026-04-12T11:47:03Z INFO [inventory-service] GET /api/v1/search 200 103ms
+2026-04-12T11:51:58Z INFO [inventory-service] GET /api/v1/cart 200 84ms
+2026-04-12T11:52:30Z INFO [inventory-service] GET /api/v1/health 200 61ms
+2026-04-12T11:53:09Z INFO [inventory-service] GET /api/v1/users 200 83ms
+2026-04-12T11:53:14Z INFO [inventory-service] GET /api/v1/cart 200 30ms
+2026-04-12T11:56:43Z INFO [inventory-service] GET /api/v1/search 200 19ms
+2026-04-12T11:58:16Z WARN [inventory-service] Minor GC pause 120ms
+2026-04-12T11:59:31Z INFO [inventory-service] GET /api/v1/items 200 64ms
+2026-04-12T11:59:52Z INFO [inventory-service] GET /api/v1/users 200 111ms
+2026-04-12T12:00:13Z INFO [inventory-service] GET /api/v1/orders 200 117ms
+2026-04-12T12:01:32Z INFO [inventory-service] GET /api/v1/health 200 37ms
+2026-04-12T12:03:47Z INFO [inventory-service] GET /api/v1/items 200 75ms
+2026-04-12T12:04:16Z INFO [inventory-service] GET /api/v1/items 200 17ms
+2026-04-12T12:07:24Z INFO [inventory-service] GET /api/v1/cart 200 64ms
+2026-04-12T12:08:29Z INFO [inventory-service] GET /api/v1/items 200 78ms
+2026-04-12T12:11:40Z INFO [inventory-service] GET /api/v1/users 200 32ms
+2026-04-12T12:11:44Z INFO [inventory-service] GET /api/v1/cart 200 34ms
+2026-04-12T12:13:06Z INFO [inventory-service] GET /api/v1/orders 200 51ms
+2026-04-12T12:13:51Z INFO [inventory-service] GET /api/v1/users 200 99ms
+2026-04-12T12:14:26Z INFO [inventory-service] GET /api/v1/cart 200 111ms
+2026-04-12T12:15:02Z INFO [inventory-service] GET /api/v1/orders 200 87ms
+2026-04-12T12:16:23Z INFO [inventory-service] GET /api/v1/search 200 46ms
+2026-04-12T12:19:10Z INFO [inventory-service] GET /api/v1/search 200 36ms
+2026-04-12T12:19:59Z INFO [inventory-service] GET /api/v1/orders 200 12ms
+2026-04-12T12:22:15Z INFO [inventory-service] GET /api/v1/cart 200 13ms
+2026-04-12T12:22:26Z INFO [inventory-service] GET /api/v1/users 200 65ms
+2026-04-12T12:28:12Z INFO [inventory-service] GET /api/v1/users 200 109ms
+2026-04-12T12:28:35Z INFO [inventory-service] GET /api/v1/health 200 85ms
+2026-04-12T12:28:42Z INFO [inventory-service] GET /api/v1/items 200 86ms
+2026-04-12T12:30:15Z INFO [inventory-service] GET /api/v1/cart 200 72ms
+2026-04-12T12:30:35Z INFO [inventory-service] GET /api/v1/orders 200 33ms
+2026-04-12T12:30:48Z INFO [inventory-service] GET /api/v1/health 200 80ms
+2026-04-12T12:32:12Z INFO [inventory-service] GET /api/v1/items 200 58ms
+2026-04-12T12:32:43Z INFO [inventory-service] GET /api/v1/cart 200 78ms
+2026-04-12T12:33:14Z INFO [inventory-service] GET /api/v1/orders 200 115ms
+2026-04-12T12:33:50Z INFO [inventory-service] GET /api/v1/health 200 99ms
+2026-04-12T12:34:26Z INFO [inventory-service] GET /api/v1/health 200 13ms
+2026-04-12T12:36:58Z INFO [inventory-service] GET /api/v1/users 200 98ms
+2026-04-12T12:37:13Z INFO [inventory-service] GET /api/v1/users 200 49ms
+2026-04-12T12:37:33Z INFO [inventory-service] GET /api/v1/orders 200 61ms
+2026-04-12T12:38:22Z INFO [inventory-service] GET /api/v1/search 200 97ms
+2026-04-12T12:40:19Z INFO [inventory-service] GET /api/v1/cart 200 45ms
+2026-04-12T12:40:37Z INFO [inventory-service] GET /api/v1/users 200 11ms
+2026-04-12T12:40:59Z INFO [inventory-service] GET /api/v1/search 200 55ms
+2026-04-12T12:41:31Z INFO [inventory-service] GET /api/v1/items 200 108ms
+2026-04-12T12:41:32Z INFO [inventory-service] GET /api/v1/items 200 92ms
+2026-04-12T12:48:45Z INFO [inventory-service] GET /api/v1/orders 200 108ms
+2026-04-12T12:48:51Z INFO [inventory-service] GET /api/v1/health 200 90ms
+2026-04-12T12:49:26Z INFO [inventory-service] GET /api/v1/users 200 74ms
+2026-04-12T12:49:31Z INFO [inventory-service] GET /api/v1/search 200 97ms
+2026-04-12T12:49:45Z INFO [inventory-service] GET /api/v1/health 200 56ms
+2026-04-12T12:49:58Z INFO [inventory-service] GET /api/v1/cart 200 92ms
+2026-04-12T12:51:22Z INFO [inventory-service] GET /api/v1/users 200 111ms
+2026-04-12T12:53:35Z INFO [inventory-service] GET /api/v1/search 200 55ms
+2026-04-12T12:55:40Z INFO [inventory-service] GET /api/v1/search 200 17ms
+2026-04-12T12:55:57Z INFO [inventory-service] GET /api/v1/cart 200 19ms
+2026-04-12T12:58:14Z INFO [inventory-service] GET /api/v1/users 200 77ms
+2026-04-12T12:59:47Z WARN [inventory-service] Certificate for api.internal expires in 24 days
+2026-04-12T13:03:48Z INFO [inventory-service] GET /api/v1/search 200 84ms
+2026-04-12T13:03:49Z INFO [inventory-service] GET /api/v1/users 200 75ms
+2026-04-12T13:05:06Z INFO [inventory-service] GET /api/v1/health 200 112ms
+2026-04-12T13:08:12Z INFO [inventory-service] GET /api/v1/cart 200 70ms
+2026-04-12T13:09:29Z INFO [inventory-service] GET /api/v1/users 200 111ms
+2026-04-12T13:11:02Z INFO [inventory-service] GET /api/v1/health 200 109ms
+2026-04-12T13:12:05Z INFO [inventory-service] GET /api/v1/users 200 119ms
+2026-04-12T13:13:04Z INFO [inventory-service] GET /api/v1/users 200 76ms
+2026-04-12T13:13:05Z INFO [inventory-service] GET /api/v1/users 200 115ms
+2026-04-12T13:14:13Z WARN [inventory-service] Memory usage 169% of container limit
+2026-04-12T13:14:19Z INFO [inventory-service] GET /api/v1/health 200 12ms
+2026-04-12T13:14:29Z INFO [inventory-service] GET /api/v1/search 200 67ms
+2026-04-12T13:14:51Z INFO [inventory-service] GET /api/v1/items 200 54ms
+2026-04-12T13:15:23Z WARN [inventory-service] Memory usage 453% of container limit
+2026-04-12T13:16:05Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:16:16Z WARN [inventory-service] Health check slow: 5473ms
+2026-04-12T13:16:26Z INFO [inventory-service] GET /api/v1/health 200 69ms
+2026-04-12T13:17:07Z INFO [inventory-service] GET /api/v1/orders 200 42ms
+2026-04-12T13:17:49Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:17:49Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:17:51Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:18:08Z WARN [inventory-service] Health check slow: 826ms
+2026-04-12T13:18:23Z INFO [inventory-service] GET /api/v1/orders 200 66ms
+2026-04-12T13:19:47Z WARN [inventory-service] Health check slow: 3259ms
+2026-04-12T13:19:49Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:20:23Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:20:30Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:20:37Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:20:45Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:21:27Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 641
+2026-04-12T13:21:33Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 372
+2026-04-12T13:22:45Z INFO [inventory-service] GET /api/v1/cart 200 17ms
+2026-04-12T13:23:26Z INFO [inventory-service] GET /api/v1/orders 200 94ms
+2026-04-12T13:23:46Z INFO [inventory-service] GET /api/v1/items 200 117ms
+2026-04-12T13:24:00Z INFO [inventory-service] GET /api/v1/search 200 30ms
+2026-04-12T13:24:05Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:24:21Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:24:35Z INFO [inventory-service] GET /api/v1/orders 200 61ms
+2026-04-12T13:24:36Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:24:41Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:24:42Z INFO [inventory-service] GET /api/v1/users 200 15ms
+2026-04-12T13:25:00Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:25:15Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 715
+2026-04-12T13:25:16Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:25:27Z INFO [inventory-service] GET /api/v1/items 200 36ms
+2026-04-12T13:25:36Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:25:48Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:25:52Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:27:10Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:27:21Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:27:34Z INFO [inventory-service] GET /api/v1/cart 200 45ms
+2026-04-12T13:27:38Z WARN [inventory-service] Health check slow: 8241ms
+2026-04-12T13:27:46Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:27:46Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 896
+2026-04-12T13:27:47Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:29:00Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:29:28Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:30:59Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 690
+2026-04-12T13:31:06Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:31:11Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:31:26Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:32:21Z INFO [inventory-service] GET /api/v1/cart 200 96ms
+2026-04-12T13:32:28Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:32:36Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:32:42Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:32:43Z INFO [inventory-service] GET /api/v1/items 200 63ms
+2026-04-12T13:33:15Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 623
+2026-04-12T13:34:17Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:34:20Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:34:47Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:35:07Z WARN [inventory-service] Health check slow: 8595ms
+2026-04-12T13:35:11Z INFO [inventory-service] GET /api/v1/items 200 91ms
+2026-04-12T13:35:28Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:35:47Z INFO [inventory-service] GET /api/v1/users 200 83ms
+2026-04-12T13:35:50Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:35:51Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:35:57Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:36:00Z INFO [inventory-service] GET /api/v1/users 200 41ms
+2026-04-12T13:36:21Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:36:31Z WARN [inventory-service] Health check slow: 7317ms
+2026-04-12T13:36:46Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:37:01Z WARN [inventory-service] Health check slow: 6858ms
+2026-04-12T13:37:05Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:38:02Z INFO [inventory-service] GET /api/v1/users 200 68ms
+2026-04-12T13:38:06Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:38:42Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:39:03Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:39:29Z WARN [inventory-service] Health check slow: 7581ms
+2026-04-12T13:39:45Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:39:51Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:40:04Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:40:50Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:41:07Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:41:23Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:41:39Z WARN [inventory-service] Health check slow: 2353ms
+2026-04-12T13:41:49Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 793
+2026-04-12T13:42:20Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:42:46Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:42:47Z INFO [inventory-service] GET /api/v1/health 200 35ms
+2026-04-12T13:42:58Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:43:05Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:43:33Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:43:48Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:43:57Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:44:00Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:44:11Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:44:55Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:45:36Z ERROR [inventory-service] Container killed: OOMKilled (exit code 137)
+2026-04-12T13:45:58Z WARN [inventory-service] Health check slow: 6021ms
+2026-04-12T13:47:16Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:47:32Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:47:36Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:47:38Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 867
+2026-04-12T13:48:20Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 734
+2026-04-12T13:48:46Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:49:18Z INFO [inventory-service] GET /api/v1/cart 200 99ms
+2026-04-12T13:49:23Z INFO [inventory-service] GET /api/v1/orders 200 80ms
+2026-04-12T13:49:27Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 142
+2026-04-12T13:49:29Z INFO [inventory-service] GET /api/v1/orders 200 34ms
+2026-04-12T13:49:46Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:49:57Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:50:16Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 396
+2026-04-12T13:50:32Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:50:41Z INFO [inventory-service] GET /api/v1/search 200 38ms
+2026-04-12T13:50:46Z INFO [inventory-service] GET /api/v1/health 200 29ms
+2026-04-12T13:51:26Z INFO [inventory-service] GET /api/v1/health 200 101ms
+2026-04-12T13:52:08Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 14
+2026-04-12T13:52:30Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:52:35Z INFO [inventory-service] GET /api/v1/health 200 25ms
+2026-04-12T13:52:46Z ERROR [inventory-service] Unexpected error handling request
+2026-04-12T13:52:54Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:53:25Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:53:36Z INFO [inventory-service] GET /api/v1/orders 200 23ms
+2026-04-12T13:53:40Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:53:49Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 885
+2026-04-12T13:53:59Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:54:21Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:54:23Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:54:27Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 477
+2026-04-12T13:54:27Z WARN [inventory-service] Health check slow: 8742ms
+2026-04-12T13:54:32Z INFO [inventory-service] GET /api/v1/users 200 17ms
+2026-04-12T13:54:32Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:54:52Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:55:24Z ERROR [inventory-service] Request failed with status 500
+2026-04-12T13:55:26Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 628
+2026-04-12T13:55:41Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:57:09Z INFO [inventory-service] GET /api/v1/orders 200 116ms
+2026-04-12T13:57:16Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:57:28Z WARN [inventory-service] Health check slow: 8552ms
+2026-04-12T13:57:30Z WARN [inventory-service] Back-off restarting failed container inventory-service
+2026-04-12T13:57:55Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 573
+2026-04-12T13:58:00Z WARN [inventory-service] Pod status CrashLoopBackOff, restart count 331
+2026-04-12T13:58:24Z INFO [inventory-service] GET /api/v1/search 200 76ms
+2026-04-12T13:58:55Z ERROR [inventory-service] Readiness probe failed: connection refused
+2026-04-12T13:58:56Z WARN [inventory-service] Health check slow: 2135ms
+2026-04-12T13:59:01Z WARN [inventory-service] Health check slow: 6037ms
+2026-04-12T13:59:51Z INFO [inventory-service] GET /api/v1/health 200 79ms

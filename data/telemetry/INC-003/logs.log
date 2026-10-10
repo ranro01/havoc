@@ -1,0 +1,288 @@
+2026-03-17T10:04:36Z INFO [checkout-service] GET /api/v1/search 200 98ms
+2026-03-17T10:06:02Z INFO [checkout-service] GET /api/v1/users 200 27ms
+2026-03-17T10:06:13Z INFO [checkout-service] GET /api/v1/health 200 39ms
+2026-03-17T10:08:08Z INFO [checkout-service] GET /api/v1/health 200 65ms
+2026-03-17T10:13:18Z INFO [checkout-service] GET /api/v1/cart 200 104ms
+2026-03-17T10:15:05Z INFO [checkout-service] GET /api/v1/users 200 33ms
+2026-03-17T10:18:06Z INFO [checkout-service] GET /api/v1/orders 200 68ms
+2026-03-17T10:19:15Z INFO [checkout-service] GET /api/v1/orders 200 17ms
+2026-03-17T10:20:01Z INFO [checkout-service] GET /api/v1/items 200 119ms
+2026-03-17T10:21:37Z INFO [checkout-service] GET /api/v1/cart 200 84ms
+2026-03-17T10:24:28Z INFO [checkout-service] GET /api/v1/orders 200 72ms
+2026-03-17T10:25:08Z INFO [checkout-service] GET /api/v1/cart 200 36ms
+2026-03-17T10:27:20Z INFO [checkout-service] GET /api/v1/health 200 103ms
+2026-03-17T10:28:39Z INFO [checkout-service] GET /api/v1/cart 200 93ms
+2026-03-17T10:30:12Z INFO [checkout-service] GET /api/v1/users 200 72ms
+2026-03-17T10:30:35Z INFO [checkout-service] GET /api/v1/cart 200 25ms
+2026-03-17T10:31:53Z INFO [checkout-service] GET /api/v1/health 200 116ms
+2026-03-17T10:33:11Z INFO [checkout-service] GET /api/v1/items 200 66ms
+2026-03-17T10:37:06Z INFO [checkout-service] GET /api/v1/cart 200 26ms
+2026-03-17T10:37:37Z INFO [checkout-service] GET /api/v1/orders 200 77ms
+2026-03-17T10:38:32Z INFO [checkout-service] GET /api/v1/items 200 54ms
+2026-03-17T10:40:13Z INFO [checkout-service] GET /api/v1/items 200 77ms
+2026-03-17T10:42:25Z INFO [checkout-service] GET /api/v1/search 200 10ms
+2026-03-17T10:48:05Z INFO [checkout-service] GET /api/v1/items 200 85ms
+2026-03-17T10:48:27Z INFO [checkout-service] GET /api/v1/users 200 94ms
+2026-03-17T10:49:06Z INFO [checkout-service] GET /api/v1/items 200 27ms
+2026-03-17T10:49:24Z INFO [checkout-service] GET /api/v1/cart 200 69ms
+2026-03-17T10:49:31Z INFO [checkout-service] GET /api/v1/health 200 36ms
+2026-03-17T10:50:29Z INFO [checkout-service] GET /api/v1/health 200 79ms
+2026-03-17T10:51:03Z INFO [checkout-service] GET /api/v1/users 200 89ms
+2026-03-17T10:51:30Z INFO [checkout-service] GET /api/v1/users 200 13ms
+2026-03-17T10:53:29Z INFO [checkout-service] GET /api/v1/orders 200 54ms
+2026-03-17T10:57:38Z INFO [checkout-service] GET /api/v1/orders 200 71ms
+2026-03-17T10:58:20Z INFO [checkout-service] GET /api/v1/items 200 90ms
+2026-03-17T10:58:29Z INFO [checkout-service] GET /api/v1/health 200 42ms
+2026-03-17T11:00:11Z INFO [checkout-service] GET /api/v1/users 200 64ms
+2026-03-17T11:00:42Z INFO [checkout-service] GET /api/v1/health 200 43ms
+2026-03-17T11:01:40Z INFO [checkout-service] GET /api/v1/health 200 91ms
+2026-03-17T11:01:59Z INFO [checkout-service] GET /api/v1/search 200 29ms
+2026-03-17T11:02:24Z INFO [checkout-service] GET /api/v1/users 200 41ms
+2026-03-17T11:03:14Z INFO [checkout-service] GET /api/v1/users 200 29ms
+2026-03-17T11:04:17Z INFO [checkout-service] GET /api/v1/orders 200 20ms
+2026-03-17T11:04:29Z INFO [checkout-service] GET /api/v1/health 200 106ms
+2026-03-17T11:10:37Z INFO [checkout-service] GET /api/v1/users 200 48ms
+2026-03-17T11:11:29Z INFO [checkout-service] GET /api/v1/users 200 48ms
+2026-03-17T11:13:04Z INFO [checkout-service] GET /api/v1/items 200 72ms
+2026-03-17T11:13:22Z INFO [checkout-service] GET /api/v1/items 200 105ms
+2026-03-17T11:19:01Z INFO [checkout-service] GET /api/v1/orders 200 58ms
+2026-03-17T11:20:12Z INFO [checkout-service] GET /api/v1/items 200 42ms
+2026-03-17T11:21:05Z INFO [checkout-service] GET /api/v1/orders 200 46ms
+2026-03-17T11:23:47Z INFO [checkout-service] GET /api/v1/orders 200 81ms
+2026-03-17T11:25:26Z INFO [checkout-service] GET /api/v1/orders 200 113ms
+2026-03-17T11:26:07Z INFO [checkout-service] GET /api/v1/health 200 104ms
+2026-03-17T11:26:53Z INFO [checkout-service] GET /api/v1/search 200 10ms
+2026-03-17T11:27:43Z INFO [checkout-service] GET /api/v1/items 200 61ms
+2026-03-17T11:27:58Z INFO [checkout-service] GET /api/v1/search 200 9ms
+2026-03-17T11:29:27Z INFO [checkout-service] GET /api/v1/cart 200 62ms
+2026-03-17T11:30:16Z INFO [checkout-service] GET /api/v1/cart 200 89ms
+2026-03-17T11:32:50Z INFO [checkout-service] GET /api/v1/orders 200 95ms
+2026-03-17T11:34:01Z INFO [checkout-service] GET /api/v1/users 200 91ms
+2026-03-17T11:34:21Z INFO [checkout-service] GET /api/v1/items 200 74ms
+2026-03-17T11:35:25Z INFO [checkout-service] GET /api/v1/orders 200 119ms
+2026-03-17T11:42:49Z INFO [checkout-service] GET /api/v1/orders 200 115ms
+2026-03-17T11:45:35Z INFO [checkout-service] GET /api/v1/orders 200 76ms
+2026-03-17T11:45:38Z INFO [checkout-service] GET /api/v1/orders 200 39ms
+2026-03-17T11:48:15Z WARN [checkout-service] Slow request 640ms for GET /api/v1/items
+2026-03-17T11:48:27Z INFO [checkout-service] GET /api/v1/items 200 101ms
+2026-03-17T11:49:19Z INFO [checkout-service] GET /api/v1/users 200 48ms
+2026-03-17T11:56:38Z INFO [checkout-service] GET /api/v1/orders 200 57ms
+2026-03-17T11:57:14Z INFO [checkout-service] GET /api/v1/search 200 118ms
+2026-03-17T12:00:06Z INFO [checkout-service] GET /api/v1/orders 200 39ms
+2026-03-17T12:00:42Z INFO [checkout-service] GET /api/v1/users 200 10ms
+2026-03-17T12:01:40Z INFO [checkout-service] GET /api/v1/items 200 8ms
+2026-03-17T12:02:30Z INFO [checkout-service] GET /api/v1/users 200 101ms
+2026-03-17T12:04:45Z INFO [checkout-service] GET /api/v1/health 200 111ms
+2026-03-17T12:05:50Z INFO [checkout-service] GET /api/v1/cart 200 57ms
+2026-03-17T12:05:56Z INFO [checkout-service] GET /api/v1/users 200 31ms
+2026-03-17T12:06:03Z INFO [checkout-service] GET /api/v1/search 200 30ms
+2026-03-17T12:08:00Z INFO [checkout-service] GET /api/v1/health 200 11ms
+2026-03-17T12:09:33Z INFO [checkout-service] GET /api/v1/search 200 54ms
+2026-03-17T12:10:31Z INFO [checkout-service] GET /api/v1/users 200 25ms
+2026-03-17T12:11:13Z INFO [checkout-service] GET /api/v1/items 200 86ms
+2026-03-17T12:11:51Z INFO [checkout-service] GET /api/v1/orders 200 117ms
+2026-03-17T12:12:39Z INFO [checkout-service] GET /api/v1/cart 200 84ms
+2026-03-17T12:12:55Z INFO [checkout-service] GET /api/v1/users 200 36ms
+2026-03-17T12:13:32Z INFO [checkout-service] GET /api/v1/items 200 110ms
+2026-03-17T12:13:41Z INFO [checkout-service] GET /api/v1/search 200 41ms
+2026-03-17T12:14:37Z INFO [checkout-service] GET /api/v1/users 200 61ms
+2026-03-17T12:15:52Z INFO [checkout-service] GET /api/v1/users 200 63ms
+2026-03-17T12:15:54Z INFO [checkout-service] GET /api/v1/search 200 61ms
+2026-03-17T12:16:16Z INFO [checkout-service] GET /api/v1/health 200 86ms
+2026-03-17T12:17:44Z INFO [checkout-service] GET /api/v1/users 200 32ms
+2026-03-17T12:19:42Z INFO [checkout-service] GET /api/v1/items 200 90ms
+2026-03-17T12:21:14Z INFO [checkout-service] GET /api/v1/health 200 28ms
+2026-03-17T12:21:48Z INFO [checkout-service] GET /api/v1/health 200 74ms
+2026-03-17T12:22:55Z WARN [checkout-service] Deprecated endpoint /v1/orders/legacy called
+2026-03-17T12:23:38Z INFO [checkout-service] GET /api/v1/search 200 96ms
+2026-03-17T12:25:10Z INFO [checkout-service] GET /api/v1/cart 200 8ms
+2026-03-17T12:25:49Z INFO [checkout-service] GET /api/v1/orders 200 76ms
+2026-03-17T12:29:41Z INFO [checkout-service] GET /api/v1/cart 200 82ms
+2026-03-17T12:30:38Z INFO [checkout-service] GET /api/v1/orders 200 96ms
+2026-03-17T12:34:01Z INFO [checkout-service] GET /api/v1/search 200 89ms
+2026-03-17T12:37:18Z INFO [checkout-service] GET /api/v1/health 200 41ms
+2026-03-17T12:37:19Z INFO [checkout-service] GET /api/v1/orders 200 9ms
+2026-03-17T12:37:20Z INFO [checkout-service] GET /api/v1/health 200 50ms
+2026-03-17T12:37:56Z INFO [checkout-service] GET /api/v1/cart 200 81ms
+2026-03-17T12:39:45Z INFO [checkout-service] GET /api/v1/cart 200 113ms
+2026-03-17T12:40:30Z INFO [checkout-service] GET /api/v1/users 200 71ms
+2026-03-17T12:41:13Z INFO [checkout-service] GET /api/v1/health 200 50ms
+2026-03-17T12:41:36Z INFO [checkout-service] GET /api/v1/search 200 96ms
+2026-03-17T12:42:18Z WARN [checkout-service] Blocking call detected on request thread (3251ms)
+2026-03-17T12:42:22Z INFO [checkout-service] GET /api/v1/users 200 88ms
+2026-03-17T12:44:35Z INFO [checkout-service] GET /api/v1/items 200 32ms
+2026-03-17T12:45:17Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T12:45:39Z WARN [checkout-service] Thread dump shows 734 threads blocked on I/O
+2026-03-17T12:45:58Z WARN [checkout-service] Blocking call detected on request thread (8723ms)
+2026-03-17T12:46:05Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T12:46:41Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T12:46:50Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T12:47:24Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T12:47:42Z ERROR [checkout-service] Request failed with status 500
+2026-03-17T12:47:58Z WARN [checkout-service] All 265 worker threads busy, queue full
+2026-03-17T12:48:19Z WARN [checkout-service] Thread dump shows 197 threads blocked on I/O
+2026-03-17T12:48:39Z INFO [checkout-service] GET /api/v1/search 200 114ms
+2026-03-17T12:49:04Z INFO [checkout-service] GET /api/v1/items 200 46ms
+2026-03-17T12:50:01Z INFO [checkout-service] GET /api/v1/orders 200 97ms
+2026-03-17T12:50:03Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T12:50:17Z INFO [checkout-service] GET /api/v1/orders 200 65ms
+2026-03-17T12:50:21Z INFO [checkout-service] GET /api/v1/orders 200 39ms
+2026-03-17T12:50:41Z WARN [checkout-service] Health check slow: 4546ms
+2026-03-17T12:50:55Z WARN [checkout-service] Thread dump shows 245 threads blocked on I/O
+2026-03-17T12:50:55Z WARN [checkout-service] All 470 worker threads busy, queue full
+2026-03-17T12:52:25Z INFO [checkout-service] GET /api/v1/cart 200 36ms
+2026-03-17T12:53:04Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T12:53:27Z WARN [checkout-service] All 204 worker threads busy, queue full
+2026-03-17T12:53:37Z WARN [checkout-service] Thread dump shows 685 threads blocked on I/O
+2026-03-17T12:54:12Z INFO [checkout-service] GET /api/v1/orders 200 117ms
+2026-03-17T12:54:32Z WARN [checkout-service] All 36 worker threads busy, queue full
+2026-03-17T12:55:16Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T12:56:48Z INFO [checkout-service] GET /api/v1/items 200 47ms
+2026-03-17T12:56:49Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T12:57:09Z WARN [checkout-service] All 171 worker threads busy, queue full
+2026-03-17T12:57:20Z INFO [checkout-service] GET /api/v1/health 200 112ms
+2026-03-17T12:57:48Z INFO [checkout-service] GET /api/v1/search 200 102ms
+2026-03-17T12:58:06Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T12:58:23Z INFO [checkout-service] GET /api/v1/search 200 109ms
+2026-03-17T12:59:02Z INFO [checkout-service] GET /api/v1/items 200 108ms
+2026-03-17T12:59:27Z WARN [checkout-service] Thread dump shows 17 threads blocked on I/O
+2026-03-17T12:59:36Z WARN [checkout-service] Health check slow: 3740ms
+2026-03-17T12:59:36Z INFO [checkout-service] GET /api/v1/search 200 28ms
+2026-03-17T13:00:29Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:01:40Z WARN [checkout-service] Thread dump shows 738 threads blocked on I/O
+2026-03-17T13:02:34Z WARN [checkout-service] Thread dump shows 244 threads blocked on I/O
+2026-03-17T13:02:46Z ERROR [checkout-service] Request failed with status 500
+2026-03-17T13:03:18Z INFO [checkout-service] GET /api/v1/health 200 28ms
+2026-03-17T13:03:26Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:04:40Z INFO [checkout-service] GET /api/v1/items 200 12ms
+2026-03-17T13:06:27Z INFO [checkout-service] GET /api/v1/items 200 80ms
+2026-03-17T13:07:19Z WARN [checkout-service] Thread dump shows 79 threads blocked on I/O
+2026-03-17T13:08:02Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:08:05Z INFO [checkout-service] GET /api/v1/health 200 93ms
+2026-03-17T13:09:04Z WARN [checkout-service] Thread dump shows 573 threads blocked on I/O
+2026-03-17T13:09:31Z INFO [checkout-service] GET /api/v1/orders 200 69ms
+2026-03-17T13:10:00Z INFO [checkout-service] GET /api/v1/cart 200 12ms
+2026-03-17T13:10:03Z INFO [checkout-service] GET /api/v1/search 200 41ms
+2026-03-17T13:10:08Z WARN [checkout-service] Thread dump shows 521 threads blocked on I/O
+2026-03-17T13:10:22Z INFO [checkout-service] GET /api/v1/orders 200 51ms
+2026-03-17T13:10:41Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:10:45Z WARN [checkout-service] All 140 worker threads busy, queue full
+2026-03-17T13:10:54Z INFO [checkout-service] GET /api/v1/health 200 118ms
+2026-03-17T13:10:59Z WARN [checkout-service] Health check slow: 3437ms
+2026-03-17T13:11:13Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:11:15Z WARN [checkout-service] Thread dump shows 751 threads blocked on I/O
+2026-03-17T13:11:43Z INFO [checkout-service] GET /api/v1/cart 200 80ms
+2026-03-17T13:12:12Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:12:22Z INFO [checkout-service] GET /api/v1/orders 200 58ms
+2026-03-17T13:12:36Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:12:55Z INFO [checkout-service] GET /api/v1/orders 200 116ms
+2026-03-17T13:12:57Z INFO [checkout-service] GET /api/v1/search 200 57ms
+2026-03-17T13:13:34Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:13:57Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:14:13Z WARN [checkout-service] All 512 worker threads busy, queue full
+2026-03-17T13:14:26Z WARN [checkout-service] Health check slow: 5565ms
+2026-03-17T13:14:28Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:14:47Z INFO [checkout-service] GET /api/v1/items 200 54ms
+2026-03-17T13:14:51Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:15:11Z INFO [checkout-service] GET /api/v1/search 200 52ms
+2026-03-17T13:15:37Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:16:47Z WARN [checkout-service] Thread dump shows 35 threads blocked on I/O
+2026-03-17T13:16:52Z WARN [checkout-service] All 344 worker threads busy, queue full
+2026-03-17T13:17:04Z WARN [checkout-service] Thread dump shows 113 threads blocked on I/O
+2026-03-17T13:17:18Z WARN [checkout-service] Thread dump shows 635 threads blocked on I/O
+2026-03-17T13:17:28Z WARN [checkout-service] All 136 worker threads busy, queue full
+2026-03-17T13:17:58Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:18:38Z INFO [checkout-service] GET /api/v1/orders 200 84ms
+2026-03-17T13:19:38Z ERROR [checkout-service] Request failed with status 500
+2026-03-17T13:20:04Z INFO [checkout-service] GET /api/v1/cart 200 23ms
+2026-03-17T13:20:33Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:20:39Z INFO [checkout-service] GET /api/v1/users 200 32ms
+2026-03-17T13:20:47Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:20:49Z INFO [checkout-service] GET /api/v1/health 200 17ms
+2026-03-17T13:20:57Z INFO [checkout-service] GET /api/v1/health 200 11ms
+2026-03-17T13:21:04Z INFO [checkout-service] GET /api/v1/users 200 50ms
+2026-03-17T13:21:14Z INFO [checkout-service] GET /api/v1/search 200 108ms
+2026-03-17T13:21:29Z INFO [checkout-service] GET /api/v1/items 200 93ms
+2026-03-17T13:21:32Z INFO [checkout-service] GET /api/v1/users 200 32ms
+2026-03-17T13:21:45Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:22:25Z WARN [checkout-service] Thread dump shows 638 threads blocked on I/O
+2026-03-17T13:22:57Z WARN [checkout-service] Health check slow: 8919ms
+2026-03-17T13:23:06Z INFO [checkout-service] GET /api/v1/cart 200 85ms
+2026-03-17T13:23:32Z INFO [checkout-service] GET /api/v1/users 200 41ms
+2026-03-17T13:23:32Z INFO [checkout-service] GET /api/v1/search 200 65ms
+2026-03-17T13:25:01Z WARN [checkout-service] Health check slow: 3999ms
+2026-03-17T13:25:33Z INFO [checkout-service] GET /api/v1/users 200 113ms
+2026-03-17T13:25:50Z WARN [checkout-service] Health check slow: 4194ms
+2026-03-17T13:25:58Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:26:54Z WARN [checkout-service] Health check slow: 4714ms
+2026-03-17T13:27:12Z INFO [checkout-service] GET /api/v1/cart 200 54ms
+2026-03-17T13:27:29Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:27:46Z INFO [checkout-service] GET /api/v1/orders 200 59ms
+2026-03-17T13:29:02Z INFO [checkout-service] GET /api/v1/orders 200 117ms
+2026-03-17T13:29:31Z INFO [checkout-service] GET /api/v1/search 200 54ms
+2026-03-17T13:29:42Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:31:08Z INFO [checkout-service] GET /api/v1/orders 200 87ms
+2026-03-17T13:31:19Z WARN [checkout-service] All 881 worker threads busy, queue full
+2026-03-17T13:31:49Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:32:54Z WARN [checkout-service] Health check slow: 6212ms
+2026-03-17T13:33:06Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:33:18Z WARN [checkout-service] All 544 worker threads busy, queue full
+2026-03-17T13:33:33Z WARN [checkout-service] Thread dump shows 153 threads blocked on I/O
+2026-03-17T13:34:59Z INFO [checkout-service] GET /api/v1/cart 200 84ms
+2026-03-17T13:35:26Z INFO [checkout-service] GET /api/v1/cart 200 59ms
+2026-03-17T13:35:36Z ERROR [checkout-service] Request failed with status 500
+2026-03-17T13:36:51Z INFO [checkout-service] GET /api/v1/items 200 9ms
+2026-03-17T13:36:56Z INFO [checkout-service] GET /api/v1/health 200 40ms
+2026-03-17T13:36:57Z ERROR [checkout-service] Request failed with status 500
+2026-03-17T13:37:00Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:38:29Z INFO [checkout-service] GET /api/v1/users 200 16ms
+2026-03-17T13:39:08Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:39:25Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:39:25Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:39:29Z INFO [checkout-service] GET /api/v1/orders 200 24ms
+2026-03-17T13:39:41Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:40:31Z WARN [checkout-service] Health check slow: 7511ms
+2026-03-17T13:40:58Z WARN [checkout-service] Health check slow: 6927ms
+2026-03-17T13:42:04Z INFO [checkout-service] GET /api/v1/cart 200 103ms
+2026-03-17T13:42:09Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:42:47Z INFO [checkout-service] GET /api/v1/items 200 70ms
+2026-03-17T13:43:03Z INFO [checkout-service] GET /api/v1/health 200 68ms
+2026-03-17T13:43:19Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:43:23Z INFO [checkout-service] GET /api/v1/health 200 106ms
+2026-03-17T13:43:33Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:43:41Z INFO [checkout-service] GET /api/v1/users 200 66ms
+2026-03-17T13:43:51Z WARN [checkout-service] Health check slow: 1236ms
+2026-03-17T13:44:22Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:45:10Z INFO [checkout-service] GET /api/v1/users 200 112ms
+2026-03-17T13:45:38Z WARN [checkout-service] Health check slow: 2586ms
+2026-03-17T13:46:07Z WARN [checkout-service] Health check slow: 8941ms
+2026-03-17T13:46:19Z WARN [checkout-service] Thread dump shows 214 threads blocked on I/O
+2026-03-17T13:46:48Z WARN [checkout-service] Thread dump shows 515 threads blocked on I/O
+2026-03-17T13:47:31Z WARN [checkout-service] Thread dump shows 499 threads blocked on I/O
+2026-03-17T13:47:37Z WARN [checkout-service] Health check slow: 6019ms
+2026-03-17T13:47:41Z INFO [checkout-service] GET /api/v1/health 200 91ms
+2026-03-17T13:47:45Z INFO [checkout-service] GET /api/v1/items 200 26ms
+2026-03-17T13:48:24Z INFO [checkout-service] GET /api/v1/cart 200 30ms
+2026-03-17T13:48:45Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:49:03Z INFO [checkout-service] GET /api/v1/cart 200 82ms
+2026-03-17T13:49:24Z WARN [checkout-service] All 626 worker threads busy, queue full
+2026-03-17T13:49:45Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:50:53Z WARN [checkout-service] Health check slow: 6714ms
+2026-03-17T13:50:56Z ERROR [checkout-service] Unexpected error handling request
+2026-03-17T13:51:25Z INFO [checkout-service] GET /api/v1/orders 200 25ms
+2026-03-17T13:51:36Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:52:07Z ERROR [checkout-service] Request failed with status 500
+2026-03-17T13:52:47Z INFO [checkout-service] GET /api/v1/users 200 49ms
+2026-03-17T13:53:30Z INFO [checkout-service] GET /api/v1/orders 200 46ms
+2026-03-17T13:53:41Z INFO [checkout-service] GET /api/v1/health 200 25ms
+2026-03-17T13:53:42Z INFO [checkout-service] GET /api/v1/orders 200 43ms
+2026-03-17T13:54:55Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:55:19Z INFO [checkout-service] GET /api/v1/orders 200 10ms
+2026-03-17T13:55:58Z ERROR [checkout-service] Request rejected: executor queue capacity reached
+2026-03-17T13:56:04Z WARN [checkout-service] Health check slow: 7880ms
+2026-03-17T13:56:10Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:57:33Z INFO [checkout-service] GET /api/v1/items 200 37ms
+2026-03-17T13:57:39Z WARN [checkout-service] All 886 worker threads busy, queue full
+2026-03-17T13:57:58Z ERROR [checkout-service] RejectedExecutionException: worker pool exhausted
+2026-03-17T13:58:08Z ERROR [checkout-service] Request failed with status 500
+2026-03-17T13:58:36Z INFO [checkout-service] GET /api/v1/items 200 11ms

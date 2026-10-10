@@ -1,0 +1,282 @@
+2026-03-20T10:00:17Z INFO [inventory-service] GET /api/v1/orders 200 73ms
+2026-03-20T10:00:18Z INFO [inventory-service] GET /api/v1/cart 200 57ms
+2026-03-20T10:01:23Z INFO [inventory-service] GET /api/v1/search 200 15ms
+2026-03-20T10:04:40Z INFO [inventory-service] GET /api/v1/orders 200 31ms
+2026-03-20T10:04:55Z INFO [inventory-service] GET /api/v1/items 200 70ms
+2026-03-20T10:06:11Z INFO [inventory-service] GET /api/v1/orders 200 38ms
+2026-03-20T10:08:27Z INFO [inventory-service] GET /api/v1/search 200 77ms
+2026-03-20T10:11:16Z INFO [inventory-service] GET /api/v1/search 200 101ms
+2026-03-20T10:12:11Z INFO [inventory-service] GET /api/v1/orders 200 46ms
+2026-03-20T10:12:48Z INFO [inventory-service] GET /api/v1/health 200 97ms
+2026-03-20T10:13:47Z INFO [inventory-service] GET /api/v1/items 200 37ms
+2026-03-20T10:16:47Z INFO [inventory-service] GET /api/v1/health 200 103ms
+2026-03-20T10:17:25Z INFO [inventory-service] GET /api/v1/search 200 41ms
+2026-03-20T10:18:57Z INFO [inventory-service] GET /api/v1/cart 200 52ms
+2026-03-20T10:19:27Z INFO [inventory-service] GET /api/v1/items 200 98ms
+2026-03-20T10:19:50Z INFO [inventory-service] GET /api/v1/items 200 100ms
+2026-03-20T10:21:52Z INFO [inventory-service] GET /api/v1/users 200 16ms
+2026-03-20T10:22:28Z INFO [inventory-service] GET /api/v1/orders 200 79ms
+2026-03-20T10:24:46Z INFO [inventory-service] GET /api/v1/items 200 104ms
+2026-03-20T10:26:18Z INFO [inventory-service] GET /api/v1/cart 200 85ms
+2026-03-20T10:26:28Z INFO [inventory-service] GET /api/v1/search 200 31ms
+2026-03-20T10:27:03Z INFO [inventory-service] GET /api/v1/items 200 57ms
+2026-03-20T10:29:21Z INFO [inventory-service] GET /api/v1/health 200 60ms
+2026-03-20T10:31:26Z INFO [inventory-service] GET /api/v1/cart 200 67ms
+2026-03-20T10:32:15Z INFO [inventory-service] GET /api/v1/cart 200 51ms
+2026-03-20T10:34:05Z INFO [inventory-service] GET /api/v1/cart 200 92ms
+2026-03-20T10:34:19Z INFO [inventory-service] GET /api/v1/users 200 108ms
+2026-03-20T10:34:39Z INFO [inventory-service] GET /api/v1/users 200 79ms
+2026-03-20T10:35:54Z INFO [inventory-service] GET /api/v1/orders 200 19ms
+2026-03-20T10:42:57Z INFO [inventory-service] GET /api/v1/health 200 100ms
+2026-03-20T10:43:04Z INFO [inventory-service] GET /api/v1/orders 200 68ms
+2026-03-20T10:43:46Z INFO [inventory-service] GET /api/v1/users 200 88ms
+2026-03-20T10:45:27Z INFO [inventory-service] GET /api/v1/orders 200 81ms
+2026-03-20T10:47:08Z INFO [inventory-service] GET /api/v1/users 200 82ms
+2026-03-20T10:48:03Z INFO [inventory-service] GET /api/v1/users 200 116ms
+2026-03-20T10:49:00Z INFO [inventory-service] GET /api/v1/orders 200 93ms
+2026-03-20T10:49:10Z INFO [inventory-service] GET /api/v1/orders 200 12ms
+2026-03-20T10:50:51Z INFO [inventory-service] GET /api/v1/items 200 109ms
+2026-03-20T10:50:57Z INFO [inventory-service] GET /api/v1/orders 200 119ms
+2026-03-20T10:50:58Z INFO [inventory-service] GET /api/v1/orders 200 88ms
+2026-03-20T10:50:58Z INFO [inventory-service] GET /api/v1/items 200 83ms
+2026-03-20T10:51:08Z INFO [inventory-service] GET /api/v1/search 200 87ms
+2026-03-20T10:53:02Z INFO [inventory-service] GET /api/v1/search 200 63ms
+2026-03-20T10:53:34Z INFO [inventory-service] GET /api/v1/cart 200 13ms
+2026-03-20T10:54:13Z INFO [inventory-service] GET /api/v1/users 200 81ms
+2026-03-20T10:55:47Z INFO [inventory-service] GET /api/v1/users 200 51ms
+2026-03-20T10:56:37Z INFO [inventory-service] GET /api/v1/users 200 8ms
+2026-03-20T10:56:52Z INFO [inventory-service] GET /api/v1/cart 200 118ms
+2026-03-20T10:57:49Z INFO [inventory-service] GET /api/v1/orders 200 28ms
+2026-03-20T10:58:18Z INFO [inventory-service] GET /api/v1/cart 200 107ms
+2026-03-20T10:58:49Z INFO [inventory-service] GET /api/v1/search 200 12ms
+2026-03-20T11:00:00Z INFO [inventory-service] GET /api/v1/health 200 98ms
+2026-03-20T11:01:56Z INFO [inventory-service] GET /api/v1/users 200 47ms
+2026-03-20T11:02:53Z INFO [inventory-service] GET /api/v1/items 200 58ms
+2026-03-20T11:02:59Z INFO [inventory-service] GET /api/v1/orders 200 53ms
+2026-03-20T11:03:45Z INFO [inventory-service] GET /api/v1/cart 200 58ms
+2026-03-20T11:04:09Z INFO [inventory-service] GET /api/v1/items 200 76ms
+2026-03-20T11:07:19Z INFO [inventory-service] GET /api/v1/users 200 45ms
+2026-03-20T11:09:36Z INFO [inventory-service] GET /api/v1/users 200 80ms
+2026-03-20T11:10:09Z INFO [inventory-service] GET /api/v1/orders 200 106ms
+2026-03-20T11:13:00Z INFO [inventory-service] GET /api/v1/items 200 27ms
+2026-03-20T11:16:19Z INFO [inventory-service] GET /api/v1/health 200 99ms
+2026-03-20T11:17:22Z INFO [inventory-service] GET /api/v1/items 200 39ms
+2026-03-20T11:18:03Z INFO [inventory-service] GET /api/v1/orders 200 35ms
+2026-03-20T11:20:25Z INFO [inventory-service] GET /api/v1/health 200 104ms
+2026-03-20T11:23:48Z INFO [inventory-service] GET /api/v1/cart 200 75ms
+2026-03-20T11:27:45Z INFO [inventory-service] GET /api/v1/health 200 37ms
+2026-03-20T11:29:07Z INFO [inventory-service] GET /api/v1/users 200 13ms
+2026-03-20T11:29:10Z INFO [inventory-service] GET /api/v1/users 200 73ms
+2026-03-20T11:31:34Z INFO [inventory-service] GET /api/v1/health 200 86ms
+2026-03-20T11:36:36Z INFO [inventory-service] GET /api/v1/users 200 68ms
+2026-03-20T11:37:23Z WARN [inventory-service] Retry succeeded on attempt 2 for auth-service
+2026-03-20T11:37:58Z INFO [inventory-service] GET /api/v1/cart 200 39ms
+2026-03-20T11:38:12Z INFO [inventory-service] GET /api/v1/health 200 24ms
+2026-03-20T11:41:30Z INFO [inventory-service] GET /api/v1/users 200 52ms
+2026-03-20T11:42:25Z INFO [inventory-service] GET /api/v1/health 200 47ms
+2026-03-20T11:44:54Z INFO [inventory-service] GET /api/v1/items 200 60ms
+2026-03-20T11:46:00Z INFO [inventory-service] GET /api/v1/orders 200 60ms
+2026-03-20T11:51:04Z INFO [inventory-service] GET /api/v1/cart 200 101ms
+2026-03-20T11:54:07Z INFO [inventory-service] GET /api/v1/users 200 106ms
+2026-03-20T12:01:53Z INFO [inventory-service] GET /api/v1/health 200 15ms
+2026-03-20T12:02:04Z INFO [inventory-service] GET /api/v1/cart 200 119ms
+2026-03-20T12:02:33Z INFO [inventory-service] GET /api/v1/orders 200 117ms
+2026-03-20T12:02:54Z INFO [inventory-service] GET /api/v1/items 200 82ms
+2026-03-20T12:03:14Z INFO [inventory-service] GET /api/v1/health 200 59ms
+2026-03-20T12:03:22Z INFO [inventory-service] GET /api/v1/cart 200 80ms
+2026-03-20T12:03:39Z INFO [inventory-service] GET /api/v1/cart 200 22ms
+2026-03-20T12:04:07Z WARN [inventory-service] Slow request 640ms for GET /api/v1/items
+2026-03-20T12:05:05Z INFO [inventory-service] GET /api/v1/search 200 97ms
+2026-03-20T12:06:18Z INFO [inventory-service] GET /api/v1/cart 200 73ms
+2026-03-20T12:07:05Z INFO [inventory-service] GET /api/v1/health 200 111ms
+2026-03-20T12:08:47Z INFO [inventory-service] GET /api/v1/search 200 84ms
+2026-03-20T12:10:54Z INFO [inventory-service] GET /api/v1/cart 200 53ms
+2026-03-20T12:14:40Z INFO [inventory-service] GET /api/v1/health 200 73ms
+2026-03-20T12:14:45Z INFO [inventory-service] GET /api/v1/cart 200 36ms
+2026-03-20T12:16:17Z INFO [inventory-service] GET /api/v1/cart 200 48ms
+2026-03-20T12:16:20Z INFO [inventory-service] GET /api/v1/users 200 97ms
+2026-03-20T12:16:37Z INFO [inventory-service] GET /api/v1/items 200 38ms
+2026-03-20T12:18:41Z INFO [inventory-service] GET /api/v1/health 200 100ms
+2026-03-20T12:18:43Z INFO [inventory-service] GET /api/v1/orders 200 21ms
+2026-03-20T12:18:57Z INFO [inventory-service] GET /api/v1/users 200 101ms
+2026-03-20T12:19:05Z INFO [inventory-service] GET /api/v1/items 200 38ms
+2026-03-20T12:19:53Z INFO [inventory-service] GET /api/v1/orders 200 52ms
+2026-03-20T12:20:37Z INFO [inventory-service] GET /api/v1/cart 200 103ms
+2026-03-20T12:21:15Z INFO [inventory-service] GET /api/v1/users 200 90ms
+2026-03-20T12:25:18Z INFO [inventory-service] GET /api/v1/items 200 31ms
+2026-03-20T12:25:31Z INFO [inventory-service] GET /api/v1/health 200 70ms
+2026-03-20T12:27:57Z INFO [inventory-service] GET /api/v1/health 200 9ms
+2026-03-20T12:29:22Z INFO [inventory-service] GET /api/v1/users 200 96ms
+2026-03-20T12:30:32Z INFO [inventory-service] GET /api/v1/items 200 67ms
+2026-03-20T12:32:09Z INFO [inventory-service] GET /api/v1/cart 200 12ms
+2026-03-20T12:32:18Z INFO [inventory-service] GET /api/v1/health 200 99ms
+2026-03-20T12:32:34Z INFO [inventory-service] GET /api/v1/users 200 23ms
+2026-03-20T12:33:34Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T12:33:35Z INFO [inventory-service] Configuration reloaded from config service, version 264
+2026-03-20T12:34:09Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T12:34:37Z INFO [inventory-service] Configuration reloaded from config service, version 137
+2026-03-20T12:35:26Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T12:35:37Z INFO [inventory-service] GET /api/v1/search 200 80ms
+2026-03-20T12:35:41Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T12:36:04Z INFO [inventory-service] GET /api/v1/orders 200 39ms
+2026-03-20T12:36:18Z INFO [inventory-service] GET /api/v1/health 200 87ms
+2026-03-20T12:36:41Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T12:37:13Z INFO [inventory-service] GET /api/v1/users 200 93ms
+2026-03-20T12:37:25Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T12:38:47Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T12:41:16Z INFO [inventory-service] GET /api/v1/search 200 22ms
+2026-03-20T12:41:49Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T12:41:54Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T12:42:03Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T12:42:14Z INFO [inventory-service] GET /api/v1/orders 200 109ms
+2026-03-20T12:42:32Z INFO [inventory-service] GET /api/v1/cart 200 99ms
+2026-03-20T12:43:17Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T12:43:18Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T12:43:23Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T12:44:12Z INFO [inventory-service] GET /api/v1/orders 200 52ms
+2026-03-20T12:44:23Z INFO [inventory-service] GET /api/v1/users 200 23ms
+2026-03-20T12:45:18Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T12:46:20Z INFO [inventory-service] GET /api/v1/users 200 114ms
+2026-03-20T12:46:41Z INFO [inventory-service] GET /api/v1/search 200 30ms
+2026-03-20T12:48:01Z INFO [inventory-service] GET /api/v1/orders 200 12ms
+2026-03-20T12:48:11Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T12:48:29Z INFO [inventory-service] GET /api/v1/users 200 77ms
+2026-03-20T12:48:31Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T12:49:59Z WARN [inventory-service] Health check slow: 6068ms
+2026-03-20T12:50:41Z INFO [inventory-service] GET /api/v1/users 200 15ms
+2026-03-20T12:51:05Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T12:52:11Z INFO [inventory-service] GET /api/v1/items 200 14ms
+2026-03-20T12:52:27Z INFO [inventory-service] GET /api/v1/cart 200 111ms
+2026-03-20T12:52:47Z INFO [inventory-service] GET /api/v1/cart 200 63ms
+2026-03-20T12:52:48Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T12:53:01Z INFO [inventory-service] GET /api/v1/orders 200 41ms
+2026-03-20T12:53:08Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T12:53:31Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T12:53:39Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T12:54:23Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T12:54:45Z INFO [inventory-service] GET /api/v1/orders 200 105ms
+2026-03-20T12:55:34Z WARN [inventory-service] Health check slow: 2335ms
+2026-03-20T12:55:51Z WARN [inventory-service] Health check slow: 6261ms
+2026-03-20T12:55:55Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T12:56:18Z INFO [inventory-service] GET /api/v1/health 200 23ms
+2026-03-20T12:57:05Z INFO [inventory-service] GET /api/v1/users 200 55ms
+2026-03-20T12:57:38Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T12:57:57Z WARN [inventory-service] Health check slow: 6643ms
+2026-03-20T12:58:45Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T12:59:53Z INFO [inventory-service] GET /api/v1/search 200 56ms
+2026-03-20T13:00:21Z WARN [inventory-service] Health check slow: 3721ms
+2026-03-20T13:00:40Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:00:42Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:01:08Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:01:54Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:02:43Z INFO [inventory-service] GET /api/v1/cart 200 111ms
+2026-03-20T13:03:22Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T13:03:46Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:05:15Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:05:42Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:05:50Z INFO [inventory-service] GET /api/v1/search 200 76ms
+2026-03-20T13:05:57Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:06:02Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:06:46Z INFO [inventory-service] GET /api/v1/items 200 33ms
+2026-03-20T13:07:13Z INFO [inventory-service] GET /api/v1/items 200 67ms
+2026-03-20T13:07:15Z INFO [inventory-service] GET /api/v1/search 200 115ms
+2026-03-20T13:07:48Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:07:48Z INFO [inventory-service] GET /api/v1/orders 200 111ms
+2026-03-20T13:08:29Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T13:09:24Z WARN [inventory-service] Health check slow: 8452ms
+2026-03-20T13:09:56Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T13:10:20Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T13:10:27Z WARN [inventory-service] Health check slow: 7740ms
+2026-03-20T13:11:00Z INFO [inventory-service] GET /api/v1/health 200 25ms
+2026-03-20T13:12:00Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:12:19Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T13:12:22Z INFO [inventory-service] GET /api/v1/cart 200 102ms
+2026-03-20T13:13:13Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T13:13:42Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T13:14:54Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:15:19Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:16:01Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T13:16:42Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:17:04Z INFO [inventory-service] GET /api/v1/users 200 9ms
+2026-03-20T13:17:24Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:17:43Z INFO [inventory-service] GET /api/v1/search 200 107ms
+2026-03-20T13:18:39Z INFO [inventory-service] GET /api/v1/orders 200 30ms
+2026-03-20T13:18:57Z INFO [inventory-service] GET /api/v1/users 200 11ms
+2026-03-20T13:19:10Z INFO [inventory-service] GET /api/v1/items 200 15ms
+2026-03-20T13:19:22Z INFO [inventory-service] GET /api/v1/health 200 112ms
+2026-03-20T13:19:40Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T13:19:58Z WARN [inventory-service] Health check slow: 6620ms
+2026-03-20T13:20:06Z WARN [inventory-service] Health check slow: 5711ms
+2026-03-20T13:21:11Z INFO [inventory-service] GET /api/v1/cart 200 43ms
+2026-03-20T13:22:25Z INFO [inventory-service] GET /api/v1/search 200 69ms
+2026-03-20T13:22:39Z INFO [inventory-service] GET /api/v1/orders 200 47ms
+2026-03-20T13:25:54Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:26:44Z INFO [inventory-service] GET /api/v1/users 200 61ms
+2026-03-20T13:27:19Z INFO [inventory-service] GET /api/v1/items 200 41ms
+2026-03-20T13:27:21Z INFO [inventory-service] GET /api/v1/health 200 18ms
+2026-03-20T13:27:29Z INFO [inventory-service] GET /api/v1/cart 200 115ms
+2026-03-20T13:28:00Z INFO [inventory-service] GET /api/v1/users 200 56ms
+2026-03-20T13:28:18Z WARN [inventory-service] Health check slow: 5019ms
+2026-03-20T13:28:38Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:29:16Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:29:33Z INFO [inventory-service] GET /api/v1/health 200 29ms
+2026-03-20T13:29:35Z INFO [inventory-service] GET /api/v1/items 200 91ms
+2026-03-20T13:30:07Z INFO [inventory-service] GET /api/v1/cart 200 60ms
+2026-03-20T13:30:51Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T13:30:52Z INFO [inventory-service] GET /api/v1/users 200 78ms
+2026-03-20T13:31:29Z INFO [inventory-service] GET /api/v1/items 200 83ms
+2026-03-20T13:32:03Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T13:32:45Z INFO [inventory-service] GET /api/v1/items 200 109ms
+2026-03-20T13:34:03Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T13:34:09Z INFO [inventory-service] GET /api/v1/orders 200 64ms
+2026-03-20T13:35:26Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T13:35:56Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T13:35:57Z INFO [inventory-service] GET /api/v1/items 200 62ms
+2026-03-20T13:36:34Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:36:45Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T13:37:10Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:37:49Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T13:37:59Z INFO [inventory-service] GET /api/v1/orders 200 90ms
+2026-03-20T13:39:15Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:39:42Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:40:10Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:40:11Z INFO [inventory-service] GET /api/v1/search 200 62ms
+2026-03-20T13:40:33Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:41:41Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:41:55Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:42:06Z INFO [inventory-service] GET /api/v1/cart 200 77ms
+2026-03-20T13:42:25Z INFO [inventory-service] GET /api/v1/items 200 31ms
+2026-03-20T13:42:54Z INFO [inventory-service] GET /api/v1/cart 200 107ms
+2026-03-20T13:43:29Z INFO [inventory-service] GET /api/v1/items 200 14ms
+2026-03-20T13:44:19Z WARN [inventory-service] Health check slow: 8964ms
+2026-03-20T13:44:38Z INFO [inventory-service] GET /api/v1/users 200 55ms
+2026-03-20T13:45:10Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:45:26Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T13:46:32Z INFO [inventory-service] GET /api/v1/orders 200 88ms
+2026-03-20T13:46:38Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T13:46:39Z WARN [inventory-service] Health check slow: 8695ms
+2026-03-20T13:47:30Z INFO [inventory-service] GET /api/v1/items 200 9ms
+2026-03-20T13:47:41Z INFO [inventory-service] GET /api/v1/search 200 91ms
+2026-03-20T13:48:00Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T13:48:09Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:48:11Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:48:18Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:48:30Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:49:30Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:49:51Z INFO [inventory-service] GET /api/v1/cart 200 101ms
+2026-03-20T13:50:14Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T13:50:42Z INFO [inventory-service] GET /api/v1/search 200 43ms
+2026-03-20T13:50:59Z INFO [inventory-service] GET /api/v1/cart 200 31ms
+2026-03-20T13:51:06Z ERROR [inventory-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-03-20T13:52:46Z INFO [inventory-service] GET /api/v1/users 200 98ms
+2026-03-20T13:52:58Z ERROR [inventory-service] Request failed with status 500
+2026-03-20T13:53:27Z WARN [inventory-service] Health check slow: 1978ms
+2026-03-20T13:54:11Z INFO [inventory-service] GET /api/v1/items 200 75ms
+2026-03-20T13:54:48Z INFO [inventory-service] GET /api/v1/items 200 34ms
+2026-03-20T13:56:20Z ERROR [inventory-service] Unexpected error handling request
+2026-03-20T13:56:36Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:56:56Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-03-20T13:57:57Z ERROR [inventory-service] Feature flag payments.v2 enabled without required settings
+2026-03-20T13:58:36Z INFO [inventory-service] GET /api/v1/items 200 48ms
+2026-03-20T13:58:53Z WARN [inventory-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-03-20T13:59:04Z ERROR [inventory-service] Request timed out after 50ms (configured timeout_ms=50)

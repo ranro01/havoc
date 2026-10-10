@@ -1,0 +1,289 @@
+2026-03-28T10:02:07Z INFO [inventory-service] GET /api/v1/health 200 100ms
+2026-03-28T10:03:14Z INFO [inventory-service] GET /api/v1/orders 200 86ms
+2026-03-28T10:03:38Z WARN [inventory-service] Certificate for api.internal expires in 24 days
+2026-03-28T10:04:10Z INFO [inventory-service] GET /api/v1/users 200 119ms
+2026-03-28T10:05:17Z INFO [inventory-service] GET /api/v1/items 200 97ms
+2026-03-28T10:06:17Z INFO [inventory-service] GET /api/v1/users 200 93ms
+2026-03-28T10:06:52Z INFO [inventory-service] GET /api/v1/health 200 79ms
+2026-03-28T10:07:57Z INFO [inventory-service] GET /api/v1/users 200 14ms
+2026-03-28T10:09:23Z INFO [inventory-service] GET /api/v1/search 200 106ms
+2026-03-28T10:09:54Z INFO [inventory-service] GET /api/v1/search 200 98ms
+2026-03-28T10:10:26Z INFO [inventory-service] GET /api/v1/cart 200 106ms
+2026-03-28T10:11:01Z INFO [inventory-service] GET /api/v1/users 200 76ms
+2026-03-28T10:11:13Z INFO [inventory-service] GET /api/v1/users 200 34ms
+2026-03-28T10:13:08Z INFO [inventory-service] GET /api/v1/cart 200 113ms
+2026-03-28T10:13:16Z INFO [inventory-service] GET /api/v1/health 200 52ms
+2026-03-28T10:13:19Z INFO [inventory-service] GET /api/v1/items 200 55ms
+2026-03-28T10:16:47Z INFO [inventory-service] GET /api/v1/orders 200 23ms
+2026-03-28T10:17:57Z INFO [inventory-service] GET /api/v1/health 200 72ms
+2026-03-28T10:18:26Z INFO [inventory-service] GET /api/v1/users 200 93ms
+2026-03-28T10:20:42Z INFO [inventory-service] GET /api/v1/search 200 68ms
+2026-03-28T10:23:15Z INFO [inventory-service] GET /api/v1/search 200 49ms
+2026-03-28T10:23:25Z INFO [inventory-service] GET /api/v1/users 200 37ms
+2026-03-28T10:23:35Z INFO [inventory-service] GET /api/v1/cart 200 95ms
+2026-03-28T10:23:50Z INFO [inventory-service] GET /api/v1/orders 200 64ms
+2026-03-28T10:24:29Z INFO [inventory-service] GET /api/v1/users 200 63ms
+2026-03-28T10:26:17Z INFO [inventory-service] GET /api/v1/health 200 11ms
+2026-03-28T10:26:19Z INFO [inventory-service] GET /api/v1/items 200 106ms
+2026-03-28T10:28:44Z INFO [inventory-service] GET /api/v1/search 200 95ms
+2026-03-28T10:31:39Z INFO [inventory-service] GET /api/v1/health 200 58ms
+2026-03-28T10:40:03Z INFO [inventory-service] GET /api/v1/orders 200 93ms
+2026-03-28T10:40:08Z WARN [inventory-service] Certificate for api.internal expires in 24 days
+2026-03-28T10:43:14Z INFO [inventory-service] GET /api/v1/cart 200 50ms
+2026-03-28T10:45:06Z INFO [inventory-service] GET /api/v1/items 200 19ms
+2026-03-28T10:49:19Z INFO [inventory-service] GET /api/v1/users 200 27ms
+2026-03-28T10:53:53Z INFO [inventory-service] GET /api/v1/cart 200 89ms
+2026-03-28T10:57:23Z INFO [inventory-service] GET /api/v1/health 200 84ms
+2026-03-28T10:57:36Z INFO [inventory-service] GET /api/v1/users 200 45ms
+2026-03-28T10:57:42Z INFO [inventory-service] GET /api/v1/search 200 73ms
+2026-03-28T10:59:35Z INFO [inventory-service] GET /api/v1/search 200 35ms
+2026-03-28T11:00:25Z INFO [inventory-service] GET /api/v1/orders 200 34ms
+2026-03-28T11:01:00Z INFO [inventory-service] GET /api/v1/search 200 72ms
+2026-03-28T11:02:08Z INFO [inventory-service] GET /api/v1/search 200 71ms
+2026-03-28T11:03:41Z INFO [inventory-service] GET /api/v1/health 200 59ms
+2026-03-28T11:03:46Z INFO [inventory-service] GET /api/v1/search 200 95ms
+2026-03-28T11:05:29Z INFO [inventory-service] GET /api/v1/search 200 103ms
+2026-03-28T11:06:05Z INFO [inventory-service] GET /api/v1/health 200 20ms
+2026-03-28T11:07:53Z INFO [inventory-service] GET /api/v1/health 200 66ms
+2026-03-28T11:08:50Z INFO [inventory-service] GET /api/v1/orders 200 62ms
+2026-03-28T11:10:44Z INFO [inventory-service] GET /api/v1/health 200 60ms
+2026-03-28T11:14:01Z INFO [inventory-service] GET /api/v1/cart 200 82ms
+2026-03-28T11:15:56Z WARN [inventory-service] Minor GC pause 120ms
+2026-03-28T11:16:31Z INFO [inventory-service] GET /api/v1/users 200 41ms
+2026-03-28T11:16:49Z INFO [inventory-service] GET /api/v1/items 200 108ms
+2026-03-28T11:17:48Z INFO [inventory-service] GET /api/v1/search 200 47ms
+2026-03-28T11:18:32Z INFO [inventory-service] GET /api/v1/search 200 40ms
+2026-03-28T11:18:36Z INFO [inventory-service] GET /api/v1/users 200 97ms
+2026-03-28T11:19:41Z INFO [inventory-service] GET /api/v1/users 200 83ms
+2026-03-28T11:20:42Z INFO [inventory-service] GET /api/v1/items 200 105ms
+2026-03-28T11:23:04Z INFO [inventory-service] GET /api/v1/cart 200 46ms
+2026-03-28T11:23:39Z INFO [inventory-service] GET /api/v1/items 200 32ms
+2026-03-28T11:26:03Z INFO [inventory-service] GET /api/v1/cart 200 22ms
+2026-03-28T11:27:56Z INFO [inventory-service] GET /api/v1/orders 200 114ms
+2026-03-28T11:28:42Z INFO [inventory-service] GET /api/v1/users 200 9ms
+2026-03-28T11:30:00Z INFO [inventory-service] GET /api/v1/search 200 61ms
+2026-03-28T11:33:02Z INFO [inventory-service] GET /api/v1/items 200 41ms
+2026-03-28T11:33:52Z INFO [inventory-service] GET /api/v1/items 200 82ms
+2026-03-28T11:34:18Z INFO [inventory-service] GET /api/v1/health 200 89ms
+2026-03-28T11:35:51Z INFO [inventory-service] GET /api/v1/cart 200 58ms
+2026-03-28T11:36:23Z INFO [inventory-service] GET /api/v1/orders 200 41ms
+2026-03-28T11:36:40Z INFO [inventory-service] GET /api/v1/orders 200 66ms
+2026-03-28T11:37:08Z INFO [inventory-service] GET /api/v1/users 200 14ms
+2026-03-28T11:37:42Z INFO [inventory-service] GET /api/v1/users 200 103ms
+2026-03-28T11:37:47Z INFO [inventory-service] GET /api/v1/orders 200 94ms
+2026-03-28T11:38:26Z INFO [inventory-service] GET /api/v1/users 200 115ms
+2026-03-28T11:39:27Z INFO [inventory-service] GET /api/v1/health 200 18ms
+2026-03-28T11:40:45Z INFO [inventory-service] GET /api/v1/orders 200 48ms
+2026-03-28T11:41:48Z INFO [inventory-service] GET /api/v1/cart 200 46ms
+2026-03-28T11:47:11Z INFO [inventory-service] GET /api/v1/search 200 39ms
+2026-03-28T11:47:31Z INFO [inventory-service] GET /api/v1/search 200 23ms
+2026-03-28T11:47:39Z INFO [inventory-service] GET /api/v1/items 200 101ms
+2026-03-28T11:49:18Z INFO [inventory-service] GET /api/v1/users 200 114ms
+2026-03-28T11:49:27Z INFO [inventory-service] GET /api/v1/health 200 62ms
+2026-03-28T11:49:40Z WARN [inventory-service] Slow request 640ms for GET /api/v1/items
+2026-03-28T11:50:44Z INFO [inventory-service] GET /api/v1/search 200 55ms
+2026-03-28T11:52:22Z INFO [inventory-service] GET /api/v1/health 200 43ms
+2026-03-28T11:52:58Z INFO [inventory-service] GET /api/v1/cart 200 43ms
+2026-03-28T11:55:23Z INFO [inventory-service] GET /api/v1/cart 200 112ms
+2026-03-28T11:55:51Z INFO [inventory-service] GET /api/v1/health 200 25ms
+2026-03-28T11:57:21Z INFO [inventory-service] GET /api/v1/search 200 106ms
+2026-03-28T11:57:31Z INFO [inventory-service] GET /api/v1/search 200 89ms
+2026-03-28T11:59:28Z INFO [inventory-service] GET /api/v1/users 200 77ms
+2026-03-28T12:00:02Z INFO [inventory-service] GET /api/v1/cart 200 44ms
+2026-03-28T12:00:49Z INFO [inventory-service] GET /api/v1/cart 200 93ms
+2026-03-28T12:00:50Z INFO [inventory-service] GET /api/v1/search 200 108ms
+2026-03-28T12:01:31Z INFO [inventory-service] GET /api/v1/orders 200 23ms
+2026-03-28T12:07:22Z INFO [inventory-service] GET /api/v1/orders 200 74ms
+2026-03-28T12:07:22Z INFO [inventory-service] GET /api/v1/search 200 25ms
+2026-03-28T12:09:14Z INFO [inventory-service] GET /api/v1/users 200 85ms
+2026-03-28T12:10:35Z INFO [inventory-service] GET /api/v1/orders 200 35ms
+2026-03-28T12:12:33Z INFO [inventory-service] GET /api/v1/items 200 79ms
+2026-03-28T12:15:47Z INFO [inventory-service] GET /api/v1/cart 200 115ms
+2026-03-28T12:18:36Z INFO [inventory-service] GET /api/v1/cart 200 45ms
+2026-03-28T12:19:03Z INFO [inventory-service] GET /api/v1/search 200 59ms
+2026-03-28T12:19:20Z INFO [inventory-service] GET /api/v1/search 200 58ms
+2026-03-28T12:19:51Z INFO [inventory-service] GET /api/v1/health 200 108ms
+2026-03-28T12:20:47Z INFO [inventory-service] GET /api/v1/search 200 75ms
+2026-03-28T12:21:33Z INFO [inventory-service] GET /api/v1/orders 200 101ms
+2026-03-28T12:22:51Z INFO [inventory-service] GET /api/v1/health 200 79ms
+2026-03-28T12:24:04Z INFO [inventory-service] GET /api/v1/search 200 111ms
+2026-03-28T12:24:08Z INFO [inventory-service] GET /api/v1/users 200 90ms
+2026-03-28T12:24:10Z INFO [inventory-service] GET /api/v1/items 200 43ms
+2026-03-28T12:28:09Z INFO [inventory-service] GET /api/v1/orders 200 47ms
+2026-03-28T12:30:20Z INFO [inventory-service] GET /api/v1/items 200 80ms
+2026-03-28T12:31:21Z INFO [inventory-service] GET /api/v1/health 200 70ms
+2026-03-28T12:31:54Z INFO [inventory-service] GET /api/v1/cart 200 73ms
+2026-03-28T12:32:14Z INFO [inventory-service] GET /api/v1/items 200 115ms
+2026-03-28T12:35:47Z INFO [inventory-service] GET /api/v1/users 200 28ms
+2026-03-28T12:36:57Z INFO [inventory-service] GET /api/v1/items 200 43ms
+2026-03-28T12:37:46Z INFO [inventory-service] GET /api/v1/items 200 54ms
+2026-03-28T12:38:42Z INFO [inventory-service] GET /api/v1/orders 200 61ms
+2026-03-28T12:40:22Z INFO [inventory-service] GET /api/v1/cart 200 67ms
+2026-03-28T12:40:51Z INFO [inventory-service] GET /api/v1/search 200 58ms
+2026-03-28T12:41:39Z INFO [inventory-service] GET /api/v1/cart 200 60ms
+2026-03-28T12:42:37Z INFO [inventory-service] GET /api/v1/search 200 47ms
+2026-03-28T12:43:14Z INFO [inventory-service] GET /api/v1/items 200 113ms
+2026-03-28T12:43:18Z INFO [inventory-service] GET /api/v1/users 200 58ms
+2026-03-28T12:44:48Z INFO [inventory-service] GET /api/v1/items 200 33ms
+2026-03-28T12:46:03Z INFO [inventory-service] GET /api/v1/users 200 15ms
+2026-03-28T12:49:35Z INFO [inventory-service] GET /api/v1/users 200 87ms
+2026-03-28T12:50:13Z INFO [inventory-service] GET /api/v1/health 200 16ms
+2026-03-28T12:50:19Z INFO [inventory-service] GET /api/v1/search 200 118ms
+2026-03-28T12:50:50Z INFO [inventory-service] GET /api/v1/health 200 104ms
+2026-03-28T12:55:30Z INFO [inventory-service] GET /api/v1/users 200 79ms
+2026-03-28T12:56:05Z INFO [inventory-service] GET /api/v1/users 200 37ms
+2026-03-28T12:57:15Z INFO [inventory-service] GET /api/v1/health 200 13ms
+2026-03-28T12:57:27Z INFO [inventory-service] GET /api/v1/search 200 31ms
+2026-03-28T12:57:53Z INFO [inventory-service] GET /api/v1/cart 200 111ms
+2026-03-28T13:01:46Z WARN [inventory-service] Outbound call volume to api.stripe.com 335% above usual
+2026-03-28T13:02:10Z INFO [inventory-service] GET /api/v1/users 200 10ms
+2026-03-28T13:02:34Z INFO [inventory-service] GET /api/v1/items 200 80ms
+2026-03-28T13:02:52Z INFO [inventory-service] GET /api/v1/cart 200 25ms
+2026-03-28T13:03:48Z INFO [inventory-service] GET /api/v1/health 200 43ms
+2026-03-28T13:04:37Z INFO [inventory-service] GET /api/v1/items 200 85ms
+2026-03-28T13:04:54Z WARN [inventory-service] Outbound call volume to api.twilio.com 217% above usual
+2026-03-28T13:05:02Z ERROR [inventory-service] Quota exceeded for API key ending 605
+2026-03-28T13:05:11Z ERROR [inventory-service] 429 Too Many Requests from api.auth-service.com
+2026-03-28T13:05:18Z ERROR [inventory-service] 429 Too Many Requests from api.twilio.com
+2026-03-28T13:05:27Z INFO [inventory-service] GET /api/v1/cart 200 51ms
+2026-03-28T13:05:33Z WARN [inventory-service] Retry-After header received: 267 seconds
+2026-03-28T13:05:53Z WARN [inventory-service] Retry-After header received: 533 seconds
+2026-03-28T13:05:56Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:06:23Z WARN [inventory-service] Backing off outbound calls to api.payment-gateway.com
+2026-03-28T13:06:38Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:06:55Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:06:56Z WARN [inventory-service] Health check slow: 7230ms
+2026-03-28T13:07:10Z INFO [inventory-service] GET /api/v1/items 200 87ms
+2026-03-28T13:07:13Z WARN [inventory-service] Health check slow: 8803ms
+2026-03-28T13:07:28Z INFO [inventory-service] GET /api/v1/users 200 32ms
+2026-03-28T13:07:35Z INFO [inventory-service] GET /api/v1/search 200 53ms
+2026-03-28T13:07:48Z WARN [inventory-service] Retry-After header received: 651 seconds
+2026-03-28T13:09:25Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:10:03Z WARN [inventory-service] Retry-After header received: 468 seconds
+2026-03-28T13:11:22Z INFO [inventory-service] GET /api/v1/users 200 109ms
+2026-03-28T13:11:25Z INFO [inventory-service] GET /api/v1/users 200 85ms
+2026-03-28T13:11:57Z WARN [inventory-service] Backing off outbound calls to api.inventory-service.com
+2026-03-28T13:12:17Z WARN [inventory-service] Backing off outbound calls to api.stripe.com
+2026-03-28T13:12:18Z WARN [inventory-service] Retry-After header received: 876 seconds
+2026-03-28T13:12:43Z ERROR [inventory-service] Quota exceeded for API key ending 159
+2026-03-28T13:13:19Z INFO [inventory-service] GET /api/v1/search 200 55ms
+2026-03-28T13:13:32Z ERROR [inventory-service] Quota exceeded for API key ending 672
+2026-03-28T13:14:11Z INFO [inventory-service] GET /api/v1/users 200 16ms
+2026-03-28T13:14:34Z ERROR [inventory-service] Quota exceeded for API key ending 536
+2026-03-28T13:14:46Z INFO [inventory-service] GET /api/v1/orders 200 87ms
+2026-03-28T13:15:14Z INFO [inventory-service] GET /api/v1/health 200 11ms
+2026-03-28T13:15:25Z WARN [inventory-service] Health check slow: 4035ms
+2026-03-28T13:16:05Z INFO [inventory-service] GET /api/v1/search 200 23ms
+2026-03-28T13:16:19Z WARN [inventory-service] Backing off outbound calls to api.inventory-service.com
+2026-03-28T13:16:44Z ERROR [inventory-service] 429 Too Many Requests from api.auth-service.com
+2026-03-28T13:17:08Z INFO [inventory-service] GET /api/v1/users 200 66ms
+2026-03-28T13:17:11Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:17:23Z INFO [inventory-service] GET /api/v1/users 200 13ms
+2026-03-28T13:17:32Z ERROR [inventory-service] Quota exceeded for API key ending 588
+2026-03-28T13:17:48Z WARN [inventory-service] Retry-After header received: 760 seconds
+2026-03-28T13:18:26Z ERROR [inventory-service] Quota exceeded for API key ending 602
+2026-03-28T13:18:35Z ERROR [inventory-service] Quota exceeded for API key ending 632
+2026-03-28T13:18:45Z INFO [inventory-service] GET /api/v1/users 200 41ms
+2026-03-28T13:18:47Z WARN [inventory-service] Health check slow: 3130ms
+2026-03-28T13:18:55Z ERROR [inventory-service] 429 Too Many Requests from api.inventory-service.com
+2026-03-28T13:18:56Z INFO [inventory-service] GET /api/v1/orders 200 24ms
+2026-03-28T13:18:58Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:19:42Z WARN [inventory-service] Backing off outbound calls to api.auth-service.com
+2026-03-28T13:19:58Z INFO [inventory-service] GET /api/v1/search 200 53ms
+2026-03-28T13:21:13Z WARN [inventory-service] Health check slow: 3699ms
+2026-03-28T13:21:26Z WARN [inventory-service] Retry-After header received: 774 seconds
+2026-03-28T13:21:50Z INFO [inventory-service] GET /api/v1/users 200 47ms
+2026-03-28T13:22:33Z ERROR [inventory-service] 429 Too Many Requests from api.pricing-service.com
+2026-03-28T13:22:41Z INFO [inventory-service] GET /api/v1/search 200 103ms
+2026-03-28T13:23:10Z WARN [inventory-service] Backing off outbound calls to api.pricing-service.com
+2026-03-28T13:23:42Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:23:42Z INFO [inventory-service] GET /api/v1/health 200 64ms
+2026-03-28T13:23:45Z INFO [inventory-service] GET /api/v1/users 200 84ms
+2026-03-28T13:24:16Z WARN [inventory-service] Retry-After header received: 250 seconds
+2026-03-28T13:25:38Z ERROR [inventory-service] Quota exceeded for API key ending 271
+2026-03-28T13:25:42Z ERROR [inventory-service] 429 Too Many Requests from api.inventory-service.com
+2026-03-28T13:26:05Z WARN [inventory-service] Retry-After header received: 624 seconds
+2026-03-28T13:26:18Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:26:53Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:27:17Z ERROR [inventory-service] Quota exceeded for API key ending 334
+2026-03-28T13:28:05Z ERROR [inventory-service] 429 Too Many Requests from api.inventory-service.com
+2026-03-28T13:28:46Z INFO [inventory-service] GET /api/v1/items 200 28ms
+2026-03-28T13:29:46Z WARN [inventory-service] Backing off outbound calls to api.stripe.com
+2026-03-28T13:30:27Z WARN [inventory-service] Backing off outbound calls to api.twilio.com
+2026-03-28T13:30:35Z ERROR [inventory-service] 429 Too Many Requests from api.auth-service.com
+2026-03-28T13:30:49Z INFO [inventory-service] GET /api/v1/items 200 13ms
+2026-03-28T13:30:51Z ERROR [inventory-service] Quota exceeded for API key ending 859
+2026-03-28T13:30:58Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:32:23Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:33:28Z WARN [inventory-service] Retry-After header received: 643 seconds
+2026-03-28T13:33:48Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:33:58Z INFO [inventory-service] GET /api/v1/health 200 56ms
+2026-03-28T13:34:05Z ERROR [inventory-service] Quota exceeded for API key ending 112
+2026-03-28T13:34:06Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:34:26Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:34:34Z ERROR [inventory-service] Quota exceeded for API key ending 124
+2026-03-28T13:34:43Z INFO [inventory-service] GET /api/v1/orders 200 52ms
+2026-03-28T13:34:44Z INFO [inventory-service] GET /api/v1/search 200 28ms
+2026-03-28T13:35:04Z ERROR [inventory-service] 429 Too Many Requests from api.inventory-service.com
+2026-03-28T13:35:15Z INFO [inventory-service] GET /api/v1/users 200 78ms
+2026-03-28T13:35:25Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:35:29Z INFO [inventory-service] GET /api/v1/items 200 18ms
+2026-03-28T13:36:46Z WARN [inventory-service] Retry-After header received: 343 seconds
+2026-03-28T13:37:07Z INFO [inventory-service] GET /api/v1/health 200 19ms
+2026-03-28T13:37:34Z WARN [inventory-service] Retry-After header received: 549 seconds
+2026-03-28T13:38:42Z WARN [inventory-service] Backing off outbound calls to api.pricing-service.com
+2026-03-28T13:38:49Z ERROR [inventory-service] 429 Too Many Requests from api.stripe.com
+2026-03-28T13:39:01Z INFO [inventory-service] GET /api/v1/users 200 35ms
+2026-03-28T13:40:46Z INFO [inventory-service] GET /api/v1/search 200 80ms
+2026-03-28T13:41:27Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:41:31Z ERROR [inventory-service] Quota exceeded for API key ending 21
+2026-03-28T13:41:31Z INFO [inventory-service] GET /api/v1/orders 200 31ms
+2026-03-28T13:41:52Z INFO [inventory-service] GET /api/v1/orders 200 49ms
+2026-03-28T13:41:57Z WARN [inventory-service] Retry-After header received: 811 seconds
+2026-03-28T13:42:43Z WARN [inventory-service] Backing off outbound calls to api.stripe.com
+2026-03-28T13:42:54Z WARN [inventory-service] Health check slow: 4676ms
+2026-03-28T13:43:10Z WARN [inventory-service] Backing off outbound calls to api.stripe.com
+2026-03-28T13:43:32Z ERROR [inventory-service] 429 Too Many Requests from api.twilio.com
+2026-03-28T13:44:45Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:44:54Z INFO [inventory-service] GET /api/v1/orders 200 80ms
+2026-03-28T13:45:08Z WARN [inventory-service] Retry-After header received: 616 seconds
+2026-03-28T13:45:40Z INFO [inventory-service] GET /api/v1/orders 200 93ms
+2026-03-28T13:46:57Z INFO [inventory-service] GET /api/v1/cart 200 98ms
+2026-03-28T13:47:01Z ERROR [inventory-service] 429 Too Many Requests from api.payment-gateway.com
+2026-03-28T13:47:16Z ERROR [inventory-service] Request failed with status 500
+2026-03-28T13:47:58Z WARN [inventory-service] Backing off outbound calls to api.pricing-service.com
+2026-03-28T13:48:15Z ERROR [inventory-service] Quota exceeded for API key ending 270
+2026-03-28T13:48:23Z ERROR [inventory-service] Quota exceeded for API key ending 769
+2026-03-28T13:48:25Z ERROR [inventory-service] 429 Too Many Requests from api.auth-service.com
+2026-03-28T13:48:52Z WARN [inventory-service] Health check slow: 1067ms
+2026-03-28T13:49:56Z INFO [inventory-service] GET /api/v1/users 200 45ms
+2026-03-28T13:50:18Z INFO [inventory-service] GET /api/v1/health 200 56ms
+2026-03-28T13:50:47Z WARN [inventory-service] Retry-After header received: 404 seconds
+2026-03-28T13:51:09Z WARN [inventory-service] Backing off outbound calls to api.auth-service.com
+2026-03-28T13:51:18Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:51:18Z ERROR [inventory-service] 429 Too Many Requests from api.pricing-service.com
+2026-03-28T13:51:28Z ERROR [inventory-service] Quota exceeded for API key ending 93
+2026-03-28T13:51:41Z WARN [inventory-service] Health check slow: 3796ms
+2026-03-28T13:51:46Z WARN [inventory-service] Health check slow: 3537ms
+2026-03-28T13:51:52Z ERROR [inventory-service] 429 Too Many Requests from api.stripe.com
+2026-03-28T13:52:10Z ERROR [inventory-service] 429 Too Many Requests from api.twilio.com
+2026-03-28T13:53:32Z INFO [inventory-service] GET /api/v1/orders 200 17ms
+2026-03-28T13:53:36Z WARN [inventory-service] Backing off outbound calls to api.stripe.com
+2026-03-28T13:54:03Z ERROR [inventory-service] 429 Too Many Requests from api.pricing-service.com
+2026-03-28T13:54:03Z INFO [inventory-service] GET /api/v1/search 200 39ms
+2026-03-28T13:54:19Z ERROR [inventory-service] 429 Too Many Requests from api.payment-gateway.com
+2026-03-28T13:54:20Z ERROR [inventory-service] Unexpected error handling request
+2026-03-28T13:54:24Z WARN [inventory-service] Health check slow: 7996ms
+2026-03-28T13:54:25Z WARN [inventory-service] Retry-After header received: 308 seconds
+2026-03-28T13:54:28Z INFO [inventory-service] GET /api/v1/cart 200 113ms
+2026-03-28T13:54:35Z INFO [inventory-service] GET /api/v1/items 200 110ms
+2026-03-28T13:54:46Z WARN [inventory-service] Retry-After header received: 861 seconds
+2026-03-28T13:55:44Z ERROR [inventory-service] 429 Too Many Requests from api.twilio.com
+2026-03-28T13:55:55Z WARN [inventory-service] Health check slow: 1462ms
+2026-03-28T13:56:04Z ERROR [inventory-service] 429 Too Many Requests from api.pricing-service.com
+2026-03-28T13:56:05Z INFO [inventory-service] GET /api/v1/health 200 68ms
+2026-03-28T13:56:21Z WARN [inventory-service] Retry-After header received: 725 seconds
+2026-03-28T13:56:28Z WARN [inventory-service] Backing off outbound calls to api.twilio.com
+2026-03-28T13:56:34Z ERROR [inventory-service] 429 Too Many Requests from api.stripe.com
+2026-03-28T13:58:05Z ERROR [inventory-service] 429 Too Many Requests from api.auth-service.com
+2026-03-28T13:58:57Z WARN [inventory-service] Backing off outbound calls to api.pricing-service.com

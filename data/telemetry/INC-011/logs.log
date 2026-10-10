@@ -1,0 +1,262 @@
+2026-03-25T10:00:02Z INFO [search-api] GET /api/v1/search 200 24ms
+2026-03-25T10:00:45Z INFO [search-api] GET /api/v1/orders 200 21ms
+2026-03-25T10:01:42Z INFO [search-api] GET /api/v1/orders 200 101ms
+2026-03-25T10:02:47Z INFO [search-api] GET /api/v1/cart 200 74ms
+2026-03-25T10:03:31Z INFO [search-api] GET /api/v1/search 200 44ms
+2026-03-25T10:03:39Z INFO [search-api] GET /api/v1/health 200 107ms
+2026-03-25T10:07:14Z INFO [search-api] GET /api/v1/orders 200 88ms
+2026-03-25T10:07:51Z INFO [search-api] GET /api/v1/cart 200 39ms
+2026-03-25T10:08:23Z INFO [search-api] GET /api/v1/orders 200 25ms
+2026-03-25T10:10:04Z INFO [search-api] GET /api/v1/orders 200 119ms
+2026-03-25T10:11:17Z INFO [search-api] GET /api/v1/orders 200 89ms
+2026-03-25T10:12:52Z INFO [search-api] GET /api/v1/items 200 107ms
+2026-03-25T10:13:15Z INFO [search-api] GET /api/v1/items 200 33ms
+2026-03-25T10:13:53Z INFO [search-api] GET /api/v1/items 200 47ms
+2026-03-25T10:15:03Z WARN [search-api] Deprecated endpoint /v1/orders/legacy called
+2026-03-25T10:15:38Z INFO [search-api] GET /api/v1/orders 200 86ms
+2026-03-25T10:16:32Z INFO [search-api] GET /api/v1/cart 200 51ms
+2026-03-25T10:19:14Z INFO [search-api] GET /api/v1/cart 200 110ms
+2026-03-25T10:19:42Z INFO [search-api] GET /api/v1/orders 200 26ms
+2026-03-25T10:20:58Z INFO [search-api] GET /api/v1/cart 200 90ms
+2026-03-25T10:22:37Z INFO [search-api] GET /api/v1/orders 200 23ms
+2026-03-25T10:23:12Z WARN [search-api] Slow request 640ms for GET /api/v1/items
+2026-03-25T10:23:46Z INFO [search-api] GET /api/v1/users 200 44ms
+2026-03-25T10:26:27Z INFO [search-api] GET /api/v1/search 200 44ms
+2026-03-25T10:26:40Z INFO [search-api] GET /api/v1/orders 200 49ms
+2026-03-25T10:28:24Z INFO [search-api] GET /api/v1/search 200 44ms
+2026-03-25T10:29:09Z INFO [search-api] GET /api/v1/items 200 90ms
+2026-03-25T10:29:37Z WARN [search-api] Certificate for api.internal expires in 24 days
+2026-03-25T10:31:30Z INFO [search-api] GET /api/v1/orders 200 38ms
+2026-03-25T10:33:58Z INFO [search-api] GET /api/v1/users 200 82ms
+2026-03-25T10:36:10Z INFO [search-api] GET /api/v1/search 200 92ms
+2026-03-25T10:37:25Z INFO [search-api] GET /api/v1/health 200 82ms
+2026-03-25T10:37:40Z INFO [search-api] GET /api/v1/cart 200 49ms
+2026-03-25T10:37:58Z INFO [search-api] GET /api/v1/search 200 21ms
+2026-03-25T10:38:06Z INFO [search-api] GET /api/v1/users 200 58ms
+2026-03-25T10:38:49Z INFO [search-api] GET /api/v1/orders 200 16ms
+2026-03-25T10:38:54Z INFO [search-api] GET /api/v1/search 200 104ms
+2026-03-25T10:38:55Z INFO [search-api] GET /api/v1/orders 200 119ms
+2026-03-25T10:42:59Z INFO [search-api] GET /api/v1/cart 200 14ms
+2026-03-25T10:43:24Z INFO [search-api] GET /api/v1/orders 200 67ms
+2026-03-25T10:44:50Z INFO [search-api] GET /api/v1/cart 200 18ms
+2026-03-25T10:45:05Z INFO [search-api] GET /api/v1/search 200 82ms
+2026-03-25T10:46:38Z INFO [search-api] GET /api/v1/items 200 91ms
+2026-03-25T10:51:14Z INFO [search-api] GET /api/v1/search 200 22ms
+2026-03-25T10:54:59Z INFO [search-api] GET /api/v1/items 200 89ms
+2026-03-25T10:55:54Z INFO [search-api] GET /api/v1/orders 200 39ms
+2026-03-25T10:56:06Z INFO [search-api] GET /api/v1/search 200 40ms
+2026-03-25T10:56:38Z INFO [search-api] GET /api/v1/health 200 12ms
+2026-03-25T11:00:46Z INFO [search-api] GET /api/v1/cart 200 93ms
+2026-03-25T11:00:59Z WARN [search-api] Retry succeeded on attempt 2 for twilio
+2026-03-25T11:02:13Z INFO [search-api] GET /api/v1/orders 200 18ms
+2026-03-25T11:04:21Z INFO [search-api] GET /api/v1/orders 200 116ms
+2026-03-25T11:08:13Z INFO [search-api] GET /api/v1/search 200 10ms
+2026-03-25T11:09:43Z INFO [search-api] GET /api/v1/health 200 55ms
+2026-03-25T11:10:06Z INFO [search-api] GET /api/v1/orders 200 102ms
+2026-03-25T11:10:42Z INFO [search-api] GET /api/v1/health 200 41ms
+2026-03-25T11:11:40Z INFO [search-api] GET /api/v1/search 200 17ms
+2026-03-25T11:12:28Z INFO [search-api] GET /api/v1/cart 200 29ms
+2026-03-25T11:14:24Z INFO [search-api] GET /api/v1/search 200 87ms
+2026-03-25T11:14:47Z INFO [search-api] GET /api/v1/health 200 55ms
+2026-03-25T11:15:44Z INFO [search-api] GET /api/v1/orders 200 23ms
+2026-03-25T11:15:57Z INFO [search-api] GET /api/v1/orders 200 56ms
+2026-03-25T11:22:58Z INFO [search-api] GET /api/v1/cart 200 56ms
+2026-03-25T11:23:58Z INFO [search-api] GET /api/v1/cart 200 97ms
+2026-03-25T11:24:21Z INFO [search-api] GET /api/v1/orders 200 104ms
+2026-03-25T11:24:48Z INFO [search-api] GET /api/v1/search 200 55ms
+2026-03-25T11:28:15Z INFO [search-api] GET /api/v1/users 200 13ms
+2026-03-25T11:31:14Z INFO [search-api] GET /api/v1/orders 200 112ms
+2026-03-25T11:32:39Z INFO [search-api] GET /api/v1/users 200 105ms
+2026-03-25T11:33:46Z INFO [search-api] GET /api/v1/cart 200 49ms
+2026-03-25T11:36:59Z INFO [search-api] GET /api/v1/orders 200 37ms
+2026-03-25T11:38:19Z INFO [search-api] GET /api/v1/users 200 75ms
+2026-03-25T11:39:46Z INFO [search-api] GET /api/v1/orders 200 54ms
+2026-03-25T11:40:10Z INFO [search-api] GET /api/v1/health 200 92ms
+2026-03-25T11:40:54Z INFO [search-api] GET /api/v1/search 200 30ms
+2026-03-25T11:41:16Z INFO [search-api] GET /api/v1/health 200 60ms
+2026-03-25T11:43:25Z INFO [search-api] GET /api/v1/orders 200 77ms
+2026-03-25T11:43:27Z INFO [search-api] GET /api/v1/cart 200 36ms
+2026-03-25T11:44:45Z INFO [search-api] GET /api/v1/cart 200 76ms
+2026-03-25T11:45:20Z INFO [search-api] GET /api/v1/health 200 21ms
+2026-03-25T11:46:07Z INFO [search-api] GET /api/v1/cart 200 53ms
+2026-03-25T11:46:40Z INFO [search-api] GET /api/v1/cart 200 83ms
+2026-03-25T11:47:24Z INFO [search-api] GET /api/v1/orders 200 20ms
+2026-03-25T11:47:59Z INFO [search-api] GET /api/v1/cart 200 81ms
+2026-03-25T11:48:30Z INFO [search-api] GET /api/v1/health 200 86ms
+2026-03-25T11:50:22Z INFO [search-api] GET /api/v1/users 200 88ms
+2026-03-25T11:50:43Z INFO [search-api] GET /api/v1/cart 200 30ms
+2026-03-25T11:52:41Z INFO [search-api] GET /api/v1/search 200 43ms
+2026-03-25T11:54:05Z INFO [search-api] GET /api/v1/search 200 76ms
+2026-03-25T11:58:25Z INFO [search-api] GET /api/v1/users 200 59ms
+2026-03-25T12:00:24Z INFO [search-api] GET /api/v1/health 200 42ms
+2026-03-25T12:03:06Z INFO [search-api] GET /api/v1/health 200 28ms
+2026-03-25T12:03:48Z INFO [search-api] GET /api/v1/cart 200 11ms
+2026-03-25T12:05:36Z INFO [search-api] GET /api/v1/items 200 100ms
+2026-03-25T12:06:44Z INFO [search-api] GET /api/v1/search 200 30ms
+2026-03-25T12:06:59Z INFO [search-api] GET /api/v1/health 200 111ms
+2026-03-25T12:07:34Z INFO [search-api] GET /api/v1/cart 200 18ms
+2026-03-25T12:07:42Z INFO [search-api] GET /api/v1/health 200 41ms
+2026-03-25T12:08:27Z INFO [search-api] GET /api/v1/orders 200 80ms
+2026-03-25T12:10:05Z INFO [search-api] GET /api/v1/orders 200 11ms
+2026-03-25T12:10:42Z INFO [search-api] GET /api/v1/cart 200 101ms
+2026-03-25T12:13:32Z INFO [search-api] GET /api/v1/search 200 107ms
+2026-03-25T12:13:57Z INFO [search-api] GET /api/v1/users 200 116ms
+2026-03-25T12:14:45Z INFO [search-api] GET /api/v1/cart 200 89ms
+2026-03-25T12:16:16Z INFO [search-api] GET /api/v1/users 200 44ms
+2026-03-25T12:18:16Z INFO [search-api] GET /api/v1/cart 200 68ms
+2026-03-25T12:20:15Z INFO [search-api] GET /api/v1/users 200 69ms
+2026-03-25T12:21:22Z INFO [search-api] GET /api/v1/items 200 98ms
+2026-03-25T12:21:41Z INFO [search-api] GET /api/v1/cart 200 117ms
+2026-03-25T12:21:43Z INFO [search-api] GET /api/v1/health 200 35ms
+2026-03-25T12:22:28Z INFO [search-api] GET /api/v1/health 200 113ms
+2026-03-25T12:23:00Z INFO [search-api] GET /api/v1/search 200 31ms
+2026-03-25T12:26:47Z INFO [search-api] GET /api/v1/cart 200 17ms
+2026-03-25T12:27:40Z INFO [search-api] GET /api/v1/orders 200 51ms
+2026-03-25T12:28:04Z INFO [search-api] GET /api/v1/users 200 48ms
+2026-03-25T12:29:38Z INFO [search-api] GET /api/v1/items 200 64ms
+2026-03-25T12:30:06Z INFO [search-api] GET /api/v1/orders 200 25ms
+2026-03-25T12:30:50Z WARN [search-api] Disk usage above 85% on /var/lib/data
+2026-03-25T12:31:10Z WARN [search-api] Disk usage above 85% on /var/lib/data
+2026-03-25T12:31:18Z INFO [search-api] GET /api/v1/orders 200 24ms
+2026-03-25T12:31:18Z INFO [search-api] GET /api/v1/health 200 99ms
+2026-03-25T12:32:27Z INFO [search-api] GET /api/v1/items 200 29ms
+2026-03-25T12:32:40Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T12:33:03Z INFO [search-api] GET /api/v1/cart 200 34ms
+2026-03-25T12:35:07Z ERROR [search-api] No space left on device
+2026-03-25T12:35:27Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T12:36:41Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T12:37:34Z INFO [search-api] GET /api/v1/items 200 57ms
+2026-03-25T12:40:04Z ERROR [search-api] No space left on device
+2026-03-25T12:40:22Z ERROR [search-api] Unexpected error handling request
+2026-03-25T12:41:00Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T12:41:55Z INFO [search-api] GET /api/v1/orders 200 103ms
+2026-03-25T12:43:06Z INFO [search-api] GET /api/v1/cart 200 93ms
+2026-03-25T12:44:44Z INFO [search-api] GET /api/v1/items 200 65ms
+2026-03-25T12:44:52Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T12:45:09Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T12:45:26Z ERROR [search-api] Request failed with status 500
+2026-03-25T12:45:55Z INFO [search-api] GET /api/v1/users 200 73ms
+2026-03-25T12:46:10Z INFO [search-api] GET /api/v1/orders 200 35ms
+2026-03-25T12:46:44Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T12:47:24Z INFO [search-api] GET /api/v1/search 200 19ms
+2026-03-25T12:48:26Z INFO [search-api] GET /api/v1/search 200 32ms
+2026-03-25T12:48:45Z ERROR [search-api] Unexpected error handling request
+2026-03-25T12:48:49Z INFO [search-api] GET /api/v1/cart 200 21ms
+2026-03-25T12:48:50Z ERROR [search-api] No space left on device
+2026-03-25T12:50:06Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T12:50:14Z INFO [search-api] GET /api/v1/health 200 55ms
+2026-03-25T12:50:27Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T12:50:31Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T12:50:50Z INFO [search-api] GET /api/v1/cart 200 76ms
+2026-03-25T12:51:46Z INFO [search-api] GET /api/v1/search 200 83ms
+2026-03-25T12:51:51Z INFO [search-api] GET /api/v1/search 200 101ms
+2026-03-25T12:52:34Z ERROR [search-api] Unexpected error handling request
+2026-03-25T12:53:06Z ERROR [search-api] Unexpected error handling request
+2026-03-25T12:53:30Z INFO [search-api] GET /api/v1/orders 200 115ms
+2026-03-25T12:53:57Z INFO [search-api] GET /api/v1/orders 200 8ms
+2026-03-25T12:55:15Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T12:55:28Z INFO [search-api] GET /api/v1/cart 200 16ms
+2026-03-25T12:55:39Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T12:57:40Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T12:57:43Z WARN [search-api] Health check slow: 6327ms
+2026-03-25T12:57:49Z INFO [search-api] GET /api/v1/cart 200 107ms
+2026-03-25T12:59:06Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T12:59:31Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T13:01:16Z ERROR [search-api] Unexpected error handling request
+2026-03-25T13:01:35Z INFO [search-api] GET /api/v1/cart 200 99ms
+2026-03-25T13:03:55Z INFO [search-api] GET /api/v1/items 200 108ms
+2026-03-25T13:03:57Z ERROR [search-api] Unexpected error handling request
+2026-03-25T13:04:12Z INFO [search-api] GET /api/v1/items 200 74ms
+2026-03-25T13:05:26Z ERROR [search-api] No space left on device
+2026-03-25T13:05:34Z INFO [search-api] GET /api/v1/items 200 37ms
+2026-03-25T13:06:12Z WARN [search-api] Health check slow: 7794ms
+2026-03-25T13:06:19Z INFO [search-api] GET /api/v1/cart 200 67ms
+2026-03-25T13:06:48Z INFO [search-api] GET /api/v1/cart 200 73ms
+2026-03-25T13:07:20Z ERROR [search-api] Unexpected error handling request
+2026-03-25T13:07:31Z INFO [search-api] GET /api/v1/health 200 13ms
+2026-03-25T13:07:36Z ERROR [search-api] Unexpected error handling request
+2026-03-25T13:08:31Z INFO [search-api] GET /api/v1/health 200 40ms
+2026-03-25T13:08:44Z ERROR [search-api] Request failed with status 500
+2026-03-25T13:10:57Z INFO [search-api] GET /api/v1/orders 200 91ms
+2026-03-25T13:11:37Z INFO [search-api] GET /api/v1/health 200 81ms
+2026-03-25T13:12:19Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:12:21Z INFO [search-api] GET /api/v1/search 200 65ms
+2026-03-25T13:13:01Z INFO [search-api] GET /api/v1/users 200 57ms
+2026-03-25T13:13:57Z INFO [search-api] GET /api/v1/orders 200 115ms
+2026-03-25T13:13:59Z INFO [search-api] GET /api/v1/search 200 72ms
+2026-03-25T13:15:06Z INFO [search-api] GET /api/v1/search 200 21ms
+2026-03-25T13:15:29Z ERROR [search-api] Request failed with status 500
+2026-03-25T13:15:44Z ERROR [search-api] No space left on device
+2026-03-25T13:16:17Z ERROR [search-api] Unexpected error handling request
+2026-03-25T13:16:34Z ERROR [search-api] No space left on device
+2026-03-25T13:17:55Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T13:18:21Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T13:18:38Z ERROR [search-api] Unexpected error handling request
+2026-03-25T13:19:00Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:19:06Z WARN [search-api] Health check slow: 5107ms
+2026-03-25T13:19:19Z ERROR [search-api] Request failed with status 500
+2026-03-25T13:19:57Z ERROR [search-api] Request failed with status 500
+2026-03-25T13:20:17Z INFO [search-api] GET /api/v1/cart 200 111ms
+2026-03-25T13:21:14Z INFO [search-api] GET /api/v1/search 200 116ms
+2026-03-25T13:21:33Z INFO [search-api] GET /api/v1/cart 200 110ms
+2026-03-25T13:22:26Z INFO [search-api] GET /api/v1/items 200 71ms
+2026-03-25T13:22:30Z ERROR [search-api] No space left on device
+2026-03-25T13:22:43Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:24:37Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T13:24:50Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:25:15Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:25:49Z INFO [search-api] GET /api/v1/items 200 63ms
+2026-03-25T13:26:13Z INFO [search-api] GET /api/v1/items 200 75ms
+2026-03-25T13:29:39Z INFO [search-api] GET /api/v1/search 200 28ms
+2026-03-25T13:30:04Z ERROR [search-api] Request failed with status 500
+2026-03-25T13:30:08Z INFO [search-api] GET /api/v1/users 200 66ms
+2026-03-25T13:30:34Z INFO [search-api] GET /api/v1/users 200 86ms
+2026-03-25T13:30:40Z INFO [search-api] GET /api/v1/cart 200 34ms
+2026-03-25T13:31:01Z INFO [search-api] GET /api/v1/search 200 87ms
+2026-03-25T13:32:05Z ERROR [search-api] Request failed with status 500
+2026-03-25T13:33:17Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:33:35Z INFO [search-api] GET /api/v1/orders 200 79ms
+2026-03-25T13:33:45Z ERROR [search-api] No space left on device
+2026-03-25T13:34:37Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T13:35:04Z WARN [search-api] Health check slow: 7584ms
+2026-03-25T13:35:21Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:35:32Z INFO [search-api] GET /api/v1/orders 200 75ms
+2026-03-25T13:36:19Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:37:01Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T13:37:42Z ERROR [search-api] Unexpected error handling request
+2026-03-25T13:38:14Z INFO [search-api] GET /api/v1/search 200 9ms
+2026-03-25T13:38:42Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:39:06Z INFO [search-api] GET /api/v1/items 200 70ms
+2026-03-25T13:39:08Z INFO [search-api] GET /api/v1/health 200 115ms
+2026-03-25T13:39:30Z ERROR [search-api] No space left on device
+2026-03-25T13:42:58Z WARN [search-api] Health check slow: 7921ms
+2026-03-25T13:43:52Z INFO [search-api] GET /api/v1/orders 200 111ms
+2026-03-25T13:44:38Z INFO [search-api] GET /api/v1/health 200 42ms
+2026-03-25T13:44:51Z INFO [search-api] GET /api/v1/health 200 52ms
+2026-03-25T13:46:34Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:46:41Z INFO [search-api] GET /api/v1/users 200 17ms
+2026-03-25T13:47:24Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T13:47:55Z INFO [search-api] GET /api/v1/health 200 13ms
+2026-03-25T13:48:12Z INFO [search-api] GET /api/v1/items 200 15ms
+2026-03-25T13:48:18Z INFO [search-api] GET /api/v1/search 200 100ms
+2026-03-25T13:48:27Z ERROR [search-api] Request failed with status 500
+2026-03-25T13:48:29Z INFO [search-api] GET /api/v1/cart 200 13ms
+2026-03-25T13:49:13Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:49:27Z WARN [search-api] Health check slow: 5165ms
+2026-03-25T13:49:29Z ERROR [search-api] Request failed with status 500
+2026-03-25T13:50:09Z INFO [search-api] GET /api/v1/items 200 22ms
+2026-03-25T13:50:12Z WARN [search-api] Health check slow: 1633ms
+2026-03-25T13:50:15Z INFO [search-api] GET /api/v1/orders 200 93ms
+2026-03-25T13:50:37Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T13:52:01Z INFO [search-api] GET /api/v1/orders 200 24ms
+2026-03-25T13:52:34Z INFO [search-api] GET /api/v1/users 200 91ms
+2026-03-25T13:54:18Z ERROR [search-api] Failed to write WAL segment: disk quota exceeded
+2026-03-25T13:55:05Z INFO [search-api] GET /api/v1/cart 200 48ms
+2026-03-25T13:55:05Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T13:55:27Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T13:56:01Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T13:56:34Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T13:57:15Z WARN [search-api] Log rotation failed: cannot create file
+2026-03-25T13:59:06Z INFO [search-api] GET /api/v1/cart 200 62ms
+2026-03-25T13:59:33Z ERROR [search-api] IOException: write failed, filesystem is full
+2026-03-25T13:59:50Z INFO [search-api] GET /api/v1/users 200 59ms

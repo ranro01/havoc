@@ -1,0 +1,289 @@
+2026-04-03T10:01:11Z INFO [payment-gateway] GET /api/v1/health 200 102ms
+2026-04-03T10:02:26Z INFO [payment-gateway] GET /api/v1/orders 200 38ms
+2026-04-03T10:02:51Z INFO [payment-gateway] GET /api/v1/orders 200 81ms
+2026-04-03T10:03:35Z INFO [payment-gateway] GET /api/v1/users 200 40ms
+2026-04-03T10:03:54Z INFO [payment-gateway] GET /api/v1/users 200 59ms
+2026-04-03T10:04:21Z INFO [payment-gateway] GET /api/v1/search 200 19ms
+2026-04-03T10:05:55Z INFO [payment-gateway] GET /api/v1/search 200 113ms
+2026-04-03T10:05:56Z INFO [payment-gateway] GET /api/v1/health 200 95ms
+2026-04-03T10:07:14Z INFO [payment-gateway] GET /api/v1/search 200 89ms
+2026-04-03T10:07:48Z INFO [payment-gateway] GET /api/v1/items 200 104ms
+2026-04-03T10:09:38Z INFO [payment-gateway] GET /api/v1/cart 200 16ms
+2026-04-03T10:10:05Z INFO [payment-gateway] GET /api/v1/orders 200 76ms
+2026-04-03T10:10:43Z INFO [payment-gateway] GET /api/v1/orders 200 59ms
+2026-04-03T10:11:51Z INFO [payment-gateway] GET /api/v1/items 200 55ms
+2026-04-03T10:12:09Z INFO [payment-gateway] GET /api/v1/users 200 117ms
+2026-04-03T10:12:45Z INFO [payment-gateway] GET /api/v1/orders 200 74ms
+2026-04-03T10:13:26Z INFO [payment-gateway] GET /api/v1/cart 200 69ms
+2026-04-03T10:13:38Z INFO [payment-gateway] GET /api/v1/users 200 19ms
+2026-04-03T10:16:47Z INFO [payment-gateway] GET /api/v1/items 200 29ms
+2026-04-03T10:18:56Z INFO [payment-gateway] GET /api/v1/users 200 74ms
+2026-04-03T10:19:36Z INFO [payment-gateway] GET /api/v1/items 200 17ms
+2026-04-03T10:19:41Z INFO [payment-gateway] GET /api/v1/orders 200 26ms
+2026-04-03T10:20:13Z INFO [payment-gateway] GET /api/v1/users 200 92ms
+2026-04-03T10:21:05Z INFO [payment-gateway] GET /api/v1/users 200 113ms
+2026-04-03T10:21:23Z INFO [payment-gateway] GET /api/v1/items 200 48ms
+2026-04-03T10:21:37Z INFO [payment-gateway] GET /api/v1/health 200 100ms
+2026-04-03T10:24:53Z INFO [payment-gateway] GET /api/v1/search 200 104ms
+2026-04-03T10:25:57Z INFO [payment-gateway] GET /api/v1/search 200 24ms
+2026-04-03T10:29:36Z INFO [payment-gateway] GET /api/v1/users 200 111ms
+2026-04-03T10:29:41Z INFO [payment-gateway] GET /api/v1/cart 200 16ms
+2026-04-03T10:30:22Z INFO [payment-gateway] GET /api/v1/cart 200 32ms
+2026-04-03T10:30:47Z INFO [payment-gateway] GET /api/v1/search 200 93ms
+2026-04-03T10:33:31Z INFO [payment-gateway] GET /api/v1/items 200 26ms
+2026-04-03T10:35:07Z INFO [payment-gateway] GET /api/v1/health 200 20ms
+2026-04-03T10:35:42Z INFO [payment-gateway] GET /api/v1/users 200 86ms
+2026-04-03T10:42:38Z INFO [payment-gateway] GET /api/v1/search 200 81ms
+2026-04-03T10:43:03Z INFO [payment-gateway] GET /api/v1/search 200 87ms
+2026-04-03T10:43:23Z INFO [payment-gateway] GET /api/v1/users 200 9ms
+2026-04-03T10:44:16Z INFO [payment-gateway] GET /api/v1/health 200 82ms
+2026-04-03T10:44:58Z INFO [payment-gateway] GET /api/v1/orders 200 61ms
+2026-04-03T10:46:25Z INFO [payment-gateway] GET /api/v1/cart 200 85ms
+2026-04-03T10:46:59Z INFO [payment-gateway] GET /api/v1/items 200 75ms
+2026-04-03T10:50:47Z INFO [payment-gateway] GET /api/v1/health 200 74ms
+2026-04-03T10:50:55Z INFO [payment-gateway] GET /api/v1/cart 200 117ms
+2026-04-03T10:52:11Z INFO [payment-gateway] GET /api/v1/cart 200 58ms
+2026-04-03T10:53:54Z INFO [payment-gateway] GET /api/v1/search 200 119ms
+2026-04-03T10:54:08Z INFO [payment-gateway] GET /api/v1/orders 200 72ms
+2026-04-03T10:55:20Z INFO [payment-gateway] GET /api/v1/users 200 118ms
+2026-04-03T10:56:01Z INFO [payment-gateway] GET /api/v1/cart 200 45ms
+2026-04-03T10:58:25Z INFO [payment-gateway] GET /api/v1/cart 200 22ms
+2026-04-03T10:58:40Z INFO [payment-gateway] GET /api/v1/items 200 19ms
+2026-04-03T11:03:13Z INFO [payment-gateway] GET /api/v1/cart 200 52ms
+2026-04-03T11:04:02Z INFO [payment-gateway] GET /api/v1/search 200 15ms
+2026-04-03T11:07:53Z INFO [payment-gateway] GET /api/v1/search 200 86ms
+2026-04-03T11:09:26Z INFO [payment-gateway] GET /api/v1/orders 200 33ms
+2026-04-03T11:10:19Z WARN [payment-gateway] Minor GC pause 120ms
+2026-04-03T11:12:15Z INFO [payment-gateway] GET /api/v1/search 200 99ms
+2026-04-03T11:13:46Z INFO [payment-gateway] GET /api/v1/orders 200 25ms
+2026-04-03T11:16:51Z INFO [payment-gateway] GET /api/v1/users 200 43ms
+2026-04-03T11:17:36Z INFO [payment-gateway] GET /api/v1/cart 200 118ms
+2026-04-03T11:18:28Z INFO [payment-gateway] GET /api/v1/search 200 111ms
+2026-04-03T11:18:53Z INFO [payment-gateway] GET /api/v1/orders 200 108ms
+2026-04-03T11:19:25Z INFO [payment-gateway] GET /api/v1/health 200 104ms
+2026-04-03T11:19:35Z INFO [payment-gateway] GET /api/v1/orders 200 82ms
+2026-04-03T11:20:04Z INFO [payment-gateway] GET /api/v1/health 200 55ms
+2026-04-03T11:20:45Z INFO [payment-gateway] GET /api/v1/search 200 25ms
+2026-04-03T11:20:51Z INFO [payment-gateway] GET /api/v1/orders 200 11ms
+2026-04-03T11:25:31Z INFO [payment-gateway] GET /api/v1/cart 200 28ms
+2026-04-03T11:26:13Z INFO [payment-gateway] GET /api/v1/cart 200 22ms
+2026-04-03T11:27:30Z INFO [payment-gateway] GET /api/v1/users 200 119ms
+2026-04-03T11:30:04Z INFO [payment-gateway] GET /api/v1/search 200 35ms
+2026-04-03T11:30:05Z INFO [payment-gateway] GET /api/v1/health 200 90ms
+2026-04-03T11:30:07Z INFO [payment-gateway] GET /api/v1/health 200 57ms
+2026-04-03T11:30:27Z INFO [payment-gateway] GET /api/v1/search 200 73ms
+2026-04-03T11:34:18Z INFO [payment-gateway] GET /api/v1/orders 200 119ms
+2026-04-03T11:36:29Z INFO [payment-gateway] GET /api/v1/orders 200 10ms
+2026-04-03T11:37:15Z INFO [payment-gateway] GET /api/v1/cart 200 73ms
+2026-04-03T11:41:24Z INFO [payment-gateway] GET /api/v1/users 200 46ms
+2026-04-03T11:45:02Z INFO [payment-gateway] GET /api/v1/search 200 67ms
+2026-04-03T11:45:09Z INFO [payment-gateway] GET /api/v1/search 200 71ms
+2026-04-03T11:48:06Z INFO [payment-gateway] GET /api/v1/users 200 93ms
+2026-04-03T11:48:38Z INFO [payment-gateway] GET /api/v1/health 200 18ms
+2026-04-03T11:48:51Z INFO [payment-gateway] GET /api/v1/users 200 60ms
+2026-04-03T11:49:24Z INFO [payment-gateway] GET /api/v1/orders 200 20ms
+2026-04-03T11:51:18Z INFO [payment-gateway] GET /api/v1/orders 200 62ms
+2026-04-03T11:51:41Z INFO [payment-gateway] GET /api/v1/search 200 39ms
+2026-04-03T11:54:42Z WARN [payment-gateway] Slow request 640ms for GET /api/v1/items
+2026-04-03T11:54:46Z INFO [payment-gateway] GET /api/v1/health 200 49ms
+2026-04-03T11:55:07Z INFO [payment-gateway] GET /api/v1/cart 200 48ms
+2026-04-03T11:57:49Z INFO [payment-gateway] GET /api/v1/items 200 106ms
+2026-04-03T12:00:34Z INFO [payment-gateway] GET /api/v1/cart 200 108ms
+2026-04-03T12:00:43Z INFO [payment-gateway] GET /api/v1/health 200 108ms
+2026-04-03T12:01:09Z INFO [payment-gateway] GET /api/v1/users 200 12ms
+2026-04-03T12:01:52Z INFO [payment-gateway] GET /api/v1/search 200 101ms
+2026-04-03T12:02:12Z INFO [payment-gateway] GET /api/v1/search 200 14ms
+2026-04-03T12:04:03Z INFO [payment-gateway] GET /api/v1/cart 200 10ms
+2026-04-03T12:04:58Z INFO [payment-gateway] GET /api/v1/items 200 35ms
+2026-04-03T12:08:21Z INFO [payment-gateway] GET /api/v1/cart 200 118ms
+2026-04-03T12:08:35Z INFO [payment-gateway] GET /api/v1/cart 200 49ms
+2026-04-03T12:08:45Z INFO [payment-gateway] GET /api/v1/cart 200 35ms
+2026-04-03T12:08:50Z INFO [payment-gateway] GET /api/v1/health 200 105ms
+2026-04-03T12:10:30Z INFO [payment-gateway] GET /api/v1/orders 200 41ms
+2026-04-03T12:11:04Z INFO [payment-gateway] GET /api/v1/orders 200 11ms
+2026-04-03T12:11:16Z INFO [payment-gateway] GET /api/v1/cart 200 13ms
+2026-04-03T12:13:39Z INFO [payment-gateway] GET /api/v1/items 200 80ms
+2026-04-03T12:14:03Z INFO [payment-gateway] GET /api/v1/items 200 20ms
+2026-04-03T12:16:00Z WARN [payment-gateway] Certificate for api.internal expires in 24 days
+2026-04-03T12:18:47Z INFO [payment-gateway] GET /api/v1/health 200 84ms
+2026-04-03T12:23:08Z WARN [payment-gateway] Certificate for api.internal expires in 24 days
+2026-04-03T12:23:38Z INFO [payment-gateway] GET /api/v1/cart 200 89ms
+2026-04-03T12:25:33Z INFO [payment-gateway] GET /api/v1/cart 200 20ms
+2026-04-03T12:29:31Z INFO [payment-gateway] GET /api/v1/cart 200 103ms
+2026-04-03T12:29:51Z INFO [payment-gateway] GET /api/v1/cart 200 54ms
+2026-04-03T12:31:20Z INFO [payment-gateway] GET /api/v1/items 200 96ms
+2026-04-03T12:31:44Z INFO [payment-gateway] GET /api/v1/cart 200 53ms
+2026-04-03T12:31:57Z INFO [payment-gateway] GET /api/v1/health 200 47ms
+2026-04-03T12:32:01Z INFO [payment-gateway] GET /api/v1/users 200 73ms
+2026-04-03T12:33:17Z INFO [payment-gateway] GET /api/v1/users 200 101ms
+2026-04-03T12:35:06Z INFO [payment-gateway] GET /api/v1/orders 200 103ms
+2026-04-03T12:35:19Z INFO [payment-gateway] GET /api/v1/items 200 57ms
+2026-04-03T12:37:54Z INFO [payment-gateway] GET /api/v1/cart 200 33ms
+2026-04-03T12:39:12Z INFO [payment-gateway] GET /api/v1/cart 200 107ms
+2026-04-03T12:40:13Z INFO [payment-gateway] GET /api/v1/health 200 53ms
+2026-04-03T12:42:51Z INFO [payment-gateway] GET /api/v1/cart 200 66ms
+2026-04-03T12:43:36Z INFO [payment-gateway] GET /api/v1/search 200 57ms
+2026-04-03T12:45:00Z INFO [payment-gateway] GET /api/v1/orders 200 25ms
+2026-04-03T12:45:20Z INFO [payment-gateway] GET /api/v1/health 200 41ms
+2026-04-03T12:45:20Z INFO [payment-gateway] GET /api/v1/orders 200 69ms
+2026-04-03T12:46:45Z INFO [payment-gateway] GET /api/v1/orders 200 61ms
+2026-04-03T12:48:12Z INFO [payment-gateway] GET /api/v1/users 200 12ms
+2026-04-03T12:50:18Z WARN [payment-gateway] twilio response time p99 1372ms
+2026-04-03T12:51:53Z INFO [payment-gateway] GET /api/v1/orders 200 72ms
+2026-04-03T12:53:05Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T12:53:28Z INFO [payment-gateway] GET /api/v1/health 200 19ms
+2026-04-03T12:54:19Z INFO [payment-gateway] GET /api/v1/health 200 37ms
+2026-04-03T12:54:51Z INFO [payment-gateway] GET /api/v1/cart 200 77ms
+2026-04-03T12:55:02Z WARN [payment-gateway] Circuit breaker OPEN for pricing-service
+2026-04-03T12:55:05Z ERROR [payment-gateway] Read timeout calling stripe
+2026-04-03T12:55:19Z INFO [payment-gateway] GET /api/v1/users 200 74ms
+2026-04-03T12:55:19Z ERROR [payment-gateway] Read timeout calling auth-service
+2026-04-03T12:55:58Z ERROR [payment-gateway] Fallback triggered: twilio unavailable
+2026-04-03T12:56:28Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T12:56:29Z ERROR [payment-gateway] Upstream inventory-service timed out after 2101ms
+2026-04-03T12:56:38Z INFO [payment-gateway] GET /api/v1/health 200 45ms
+2026-04-03T12:56:45Z INFO [payment-gateway] GET /api/v1/cart 200 86ms
+2026-04-03T12:56:55Z ERROR [payment-gateway] Read timeout calling inventory-service
+2026-04-03T12:57:41Z WARN [payment-gateway] Circuit breaker OPEN for stripe
+2026-04-03T12:58:17Z WARN [payment-gateway] Health check slow: 4670ms
+2026-04-03T12:58:34Z INFO [payment-gateway] GET /api/v1/cart 200 111ms
+2026-04-03T12:58:48Z INFO [payment-gateway] GET /api/v1/orders 200 110ms
+2026-04-03T12:59:28Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:00:43Z INFO [payment-gateway] GET /api/v1/items 200 62ms
+2026-04-03T13:00:50Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:02:34Z WARN [payment-gateway] Health check slow: 3167ms
+2026-04-03T13:04:10Z INFO [payment-gateway] GET /api/v1/search 200 73ms
+2026-04-03T13:04:14Z WARN [payment-gateway] Circuit breaker OPEN for auth-service
+2026-04-03T13:04:33Z INFO [payment-gateway] GET /api/v1/cart 200 48ms
+2026-04-03T13:04:51Z WARN [payment-gateway] Circuit breaker OPEN for pricing-service
+2026-04-03T13:05:49Z INFO [payment-gateway] GET /api/v1/health 200 61ms
+2026-04-03T13:05:56Z INFO [payment-gateway] GET /api/v1/search 200 22ms
+2026-04-03T13:06:04Z ERROR [payment-gateway] Upstream stripe timed out after 4678ms
+2026-04-03T13:06:11Z WARN [payment-gateway] Circuit breaker OPEN for pricing-service
+2026-04-03T13:06:15Z WARN [payment-gateway] Health check slow: 4386ms
+2026-04-03T13:07:14Z INFO [payment-gateway] GET /api/v1/orders 200 91ms
+2026-04-03T13:07:14Z WARN [payment-gateway] Circuit breaker OPEN for twilio
+2026-04-03T13:07:25Z ERROR [payment-gateway] Read timeout calling auth-service
+2026-04-03T13:07:30Z ERROR [payment-gateway] Fallback triggered: stripe unavailable
+2026-04-03T13:07:42Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:07:43Z INFO [payment-gateway] GET /api/v1/health 200 9ms
+2026-04-03T13:07:44Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:08:37Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:09:23Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:10:53Z INFO [payment-gateway] GET /api/v1/orders 200 15ms
+2026-04-03T13:11:10Z WARN [payment-gateway] Circuit breaker OPEN for inventory-service
+2026-04-03T13:11:31Z INFO [payment-gateway] GET /api/v1/orders 200 62ms
+2026-04-03T13:11:55Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:12:39Z ERROR [payment-gateway] Fallback triggered: inventory-service unavailable
+2026-04-03T13:12:46Z INFO [payment-gateway] GET /api/v1/cart 200 105ms
+2026-04-03T13:13:14Z INFO [payment-gateway] GET /api/v1/orders 200 117ms
+2026-04-03T13:13:57Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:14:45Z ERROR [payment-gateway] Upstream stripe timed out after 4878ms
+2026-04-03T13:15:24Z ERROR [payment-gateway] Upstream auth-service timed out after 6961ms
+2026-04-03T13:15:26Z WARN [payment-gateway] Health check slow: 7559ms
+2026-04-03T13:16:33Z INFO [payment-gateway] GET /api/v1/orders 200 18ms
+2026-04-03T13:17:24Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:17:42Z ERROR [payment-gateway] Read timeout calling auth-service
+2026-04-03T13:18:12Z ERROR [payment-gateway] Fallback triggered: auth-service unavailable
+2026-04-03T13:18:38Z INFO [payment-gateway] GET /api/v1/health 200 30ms
+2026-04-03T13:18:42Z WARN [payment-gateway] Circuit breaker OPEN for pricing-service
+2026-04-03T13:19:02Z INFO [payment-gateway] GET /api/v1/search 200 108ms
+2026-04-03T13:19:05Z ERROR [payment-gateway] Read timeout calling twilio
+2026-04-03T13:19:15Z ERROR [payment-gateway] Read timeout calling twilio
+2026-04-03T13:19:50Z INFO [payment-gateway] GET /api/v1/users 200 61ms
+2026-04-03T13:19:50Z INFO [payment-gateway] GET /api/v1/cart 200 112ms
+2026-04-03T13:20:05Z ERROR [payment-gateway] Fallback triggered: auth-service unavailable
+2026-04-03T13:20:09Z WARN [payment-gateway] Health check slow: 1375ms
+2026-04-03T13:20:17Z WARN [payment-gateway] Circuit breaker OPEN for pricing-service
+2026-04-03T13:20:23Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:21:15Z ERROR [payment-gateway] Fallback triggered: twilio unavailable
+2026-04-03T13:21:18Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:21:54Z ERROR [payment-gateway] Fallback triggered: stripe unavailable
+2026-04-03T13:22:12Z ERROR [payment-gateway] Read timeout calling payment-gateway
+2026-04-03T13:22:20Z ERROR [payment-gateway] Read timeout calling twilio
+2026-04-03T13:22:44Z WARN [payment-gateway] Health check slow: 3316ms
+2026-04-03T13:23:09Z ERROR [payment-gateway] Upstream inventory-service timed out after 6007ms
+2026-04-03T13:23:19Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:23:57Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:24:12Z WARN [payment-gateway] Health check slow: 4527ms
+2026-04-03T13:24:18Z WARN [payment-gateway] Circuit breaker OPEN for twilio
+2026-04-03T13:24:27Z ERROR [payment-gateway] Read timeout calling stripe
+2026-04-03T13:24:38Z INFO [payment-gateway] GET /api/v1/cart 200 52ms
+2026-04-03T13:25:56Z INFO [payment-gateway] GET /api/v1/users 200 103ms
+2026-04-03T13:26:43Z INFO [payment-gateway] GET /api/v1/search 200 52ms
+2026-04-03T13:28:57Z INFO [payment-gateway] GET /api/v1/items 200 96ms
+2026-04-03T13:29:46Z WARN [payment-gateway] Circuit breaker OPEN for twilio
+2026-04-03T13:30:27Z ERROR [payment-gateway] Read timeout calling pricing-service
+2026-04-03T13:31:13Z ERROR [payment-gateway] Read timeout calling pricing-service
+2026-04-03T13:31:59Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:32:51Z WARN [payment-gateway] Health check slow: 6878ms
+2026-04-03T13:33:28Z ERROR [payment-gateway] Read timeout calling twilio
+2026-04-03T13:34:23Z ERROR [payment-gateway] Fallback triggered: inventory-service unavailable
+2026-04-03T13:34:43Z ERROR [payment-gateway] Read timeout calling stripe
+2026-04-03T13:34:48Z ERROR [payment-gateway] Read timeout calling payment-gateway
+2026-04-03T13:34:50Z INFO [payment-gateway] GET /api/v1/search 200 29ms
+2026-04-03T13:35:13Z WARN [payment-gateway] Circuit breaker OPEN for inventory-service
+2026-04-03T13:35:29Z INFO [payment-gateway] GET /api/v1/search 200 116ms
+2026-04-03T13:35:47Z INFO [payment-gateway] GET /api/v1/orders 200 30ms
+2026-04-03T13:36:06Z INFO [payment-gateway] GET /api/v1/items 200 63ms
+2026-04-03T13:36:19Z ERROR [payment-gateway] Read timeout calling inventory-service
+2026-04-03T13:36:43Z INFO [payment-gateway] GET /api/v1/orders 200 100ms
+2026-04-03T13:36:50Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:38:11Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:38:24Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:38:33Z INFO [payment-gateway] GET /api/v1/cart 200 11ms
+2026-04-03T13:38:40Z INFO [payment-gateway] GET /api/v1/health 200 118ms
+2026-04-03T13:39:23Z WARN [payment-gateway] Health check slow: 943ms
+2026-04-03T13:39:31Z ERROR [payment-gateway] Read timeout calling stripe
+2026-04-03T13:39:52Z WARN [payment-gateway] Circuit breaker OPEN for stripe
+2026-04-03T13:39:57Z WARN [payment-gateway] Health check slow: 2270ms
+2026-04-03T13:40:37Z INFO [payment-gateway] GET /api/v1/cart 200 92ms
+2026-04-03T13:41:33Z INFO [payment-gateway] GET /api/v1/health 200 86ms
+2026-04-03T13:42:04Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:42:40Z ERROR [payment-gateway] Read timeout calling twilio
+2026-04-03T13:42:40Z ERROR [payment-gateway] Read timeout calling inventory-service
+2026-04-03T13:42:48Z INFO [payment-gateway] GET /api/v1/orders 200 50ms
+2026-04-03T13:43:28Z INFO [payment-gateway] GET /api/v1/users 200 12ms
+2026-04-03T13:43:54Z INFO [payment-gateway] GET /api/v1/search 200 40ms
+2026-04-03T13:44:17Z ERROR [payment-gateway] Fallback triggered: inventory-service unavailable
+2026-04-03T13:44:32Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:44:44Z INFO [payment-gateway] GET /api/v1/search 200 101ms
+2026-04-03T13:45:46Z WARN [payment-gateway] Circuit breaker OPEN for auth-service
+2026-04-03T13:46:26Z ERROR [payment-gateway] Fallback triggered: auth-service unavailable
+2026-04-03T13:47:21Z INFO [payment-gateway] GET /api/v1/items 200 104ms
+2026-04-03T13:47:26Z ERROR [payment-gateway] Upstream twilio timed out after 7581ms
+2026-04-03T13:47:49Z INFO [payment-gateway] GET /api/v1/cart 200 36ms
+2026-04-03T13:48:40Z ERROR [payment-gateway] Upstream auth-service timed out after 4594ms
+2026-04-03T13:48:50Z ERROR [payment-gateway] Upstream pricing-service timed out after 6548ms
+2026-04-03T13:49:05Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:49:16Z WARN [payment-gateway] Circuit breaker OPEN for pricing-service
+2026-04-03T13:49:39Z INFO [payment-gateway] GET /api/v1/orders 200 28ms
+2026-04-03T13:49:39Z WARN [payment-gateway] Health check slow: 1628ms
+2026-04-03T13:49:46Z ERROR [payment-gateway] Read timeout calling twilio
+2026-04-03T13:49:53Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:50:21Z ERROR [payment-gateway] Fallback triggered: stripe unavailable
+2026-04-03T13:50:45Z ERROR [payment-gateway] Read timeout calling pricing-service
+2026-04-03T13:50:59Z WARN [payment-gateway] Circuit breaker OPEN for auth-service
+2026-04-03T13:51:01Z ERROR [payment-gateway] Read timeout calling pricing-service
+2026-04-03T13:51:55Z INFO [payment-gateway] GET /api/v1/items 200 85ms
+2026-04-03T13:52:14Z INFO [payment-gateway] GET /api/v1/items 200 82ms
+2026-04-03T13:52:37Z WARN [payment-gateway] Health check slow: 7770ms
+2026-04-03T13:53:01Z INFO [payment-gateway] GET /api/v1/users 200 90ms
+2026-04-03T13:53:09Z ERROR [payment-gateway] Upstream inventory-service timed out after 4439ms
+2026-04-03T13:53:17Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:53:21Z WARN [payment-gateway] Health check slow: 6601ms
+2026-04-03T13:53:36Z INFO [payment-gateway] GET /api/v1/items 200 47ms
+2026-04-03T13:54:28Z ERROR [payment-gateway] Unexpected error handling request
+2026-04-03T13:55:15Z INFO [payment-gateway] GET /api/v1/cart 200 109ms
+2026-04-03T13:55:31Z INFO [payment-gateway] GET /api/v1/items 200 66ms
+2026-04-03T13:55:56Z ERROR [payment-gateway] Upstream pricing-service timed out after 4254ms
+2026-04-03T13:57:09Z WARN [payment-gateway] Health check slow: 5146ms
+2026-04-03T13:57:30Z ERROR [payment-gateway] Upstream pricing-service timed out after 8177ms
+2026-04-03T13:57:36Z ERROR [payment-gateway] Request failed with status 500
+2026-04-03T13:58:15Z ERROR [payment-gateway] Fallback triggered: twilio unavailable
+2026-04-03T13:58:20Z INFO [payment-gateway] GET /api/v1/users 200 96ms
+2026-04-03T13:58:41Z INFO [payment-gateway] GET /api/v1/search 200 42ms
+2026-04-03T13:59:00Z WARN [payment-gateway] Circuit breaker OPEN for auth-service
+2026-04-03T13:59:36Z ERROR [payment-gateway] Upstream stripe timed out after 4405ms
+2026-04-03T13:59:47Z WARN [payment-gateway] Health check slow: 1262ms
+2026-04-03T13:59:49Z INFO [payment-gateway] GET /api/v1/users 200 95ms

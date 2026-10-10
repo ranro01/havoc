@@ -1,0 +1,298 @@
+2026-03-19T10:01:01Z INFO [notification-worker] GET /api/v1/items 200 53ms
+2026-03-19T10:01:54Z INFO [notification-worker] GET /api/v1/cart 200 45ms
+2026-03-19T10:02:20Z INFO [notification-worker] GET /api/v1/cart 200 79ms
+2026-03-19T10:03:26Z INFO [notification-worker] GET /api/v1/cart 200 76ms
+2026-03-19T10:03:38Z INFO [notification-worker] GET /api/v1/orders 200 118ms
+2026-03-19T10:04:01Z INFO [notification-worker] GET /api/v1/users 200 65ms
+2026-03-19T10:05:30Z INFO [notification-worker] GET /api/v1/search 200 96ms
+2026-03-19T10:07:43Z INFO [notification-worker] GET /api/v1/users 200 23ms
+2026-03-19T10:10:58Z INFO [notification-worker] GET /api/v1/cart 200 79ms
+2026-03-19T10:11:24Z INFO [notification-worker] GET /api/v1/cart 200 60ms
+2026-03-19T10:11:44Z INFO [notification-worker] GET /api/v1/search 200 23ms
+2026-03-19T10:13:33Z INFO [notification-worker] GET /api/v1/search 200 22ms
+2026-03-19T10:14:02Z INFO [notification-worker] GET /api/v1/search 200 110ms
+2026-03-19T10:15:21Z INFO [notification-worker] GET /api/v1/items 200 79ms
+2026-03-19T10:17:56Z INFO [notification-worker] GET /api/v1/orders 200 49ms
+2026-03-19T10:20:46Z INFO [notification-worker] GET /api/v1/users 200 66ms
+2026-03-19T10:21:19Z INFO [notification-worker] GET /api/v1/cart 200 12ms
+2026-03-19T10:22:10Z INFO [notification-worker] GET /api/v1/health 200 65ms
+2026-03-19T10:22:43Z INFO [notification-worker] GET /api/v1/items 200 27ms
+2026-03-19T10:24:09Z INFO [notification-worker] GET /api/v1/search 200 87ms
+2026-03-19T10:24:43Z INFO [notification-worker] GET /api/v1/items 200 109ms
+2026-03-19T10:25:23Z INFO [notification-worker] GET /api/v1/orders 200 21ms
+2026-03-19T10:30:06Z INFO [notification-worker] GET /api/v1/orders 200 109ms
+2026-03-19T10:31:43Z INFO [notification-worker] GET /api/v1/orders 200 73ms
+2026-03-19T10:34:48Z INFO [notification-worker] GET /api/v1/cart 200 88ms
+2026-03-19T10:34:51Z INFO [notification-worker] GET /api/v1/users 200 94ms
+2026-03-19T10:36:01Z INFO [notification-worker] GET /api/v1/cart 200 78ms
+2026-03-19T10:37:20Z INFO [notification-worker] GET /api/v1/items 200 111ms
+2026-03-19T10:40:29Z INFO [notification-worker] GET /api/v1/users 200 21ms
+2026-03-19T10:40:46Z INFO [notification-worker] GET /api/v1/items 200 36ms
+2026-03-19T10:42:46Z INFO [notification-worker] GET /api/v1/search 200 11ms
+2026-03-19T10:46:42Z INFO [notification-worker] GET /api/v1/search 200 116ms
+2026-03-19T10:46:49Z INFO [notification-worker] GET /api/v1/items 200 59ms
+2026-03-19T10:48:34Z INFO [notification-worker] GET /api/v1/users 200 39ms
+2026-03-19T10:50:02Z INFO [notification-worker] GET /api/v1/users 200 54ms
+2026-03-19T10:51:34Z INFO [notification-worker] GET /api/v1/cart 200 35ms
+2026-03-19T10:52:02Z INFO [notification-worker] GET /api/v1/cart 200 91ms
+2026-03-19T10:52:49Z INFO [notification-worker] GET /api/v1/users 200 63ms
+2026-03-19T10:54:05Z INFO [notification-worker] GET /api/v1/cart 200 69ms
+2026-03-19T10:54:31Z INFO [notification-worker] GET /api/v1/health 200 48ms
+2026-03-19T10:56:49Z WARN [notification-worker] Minor GC pause 120ms
+2026-03-19T10:57:16Z INFO [notification-worker] GET /api/v1/cart 200 85ms
+2026-03-19T10:57:49Z INFO [notification-worker] GET /api/v1/users 200 44ms
+2026-03-19T10:58:23Z WARN [notification-worker] Deprecated endpoint /v1/orders/legacy called
+2026-03-19T11:04:34Z INFO [notification-worker] GET /api/v1/users 200 32ms
+2026-03-19T11:05:56Z INFO [notification-worker] GET /api/v1/search 200 35ms
+2026-03-19T11:07:13Z INFO [notification-worker] GET /api/v1/orders 200 22ms
+2026-03-19T11:09:13Z INFO [notification-worker] GET /api/v1/orders 200 78ms
+2026-03-19T11:10:32Z INFO [notification-worker] GET /api/v1/items 200 56ms
+2026-03-19T11:12:36Z INFO [notification-worker] GET /api/v1/health 200 57ms
+2026-03-19T11:12:48Z INFO [notification-worker] GET /api/v1/items 200 13ms
+2026-03-19T11:13:06Z INFO [notification-worker] GET /api/v1/search 200 82ms
+2026-03-19T11:14:59Z INFO [notification-worker] GET /api/v1/health 200 35ms
+2026-03-19T11:16:14Z INFO [notification-worker] GET /api/v1/cart 200 55ms
+2026-03-19T11:17:33Z INFO [notification-worker] GET /api/v1/health 200 95ms
+2026-03-19T11:18:53Z INFO [notification-worker] GET /api/v1/search 200 113ms
+2026-03-19T11:20:07Z INFO [notification-worker] GET /api/v1/users 200 52ms
+2026-03-19T11:21:33Z INFO [notification-worker] GET /api/v1/cart 200 36ms
+2026-03-19T11:22:02Z INFO [notification-worker] GET /api/v1/users 200 100ms
+2026-03-19T11:22:38Z INFO [notification-worker] GET /api/v1/search 200 45ms
+2026-03-19T11:23:35Z INFO [notification-worker] GET /api/v1/orders 200 86ms
+2026-03-19T11:23:54Z INFO [notification-worker] GET /api/v1/health 200 119ms
+2026-03-19T11:25:12Z INFO [notification-worker] GET /api/v1/health 200 38ms
+2026-03-19T11:26:16Z INFO [notification-worker] GET /api/v1/items 200 76ms
+2026-03-19T11:29:19Z INFO [notification-worker] GET /api/v1/items 200 59ms
+2026-03-19T11:31:01Z INFO [notification-worker] GET /api/v1/orders 200 87ms
+2026-03-19T11:31:20Z INFO [notification-worker] GET /api/v1/users 200 11ms
+2026-03-19T11:32:40Z INFO [notification-worker] GET /api/v1/orders 200 74ms
+2026-03-19T11:35:37Z INFO [notification-worker] GET /api/v1/cart 200 21ms
+2026-03-19T11:35:58Z INFO [notification-worker] GET /api/v1/items 200 39ms
+2026-03-19T11:36:54Z INFO [notification-worker] GET /api/v1/health 200 110ms
+2026-03-19T11:44:49Z INFO [notification-worker] GET /api/v1/search 200 71ms
+2026-03-19T11:46:49Z INFO [notification-worker] GET /api/v1/search 200 55ms
+2026-03-19T11:46:56Z INFO [notification-worker] GET /api/v1/orders 200 39ms
+2026-03-19T11:48:06Z INFO [notification-worker] GET /api/v1/users 200 82ms
+2026-03-19T11:49:49Z INFO [notification-worker] GET /api/v1/search 200 8ms
+2026-03-19T11:50:46Z INFO [notification-worker] GET /api/v1/users 200 101ms
+2026-03-19T11:54:31Z INFO [notification-worker] GET /api/v1/items 200 73ms
+2026-03-19T11:57:47Z INFO [notification-worker] GET /api/v1/users 200 23ms
+2026-03-19T12:01:26Z INFO [notification-worker] GET /api/v1/health 200 96ms
+2026-03-19T12:06:00Z WARN [notification-worker] Deprecated endpoint /v1/orders/legacy called
+2026-03-19T12:07:25Z INFO [notification-worker] GET /api/v1/search 200 13ms
+2026-03-19T12:07:41Z INFO [notification-worker] GET /api/v1/orders 200 86ms
+2026-03-19T12:11:36Z INFO [notification-worker] GET /api/v1/orders 200 62ms
+2026-03-19T12:12:32Z INFO [notification-worker] GET /api/v1/users 200 84ms
+2026-03-19T12:12:55Z INFO [notification-worker] GET /api/v1/items 200 15ms
+2026-03-19T12:13:49Z INFO [notification-worker] GET /api/v1/search 200 45ms
+2026-03-19T12:15:59Z INFO [notification-worker] GET /api/v1/search 200 92ms
+2026-03-19T12:17:29Z INFO [notification-worker] GET /api/v1/items 200 18ms
+2026-03-19T12:17:45Z INFO [notification-worker] GET /api/v1/orders 200 43ms
+2026-03-19T12:18:21Z INFO [notification-worker] GET /api/v1/health 200 42ms
+2026-03-19T12:18:44Z INFO [notification-worker] GET /api/v1/users 200 67ms
+2026-03-19T12:19:49Z INFO [notification-worker] GET /api/v1/orders 200 38ms
+2026-03-19T12:20:18Z INFO [notification-worker] GET /api/v1/health 200 100ms
+2026-03-19T12:21:02Z INFO [notification-worker] GET /api/v1/items 200 29ms
+2026-03-19T12:23:16Z INFO [notification-worker] GET /api/v1/search 200 80ms
+2026-03-19T12:23:30Z INFO [notification-worker] GET /api/v1/orders 200 25ms
+2026-03-19T12:23:48Z INFO [notification-worker] GET /api/v1/search 200 118ms
+2026-03-19T12:26:44Z INFO [notification-worker] GET /api/v1/search 200 56ms
+2026-03-19T12:27:15Z INFO [notification-worker] GET /api/v1/search 200 99ms
+2026-03-19T12:27:45Z INFO [notification-worker] GET /api/v1/health 200 57ms
+2026-03-19T12:27:48Z INFO [notification-worker] GET /api/v1/health 200 26ms
+2026-03-19T12:30:11Z INFO [notification-worker] GET /api/v1/search 200 81ms
+2026-03-19T12:32:33Z INFO [notification-worker] GET /api/v1/cart 200 116ms
+2026-03-19T12:33:16Z INFO [notification-worker] GET /api/v1/health 200 80ms
+2026-03-19T12:34:07Z INFO [notification-worker] GET /api/v1/orders 200 56ms
+2026-03-19T12:34:46Z INFO [notification-worker] GET /api/v1/health 200 26ms
+2026-03-19T12:34:54Z INFO [notification-worker] GET /api/v1/cart 200 92ms
+2026-03-19T12:36:13Z INFO [notification-worker] GET /api/v1/health 200 48ms
+2026-03-19T12:37:00Z INFO [notification-worker] GET /api/v1/health 200 37ms
+2026-03-19T12:38:49Z INFO [notification-worker] GET /api/v1/orders 200 70ms
+2026-03-19T12:39:47Z INFO [notification-worker] GET /api/v1/users 200 43ms
+2026-03-19T12:41:04Z INFO [notification-worker] GET /api/v1/health 200 27ms
+2026-03-19T12:41:39Z INFO [notification-worker] GET /api/v1/search 200 91ms
+2026-03-19T12:42:38Z WARN [notification-worker] Connection leak detection triggered, connection held for 3788ms
+2026-03-19T12:43:58Z INFO [notification-worker] GET /api/v1/health 200 68ms
+2026-03-19T12:44:25Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T12:44:30Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T12:46:09Z INFO [notification-worker] GET /api/v1/health 200 62ms
+2026-03-19T12:46:20Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T12:46:33Z WARN [notification-worker] Connection leak detection triggered, connection held for 1290ms
+2026-03-19T12:46:34Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T12:46:52Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 2518ms
+2026-03-19T12:46:57Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 6338ms
+2026-03-19T12:47:15Z INFO [notification-worker] GET /api/v1/orders 200 27ms
+2026-03-19T12:47:30Z INFO [notification-worker] GET /api/v1/search 200 24ms
+2026-03-19T12:47:44Z ERROR [notification-worker] Timeout waiting for connection from pool (active=388, idle=0, waiting=388)
+2026-03-19T12:48:13Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T12:48:18Z INFO [notification-worker] GET /api/v1/orders 200 22ms
+2026-03-19T12:48:20Z INFO [notification-worker] GET /api/v1/users 200 80ms
+2026-03-19T12:48:50Z INFO [notification-worker] GET /api/v1/health 200 45ms
+2026-03-19T12:49:08Z INFO [notification-worker] GET /api/v1/health 200 93ms
+2026-03-19T12:49:27Z INFO [notification-worker] GET /api/v1/cart 200 46ms
+2026-03-19T12:50:35Z INFO [notification-worker] GET /api/v1/cart 200 38ms
+2026-03-19T12:50:43Z INFO [notification-worker] GET /api/v1/orders 200 48ms
+2026-03-19T12:50:44Z WARN [notification-worker] Health check slow: 3768ms
+2026-03-19T12:50:51Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T12:51:13Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T12:51:22Z ERROR [notification-worker] Timeout waiting for connection from pool (active=484, idle=0, waiting=484)
+2026-03-19T12:51:48Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T12:51:58Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 4653ms
+2026-03-19T12:51:59Z INFO [notification-worker] GET /api/v1/orders 200 53ms
+2026-03-19T12:52:30Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T12:52:38Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T12:53:07Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 2059ms
+2026-03-19T12:54:26Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T12:54:31Z INFO [notification-worker] GET /api/v1/health 200 105ms
+2026-03-19T12:55:09Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T12:55:21Z INFO [notification-worker] GET /api/v1/search 200 60ms
+2026-03-19T12:55:23Z INFO [notification-worker] GET /api/v1/users 200 110ms
+2026-03-19T12:55:30Z WARN [notification-worker] Pool saturation: all 518 connections in use
+2026-03-19T12:56:10Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 6633ms
+2026-03-19T12:56:37Z INFO [notification-worker] GET /api/v1/orders 200 67ms
+2026-03-19T12:56:52Z ERROR [notification-worker] Timeout waiting for connection from pool (active=186, idle=0, waiting=186)
+2026-03-19T12:56:55Z ERROR [notification-worker] Timeout waiting for connection from pool (active=397, idle=0, waiting=397)
+2026-03-19T12:57:22Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 3488ms
+2026-03-19T12:57:22Z INFO [notification-worker] GET /api/v1/search 200 103ms
+2026-03-19T12:57:56Z INFO [notification-worker] GET /api/v1/items 200 26ms
+2026-03-19T12:58:00Z INFO [notification-worker] GET /api/v1/users 200 66ms
+2026-03-19T12:58:44Z INFO [notification-worker] GET /api/v1/health 200 13ms
+2026-03-19T12:59:31Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:00:03Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:00:06Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:00:30Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:00:40Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:00:52Z WARN [notification-worker] Pool saturation: all 471 connections in use
+2026-03-19T13:01:01Z ERROR [notification-worker] Timeout waiting for connection from pool (active=141, idle=0, waiting=141)
+2026-03-19T13:01:03Z INFO [notification-worker] GET /api/v1/health 200 69ms
+2026-03-19T13:02:42Z INFO [notification-worker] GET /api/v1/items 200 28ms
+2026-03-19T13:04:05Z INFO [notification-worker] GET /api/v1/cart 200 36ms
+2026-03-19T13:04:49Z WARN [notification-worker] Health check slow: 4373ms
+2026-03-19T13:05:30Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:05:34Z WARN [notification-worker] Health check slow: 7367ms
+2026-03-19T13:05:52Z ERROR [notification-worker] Timeout waiting for connection from pool (active=709, idle=0, waiting=709)
+2026-03-19T13:06:15Z INFO [notification-worker] GET /api/v1/cart 200 37ms
+2026-03-19T13:06:38Z WARN [notification-worker] Pool saturation: all 523 connections in use
+2026-03-19T13:06:54Z INFO [notification-worker] GET /api/v1/search 200 41ms
+2026-03-19T13:07:45Z INFO [notification-worker] GET /api/v1/search 200 119ms
+2026-03-19T13:08:07Z WARN [notification-worker] Health check slow: 2003ms
+2026-03-19T13:08:15Z WARN [notification-worker] Pool saturation: all 839 connections in use
+2026-03-19T13:09:04Z INFO [notification-worker] GET /api/v1/orders 200 109ms
+2026-03-19T13:09:37Z INFO [notification-worker] GET /api/v1/cart 200 60ms
+2026-03-19T13:10:21Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:10:25Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:10:58Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:11:01Z INFO [notification-worker] GET /api/v1/search 200 114ms
+2026-03-19T13:11:25Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 8596ms
+2026-03-19T13:12:06Z INFO [notification-worker] GET /api/v1/items 200 33ms
+2026-03-19T13:12:10Z INFO [notification-worker] GET /api/v1/orders 200 72ms
+2026-03-19T13:12:13Z INFO [notification-worker] GET /api/v1/users 200 84ms
+2026-03-19T13:12:40Z INFO [notification-worker] GET /api/v1/search 200 80ms
+2026-03-19T13:14:45Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:15:17Z WARN [notification-worker] Health check slow: 8547ms
+2026-03-19T13:15:27Z WARN [notification-worker] Health check slow: 4762ms
+2026-03-19T13:15:29Z ERROR [notification-worker] Timeout waiting for connection from pool (active=174, idle=0, waiting=174)
+2026-03-19T13:15:32Z WARN [notification-worker] Health check slow: 1301ms
+2026-03-19T13:15:33Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:15:42Z INFO [notification-worker] GET /api/v1/search 200 53ms
+2026-03-19T13:15:43Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 8369ms
+2026-03-19T13:15:45Z ERROR [notification-worker] Timeout waiting for connection from pool (active=119, idle=0, waiting=119)
+2026-03-19T13:15:56Z ERROR [notification-worker] Timeout waiting for connection from pool (active=627, idle=0, waiting=627)
+2026-03-19T13:16:05Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:16:27Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 4577ms
+2026-03-19T13:16:38Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:16:51Z INFO [notification-worker] GET /api/v1/orders 200 62ms
+2026-03-19T13:17:03Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:17:31Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:18:20Z INFO [notification-worker] GET /api/v1/cart 200 37ms
+2026-03-19T13:18:25Z WARN [notification-worker] Pool saturation: all 800 connections in use
+2026-03-19T13:18:39Z INFO [notification-worker] GET /api/v1/items 200 69ms
+2026-03-19T13:18:43Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:19:26Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:19:40Z INFO [notification-worker] GET /api/v1/health 200 77ms
+2026-03-19T13:19:45Z INFO [notification-worker] GET /api/v1/orders 200 12ms
+2026-03-19T13:20:02Z WARN [notification-worker] Pool saturation: all 282 connections in use
+2026-03-19T13:20:26Z WARN [notification-worker] Health check slow: 7755ms
+2026-03-19T13:20:54Z INFO [notification-worker] GET /api/v1/search 200 53ms
+2026-03-19T13:21:01Z INFO [notification-worker] GET /api/v1/items 200 16ms
+2026-03-19T13:21:16Z WARN [notification-worker] Health check slow: 7694ms
+2026-03-19T13:21:27Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:22:01Z WARN [notification-worker] Pool saturation: all 433 connections in use
+2026-03-19T13:22:10Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 7591ms
+2026-03-19T13:22:30Z ERROR [notification-worker] Timeout waiting for connection from pool (active=215, idle=0, waiting=215)
+2026-03-19T13:24:04Z ERROR [notification-worker] Timeout waiting for connection from pool (active=126, idle=0, waiting=126)
+2026-03-19T13:24:35Z INFO [notification-worker] GET /api/v1/search 200 83ms
+2026-03-19T13:24:44Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:25:08Z ERROR [notification-worker] Timeout waiting for connection from pool (active=622, idle=0, waiting=622)
+2026-03-19T13:26:20Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 7192ms
+2026-03-19T13:26:38Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 1260ms
+2026-03-19T13:27:02Z INFO [notification-worker] GET /api/v1/users 200 119ms
+2026-03-19T13:27:18Z ERROR [notification-worker] Timeout waiting for connection from pool (active=79, idle=0, waiting=79)
+2026-03-19T13:27:19Z INFO [notification-worker] GET /api/v1/health 200 79ms
+2026-03-19T13:27:32Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:28:12Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 1567ms
+2026-03-19T13:28:36Z WARN [notification-worker] Health check slow: 4685ms
+2026-03-19T13:28:46Z ERROR [notification-worker] Timeout waiting for connection from pool (active=868, idle=0, waiting=868)
+2026-03-19T13:29:01Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:29:15Z INFO [notification-worker] GET /api/v1/items 200 93ms
+2026-03-19T13:29:30Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:29:40Z WARN [notification-worker] Health check slow: 6350ms
+2026-03-19T13:29:41Z WARN [notification-worker] Pool saturation: all 882 connections in use
+2026-03-19T13:29:51Z INFO [notification-worker] GET /api/v1/cart 200 75ms
+2026-03-19T13:29:55Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:30:02Z ERROR [notification-worker] Timeout waiting for connection from pool (active=761, idle=0, waiting=761)
+2026-03-19T13:30:31Z INFO [notification-worker] GET /api/v1/search 200 62ms
+2026-03-19T13:31:05Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:32:02Z INFO [notification-worker] GET /api/v1/users 200 113ms
+2026-03-19T13:32:36Z INFO [notification-worker] GET /api/v1/users 200 9ms
+2026-03-19T13:32:46Z WARN [notification-worker] Pool saturation: all 440 connections in use
+2026-03-19T13:33:00Z INFO [notification-worker] GET /api/v1/users 200 30ms
+2026-03-19T13:34:32Z INFO [notification-worker] GET /api/v1/health 200 51ms
+2026-03-19T13:34:41Z ERROR [notification-worker] Timeout waiting for connection from pool (active=670, idle=0, waiting=670)
+2026-03-19T13:36:00Z INFO [notification-worker] GET /api/v1/cart 200 108ms
+2026-03-19T13:38:39Z INFO [notification-worker] GET /api/v1/search 200 96ms
+2026-03-19T13:39:08Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 2194ms
+2026-03-19T13:39:58Z INFO [notification-worker] GET /api/v1/orders 200 105ms
+2026-03-19T13:40:48Z INFO [notification-worker] GET /api/v1/search 200 63ms
+2026-03-19T13:40:55Z ERROR [notification-worker] Timeout waiting for connection from pool (active=214, idle=0, waiting=214)
+2026-03-19T13:40:56Z INFO [notification-worker] GET /api/v1/orders 200 48ms
+2026-03-19T13:41:39Z INFO [notification-worker] GET /api/v1/users 200 78ms
+2026-03-19T13:42:08Z ERROR [notification-worker] Timeout waiting for connection from pool (active=291, idle=0, waiting=291)
+2026-03-19T13:42:17Z INFO [notification-worker] GET /api/v1/items 200 58ms
+2026-03-19T13:42:27Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 5557ms
+2026-03-19T13:42:33Z ERROR [notification-worker] Timeout waiting for connection from pool (active=663, idle=0, waiting=663)
+2026-03-19T13:43:04Z INFO [notification-worker] GET /api/v1/health 200 25ms
+2026-03-19T13:43:19Z ERROR [notification-worker] Timeout waiting for connection from pool (active=23, idle=0, waiting=23)
+2026-03-19T13:44:28Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 908ms
+2026-03-19T13:44:33Z INFO [notification-worker] GET /api/v1/orders 200 77ms
+2026-03-19T13:44:44Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:45:53Z WARN [notification-worker] Health check slow: 2884ms
+2026-03-19T13:47:05Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:48:12Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 7926ms
+2026-03-19T13:48:21Z WARN [notification-worker] Pool saturation: all 19 connections in use
+2026-03-19T13:48:29Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:48:51Z WARN [notification-worker] Pool saturation: all 691 connections in use
+2026-03-19T13:49:02Z ERROR [notification-worker] HikariPool-1 - Connection is not available, request timed out after 1643ms
+2026-03-19T13:49:09Z WARN [notification-worker] Pool saturation: all 108 connections in use
+2026-03-19T13:49:22Z WARN [notification-worker] Pool saturation: all 643 connections in use
+2026-03-19T13:49:43Z INFO [notification-worker] GET /api/v1/cart 200 104ms
+2026-03-19T13:49:53Z INFO [notification-worker] GET /api/v1/cart 200 76ms
+2026-03-19T13:51:41Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:51:49Z ERROR [notification-worker] Failed to acquire database connection for request
+2026-03-19T13:51:53Z WARN [notification-worker] Pool saturation: all 30 connections in use
+2026-03-19T13:52:20Z WARN [notification-worker] Pool saturation: all 471 connections in use
+2026-03-19T13:52:28Z WARN [notification-worker] Pool saturation: all 78 connections in use
+2026-03-19T13:53:08Z INFO [notification-worker] GET /api/v1/cart 200 113ms
+2026-03-19T13:54:26Z INFO [notification-worker] GET /api/v1/search 200 96ms
+2026-03-19T13:55:32Z INFO [notification-worker] GET /api/v1/users 200 104ms
+2026-03-19T13:55:51Z WARN [notification-worker] Pool saturation: all 248 connections in use
+2026-03-19T13:56:56Z INFO [notification-worker] GET /api/v1/cart 200 97ms
+2026-03-19T13:56:58Z ERROR [notification-worker] Request failed with status 500
+2026-03-19T13:58:06Z ERROR [notification-worker] Unexpected error handling request
+2026-03-19T13:58:12Z INFO [notification-worker] GET /api/v1/search 200 46ms
+2026-03-19T13:58:13Z WARN [notification-worker] Pool saturation: all 377 connections in use
+2026-03-19T13:58:22Z WARN [notification-worker] Health check slow: 7741ms
+2026-03-19T13:58:23Z ERROR [notification-worker] Timeout waiting for connection from pool (active=631, idle=0, waiting=631)
+2026-03-19T13:59:30Z INFO [notification-worker] GET /api/v1/cart 200 14ms
+2026-03-19T13:59:41Z INFO [notification-worker] GET /api/v1/orders 200 56ms

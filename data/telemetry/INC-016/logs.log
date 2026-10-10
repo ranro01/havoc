@@ -1,0 +1,302 @@
+2026-03-30T10:00:47Z INFO [user-profile-service] GET /api/v1/cart 200 10ms
+2026-03-30T10:01:19Z INFO [user-profile-service] GET /api/v1/items 200 80ms
+2026-03-30T10:01:45Z INFO [user-profile-service] GET /api/v1/items 200 112ms
+2026-03-30T10:01:55Z INFO [user-profile-service] GET /api/v1/search 200 30ms
+2026-03-30T10:03:21Z INFO [user-profile-service] GET /api/v1/users 200 92ms
+2026-03-30T10:03:34Z INFO [user-profile-service] GET /api/v1/users 200 12ms
+2026-03-30T10:04:29Z INFO [user-profile-service] GET /api/v1/cart 200 96ms
+2026-03-30T10:04:33Z INFO [user-profile-service] GET /api/v1/orders 200 53ms
+2026-03-30T10:09:31Z INFO [user-profile-service] GET /api/v1/users 200 87ms
+2026-03-30T10:11:47Z INFO [user-profile-service] GET /api/v1/items 200 109ms
+2026-03-30T10:11:47Z INFO [user-profile-service] GET /api/v1/items 200 54ms
+2026-03-30T10:13:42Z INFO [user-profile-service] GET /api/v1/users 200 23ms
+2026-03-30T10:14:33Z INFO [user-profile-service] GET /api/v1/items 200 86ms
+2026-03-30T10:14:56Z INFO [user-profile-service] GET /api/v1/items 200 85ms
+2026-03-30T10:15:20Z INFO [user-profile-service] GET /api/v1/items 200 23ms
+2026-03-30T10:17:00Z INFO [user-profile-service] GET /api/v1/health 200 70ms
+2026-03-30T10:21:05Z INFO [user-profile-service] GET /api/v1/health 200 82ms
+2026-03-30T10:21:05Z INFO [user-profile-service] GET /api/v1/users 200 71ms
+2026-03-30T10:21:14Z INFO [user-profile-service] GET /api/v1/items 200 39ms
+2026-03-30T10:21:30Z INFO [user-profile-service] GET /api/v1/cart 200 96ms
+2026-03-30T10:21:44Z INFO [user-profile-service] GET /api/v1/search 200 83ms
+2026-03-30T10:22:24Z INFO [user-profile-service] GET /api/v1/search 200 29ms
+2026-03-30T10:23:30Z INFO [user-profile-service] GET /api/v1/items 200 81ms
+2026-03-30T10:25:00Z INFO [user-profile-service] GET /api/v1/orders 200 46ms
+2026-03-30T10:26:49Z INFO [user-profile-service] GET /api/v1/items 200 8ms
+2026-03-30T10:29:00Z INFO [user-profile-service] GET /api/v1/orders 200 69ms
+2026-03-30T10:30:18Z INFO [user-profile-service] GET /api/v1/items 200 105ms
+2026-03-30T10:31:20Z INFO [user-profile-service] GET /api/v1/items 200 113ms
+2026-03-30T10:32:19Z INFO [user-profile-service] GET /api/v1/orders 200 38ms
+2026-03-30T10:36:32Z WARN [user-profile-service] Retry succeeded on attempt 2 for stripe
+2026-03-30T10:36:56Z INFO [user-profile-service] GET /api/v1/health 200 31ms
+2026-03-30T10:38:01Z INFO [user-profile-service] GET /api/v1/cart 200 115ms
+2026-03-30T10:38:40Z INFO [user-profile-service] GET /api/v1/search 200 83ms
+2026-03-30T10:39:51Z INFO [user-profile-service] GET /api/v1/items 200 22ms
+2026-03-30T10:40:39Z INFO [user-profile-service] GET /api/v1/orders 200 72ms
+2026-03-30T10:40:44Z INFO [user-profile-service] GET /api/v1/users 200 26ms
+2026-03-30T10:42:47Z INFO [user-profile-service] GET /api/v1/search 200 42ms
+2026-03-30T10:43:16Z INFO [user-profile-service] GET /api/v1/items 200 74ms
+2026-03-30T10:43:29Z INFO [user-profile-service] GET /api/v1/cart 200 63ms
+2026-03-30T10:44:34Z INFO [user-profile-service] GET /api/v1/orders 200 54ms
+2026-03-30T10:46:12Z INFO [user-profile-service] GET /api/v1/orders 200 13ms
+2026-03-30T10:49:35Z INFO [user-profile-service] GET /api/v1/search 200 14ms
+2026-03-30T10:53:40Z INFO [user-profile-service] GET /api/v1/cart 200 100ms
+2026-03-30T10:59:19Z INFO [user-profile-service] GET /api/v1/items 200 94ms
+2026-03-30T11:01:26Z INFO [user-profile-service] GET /api/v1/users 200 35ms
+2026-03-30T11:01:35Z INFO [user-profile-service] GET /api/v1/health 200 78ms
+2026-03-30T11:01:56Z WARN [user-profile-service] Retry succeeded on attempt 2 for auth-service
+2026-03-30T11:04:06Z INFO [user-profile-service] GET /api/v1/orders 200 84ms
+2026-03-30T11:04:09Z INFO [user-profile-service] GET /api/v1/cart 200 85ms
+2026-03-30T11:04:39Z INFO [user-profile-service] GET /api/v1/items 200 65ms
+2026-03-30T11:10:35Z INFO [user-profile-service] GET /api/v1/search 200 116ms
+2026-03-30T11:13:22Z INFO [user-profile-service] GET /api/v1/items 200 77ms
+2026-03-30T11:15:11Z INFO [user-profile-service] GET /api/v1/search 200 32ms
+2026-03-30T11:17:41Z INFO [user-profile-service] GET /api/v1/search 200 85ms
+2026-03-30T11:18:06Z INFO [user-profile-service] GET /api/v1/cart 200 15ms
+2026-03-30T11:18:25Z INFO [user-profile-service] GET /api/v1/orders 200 92ms
+2026-03-30T11:22:56Z INFO [user-profile-service] GET /api/v1/users 200 76ms
+2026-03-30T11:22:59Z INFO [user-profile-service] GET /api/v1/orders 200 38ms
+2026-03-30T11:24:18Z INFO [user-profile-service] GET /api/v1/search 200 81ms
+2026-03-30T11:25:27Z INFO [user-profile-service] GET /api/v1/users 200 80ms
+2026-03-30T11:25:41Z INFO [user-profile-service] GET /api/v1/items 200 73ms
+2026-03-30T11:26:01Z INFO [user-profile-service] GET /api/v1/cart 200 20ms
+2026-03-30T11:27:45Z INFO [user-profile-service] GET /api/v1/orders 200 72ms
+2026-03-30T11:28:34Z INFO [user-profile-service] GET /api/v1/orders 200 42ms
+2026-03-30T11:29:57Z INFO [user-profile-service] GET /api/v1/cart 200 17ms
+2026-03-30T11:30:11Z INFO [user-profile-service] GET /api/v1/orders 200 89ms
+2026-03-30T11:30:30Z INFO [user-profile-service] GET /api/v1/orders 200 88ms
+2026-03-30T11:30:53Z INFO [user-profile-service] GET /api/v1/cart 200 73ms
+2026-03-30T11:31:05Z INFO [user-profile-service] GET /api/v1/orders 200 41ms
+2026-03-30T11:31:11Z INFO [user-profile-service] GET /api/v1/items 200 44ms
+2026-03-30T11:31:24Z INFO [user-profile-service] GET /api/v1/orders 200 117ms
+2026-03-30T11:31:24Z INFO [user-profile-service] GET /api/v1/cart 200 83ms
+2026-03-30T11:32:27Z INFO [user-profile-service] GET /api/v1/health 200 26ms
+2026-03-30T11:33:18Z INFO [user-profile-service] GET /api/v1/orders 200 70ms
+2026-03-30T11:33:25Z INFO [user-profile-service] GET /api/v1/search 200 118ms
+2026-03-30T11:34:23Z INFO [user-profile-service] GET /api/v1/items 200 103ms
+2026-03-30T11:34:54Z INFO [user-profile-service] GET /api/v1/cart 200 60ms
+2026-03-30T11:35:18Z INFO [user-profile-service] GET /api/v1/users 200 38ms
+2026-03-30T11:35:41Z INFO [user-profile-service] GET /api/v1/cart 200 57ms
+2026-03-30T11:38:19Z INFO [user-profile-service] GET /api/v1/cart 200 81ms
+2026-03-30T11:40:04Z INFO [user-profile-service] GET /api/v1/health 200 55ms
+2026-03-30T11:42:17Z INFO [user-profile-service] GET /api/v1/cart 200 81ms
+2026-03-30T11:45:25Z INFO [user-profile-service] GET /api/v1/search 200 60ms
+2026-03-30T11:47:40Z INFO [user-profile-service] GET /api/v1/orders 200 115ms
+2026-03-30T11:49:49Z INFO [user-profile-service] GET /api/v1/users 200 21ms
+2026-03-30T11:50:54Z INFO [user-profile-service] GET /api/v1/orders 200 20ms
+2026-03-30T11:51:32Z INFO [user-profile-service] GET /api/v1/orders 200 88ms
+2026-03-30T11:51:53Z INFO [user-profile-service] GET /api/v1/orders 200 103ms
+2026-03-30T11:52:21Z INFO [user-profile-service] GET /api/v1/orders 200 78ms
+2026-03-30T11:53:05Z INFO [user-profile-service] GET /api/v1/cart 200 110ms
+2026-03-30T11:54:29Z INFO [user-profile-service] GET /api/v1/health 200 94ms
+2026-03-30T11:55:43Z INFO [user-profile-service] GET /api/v1/users 200 52ms
+2026-03-30T11:56:34Z INFO [user-profile-service] GET /api/v1/search 200 118ms
+2026-03-30T11:56:52Z INFO [user-profile-service] GET /api/v1/cart 200 68ms
+2026-03-30T11:58:18Z WARN [user-profile-service] Minor GC pause 120ms
+2026-03-30T11:58:34Z INFO [user-profile-service] GET /api/v1/search 200 47ms
+2026-03-30T11:59:50Z INFO [user-profile-service] GET /api/v1/search 200 22ms
+2026-03-30T12:00:22Z INFO [user-profile-service] GET /api/v1/items 200 105ms
+2026-03-30T12:02:59Z INFO [user-profile-service] GET /api/v1/cart 200 29ms
+2026-03-30T12:03:25Z INFO [user-profile-service] GET /api/v1/health 200 21ms
+2026-03-30T12:04:25Z INFO [user-profile-service] GET /api/v1/search 200 75ms
+2026-03-30T12:04:54Z WARN [user-profile-service] Certificate for api.internal expires in 24 days
+2026-03-30T12:06:57Z INFO [user-profile-service] GET /api/v1/health 200 38ms
+2026-03-30T12:08:35Z INFO [user-profile-service] GET /api/v1/users 200 85ms
+2026-03-30T12:09:29Z INFO [user-profile-service] GET /api/v1/search 200 34ms
+2026-03-30T12:10:32Z INFO [user-profile-service] GET /api/v1/search 200 53ms
+2026-03-30T12:10:36Z INFO [user-profile-service] GET /api/v1/cart 200 38ms
+2026-03-30T12:10:44Z INFO [user-profile-service] GET /api/v1/cart 200 108ms
+2026-03-30T12:11:43Z INFO [user-profile-service] GET /api/v1/users 200 18ms
+2026-03-30T12:15:03Z INFO [user-profile-service] GET /api/v1/search 200 114ms
+2026-03-30T12:18:17Z INFO [user-profile-service] GET /api/v1/items 200 15ms
+2026-03-30T12:18:50Z INFO [user-profile-service] GET /api/v1/orders 200 108ms
+2026-03-30T12:19:09Z INFO [user-profile-service] GET /api/v1/orders 200 66ms
+2026-03-30T12:22:04Z INFO [user-profile-service] GET /api/v1/users 200 119ms
+2026-03-30T12:22:49Z INFO [user-profile-service] GET /api/v1/users 200 56ms
+2026-03-30T12:23:30Z INFO [user-profile-service] GET /api/v1/cart 200 118ms
+2026-03-30T12:23:36Z INFO [user-profile-service] GET /api/v1/cart 200 92ms
+2026-03-30T12:24:52Z INFO [user-profile-service] GET /api/v1/search 200 24ms
+2026-03-30T12:25:45Z INFO [user-profile-service] GET /api/v1/users 200 50ms
+2026-03-30T12:27:21Z INFO [user-profile-service] GET /api/v1/cart 200 46ms
+2026-03-30T12:28:47Z INFO [user-profile-service] GET /api/v1/search 200 34ms
+2026-03-30T12:28:58Z INFO [user-profile-service] GET /api/v1/health 200 18ms
+2026-03-30T12:29:13Z INFO [user-profile-service] GET /api/v1/items 200 39ms
+2026-03-30T12:29:36Z INFO [user-profile-service] GET /api/v1/cart 200 31ms
+2026-03-30T12:30:34Z INFO [user-profile-service] GET /api/v1/cart 200 36ms
+2026-03-30T12:30:38Z INFO [user-profile-service] GET /api/v1/orders 200 75ms
+2026-03-30T12:32:29Z INFO [user-profile-service] GET /api/v1/items 200 58ms
+2026-03-30T12:33:19Z INFO [user-profile-service] GET /api/v1/cart 200 33ms
+2026-03-30T12:35:52Z INFO [user-profile-service] GET /api/v1/cart 200 83ms
+2026-03-30T12:36:31Z INFO [user-profile-service] GET /api/v1/orders 200 42ms
+2026-03-30T12:39:02Z INFO [user-profile-service] GET /api/v1/users 200 59ms
+2026-03-30T12:39:09Z INFO [user-profile-service] GET /api/v1/orders 200 102ms
+2026-03-30T12:39:59Z INFO [user-profile-service] GET /api/v1/cart 200 29ms
+2026-03-30T12:41:01Z INFO [user-profile-service] GET /api/v1/orders 200 20ms
+2026-03-30T12:41:04Z INFO [user-profile-service] GET /api/v1/users 200 30ms
+2026-03-30T12:41:58Z INFO [user-profile-service] GET /api/v1/cart 200 71ms
+2026-03-30T12:42:07Z INFO [user-profile-service] GET /api/v1/items 200 45ms
+2026-03-30T12:42:14Z INFO [user-profile-service] GET /api/v1/search 200 102ms
+2026-03-30T12:46:11Z INFO [user-profile-service] GET /api/v1/health 200 92ms
+2026-03-30T12:49:06Z INFO [user-profile-service] GET /api/v1/items 200 31ms
+2026-03-30T12:49:11Z INFO [user-profile-service] GET /api/v1/users 200 78ms
+2026-03-30T12:50:40Z INFO [user-profile-service] GET /api/v1/orders 200 22ms
+2026-03-30T12:51:35Z INFO [user-profile-service] GET /api/v1/health 200 18ms
+2026-03-30T12:52:19Z INFO [user-profile-service] GET /api/v1/users 200 73ms
+2026-03-30T12:53:08Z INFO [user-profile-service] GET /api/v1/search 200 8ms
+2026-03-30T12:53:17Z INFO [user-profile-service] GET /api/v1/orders 200 31ms
+2026-03-30T12:54:46Z INFO [user-profile-service] GET /api/v1/search 200 82ms
+2026-03-30T12:56:02Z INFO [user-profile-service] GET /api/v1/users 200 47ms
+2026-03-30T12:56:04Z INFO [user-profile-service] GET /api/v1/items 200 69ms
+2026-03-30T13:02:05Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 3496ms
+2026-03-30T13:02:23Z WARN [user-profile-service] Pool saturation: all 207 connections in use
+2026-03-30T13:02:33Z WARN [user-profile-service] Connection leak detection triggered, connection held for 5858ms
+2026-03-30T13:02:36Z INFO [user-profile-service] GET /api/v1/search 200 38ms
+2026-03-30T13:03:28Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 875ms
+2026-03-30T13:03:55Z WARN [user-profile-service] Pool saturation: all 826 connections in use
+2026-03-30T13:04:51Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:05:09Z INFO [user-profile-service] GET /api/v1/orders 200 22ms
+2026-03-30T13:06:01Z INFO [user-profile-service] GET /api/v1/health 200 13ms
+2026-03-30T13:06:02Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=857, idle=0, waiting=857)
+2026-03-30T13:06:08Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 3000ms
+2026-03-30T13:06:33Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 4992ms
+2026-03-30T13:07:06Z WARN [user-profile-service] Health check slow: 2590ms
+2026-03-30T13:07:37Z INFO [user-profile-service] GET /api/v1/items 200 36ms
+2026-03-30T13:07:41Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:08:11Z INFO [user-profile-service] GET /api/v1/orders 200 41ms
+2026-03-30T13:08:14Z INFO [user-profile-service] GET /api/v1/cart 200 101ms
+2026-03-30T13:08:49Z WARN [user-profile-service] Pool saturation: all 281 connections in use
+2026-03-30T13:08:55Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 2620ms
+2026-03-30T13:09:11Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:09:32Z INFO [user-profile-service] GET /api/v1/cart 200 52ms
+2026-03-30T13:09:44Z INFO [user-profile-service] GET /api/v1/search 200 11ms
+2026-03-30T13:09:44Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:09:46Z INFO [user-profile-service] GET /api/v1/cart 200 33ms
+2026-03-30T13:10:57Z WARN [user-profile-service] Pool saturation: all 385 connections in use
+2026-03-30T13:11:06Z INFO [user-profile-service] GET /api/v1/search 200 71ms
+2026-03-30T13:11:17Z WARN [user-profile-service] Pool saturation: all 24 connections in use
+2026-03-30T13:12:48Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:13:06Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=329, idle=0, waiting=329)
+2026-03-30T13:13:09Z INFO [user-profile-service] GET /api/v1/health 200 107ms
+2026-03-30T13:13:33Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:13:50Z INFO [user-profile-service] GET /api/v1/orders 200 44ms
+2026-03-30T13:14:55Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:15:16Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:15:27Z WARN [user-profile-service] Health check slow: 4551ms
+2026-03-30T13:15:52Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:15:58Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=242, idle=0, waiting=242)
+2026-03-30T13:16:21Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:16:23Z WARN [user-profile-service] Pool saturation: all 832 connections in use
+2026-03-30T13:17:00Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:17:04Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:17:11Z INFO [user-profile-service] GET /api/v1/orders 200 105ms
+2026-03-30T13:17:11Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:18:58Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:19:56Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 6880ms
+2026-03-30T13:20:07Z INFO [user-profile-service] GET /api/v1/items 200 43ms
+2026-03-30T13:20:34Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:20:53Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:21:03Z INFO [user-profile-service] GET /api/v1/cart 200 76ms
+2026-03-30T13:22:36Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=445, idle=0, waiting=445)
+2026-03-30T13:22:40Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 7966ms
+2026-03-30T13:22:54Z INFO [user-profile-service] GET /api/v1/cart 200 44ms
+2026-03-30T13:23:12Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 903ms
+2026-03-30T13:23:27Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 7627ms
+2026-03-30T13:23:32Z WARN [user-profile-service] Pool saturation: all 286 connections in use
+2026-03-30T13:23:50Z WARN [user-profile-service] Health check slow: 5990ms
+2026-03-30T13:23:56Z INFO [user-profile-service] GET /api/v1/search 200 8ms
+2026-03-30T13:25:17Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:25:37Z INFO [user-profile-service] GET /api/v1/users 200 66ms
+2026-03-30T13:25:45Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:26:20Z WARN [user-profile-service] Pool saturation: all 42 connections in use
+2026-03-30T13:26:39Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:26:39Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=134, idle=0, waiting=134)
+2026-03-30T13:26:46Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:27:12Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=753, idle=0, waiting=753)
+2026-03-30T13:27:21Z INFO [user-profile-service] GET /api/v1/search 200 15ms
+2026-03-30T13:28:33Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:28:39Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=799, idle=0, waiting=799)
+2026-03-30T13:28:54Z WARN [user-profile-service] Pool saturation: all 60 connections in use
+2026-03-30T13:29:26Z WARN [user-profile-service] Health check slow: 3449ms
+2026-03-30T13:29:37Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:29:40Z WARN [user-profile-service] Health check slow: 4214ms
+2026-03-30T13:30:31Z WARN [user-profile-service] Health check slow: 6053ms
+2026-03-30T13:31:03Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:31:31Z WARN [user-profile-service] Health check slow: 4031ms
+2026-03-30T13:31:45Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:32:12Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:32:22Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:33:10Z WARN [user-profile-service] Health check slow: 1986ms
+2026-03-30T13:33:24Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:33:29Z INFO [user-profile-service] GET /api/v1/items 200 66ms
+2026-03-30T13:33:30Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:35:02Z WARN [user-profile-service] Pool saturation: all 422 connections in use
+2026-03-30T13:35:23Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:36:29Z INFO [user-profile-service] GET /api/v1/users 200 47ms
+2026-03-30T13:36:38Z WARN [user-profile-service] Pool saturation: all 282 connections in use
+2026-03-30T13:36:41Z INFO [user-profile-service] GET /api/v1/health 200 52ms
+2026-03-30T13:37:07Z WARN [user-profile-service] Pool saturation: all 342 connections in use
+2026-03-30T13:37:15Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:37:23Z WARN [user-profile-service] Health check slow: 3017ms
+2026-03-30T13:37:27Z INFO [user-profile-service] GET /api/v1/items 200 9ms
+2026-03-30T13:37:33Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:37:40Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 1067ms
+2026-03-30T13:37:58Z WARN [user-profile-service] Pool saturation: all 630 connections in use
+2026-03-30T13:38:24Z WARN [user-profile-service] Pool saturation: all 169 connections in use
+2026-03-30T13:38:38Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:38:51Z INFO [user-profile-service] GET /api/v1/users 200 41ms
+2026-03-30T13:38:52Z WARN [user-profile-service] Health check slow: 1515ms
+2026-03-30T13:38:57Z INFO [user-profile-service] GET /api/v1/users 200 35ms
+2026-03-30T13:39:17Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:39:19Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:39:26Z WARN [user-profile-service] Pool saturation: all 788 connections in use
+2026-03-30T13:39:31Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:39:33Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:39:39Z INFO [user-profile-service] GET /api/v1/items 200 38ms
+2026-03-30T13:39:52Z INFO [user-profile-service] GET /api/v1/search 200 76ms
+2026-03-30T13:39:57Z WARN [user-profile-service] Health check slow: 1102ms
+2026-03-30T13:40:16Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:40:39Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 8752ms
+2026-03-30T13:40:48Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:40:56Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:41:06Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:41:38Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:41:58Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:42:25Z WARN [user-profile-service] Pool saturation: all 746 connections in use
+2026-03-30T13:42:57Z WARN [user-profile-service] Pool saturation: all 507 connections in use
+2026-03-30T13:43:08Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:43:21Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 1535ms
+2026-03-30T13:43:39Z INFO [user-profile-service] GET /api/v1/users 200 89ms
+2026-03-30T13:43:41Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:43:43Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:44:08Z WARN [user-profile-service] Pool saturation: all 767 connections in use
+2026-03-30T13:44:33Z INFO [user-profile-service] GET /api/v1/items 200 23ms
+2026-03-30T13:44:39Z INFO [user-profile-service] GET /api/v1/orders 200 10ms
+2026-03-30T13:44:44Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 3606ms
+2026-03-30T13:46:12Z INFO [user-profile-service] GET /api/v1/items 200 56ms
+2026-03-30T13:46:43Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:47:13Z ERROR [user-profile-service] Unexpected error handling request
+2026-03-30T13:47:27Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 4868ms
+2026-03-30T13:47:29Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:47:42Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 1839ms
+2026-03-30T13:47:57Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=546, idle=0, waiting=546)
+2026-03-30T13:48:10Z INFO [user-profile-service] GET /api/v1/users 200 118ms
+2026-03-30T13:48:24Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:49:11Z WARN [user-profile-service] Health check slow: 3839ms
+2026-03-30T13:49:15Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:49:31Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=504, idle=0, waiting=504)
+2026-03-30T13:49:53Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:50:56Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:51:26Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:51:42Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=195, idle=0, waiting=195)
+2026-03-30T13:51:57Z ERROR [user-profile-service] Request failed with status 500
+2026-03-30T13:52:14Z INFO [user-profile-service] GET /api/v1/search 200 24ms
+2026-03-30T13:52:22Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 7907ms
+2026-03-30T13:53:34Z INFO [user-profile-service] GET /api/v1/health 200 50ms
+2026-03-30T13:53:39Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=317, idle=0, waiting=317)
+2026-03-30T13:53:46Z ERROR [user-profile-service] Failed to acquire database connection for request
+2026-03-30T13:55:51Z ERROR [user-profile-service] Timeout waiting for connection from pool (active=539, idle=0, waiting=539)
+2026-03-30T13:56:10Z INFO [user-profile-service] GET /api/v1/items 200 31ms
+2026-03-30T13:57:16Z WARN [user-profile-service] Pool saturation: all 878 connections in use
+2026-03-30T13:58:24Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 1080ms
+2026-03-30T13:58:40Z WARN [user-profile-service] Health check slow: 1372ms
+2026-03-30T13:59:05Z ERROR [user-profile-service] HikariPool-1 - Connection is not available, request timed out after 5665ms

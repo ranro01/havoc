@@ -1,0 +1,292 @@
+2026-04-13T10:01:35Z INFO [auth-service] GET /api/v1/health 200 78ms
+2026-04-13T10:04:45Z INFO [auth-service] GET /api/v1/users 200 73ms
+2026-04-13T10:05:38Z INFO [auth-service] GET /api/v1/users 200 41ms
+2026-04-13T10:06:05Z WARN [auth-service] Minor GC pause 120ms
+2026-04-13T10:07:14Z INFO [auth-service] GET /api/v1/items 200 14ms
+2026-04-13T10:09:10Z INFO [auth-service] GET /api/v1/users 200 62ms
+2026-04-13T10:12:26Z INFO [auth-service] GET /api/v1/search 200 95ms
+2026-04-13T10:12:41Z INFO [auth-service] GET /api/v1/health 200 30ms
+2026-04-13T10:12:42Z INFO [auth-service] GET /api/v1/cart 200 89ms
+2026-04-13T10:12:57Z INFO [auth-service] GET /api/v1/cart 200 69ms
+2026-04-13T10:13:08Z INFO [auth-service] GET /api/v1/search 200 119ms
+2026-04-13T10:14:00Z INFO [auth-service] GET /api/v1/orders 200 97ms
+2026-04-13T10:15:29Z INFO [auth-service] GET /api/v1/search 200 13ms
+2026-04-13T10:16:32Z INFO [auth-service] GET /api/v1/users 200 103ms
+2026-04-13T10:16:49Z INFO [auth-service] GET /api/v1/cart 200 95ms
+2026-04-13T10:17:55Z INFO [auth-service] GET /api/v1/users 200 55ms
+2026-04-13T10:20:00Z INFO [auth-service] GET /api/v1/search 200 99ms
+2026-04-13T10:21:21Z INFO [auth-service] GET /api/v1/orders 200 92ms
+2026-04-13T10:21:22Z INFO [auth-service] GET /api/v1/users 200 112ms
+2026-04-13T10:21:40Z INFO [auth-service] GET /api/v1/users 200 22ms
+2026-04-13T10:24:20Z INFO [auth-service] GET /api/v1/users 200 63ms
+2026-04-13T10:24:21Z INFO [auth-service] GET /api/v1/cart 200 108ms
+2026-04-13T10:24:59Z INFO [auth-service] GET /api/v1/items 200 14ms
+2026-04-13T10:28:10Z INFO [auth-service] GET /api/v1/orders 200 34ms
+2026-04-13T10:28:29Z INFO [auth-service] GET /api/v1/users 200 16ms
+2026-04-13T10:28:40Z INFO [auth-service] GET /api/v1/health 200 60ms
+2026-04-13T10:29:12Z INFO [auth-service] GET /api/v1/health 200 111ms
+2026-04-13T10:29:50Z INFO [auth-service] GET /api/v1/cart 200 19ms
+2026-04-13T10:30:10Z INFO [auth-service] GET /api/v1/orders 200 45ms
+2026-04-13T10:32:39Z INFO [auth-service] GET /api/v1/users 200 109ms
+2026-04-13T10:32:56Z INFO [auth-service] GET /api/v1/orders 200 66ms
+2026-04-13T10:34:29Z INFO [auth-service] GET /api/v1/search 200 58ms
+2026-04-13T10:34:48Z INFO [auth-service] GET /api/v1/items 200 103ms
+2026-04-13T10:38:33Z INFO [auth-service] GET /api/v1/search 200 18ms
+2026-04-13T10:38:34Z INFO [auth-service] GET /api/v1/cart 200 62ms
+2026-04-13T10:38:47Z INFO [auth-service] GET /api/v1/users 200 114ms
+2026-04-13T10:39:42Z INFO [auth-service] GET /api/v1/health 200 74ms
+2026-04-13T10:40:37Z INFO [auth-service] GET /api/v1/health 200 61ms
+2026-04-13T10:42:12Z INFO [auth-service] GET /api/v1/users 200 45ms
+2026-04-13T10:42:16Z INFO [auth-service] GET /api/v1/search 200 97ms
+2026-04-13T10:42:39Z INFO [auth-service] GET /api/v1/users 200 9ms
+2026-04-13T10:46:11Z INFO [auth-service] GET /api/v1/cart 200 32ms
+2026-04-13T10:48:39Z INFO [auth-service] GET /api/v1/search 200 79ms
+2026-04-13T10:50:06Z INFO [auth-service] GET /api/v1/items 200 114ms
+2026-04-13T10:50:49Z INFO [auth-service] GET /api/v1/search 200 30ms
+2026-04-13T10:51:21Z INFO [auth-service] GET /api/v1/users 200 87ms
+2026-04-13T10:51:27Z INFO [auth-service] GET /api/v1/cart 200 116ms
+2026-04-13T10:51:51Z INFO [auth-service] GET /api/v1/cart 200 43ms
+2026-04-13T10:54:37Z INFO [auth-service] GET /api/v1/search 200 65ms
+2026-04-13T10:57:46Z INFO [auth-service] GET /api/v1/orders 200 58ms
+2026-04-13T10:58:00Z INFO [auth-service] GET /api/v1/items 200 109ms
+2026-04-13T10:58:29Z INFO [auth-service] GET /api/v1/users 200 72ms
+2026-04-13T10:59:59Z INFO [auth-service] GET /api/v1/items 200 36ms
+2026-04-13T11:01:08Z INFO [auth-service] GET /api/v1/items 200 70ms
+2026-04-13T11:07:39Z INFO [auth-service] GET /api/v1/search 200 105ms
+2026-04-13T11:07:46Z INFO [auth-service] GET /api/v1/health 200 67ms
+2026-04-13T11:08:58Z INFO [auth-service] GET /api/v1/orders 200 116ms
+2026-04-13T11:09:33Z INFO [auth-service] GET /api/v1/users 200 8ms
+2026-04-13T11:15:12Z INFO [auth-service] GET /api/v1/cart 200 96ms
+2026-04-13T11:20:32Z INFO [auth-service] GET /api/v1/users 200 14ms
+2026-04-13T11:20:50Z INFO [auth-service] GET /api/v1/items 200 25ms
+2026-04-13T11:21:36Z INFO [auth-service] GET /api/v1/search 200 91ms
+2026-04-13T11:22:57Z INFO [auth-service] GET /api/v1/users 200 69ms
+2026-04-13T11:23:17Z INFO [auth-service] GET /api/v1/items 200 56ms
+2026-04-13T11:24:32Z INFO [auth-service] GET /api/v1/cart 200 85ms
+2026-04-13T11:25:26Z INFO [auth-service] GET /api/v1/search 200 79ms
+2026-04-13T11:26:43Z INFO [auth-service] GET /api/v1/orders 200 37ms
+2026-04-13T11:27:53Z INFO [auth-service] GET /api/v1/orders 200 52ms
+2026-04-13T11:28:35Z INFO [auth-service] GET /api/v1/orders 200 84ms
+2026-04-13T11:30:52Z INFO [auth-service] GET /api/v1/cart 200 42ms
+2026-04-13T11:32:33Z INFO [auth-service] GET /api/v1/cart 200 86ms
+2026-04-13T11:33:47Z INFO [auth-service] GET /api/v1/cart 200 102ms
+2026-04-13T11:34:32Z INFO [auth-service] GET /api/v1/items 200 57ms
+2026-04-13T11:36:02Z INFO [auth-service] GET /api/v1/users 200 62ms
+2026-04-13T11:36:22Z INFO [auth-service] GET /api/v1/orders 200 38ms
+2026-04-13T11:37:30Z WARN [auth-service] Slow request 640ms for GET /api/v1/items
+2026-04-13T11:39:21Z INFO [auth-service] GET /api/v1/users 200 10ms
+2026-04-13T11:40:40Z INFO [auth-service] GET /api/v1/search 200 55ms
+2026-04-13T11:41:58Z INFO [auth-service] GET /api/v1/orders 200 57ms
+2026-04-13T11:44:29Z INFO [auth-service] GET /api/v1/health 200 28ms
+2026-04-13T11:45:19Z INFO [auth-service] GET /api/v1/users 200 116ms
+2026-04-13T11:45:28Z INFO [auth-service] GET /api/v1/health 200 30ms
+2026-04-13T11:47:25Z INFO [auth-service] GET /api/v1/items 200 117ms
+2026-04-13T11:47:27Z INFO [auth-service] GET /api/v1/search 200 27ms
+2026-04-13T11:50:31Z INFO [auth-service] GET /api/v1/items 200 59ms
+2026-04-13T11:51:56Z INFO [auth-service] GET /api/v1/health 200 41ms
+2026-04-13T11:52:18Z INFO [auth-service] GET /api/v1/items 200 76ms
+2026-04-13T11:52:20Z INFO [auth-service] GET /api/v1/users 200 30ms
+2026-04-13T11:53:21Z INFO [auth-service] GET /api/v1/orders 200 119ms
+2026-04-13T11:53:26Z INFO [auth-service] GET /api/v1/items 200 13ms
+2026-04-13T11:53:34Z INFO [auth-service] GET /api/v1/users 200 28ms
+2026-04-13T11:53:40Z INFO [auth-service] GET /api/v1/users 200 20ms
+2026-04-13T11:57:02Z INFO [auth-service] GET /api/v1/search 200 59ms
+2026-04-13T11:57:19Z INFO [auth-service] GET /api/v1/cart 200 113ms
+2026-04-13T11:57:25Z INFO [auth-service] GET /api/v1/search 200 47ms
+2026-04-13T11:57:33Z INFO [auth-service] GET /api/v1/health 200 92ms
+2026-04-13T11:59:57Z INFO [auth-service] GET /api/v1/search 200 68ms
+2026-04-13T12:00:59Z INFO [auth-service] GET /api/v1/orders 200 13ms
+2026-04-13T12:03:39Z INFO [auth-service] GET /api/v1/orders 200 99ms
+2026-04-13T12:03:53Z INFO [auth-service] GET /api/v1/health 200 52ms
+2026-04-13T12:09:05Z INFO [auth-service] GET /api/v1/cart 200 40ms
+2026-04-13T12:11:07Z INFO [auth-service] GET /api/v1/health 200 54ms
+2026-04-13T12:12:46Z INFO [auth-service] GET /api/v1/cart 200 103ms
+2026-04-13T12:17:28Z INFO [auth-service] GET /api/v1/search 200 45ms
+2026-04-13T12:17:37Z INFO [auth-service] GET /api/v1/cart 200 80ms
+2026-04-13T12:19:48Z INFO [auth-service] GET /api/v1/cart 200 58ms
+2026-04-13T12:20:13Z INFO [auth-service] GET /api/v1/items 200 78ms
+2026-04-13T12:22:58Z INFO [auth-service] GET /api/v1/orders 200 39ms
+2026-04-13T12:23:52Z INFO [auth-service] GET /api/v1/orders 200 76ms
+2026-04-13T12:24:34Z INFO [auth-service] GET /api/v1/search 200 58ms
+2026-04-13T12:25:24Z INFO [auth-service] GET /api/v1/items 200 25ms
+2026-04-13T12:25:42Z INFO [auth-service] GET /api/v1/orders 200 13ms
+2026-04-13T12:29:21Z INFO [auth-service] GET /api/v1/users 200 74ms
+2026-04-13T12:33:14Z INFO [auth-service] GET /api/v1/health 200 88ms
+2026-04-13T12:34:18Z INFO [auth-service] GET /api/v1/users 200 41ms
+2026-04-13T12:34:40Z INFO [auth-service] GET /api/v1/orders 200 46ms
+2026-04-13T12:35:22Z INFO [auth-service] GET /api/v1/users 200 68ms
+2026-04-13T12:36:29Z INFO [auth-service] GET /api/v1/items 200 77ms
+2026-04-13T12:36:53Z INFO [auth-service] GET /api/v1/health 200 49ms
+2026-04-13T12:37:30Z INFO [auth-service] GET /api/v1/cart 200 70ms
+2026-04-13T12:41:17Z INFO [auth-service] GET /api/v1/health 200 82ms
+2026-04-13T12:48:18Z INFO [auth-service] GET /api/v1/orders 200 85ms
+2026-04-13T12:48:50Z INFO [auth-service] GET /api/v1/items 200 116ms
+2026-04-13T12:49:36Z INFO [auth-service] GET /api/v1/orders 200 63ms
+2026-04-13T12:52:43Z INFO [auth-service] GET /api/v1/users 200 28ms
+2026-04-13T12:53:17Z INFO [auth-service] GET /api/v1/users 200 47ms
+2026-04-13T12:53:48Z INFO [auth-service] GET /api/v1/search 200 111ms
+2026-04-13T12:55:36Z INFO [auth-service] GET /api/v1/health 200 48ms
+2026-04-13T12:56:43Z INFO [auth-service] GET /api/v1/orders 200 41ms
+2026-04-13T12:58:07Z INFO [auth-service] GET /api/v1/search 200 9ms
+2026-04-13T12:58:24Z INFO [auth-service] GET /api/v1/items 200 19ms
+2026-04-13T13:00:34Z INFO [auth-service] GET /api/v1/cart 200 114ms
+2026-04-13T13:03:29Z INFO [auth-service] GET /api/v1/users 200 68ms
+2026-04-13T13:04:41Z INFO [auth-service] GET /api/v1/health 200 87ms
+2026-04-13T13:06:28Z INFO [auth-service] GET /api/v1/health 200 20ms
+2026-04-13T13:07:46Z INFO [auth-service] GET /api/v1/health 200 119ms
+2026-04-13T13:08:22Z INFO [auth-service] GET /api/v1/cart 200 21ms
+2026-04-13T13:09:40Z INFO [auth-service] GET /api/v1/users 200 112ms
+2026-04-13T13:11:54Z INFO [auth-service] GET /api/v1/orders 200 31ms
+2026-04-13T13:14:17Z INFO [auth-service] GET /api/v1/users 200 101ms
+2026-04-13T13:15:21Z INFO [auth-service] GET /api/v1/items 200 72ms
+2026-04-13T13:16:33Z WARN [auth-service] Blocking call detected on request thread (8473ms)
+2026-04-13T13:16:40Z INFO [auth-service] GET /api/v1/items 200 100ms
+2026-04-13T13:17:34Z WARN [auth-service] All 823 worker threads busy, queue full
+2026-04-13T13:17:44Z INFO [auth-service] GET /api/v1/users 200 64ms
+2026-04-13T13:17:48Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:18:55Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:19:09Z INFO [auth-service] GET /api/v1/users 200 24ms
+2026-04-13T13:20:06Z WARN [auth-service] Thread dump shows 452 threads blocked on I/O
+2026-04-13T13:20:12Z WARN [auth-service] Health check slow: 1205ms
+2026-04-13T13:20:40Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:21:00Z WARN [auth-service] Health check slow: 8914ms
+2026-04-13T13:21:13Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:21:26Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:21:49Z INFO [auth-service] GET /api/v1/search 200 54ms
+2026-04-13T13:22:08Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:22:39Z WARN [auth-service] Thread dump shows 684 threads blocked on I/O
+2026-04-13T13:22:42Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:22:43Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:22:46Z WARN [auth-service] Thread dump shows 431 threads blocked on I/O
+2026-04-13T13:22:51Z INFO [auth-service] GET /api/v1/items 200 32ms
+2026-04-13T13:22:54Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:23:07Z INFO [auth-service] GET /api/v1/users 200 108ms
+2026-04-13T13:23:10Z INFO [auth-service] GET /api/v1/search 200 12ms
+2026-04-13T13:23:22Z WARN [auth-service] Thread dump shows 762 threads blocked on I/O
+2026-04-13T13:23:36Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:23:37Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:23:55Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:24:31Z INFO [auth-service] GET /api/v1/orders 200 56ms
+2026-04-13T13:24:54Z WARN [auth-service] All 573 worker threads busy, queue full
+2026-04-13T13:25:36Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:25:36Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:25:48Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:26:04Z WARN [auth-service] Health check slow: 3852ms
+2026-04-13T13:26:16Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:27:05Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:27:11Z WARN [auth-service] Health check slow: 7639ms
+2026-04-13T13:27:16Z INFO [auth-service] GET /api/v1/items 200 72ms
+2026-04-13T13:27:22Z WARN [auth-service] Health check slow: 6207ms
+2026-04-13T13:27:24Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:27:39Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:28:24Z INFO [auth-service] GET /api/v1/orders 200 59ms
+2026-04-13T13:28:34Z INFO [auth-service] GET /api/v1/users 200 9ms
+2026-04-13T13:28:52Z INFO [auth-service] GET /api/v1/users 200 68ms
+2026-04-13T13:28:54Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:28:58Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:29:02Z INFO [auth-service] GET /api/v1/orders 200 42ms
+2026-04-13T13:29:19Z WARN [auth-service] All 349 worker threads busy, queue full
+2026-04-13T13:29:38Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:29:41Z INFO [auth-service] GET /api/v1/users 200 47ms
+2026-04-13T13:30:40Z WARN [auth-service] Thread dump shows 763 threads blocked on I/O
+2026-04-13T13:30:45Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:31:02Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:31:05Z WARN [auth-service] All 212 worker threads busy, queue full
+2026-04-13T13:31:36Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:31:36Z WARN [auth-service] Thread dump shows 805 threads blocked on I/O
+2026-04-13T13:31:41Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:32:10Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:32:24Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:32:30Z INFO [auth-service] GET /api/v1/orders 200 62ms
+2026-04-13T13:32:56Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:32:59Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:33:17Z WARN [auth-service] All 492 worker threads busy, queue full
+2026-04-13T13:33:28Z INFO [auth-service] GET /api/v1/cart 200 118ms
+2026-04-13T13:33:32Z WARN [auth-service] Thread dump shows 581 threads blocked on I/O
+2026-04-13T13:34:01Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:34:08Z INFO [auth-service] GET /api/v1/users 200 106ms
+2026-04-13T13:34:17Z WARN [auth-service] Thread dump shows 271 threads blocked on I/O
+2026-04-13T13:34:34Z INFO [auth-service] GET /api/v1/users 200 15ms
+2026-04-13T13:34:41Z INFO [auth-service] GET /api/v1/health 200 77ms
+2026-04-13T13:34:42Z WARN [auth-service] Thread dump shows 538 threads blocked on I/O
+2026-04-13T13:34:59Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:35:08Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:35:24Z WARN [auth-service] Health check slow: 2345ms
+2026-04-13T13:35:46Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:35:55Z WARN [auth-service] Thread dump shows 163 threads blocked on I/O
+2026-04-13T13:36:20Z INFO [auth-service] GET /api/v1/items 200 9ms
+2026-04-13T13:36:20Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:36:26Z INFO [auth-service] GET /api/v1/health 200 12ms
+2026-04-13T13:36:38Z INFO [auth-service] GET /api/v1/search 200 87ms
+2026-04-13T13:36:55Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:37:08Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:37:10Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:37:23Z WARN [auth-service] All 718 worker threads busy, queue full
+2026-04-13T13:37:23Z WARN [auth-service] Thread dump shows 816 threads blocked on I/O
+2026-04-13T13:37:39Z INFO [auth-service] GET /api/v1/orders 200 8ms
+2026-04-13T13:38:00Z INFO [auth-service] GET /api/v1/cart 200 17ms
+2026-04-13T13:38:14Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:39:11Z WARN [auth-service] Thread dump shows 372 threads blocked on I/O
+2026-04-13T13:39:20Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:39:49Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:40:01Z INFO [auth-service] GET /api/v1/orders 200 59ms
+2026-04-13T13:40:15Z WARN [auth-service] Thread dump shows 247 threads blocked on I/O
+2026-04-13T13:40:18Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:41:00Z INFO [auth-service] GET /api/v1/orders 200 100ms
+2026-04-13T13:41:03Z INFO [auth-service] GET /api/v1/items 200 93ms
+2026-04-13T13:41:17Z WARN [auth-service] Thread dump shows 253 threads blocked on I/O
+2026-04-13T13:41:28Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:41:48Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:42:24Z WARN [auth-service] All 269 worker threads busy, queue full
+2026-04-13T13:42:32Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:42:36Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:42:41Z INFO [auth-service] GET /api/v1/health 200 20ms
+2026-04-13T13:42:50Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:43:11Z WARN [auth-service] Health check slow: 3578ms
+2026-04-13T13:43:12Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:43:18Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:43:36Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:44:34Z INFO [auth-service] GET /api/v1/users 200 48ms
+2026-04-13T13:44:51Z WARN [auth-service] Thread dump shows 330 threads blocked on I/O
+2026-04-13T13:45:10Z WARN [auth-service] All 548 worker threads busy, queue full
+2026-04-13T13:45:59Z WARN [auth-service] Health check slow: 1827ms
+2026-04-13T13:46:19Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:46:23Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:46:48Z WARN [auth-service] Thread dump shows 402 threads blocked on I/O
+2026-04-13T13:46:59Z INFO [auth-service] GET /api/v1/items 200 95ms
+2026-04-13T13:47:20Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:47:44Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:48:09Z INFO [auth-service] GET /api/v1/search 200 43ms
+2026-04-13T13:48:24Z WARN [auth-service] Thread dump shows 519 threads blocked on I/O
+2026-04-13T13:49:59Z WARN [auth-service] All 642 worker threads busy, queue full
+2026-04-13T13:50:19Z WARN [auth-service] All 517 worker threads busy, queue full
+2026-04-13T13:50:51Z INFO [auth-service] GET /api/v1/orders 200 55ms
+2026-04-13T13:50:57Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:51:18Z WARN [auth-service] All 624 worker threads busy, queue full
+2026-04-13T13:51:27Z INFO [auth-service] GET /api/v1/orders 200 110ms
+2026-04-13T13:51:45Z INFO [auth-service] GET /api/v1/users 200 119ms
+2026-04-13T13:52:13Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:52:16Z INFO [auth-service] GET /api/v1/users 200 45ms
+2026-04-13T13:52:17Z INFO [auth-service] GET /api/v1/items 200 77ms
+2026-04-13T13:52:20Z INFO [auth-service] GET /api/v1/orders 200 19ms
+2026-04-13T13:53:18Z INFO [auth-service] GET /api/v1/orders 200 80ms
+2026-04-13T13:53:44Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:54:04Z ERROR [auth-service] Request rejected: executor queue capacity reached
+2026-04-13T13:54:17Z WARN [auth-service] Thread dump shows 568 threads blocked on I/O
+2026-04-13T13:54:22Z WARN [auth-service] Health check slow: 7951ms
+2026-04-13T13:54:24Z WARN [auth-service] Health check slow: 1021ms
+2026-04-13T13:54:37Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:55:25Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:55:26Z WARN [auth-service] Thread dump shows 384 threads blocked on I/O
+2026-04-13T13:55:49Z WARN [auth-service] Health check slow: 7014ms
+2026-04-13T13:56:03Z INFO [auth-service] GET /api/v1/search 200 106ms
+2026-04-13T13:56:20Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:56:45Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:57:08Z ERROR [auth-service] Request failed with status 500
+2026-04-13T13:57:25Z INFO [auth-service] GET /api/v1/cart 200 110ms
+2026-04-13T13:57:41Z INFO [auth-service] GET /api/v1/health 200 76ms
+2026-04-13T13:57:45Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:58:22Z ERROR [auth-service] RejectedExecutionException: worker pool exhausted
+2026-04-13T13:58:29Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:59:11Z ERROR [auth-service] Unexpected error handling request
+2026-04-13T13:59:53Z WARN [auth-service] All 876 worker threads busy, queue full

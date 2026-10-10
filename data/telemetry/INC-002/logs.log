@@ -1,0 +1,262 @@
+2026-03-16T10:00:04Z INFO [inventory-service] GET /api/v1/health 200 93ms
+2026-03-16T10:00:15Z INFO [inventory-service] GET /api/v1/cart 200 49ms
+2026-03-16T10:01:39Z INFO [inventory-service] GET /api/v1/orders 200 19ms
+2026-03-16T10:02:15Z INFO [inventory-service] GET /api/v1/orders 200 73ms
+2026-03-16T10:02:34Z INFO [inventory-service] GET /api/v1/health 200 16ms
+2026-03-16T10:04:29Z INFO [inventory-service] GET /api/v1/health 200 14ms
+2026-03-16T10:07:28Z INFO [inventory-service] GET /api/v1/cart 200 10ms
+2026-03-16T10:09:52Z INFO [inventory-service] GET /api/v1/health 200 104ms
+2026-03-16T10:10:02Z INFO [inventory-service] GET /api/v1/search 200 69ms
+2026-03-16T10:10:09Z INFO [inventory-service] GET /api/v1/health 200 46ms
+2026-03-16T10:10:31Z INFO [inventory-service] GET /api/v1/search 200 79ms
+2026-03-16T10:11:32Z INFO [inventory-service] GET /api/v1/items 200 87ms
+2026-03-16T10:11:38Z INFO [inventory-service] GET /api/v1/items 200 91ms
+2026-03-16T10:11:55Z INFO [inventory-service] GET /api/v1/health 200 101ms
+2026-03-16T10:12:29Z INFO [inventory-service] GET /api/v1/users 200 10ms
+2026-03-16T10:12:47Z INFO [inventory-service] GET /api/v1/orders 200 52ms
+2026-03-16T10:13:01Z INFO [inventory-service] GET /api/v1/items 200 35ms
+2026-03-16T10:14:54Z INFO [inventory-service] GET /api/v1/items 200 61ms
+2026-03-16T10:20:37Z INFO [inventory-service] GET /api/v1/items 200 95ms
+2026-03-16T10:24:16Z INFO [inventory-service] GET /api/v1/health 200 37ms
+2026-03-16T10:24:33Z INFO [inventory-service] GET /api/v1/orders 200 15ms
+2026-03-16T10:27:09Z INFO [inventory-service] GET /api/v1/cart 200 24ms
+2026-03-16T10:28:51Z INFO [inventory-service] GET /api/v1/cart 200 70ms
+2026-03-16T10:30:44Z INFO [inventory-service] GET /api/v1/health 200 44ms
+2026-03-16T10:30:59Z INFO [inventory-service] GET /api/v1/search 200 25ms
+2026-03-16T10:33:04Z INFO [inventory-service] GET /api/v1/items 200 41ms
+2026-03-16T10:33:55Z INFO [inventory-service] GET /api/v1/items 200 97ms
+2026-03-16T10:35:26Z INFO [inventory-service] GET /api/v1/items 200 22ms
+2026-03-16T10:40:50Z INFO [inventory-service] GET /api/v1/orders 200 85ms
+2026-03-16T10:41:51Z INFO [inventory-service] GET /api/v1/health 200 88ms
+2026-03-16T10:42:14Z INFO [inventory-service] GET /api/v1/items 200 45ms
+2026-03-16T10:42:39Z INFO [inventory-service] GET /api/v1/health 200 88ms
+2026-03-16T10:45:02Z WARN [inventory-service] Slow request 640ms for GET /api/v1/items
+2026-03-16T10:45:16Z INFO [inventory-service] GET /api/v1/search 200 45ms
+2026-03-16T10:46:02Z INFO [inventory-service] GET /api/v1/items 200 80ms
+2026-03-16T10:46:14Z INFO [inventory-service] GET /api/v1/health 200 77ms
+2026-03-16T10:47:32Z INFO [inventory-service] GET /api/v1/orders 200 76ms
+2026-03-16T10:48:19Z INFO [inventory-service] GET /api/v1/users 200 12ms
+2026-03-16T10:49:57Z INFO [inventory-service] GET /api/v1/cart 200 14ms
+2026-03-16T10:50:16Z INFO [inventory-service] GET /api/v1/items 200 22ms
+2026-03-16T10:51:59Z INFO [inventory-service] GET /api/v1/orders 200 84ms
+2026-03-16T10:52:59Z INFO [inventory-service] GET /api/v1/search 200 30ms
+2026-03-16T10:53:37Z INFO [inventory-service] GET /api/v1/cart 200 82ms
+2026-03-16T10:53:43Z INFO [inventory-service] GET /api/v1/items 200 109ms
+2026-03-16T10:54:38Z INFO [inventory-service] GET /api/v1/health 200 117ms
+2026-03-16T10:54:39Z INFO [inventory-service] GET /api/v1/users 200 81ms
+2026-03-16T10:56:35Z INFO [inventory-service] GET /api/v1/items 200 47ms
+2026-03-16T10:57:45Z INFO [inventory-service] GET /api/v1/health 200 114ms
+2026-03-16T10:58:27Z INFO [inventory-service] GET /api/v1/items 200 62ms
+2026-03-16T10:58:47Z INFO [inventory-service] GET /api/v1/items 200 108ms
+2026-03-16T10:58:57Z INFO [inventory-service] GET /api/v1/users 200 52ms
+2026-03-16T10:59:11Z INFO [inventory-service] GET /api/v1/orders 200 91ms
+2026-03-16T10:59:52Z INFO [inventory-service] GET /api/v1/users 200 57ms
+2026-03-16T11:01:09Z INFO [inventory-service] GET /api/v1/orders 200 33ms
+2026-03-16T11:04:54Z INFO [inventory-service] GET /api/v1/search 200 39ms
+2026-03-16T11:05:57Z INFO [inventory-service] GET /api/v1/health 200 57ms
+2026-03-16T11:07:17Z INFO [inventory-service] GET /api/v1/orders 200 33ms
+2026-03-16T11:09:06Z INFO [inventory-service] GET /api/v1/health 200 26ms
+2026-03-16T11:09:41Z INFO [inventory-service] GET /api/v1/search 200 112ms
+2026-03-16T11:11:53Z INFO [inventory-service] GET /api/v1/health 200 64ms
+2026-03-16T11:12:27Z INFO [inventory-service] GET /api/v1/search 200 26ms
+2026-03-16T11:12:50Z INFO [inventory-service] GET /api/v1/items 200 14ms
+2026-03-16T11:13:23Z INFO [inventory-service] GET /api/v1/health 200 40ms
+2026-03-16T11:13:29Z INFO [inventory-service] GET /api/v1/orders 200 103ms
+2026-03-16T11:13:36Z INFO [inventory-service] GET /api/v1/users 200 85ms
+2026-03-16T11:14:59Z INFO [inventory-service] GET /api/v1/cart 200 78ms
+2026-03-16T11:16:03Z INFO [inventory-service] GET /api/v1/search 200 15ms
+2026-03-16T11:17:43Z INFO [inventory-service] GET /api/v1/cart 200 109ms
+2026-03-16T11:18:43Z INFO [inventory-service] GET /api/v1/health 200 12ms
+2026-03-16T11:19:51Z INFO [inventory-service] GET /api/v1/health 200 41ms
+2026-03-16T11:22:19Z INFO [inventory-service] GET /api/v1/health 200 98ms
+2026-03-16T11:22:26Z INFO [inventory-service] GET /api/v1/cart 200 40ms
+2026-03-16T11:22:38Z INFO [inventory-service] GET /api/v1/search 200 57ms
+2026-03-16T11:22:46Z INFO [inventory-service] GET /api/v1/orders 200 79ms
+2026-03-16T11:25:45Z INFO [inventory-service] GET /api/v1/users 200 117ms
+2026-03-16T11:27:16Z INFO [inventory-service] GET /api/v1/users 200 25ms
+2026-03-16T11:27:53Z INFO [inventory-service] GET /api/v1/users 200 42ms
+2026-03-16T11:30:32Z WARN [inventory-service] Slow request 640ms for GET /api/v1/items
+2026-03-16T11:30:46Z INFO [inventory-service] GET /api/v1/orders 200 116ms
+2026-03-16T11:31:36Z INFO [inventory-service] GET /api/v1/search 200 103ms
+2026-03-16T11:32:57Z INFO [inventory-service] GET /api/v1/orders 200 72ms
+2026-03-16T11:33:00Z INFO [inventory-service] GET /api/v1/health 200 31ms
+2026-03-16T11:37:09Z INFO [inventory-service] GET /api/v1/orders 200 53ms
+2026-03-16T11:38:45Z INFO [inventory-service] GET /api/v1/items 200 56ms
+2026-03-16T11:39:13Z INFO [inventory-service] GET /api/v1/items 200 104ms
+2026-03-16T11:42:03Z INFO [inventory-service] GET /api/v1/orders 200 115ms
+2026-03-16T11:44:19Z INFO [inventory-service] GET /api/v1/orders 200 76ms
+2026-03-16T11:44:58Z INFO [inventory-service] GET /api/v1/orders 200 52ms
+2026-03-16T11:45:01Z INFO [inventory-service] GET /api/v1/users 200 36ms
+2026-03-16T11:45:39Z INFO [inventory-service] GET /api/v1/users 200 105ms
+2026-03-16T11:46:15Z INFO [inventory-service] GET /api/v1/health 200 15ms
+2026-03-16T11:46:15Z INFO [inventory-service] GET /api/v1/items 200 48ms
+2026-03-16T11:46:53Z INFO [inventory-service] GET /api/v1/search 200 68ms
+2026-03-16T11:47:39Z INFO [inventory-service] GET /api/v1/orders 200 53ms
+2026-03-16T11:52:17Z INFO [inventory-service] GET /api/v1/users 200 68ms
+2026-03-16T11:53:41Z INFO [inventory-service] GET /api/v1/items 200 17ms
+2026-03-16T11:55:16Z INFO [inventory-service] GET /api/v1/cart 200 19ms
+2026-03-16T11:56:20Z INFO [inventory-service] GET /api/v1/health 200 32ms
+2026-03-16T11:56:45Z INFO [inventory-service] GET /api/v1/health 200 64ms
+2026-03-16T11:57:03Z INFO [inventory-service] GET /api/v1/health 200 76ms
+2026-03-16T11:57:38Z INFO [inventory-service] GET /api/v1/items 200 110ms
+2026-03-16T11:59:40Z INFO [inventory-service] GET /api/v1/search 200 96ms
+2026-03-16T12:01:14Z INFO [inventory-service] GET /api/v1/items 200 69ms
+2026-03-16T12:02:17Z WARN [inventory-service] Certificate for api.internal expires in 24 days
+2026-03-16T12:06:44Z INFO [inventory-service] GET /api/v1/items 200 64ms
+2026-03-16T12:12:05Z INFO [inventory-service] GET /api/v1/users 200 56ms
+2026-03-16T12:12:36Z INFO [inventory-service] GET /api/v1/search 200 24ms
+2026-03-16T12:13:06Z INFO [inventory-service] GET /api/v1/orders 200 95ms
+2026-03-16T12:17:15Z INFO [inventory-service] GET /api/v1/health 200 23ms
+2026-03-16T12:17:48Z WARN [inventory-service] Certificate for api.internal expires in 24 days
+2026-03-16T12:17:48Z INFO [inventory-service] GET /api/v1/health 200 11ms
+2026-03-16T12:20:12Z INFO [inventory-service] GET /api/v1/users 200 85ms
+2026-03-16T12:21:25Z INFO [inventory-service] GET /api/v1/items 200 55ms
+2026-03-16T12:23:18Z INFO [inventory-service] GET /api/v1/health 200 100ms
+2026-03-16T12:23:26Z INFO [inventory-service] GET /api/v1/users 200 15ms
+2026-03-16T12:24:17Z INFO [inventory-service] GET /api/v1/items 200 111ms
+2026-03-16T12:24:26Z INFO [inventory-service] GET /api/v1/search 200 73ms
+2026-03-16T12:24:34Z INFO [inventory-service] GET /api/v1/users 200 86ms
+2026-03-16T12:24:34Z INFO [inventory-service] GET /api/v1/health 200 74ms
+2026-03-16T12:25:47Z INFO [inventory-service] GET /api/v1/users 200 111ms
+2026-03-16T12:27:08Z INFO [inventory-service] GET /api/v1/items 200 90ms
+2026-03-16T12:27:13Z INFO [inventory-service] GET /api/v1/orders 200 72ms
+2026-03-16T12:27:23Z INFO [inventory-service] GET /api/v1/orders 200 83ms
+2026-03-16T12:27:35Z INFO [inventory-service] GET /api/v1/health 200 47ms
+2026-03-16T12:30:11Z INFO [inventory-service] GET /api/v1/users 200 20ms
+2026-03-16T12:31:40Z INFO [inventory-service] GET /api/v1/items 200 9ms
+2026-03-16T12:31:52Z INFO [inventory-service] GET /api/v1/orders 200 30ms
+2026-03-16T12:32:25Z INFO [inventory-service] GET /api/v1/orders 200 30ms
+2026-03-16T12:36:07Z INFO [inventory-service] GET /api/v1/users 200 29ms
+2026-03-16T12:38:28Z WARN [inventory-service] inventory-service response time p99 4231ms
+2026-03-16T12:38:51Z INFO [inventory-service] GET /api/v1/health 200 94ms
+2026-03-16T12:38:52Z INFO [inventory-service] GET /api/v1/search 200 35ms
+2026-03-16T12:39:17Z WARN [inventory-service] Health check slow: 3244ms
+2026-03-16T12:39:44Z INFO [inventory-service] GET /api/v1/search 200 45ms
+2026-03-16T12:40:05Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T12:40:35Z ERROR [inventory-service] Upstream pricing-service timed out after 7702ms
+2026-03-16T12:40:48Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T12:40:57Z INFO [inventory-service] GET /api/v1/search 200 77ms
+2026-03-16T12:41:24Z WARN [inventory-service] Circuit breaker OPEN for stripe
+2026-03-16T12:41:27Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T12:41:54Z INFO [inventory-service] GET /api/v1/search 200 91ms
+2026-03-16T12:42:03Z ERROR [inventory-service] Fallback triggered: inventory-service unavailable
+2026-03-16T12:42:04Z ERROR [inventory-service] Read timeout calling payment-gateway
+2026-03-16T12:43:34Z INFO [inventory-service] GET /api/v1/search 200 18ms
+2026-03-16T12:44:02Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T12:44:07Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T12:44:15Z WARN [inventory-service] Health check slow: 7868ms
+2026-03-16T12:45:19Z ERROR [inventory-service] Read timeout calling stripe
+2026-03-16T12:45:38Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T12:46:44Z INFO [inventory-service] GET /api/v1/health 200 100ms
+2026-03-16T12:46:59Z ERROR [inventory-service] Upstream stripe timed out after 8924ms
+2026-03-16T12:47:30Z INFO [inventory-service] GET /api/v1/health 200 88ms
+2026-03-16T12:48:04Z ERROR [inventory-service] Fallback triggered: stripe unavailable
+2026-03-16T12:48:22Z INFO [inventory-service] GET /api/v1/search 200 80ms
+2026-03-16T12:49:55Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T12:50:32Z INFO [inventory-service] GET /api/v1/users 200 13ms
+2026-03-16T12:50:43Z ERROR [inventory-service] Upstream inventory-service timed out after 5275ms
+2026-03-16T12:51:24Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T12:51:26Z INFO [inventory-service] GET /api/v1/orders 200 16ms
+2026-03-16T12:51:52Z INFO [inventory-service] GET /api/v1/health 200 45ms
+2026-03-16T12:51:56Z INFO [inventory-service] GET /api/v1/health 200 88ms
+2026-03-16T12:53:06Z INFO [inventory-service] GET /api/v1/orders 200 36ms
+2026-03-16T12:53:10Z ERROR [inventory-service] Fallback triggered: pricing-service unavailable
+2026-03-16T12:53:27Z ERROR [inventory-service] Fallback triggered: payment-gateway unavailable
+2026-03-16T12:53:32Z INFO [inventory-service] GET /api/v1/orders 200 50ms
+2026-03-16T12:54:13Z INFO [inventory-service] GET /api/v1/users 200 16ms
+2026-03-16T12:54:24Z ERROR [inventory-service] Fallback triggered: twilio unavailable
+2026-03-16T12:55:27Z INFO [inventory-service] GET /api/v1/search 200 11ms
+2026-03-16T12:55:31Z ERROR [inventory-service] Upstream auth-service timed out after 6463ms
+2026-03-16T12:57:11Z WARN [inventory-service] Health check slow: 7457ms
+2026-03-16T12:57:30Z INFO [inventory-service] GET /api/v1/items 200 12ms
+2026-03-16T12:57:33Z INFO [inventory-service] GET /api/v1/orders 200 12ms
+2026-03-16T12:57:55Z ERROR [inventory-service] Fallback triggered: auth-service unavailable
+2026-03-16T12:58:53Z ERROR [inventory-service] Fallback triggered: pricing-service unavailable
+2026-03-16T12:59:10Z WARN [inventory-service] Circuit breaker OPEN for payment-gateway
+2026-03-16T13:00:17Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:00:26Z INFO [inventory-service] GET /api/v1/cart 200 54ms
+2026-03-16T13:00:43Z INFO [inventory-service] GET /api/v1/orders 200 55ms
+2026-03-16T13:01:16Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:01:45Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:02:36Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:07:21Z ERROR [inventory-service] Fallback triggered: auth-service unavailable
+2026-03-16T13:07:40Z WARN [inventory-service] Health check slow: 5096ms
+2026-03-16T13:07:56Z INFO [inventory-service] GET /api/v1/orders 200 98ms
+2026-03-16T13:08:25Z INFO [inventory-service] GET /api/v1/health 200 62ms
+2026-03-16T13:08:33Z INFO [inventory-service] GET /api/v1/orders 200 61ms
+2026-03-16T13:08:33Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:08:56Z INFO [inventory-service] GET /api/v1/search 200 104ms
+2026-03-16T13:09:50Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:10:59Z ERROR [inventory-service] Upstream pricing-service timed out after 3284ms
+2026-03-16T13:11:51Z ERROR [inventory-service] Upstream stripe timed out after 7017ms
+2026-03-16T13:12:04Z INFO [inventory-service] GET /api/v1/health 200 67ms
+2026-03-16T13:12:18Z WARN [inventory-service] Circuit breaker OPEN for auth-service
+2026-03-16T13:12:39Z WARN [inventory-service] Circuit breaker OPEN for payment-gateway
+2026-03-16T13:15:19Z WARN [inventory-service] Circuit breaker OPEN for inventory-service
+2026-03-16T13:15:23Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:15:32Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:15:57Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:16:05Z INFO [inventory-service] GET /api/v1/users 200 111ms
+2026-03-16T13:16:15Z INFO [inventory-service] GET /api/v1/items 200 92ms
+2026-03-16T13:16:29Z INFO [inventory-service] GET /api/v1/users 200 48ms
+2026-03-16T13:17:03Z WARN [inventory-service] Health check slow: 4754ms
+2026-03-16T13:17:49Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:18:37Z INFO [inventory-service] GET /api/v1/health 200 80ms
+2026-03-16T13:18:41Z INFO [inventory-service] GET /api/v1/cart 200 95ms
+2026-03-16T13:19:06Z INFO [inventory-service] GET /api/v1/search 200 37ms
+2026-03-16T13:19:10Z ERROR [inventory-service] Read timeout calling auth-service
+2026-03-16T13:19:46Z WARN [inventory-service] Circuit breaker OPEN for pricing-service
+2026-03-16T13:20:24Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:20:49Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:21:27Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:22:10Z INFO [inventory-service] GET /api/v1/items 200 103ms
+2026-03-16T13:22:33Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:23:32Z ERROR [inventory-service] Fallback triggered: auth-service unavailable
+2026-03-16T13:24:18Z INFO [inventory-service] GET /api/v1/items 200 20ms
+2026-03-16T13:24:24Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:26:25Z INFO [inventory-service] GET /api/v1/health 200 44ms
+2026-03-16T13:26:57Z INFO [inventory-service] GET /api/v1/orders 200 78ms
+2026-03-16T13:28:04Z ERROR [inventory-service] Read timeout calling pricing-service
+2026-03-16T13:29:47Z INFO [inventory-service] GET /api/v1/orders 200 61ms
+2026-03-16T13:30:53Z INFO [inventory-service] GET /api/v1/health 200 49ms
+2026-03-16T13:31:03Z ERROR [inventory-service] Fallback triggered: twilio unavailable
+2026-03-16T13:31:03Z INFO [inventory-service] GET /api/v1/items 200 89ms
+2026-03-16T13:32:11Z INFO [inventory-service] GET /api/v1/items 200 97ms
+2026-03-16T13:32:12Z WARN [inventory-service] Circuit breaker OPEN for twilio
+2026-03-16T13:32:18Z ERROR [inventory-service] Read timeout calling stripe
+2026-03-16T13:32:47Z WARN [inventory-service] Health check slow: 3837ms
+2026-03-16T13:33:22Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:34:32Z INFO [inventory-service] GET /api/v1/health 200 94ms
+2026-03-16T13:34:33Z WARN [inventory-service] Circuit breaker OPEN for payment-gateway
+2026-03-16T13:34:41Z INFO [inventory-service] GET /api/v1/search 200 67ms
+2026-03-16T13:35:15Z INFO [inventory-service] GET /api/v1/cart 200 15ms
+2026-03-16T13:38:51Z ERROR [inventory-service] Fallback triggered: stripe unavailable
+2026-03-16T13:38:55Z INFO [inventory-service] GET /api/v1/items 200 106ms
+2026-03-16T13:39:04Z INFO [inventory-service] GET /api/v1/search 200 30ms
+2026-03-16T13:39:07Z WARN [inventory-service] Health check slow: 2235ms
+2026-03-16T13:39:35Z ERROR [inventory-service] Read timeout calling stripe
+2026-03-16T13:40:48Z INFO [inventory-service] GET /api/v1/items 200 82ms
+2026-03-16T13:40:59Z ERROR [inventory-service] Upstream inventory-service timed out after 6215ms
+2026-03-16T13:42:06Z ERROR [inventory-service] Upstream stripe timed out after 7744ms
+2026-03-16T13:42:38Z ERROR [inventory-service] Upstream auth-service timed out after 8046ms
+2026-03-16T13:42:42Z INFO [inventory-service] GET /api/v1/users 200 95ms
+2026-03-16T13:42:58Z INFO [inventory-service] GET /api/v1/users 200 43ms
+2026-03-16T13:43:15Z WARN [inventory-service] Circuit breaker OPEN for payment-gateway
+2026-03-16T13:43:21Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:43:30Z INFO [inventory-service] GET /api/v1/search 200 108ms
+2026-03-16T13:44:52Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:45:23Z INFO [inventory-service] GET /api/v1/health 200 119ms
+2026-03-16T13:45:59Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:46:18Z WARN [inventory-service] Health check slow: 5943ms
+2026-03-16T13:46:31Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:46:34Z INFO [inventory-service] GET /api/v1/users 200 80ms
+2026-03-16T13:47:48Z INFO [inventory-service] GET /api/v1/health 200 17ms
+2026-03-16T13:48:03Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:50:57Z ERROR [inventory-service] Request failed with status 500
+2026-03-16T13:55:09Z INFO [inventory-service] GET /api/v1/search 200 116ms
+2026-03-16T13:55:39Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:57:11Z ERROR [inventory-service] Unexpected error handling request
+2026-03-16T13:57:19Z WARN [inventory-service] Health check slow: 6363ms
+2026-03-16T13:57:50Z INFO [inventory-service] GET /api/v1/health 200 73ms
+2026-03-16T13:58:39Z INFO [inventory-service] GET /api/v1/cart 200 58ms
+2026-03-16T13:59:24Z ERROR [inventory-service] Upstream auth-service timed out after 4583ms

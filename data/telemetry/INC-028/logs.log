@@ -1,0 +1,290 @@
+2026-04-11T10:01:13Z INFO [auth-service] GET /api/v1/cart 200 44ms
+2026-04-11T10:02:13Z INFO [auth-service] GET /api/v1/items 200 87ms
+2026-04-11T10:03:49Z INFO [auth-service] GET /api/v1/search 200 56ms
+2026-04-11T10:04:17Z INFO [auth-service] GET /api/v1/orders 200 61ms
+2026-04-11T10:04:36Z INFO [auth-service] GET /api/v1/orders 200 83ms
+2026-04-11T10:06:04Z INFO [auth-service] GET /api/v1/items 200 111ms
+2026-04-11T10:07:08Z INFO [auth-service] GET /api/v1/health 200 81ms
+2026-04-11T10:08:29Z INFO [auth-service] GET /api/v1/search 200 89ms
+2026-04-11T10:08:37Z INFO [auth-service] GET /api/v1/orders 200 52ms
+2026-04-11T10:09:54Z INFO [auth-service] GET /api/v1/users 200 102ms
+2026-04-11T10:11:43Z INFO [auth-service] GET /api/v1/health 200 33ms
+2026-04-11T10:13:05Z INFO [auth-service] GET /api/v1/orders 200 20ms
+2026-04-11T10:13:56Z INFO [auth-service] GET /api/v1/health 200 34ms
+2026-04-11T10:18:27Z INFO [auth-service] GET /api/v1/health 200 103ms
+2026-04-11T10:19:34Z INFO [auth-service] GET /api/v1/health 200 48ms
+2026-04-11T10:20:47Z INFO [auth-service] GET /api/v1/users 200 39ms
+2026-04-11T10:21:16Z INFO [auth-service] GET /api/v1/orders 200 95ms
+2026-04-11T10:21:26Z WARN [auth-service] Deprecated endpoint /v1/orders/legacy called
+2026-04-11T10:21:50Z INFO [auth-service] GET /api/v1/search 200 31ms
+2026-04-11T10:22:37Z INFO [auth-service] GET /api/v1/users 200 108ms
+2026-04-11T10:24:41Z INFO [auth-service] GET /api/v1/search 200 64ms
+2026-04-11T10:25:43Z INFO [auth-service] GET /api/v1/users 200 59ms
+2026-04-11T10:26:26Z INFO [auth-service] GET /api/v1/search 200 47ms
+2026-04-11T10:27:18Z INFO [auth-service] GET /api/v1/cart 200 109ms
+2026-04-11T10:28:45Z INFO [auth-service] GET /api/v1/items 200 76ms
+2026-04-11T10:29:17Z INFO [auth-service] GET /api/v1/search 200 115ms
+2026-04-11T10:30:12Z INFO [auth-service] GET /api/v1/health 200 47ms
+2026-04-11T10:31:03Z INFO [auth-service] GET /api/v1/users 200 100ms
+2026-04-11T10:33:36Z INFO [auth-service] GET /api/v1/items 200 20ms
+2026-04-11T10:34:06Z INFO [auth-service] GET /api/v1/cart 200 36ms
+2026-04-11T10:36:50Z INFO [auth-service] GET /api/v1/health 200 20ms
+2026-04-11T10:40:28Z INFO [auth-service] GET /api/v1/search 200 27ms
+2026-04-11T10:40:29Z INFO [auth-service] GET /api/v1/cart 200 108ms
+2026-04-11T10:40:39Z INFO [auth-service] GET /api/v1/search 200 90ms
+2026-04-11T10:41:11Z INFO [auth-service] GET /api/v1/users 200 65ms
+2026-04-11T10:41:17Z INFO [auth-service] GET /api/v1/health 200 15ms
+2026-04-11T10:41:49Z INFO [auth-service] GET /api/v1/cart 200 101ms
+2026-04-11T10:41:55Z INFO [auth-service] GET /api/v1/health 200 39ms
+2026-04-11T10:42:13Z INFO [auth-service] GET /api/v1/health 200 46ms
+2026-04-11T10:43:04Z INFO [auth-service] GET /api/v1/orders 200 58ms
+2026-04-11T10:46:45Z INFO [auth-service] GET /api/v1/items 200 111ms
+2026-04-11T10:46:52Z INFO [auth-service] GET /api/v1/users 200 77ms
+2026-04-11T10:49:26Z INFO [auth-service] GET /api/v1/orders 200 56ms
+2026-04-11T10:52:05Z INFO [auth-service] GET /api/v1/search 200 77ms
+2026-04-11T10:52:25Z INFO [auth-service] GET /api/v1/items 200 44ms
+2026-04-11T10:52:55Z INFO [auth-service] GET /api/v1/users 200 56ms
+2026-04-11T10:53:00Z INFO [auth-service] GET /api/v1/health 200 52ms
+2026-04-11T10:53:18Z INFO [auth-service] GET /api/v1/items 200 119ms
+2026-04-11T10:53:53Z INFO [auth-service] GET /api/v1/cart 200 30ms
+2026-04-11T10:57:49Z INFO [auth-service] GET /api/v1/orders 200 65ms
+2026-04-11T10:59:41Z INFO [auth-service] GET /api/v1/cart 200 64ms
+2026-04-11T10:59:41Z INFO [auth-service] GET /api/v1/users 200 43ms
+2026-04-11T11:01:10Z INFO [auth-service] GET /api/v1/search 200 119ms
+2026-04-11T11:06:06Z INFO [auth-service] GET /api/v1/items 200 50ms
+2026-04-11T11:07:08Z INFO [auth-service] GET /api/v1/users 200 62ms
+2026-04-11T11:07:13Z INFO [auth-service] GET /api/v1/cart 200 116ms
+2026-04-11T11:08:07Z INFO [auth-service] GET /api/v1/search 200 84ms
+2026-04-11T11:09:09Z INFO [auth-service] GET /api/v1/cart 200 82ms
+2026-04-11T11:11:31Z INFO [auth-service] GET /api/v1/health 200 63ms
+2026-04-11T11:13:59Z INFO [auth-service] GET /api/v1/cart 200 82ms
+2026-04-11T11:16:07Z INFO [auth-service] GET /api/v1/items 200 113ms
+2026-04-11T11:16:17Z INFO [auth-service] GET /api/v1/health 200 11ms
+2026-04-11T11:16:55Z INFO [auth-service] GET /api/v1/search 200 14ms
+2026-04-11T11:17:58Z INFO [auth-service] GET /api/v1/items 200 60ms
+2026-04-11T11:18:20Z INFO [auth-service] GET /api/v1/users 200 119ms
+2026-04-11T11:20:43Z INFO [auth-service] GET /api/v1/cart 200 38ms
+2026-04-11T11:20:49Z INFO [auth-service] GET /api/v1/items 200 84ms
+2026-04-11T11:21:05Z INFO [auth-service] GET /api/v1/search 200 73ms
+2026-04-11T11:23:16Z INFO [auth-service] GET /api/v1/cart 200 101ms
+2026-04-11T11:23:22Z INFO [auth-service] GET /api/v1/cart 200 62ms
+2026-04-11T11:23:52Z INFO [auth-service] GET /api/v1/health 200 86ms
+2026-04-11T11:24:19Z INFO [auth-service] GET /api/v1/cart 200 70ms
+2026-04-11T11:25:04Z INFO [auth-service] GET /api/v1/users 200 18ms
+2026-04-11T11:25:16Z INFO [auth-service] GET /api/v1/cart 200 46ms
+2026-04-11T11:25:41Z INFO [auth-service] GET /api/v1/health 200 84ms
+2026-04-11T11:27:19Z INFO [auth-service] GET /api/v1/health 200 77ms
+2026-04-11T11:27:40Z INFO [auth-service] GET /api/v1/search 200 63ms
+2026-04-11T11:28:12Z WARN [auth-service] Slow request 640ms for GET /api/v1/items
+2026-04-11T11:31:05Z INFO [auth-service] GET /api/v1/orders 200 42ms
+2026-04-11T11:33:51Z INFO [auth-service] GET /api/v1/cart 200 105ms
+2026-04-11T11:34:33Z INFO [auth-service] GET /api/v1/health 200 24ms
+2026-04-11T11:35:31Z INFO [auth-service] GET /api/v1/health 200 84ms
+2026-04-11T11:35:34Z INFO [auth-service] GET /api/v1/health 200 50ms
+2026-04-11T11:35:40Z INFO [auth-service] GET /api/v1/cart 200 77ms
+2026-04-11T11:38:06Z INFO [auth-service] GET /api/v1/health 200 96ms
+2026-04-11T11:43:15Z INFO [auth-service] GET /api/v1/users 200 34ms
+2026-04-11T11:47:09Z INFO [auth-service] GET /api/v1/cart 200 55ms
+2026-04-11T11:48:14Z INFO [auth-service] GET /api/v1/cart 200 86ms
+2026-04-11T11:49:27Z INFO [auth-service] GET /api/v1/search 200 45ms
+2026-04-11T11:50:09Z INFO [auth-service] GET /api/v1/search 200 16ms
+2026-04-11T11:52:16Z INFO [auth-service] GET /api/v1/items 200 116ms
+2026-04-11T11:53:35Z WARN [auth-service] Slow request 640ms for GET /api/v1/items
+2026-04-11T11:54:29Z INFO [auth-service] GET /api/v1/search 200 29ms
+2026-04-11T11:55:28Z INFO [auth-service] GET /api/v1/health 200 21ms
+2026-04-11T11:55:38Z INFO [auth-service] GET /api/v1/items 200 21ms
+2026-04-11T11:58:07Z INFO [auth-service] GET /api/v1/health 200 18ms
+2026-04-11T12:00:26Z INFO [auth-service] GET /api/v1/items 200 65ms
+2026-04-11T12:01:27Z INFO [auth-service] GET /api/v1/cart 200 61ms
+2026-04-11T12:01:29Z INFO [auth-service] GET /api/v1/users 200 94ms
+2026-04-11T12:03:31Z INFO [auth-service] GET /api/v1/cart 200 66ms
+2026-04-11T12:04:02Z INFO [auth-service] GET /api/v1/orders 200 118ms
+2026-04-11T12:07:04Z INFO [auth-service] GET /api/v1/health 200 54ms
+2026-04-11T12:08:15Z INFO [auth-service] GET /api/v1/items 200 50ms
+2026-04-11T12:08:17Z INFO [auth-service] GET /api/v1/cart 200 104ms
+2026-04-11T12:11:43Z INFO [auth-service] GET /api/v1/health 200 96ms
+2026-04-11T12:11:59Z INFO [auth-service] GET /api/v1/orders 200 59ms
+2026-04-11T12:12:11Z INFO [auth-service] GET /api/v1/search 200 27ms
+2026-04-11T12:12:55Z INFO [auth-service] GET /api/v1/users 200 79ms
+2026-04-11T12:13:16Z INFO [auth-service] GET /api/v1/orders 200 45ms
+2026-04-11T12:14:39Z INFO [auth-service] GET /api/v1/users 200 76ms
+2026-04-11T12:15:33Z INFO [auth-service] GET /api/v1/cart 200 29ms
+2026-04-11T12:16:36Z INFO [auth-service] GET /api/v1/users 200 85ms
+2026-04-11T12:16:45Z INFO [auth-service] GET /api/v1/users 200 58ms
+2026-04-11T12:17:02Z INFO [auth-service] GET /api/v1/users 200 56ms
+2026-04-11T12:19:37Z INFO [auth-service] GET /api/v1/health 200 77ms
+2026-04-11T12:22:56Z INFO [auth-service] GET /api/v1/search 200 113ms
+2026-04-11T12:23:00Z INFO [auth-service] GET /api/v1/users 200 45ms
+2026-04-11T12:25:05Z INFO [auth-service] GET /api/v1/items 200 102ms
+2026-04-11T12:26:51Z INFO [auth-service] GET /api/v1/health 200 60ms
+2026-04-11T12:27:10Z INFO [auth-service] GET /api/v1/items 200 81ms
+2026-04-11T12:27:36Z INFO [auth-service] GET /api/v1/orders 200 67ms
+2026-04-11T12:27:55Z INFO [auth-service] GET /api/v1/cart 200 88ms
+2026-04-11T12:31:30Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T12:31:30Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T12:32:18Z ERROR [auth-service] Request failed with status 500
+2026-04-11T12:33:12Z INFO [auth-service] GET /api/v1/items 200 79ms
+2026-04-11T12:33:42Z INFO [auth-service] Configuration reloaded from config service, version 444
+2026-04-11T12:34:40Z INFO [auth-service] GET /api/v1/health 200 70ms
+2026-04-11T12:35:37Z INFO [auth-service] GET /api/v1/cart 200 44ms
+2026-04-11T12:35:50Z ERROR [auth-service] Request failed with status 500
+2026-04-11T12:36:03Z WARN [auth-service] Health check slow: 6268ms
+2026-04-11T12:36:31Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T12:36:42Z WARN [auth-service] Health check slow: 4448ms
+2026-04-11T12:37:30Z INFO [auth-service] GET /api/v1/items 200 104ms
+2026-04-11T12:38:25Z ERROR [auth-service] Request failed with status 500
+2026-04-11T12:38:31Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T12:39:36Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T12:40:08Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T12:40:43Z INFO [auth-service] GET /api/v1/items 200 78ms
+2026-04-11T12:40:44Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T12:41:36Z WARN [auth-service] Health check slow: 8804ms
+2026-04-11T12:41:47Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T12:42:45Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T12:43:33Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T12:44:46Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T12:44:47Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T12:47:08Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T12:47:38Z INFO [auth-service] GET /api/v1/items 200 31ms
+2026-04-11T12:49:03Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T12:49:35Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T12:50:42Z WARN [auth-service] Health check slow: 8128ms
+2026-04-11T12:51:11Z INFO [auth-service] GET /api/v1/items 200 29ms
+2026-04-11T12:51:37Z INFO [auth-service] GET /api/v1/orders 200 27ms
+2026-04-11T12:51:53Z INFO [auth-service] GET /api/v1/search 200 51ms
+2026-04-11T12:52:24Z INFO [auth-service] GET /api/v1/cart 200 92ms
+2026-04-11T12:53:10Z INFO [auth-service] GET /api/v1/users 200 10ms
+2026-04-11T12:54:35Z INFO [auth-service] GET /api/v1/health 200 47ms
+2026-04-11T12:55:07Z INFO [auth-service] GET /api/v1/cart 200 40ms
+2026-04-11T12:55:23Z INFO [auth-service] GET /api/v1/items 200 27ms
+2026-04-11T12:55:30Z INFO [auth-service] GET /api/v1/users 200 58ms
+2026-04-11T12:55:30Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T12:55:34Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T12:55:36Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T12:55:47Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T12:55:53Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T12:56:07Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T12:57:31Z INFO [auth-service] GET /api/v1/search 200 94ms
+2026-04-11T12:57:33Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T12:58:50Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T12:58:58Z WARN [auth-service] Health check slow: 5453ms
+2026-04-11T12:59:03Z WARN [auth-service] Health check slow: 1658ms
+2026-04-11T12:59:18Z INFO [auth-service] GET /api/v1/cart 200 81ms
+2026-04-11T13:00:57Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T13:02:21Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:02:25Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T13:02:29Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:02:43Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T13:02:53Z INFO [auth-service] GET /api/v1/users 200 42ms
+2026-04-11T13:03:02Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:03:14Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:03:34Z INFO [auth-service] GET /api/v1/health 200 69ms
+2026-04-11T13:04:28Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:04:35Z INFO [auth-service] GET /api/v1/health 200 113ms
+2026-04-11T13:04:37Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T13:06:12Z INFO [auth-service] GET /api/v1/health 200 38ms
+2026-04-11T13:06:54Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T13:07:30Z INFO [auth-service] GET /api/v1/items 200 20ms
+2026-04-11T13:07:45Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:08:55Z INFO [auth-service] GET /api/v1/orders 200 48ms
+2026-04-11T13:09:01Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:09:35Z INFO [auth-service] GET /api/v1/health 200 85ms
+2026-04-11T13:09:37Z INFO [auth-service] GET /api/v1/orders 200 76ms
+2026-04-11T13:10:37Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:12:27Z INFO [auth-service] GET /api/v1/items 200 79ms
+2026-04-11T13:12:57Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:13:25Z INFO [auth-service] GET /api/v1/users 200 81ms
+2026-04-11T13:13:54Z WARN [auth-service] Health check slow: 4925ms
+2026-04-11T13:14:45Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:14:48Z INFO [auth-service] GET /api/v1/cart 200 21ms
+2026-04-11T13:15:36Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:15:37Z INFO [auth-service] GET /api/v1/orders 200 10ms
+2026-04-11T13:16:12Z WARN [auth-service] Health check slow: 911ms
+2026-04-11T13:16:14Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:17:17Z WARN [auth-service] Health check slow: 7424ms
+2026-04-11T13:17:30Z INFO [auth-service] GET /api/v1/orders 200 44ms
+2026-04-11T13:18:06Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T13:18:57Z INFO [auth-service] GET /api/v1/orders 200 84ms
+2026-04-11T13:19:06Z INFO [auth-service] GET /api/v1/search 200 24ms
+2026-04-11T13:19:16Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:20:14Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:21:07Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:21:09Z INFO [auth-service] GET /api/v1/cart 200 84ms
+2026-04-11T13:21:28Z ERROR [auth-service] Request failed with status 500
+2026-04-11T13:21:49Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:22:23Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T13:22:33Z INFO [auth-service] GET /api/v1/health 200 87ms
+2026-04-11T13:23:11Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:23:43Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T13:23:47Z INFO [auth-service] GET /api/v1/items 200 55ms
+2026-04-11T13:23:56Z INFO [auth-service] GET /api/v1/users 200 28ms
+2026-04-11T13:24:43Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T13:24:55Z INFO [auth-service] GET /api/v1/items 200 19ms
+2026-04-11T13:25:25Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:25:35Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:25:43Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:26:25Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:26:35Z WARN [auth-service] Health check slow: 8597ms
+2026-04-11T13:27:43Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:28:08Z WARN [auth-service] Health check slow: 5063ms
+2026-04-11T13:28:17Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:28:28Z INFO [auth-service] GET /api/v1/search 200 104ms
+2026-04-11T13:29:16Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:29:27Z INFO [auth-service] GET /api/v1/users 200 22ms
+2026-04-11T13:30:14Z INFO [auth-service] GET /api/v1/cart 200 111ms
+2026-04-11T13:30:45Z INFO [auth-service] GET /api/v1/users 200 28ms
+2026-04-11T13:31:00Z ERROR [auth-service] Request failed with status 500
+2026-04-11T13:32:46Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:34:02Z INFO [auth-service] GET /api/v1/items 200 92ms
+2026-04-11T13:34:02Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T13:34:51Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:35:06Z ERROR [auth-service] Request failed with status 500
+2026-04-11T13:35:08Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:36:04Z INFO [auth-service] GET /api/v1/search 200 28ms
+2026-04-11T13:36:37Z INFO [auth-service] GET /api/v1/users 200 119ms
+2026-04-11T13:36:55Z INFO [auth-service] GET /api/v1/health 200 27ms
+2026-04-11T13:37:10Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T13:37:17Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:37:18Z WARN [auth-service] Health check slow: 2779ms
+2026-04-11T13:37:42Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:39:29Z INFO [auth-service] GET /api/v1/cart 200 56ms
+2026-04-11T13:40:04Z INFO [auth-service] GET /api/v1/health 200 107ms
+2026-04-11T13:40:37Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:41:07Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T13:41:16Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T13:41:39Z INFO [auth-service] GET /api/v1/users 200 37ms
+2026-04-11T13:41:42Z INFO [auth-service] GET /api/v1/items 200 50ms
+2026-04-11T13:41:46Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:41:50Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:42:19Z INFO [auth-service] GET /api/v1/items 200 97ms
+2026-04-11T13:42:19Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:43:35Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:44:32Z INFO [auth-service] GET /api/v1/orders 200 16ms
+2026-04-11T13:46:10Z INFO [auth-service] GET /api/v1/orders 200 93ms
+2026-04-11T13:46:31Z ERROR [auth-service] Feature flag payments.v2 enabled without required settings
+2026-04-11T13:46:57Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:47:40Z INFO [auth-service] GET /api/v1/orders 200 35ms
+2026-04-11T13:48:13Z ERROR [auth-service] Request failed with status 500
+2026-04-11T13:49:11Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T13:49:24Z INFO [auth-service] GET /api/v1/items 200 73ms
+2026-04-11T13:49:39Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:49:45Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:49:51Z INFO [auth-service] GET /api/v1/health 200 80ms
+2026-04-11T13:49:55Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:50:53Z ERROR [auth-service] Unexpected error handling request
+2026-04-11T13:51:01Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:51:13Z INFO [auth-service] GET /api/v1/items 200 20ms
+2026-04-11T13:51:23Z INFO [auth-service] GET /api/v1/orders 200 104ms
+2026-04-11T13:51:51Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:53:02Z INFO [auth-service] GET /api/v1/items 200 11ms
+2026-04-11T13:55:26Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:55:55Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:56:10Z ERROR [auth-service] Request failed with status 500
+2026-04-11T13:56:34Z INFO [auth-service] GET /api/v1/health 200 32ms
+2026-04-11T13:56:47Z ERROR [auth-service] Request failed with status 500
+2026-04-11T13:56:48Z ERROR [auth-service] Request timed out after 50ms (configured timeout_ms=50)
+2026-04-11T13:56:59Z ERROR [auth-service] Request failed with status 500
+2026-04-11T13:57:08Z INFO [auth-service] GET /api/v1/users 200 64ms
+2026-04-11T13:57:21Z WARN [auth-service] Config reload applied: timeout_ms changed from 5000 to 50
+2026-04-11T13:58:37Z ERROR [auth-service] Invalid configuration value for rate_limit.max=0, rejecting requests
+2026-04-11T13:59:36Z INFO [auth-service] GET /api/v1/health 200 70ms

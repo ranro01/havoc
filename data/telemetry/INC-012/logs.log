@@ -1,0 +1,250 @@
+2026-03-26T10:02:40Z INFO [payment-gateway] GET /api/v1/items 200 113ms
+2026-03-26T10:03:16Z INFO [payment-gateway] GET /api/v1/search 200 54ms
+2026-03-26T10:07:58Z INFO [payment-gateway] GET /api/v1/cart 200 86ms
+2026-03-26T10:09:18Z INFO [payment-gateway] GET /api/v1/orders 200 53ms
+2026-03-26T10:17:02Z INFO [payment-gateway] GET /api/v1/search 200 12ms
+2026-03-26T10:17:27Z INFO [payment-gateway] GET /api/v1/cart 200 52ms
+2026-03-26T10:17:54Z INFO [payment-gateway] GET /api/v1/health 200 39ms
+2026-03-26T10:19:50Z INFO [payment-gateway] GET /api/v1/cart 200 112ms
+2026-03-26T10:20:37Z INFO [payment-gateway] GET /api/v1/cart 200 116ms
+2026-03-26T10:20:56Z INFO [payment-gateway] GET /api/v1/health 200 100ms
+2026-03-26T10:22:08Z INFO [payment-gateway] GET /api/v1/users 200 92ms
+2026-03-26T10:23:51Z INFO [payment-gateway] GET /api/v1/cart 200 23ms
+2026-03-26T10:24:37Z INFO [payment-gateway] GET /api/v1/users 200 33ms
+2026-03-26T10:25:15Z INFO [payment-gateway] GET /api/v1/health 200 44ms
+2026-03-26T10:25:51Z INFO [payment-gateway] GET /api/v1/search 200 113ms
+2026-03-26T10:28:01Z INFO [payment-gateway] GET /api/v1/cart 200 53ms
+2026-03-26T10:29:50Z INFO [payment-gateway] GET /api/v1/orders 200 79ms
+2026-03-26T10:30:12Z INFO [payment-gateway] GET /api/v1/orders 200 80ms
+2026-03-26T10:30:37Z INFO [payment-gateway] GET /api/v1/users 200 117ms
+2026-03-26T10:32:47Z INFO [payment-gateway] GET /api/v1/cart 200 76ms
+2026-03-26T10:33:23Z INFO [payment-gateway] GET /api/v1/health 200 34ms
+2026-03-26T10:34:23Z INFO [payment-gateway] GET /api/v1/users 200 88ms
+2026-03-26T10:35:05Z INFO [payment-gateway] GET /api/v1/users 200 94ms
+2026-03-26T10:36:15Z WARN [payment-gateway] Certificate for api.internal expires in 24 days
+2026-03-26T10:38:41Z INFO [payment-gateway] GET /api/v1/health 200 28ms
+2026-03-26T10:39:35Z INFO [payment-gateway] GET /api/v1/items 200 34ms
+2026-03-26T10:40:27Z INFO [payment-gateway] GET /api/v1/cart 200 68ms
+2026-03-26T10:40:58Z INFO [payment-gateway] GET /api/v1/health 200 97ms
+2026-03-26T10:41:03Z INFO [payment-gateway] GET /api/v1/orders 200 28ms
+2026-03-26T10:44:37Z INFO [payment-gateway] GET /api/v1/search 200 81ms
+2026-03-26T10:45:58Z INFO [payment-gateway] GET /api/v1/search 200 53ms
+2026-03-26T10:47:00Z INFO [payment-gateway] GET /api/v1/search 200 33ms
+2026-03-26T10:51:09Z INFO [payment-gateway] GET /api/v1/items 200 16ms
+2026-03-26T10:51:37Z INFO [payment-gateway] GET /api/v1/items 200 102ms
+2026-03-26T10:54:58Z INFO [payment-gateway] GET /api/v1/items 200 57ms
+2026-03-26T10:55:07Z INFO [payment-gateway] GET /api/v1/items 200 8ms
+2026-03-26T10:56:11Z INFO [payment-gateway] GET /api/v1/health 200 110ms
+2026-03-26T10:56:27Z INFO [payment-gateway] GET /api/v1/search 200 108ms
+2026-03-26T10:57:00Z INFO [payment-gateway] GET /api/v1/health 200 113ms
+2026-03-26T10:59:21Z INFO [payment-gateway] GET /api/v1/health 200 66ms
+2026-03-26T11:00:41Z INFO [payment-gateway] GET /api/v1/cart 200 52ms
+2026-03-26T11:01:32Z INFO [payment-gateway] GET /api/v1/users 200 24ms
+2026-03-26T11:06:45Z INFO [payment-gateway] GET /api/v1/orders 200 76ms
+2026-03-26T11:06:56Z INFO [payment-gateway] GET /api/v1/health 200 37ms
+2026-03-26T11:07:54Z INFO [payment-gateway] GET /api/v1/items 200 44ms
+2026-03-26T11:10:10Z INFO [payment-gateway] GET /api/v1/cart 200 72ms
+2026-03-26T11:12:14Z INFO [payment-gateway] GET /api/v1/cart 200 48ms
+2026-03-26T11:14:38Z INFO [payment-gateway] GET /api/v1/health 200 24ms
+2026-03-26T11:17:03Z INFO [payment-gateway] GET /api/v1/cart 200 42ms
+2026-03-26T11:18:29Z INFO [payment-gateway] GET /api/v1/items 200 113ms
+2026-03-26T11:19:09Z INFO [payment-gateway] GET /api/v1/health 200 8ms
+2026-03-26T11:19:47Z INFO [payment-gateway] GET /api/v1/search 200 119ms
+2026-03-26T11:20:09Z INFO [payment-gateway] GET /api/v1/users 200 74ms
+2026-03-26T11:23:53Z INFO [payment-gateway] GET /api/v1/health 200 78ms
+2026-03-26T11:24:24Z INFO [payment-gateway] GET /api/v1/cart 200 95ms
+2026-03-26T11:25:05Z INFO [payment-gateway] GET /api/v1/items 200 108ms
+2026-03-26T11:27:23Z INFO [payment-gateway] GET /api/v1/users 200 77ms
+2026-03-26T11:28:00Z INFO [payment-gateway] GET /api/v1/health 200 111ms
+2026-03-26T11:28:12Z INFO [payment-gateway] GET /api/v1/cart 200 18ms
+2026-03-26T11:29:29Z INFO [payment-gateway] GET /api/v1/health 200 70ms
+2026-03-26T11:29:49Z INFO [payment-gateway] GET /api/v1/cart 200 87ms
+2026-03-26T11:29:50Z INFO [payment-gateway] GET /api/v1/health 200 11ms
+2026-03-26T11:30:57Z INFO [payment-gateway] GET /api/v1/orders 200 110ms
+2026-03-26T11:31:43Z INFO [payment-gateway] GET /api/v1/search 200 94ms
+2026-03-26T11:32:31Z INFO [payment-gateway] GET /api/v1/items 200 59ms
+2026-03-26T11:33:37Z INFO [payment-gateway] GET /api/v1/orders 200 9ms
+2026-03-26T11:33:48Z INFO [payment-gateway] GET /api/v1/orders 200 67ms
+2026-03-26T11:36:09Z INFO [payment-gateway] GET /api/v1/search 200 23ms
+2026-03-26T11:37:49Z INFO [payment-gateway] GET /api/v1/cart 200 63ms
+2026-03-26T11:38:54Z INFO [payment-gateway] GET /api/v1/cart 200 10ms
+2026-03-26T11:40:53Z INFO [payment-gateway] GET /api/v1/orders 200 63ms
+2026-03-26T11:41:26Z INFO [payment-gateway] GET /api/v1/users 200 103ms
+2026-03-26T11:41:36Z INFO [payment-gateway] GET /api/v1/users 200 59ms
+2026-03-26T11:42:47Z INFO [payment-gateway] GET /api/v1/items 200 50ms
+2026-03-26T11:45:06Z WARN [payment-gateway] Retry succeeded on attempt 2 for payment-gateway
+2026-03-26T11:46:52Z INFO [payment-gateway] GET /api/v1/cart 200 34ms
+2026-03-26T11:47:41Z INFO [payment-gateway] GET /api/v1/cart 200 15ms
+2026-03-26T11:47:45Z INFO [payment-gateway] GET /api/v1/health 200 10ms
+2026-03-26T11:48:23Z INFO [payment-gateway] GET /api/v1/search 200 109ms
+2026-03-26T11:50:06Z INFO [payment-gateway] GET /api/v1/items 200 15ms
+2026-03-26T11:52:02Z INFO [payment-gateway] GET /api/v1/orders 200 80ms
+2026-03-26T11:56:30Z INFO [payment-gateway] GET /api/v1/items 200 28ms
+2026-03-26T11:57:27Z INFO [payment-gateway] GET /api/v1/search 200 101ms
+2026-03-26T11:57:42Z INFO [payment-gateway] GET /api/v1/health 200 36ms
+2026-03-26T11:57:58Z INFO [payment-gateway] GET /api/v1/search 200 116ms
+2026-03-26T11:59:00Z INFO [payment-gateway] GET /api/v1/users 200 56ms
+2026-03-26T11:59:04Z INFO [payment-gateway] GET /api/v1/health 200 34ms
+2026-03-26T12:00:16Z INFO [payment-gateway] GET /api/v1/health 200 49ms
+2026-03-26T12:01:32Z INFO [payment-gateway] GET /api/v1/search 200 108ms
+2026-03-26T12:03:15Z INFO [payment-gateway] GET /api/v1/cart 200 82ms
+2026-03-26T12:03:16Z INFO [payment-gateway] GET /api/v1/orders 200 30ms
+2026-03-26T12:04:28Z INFO [payment-gateway] GET /api/v1/search 200 100ms
+2026-03-26T12:04:30Z INFO [payment-gateway] GET /api/v1/cart 200 44ms
+2026-03-26T12:08:05Z INFO [payment-gateway] GET /api/v1/items 200 82ms
+2026-03-26T12:09:11Z INFO [payment-gateway] GET /api/v1/health 200 29ms
+2026-03-26T12:09:38Z INFO [payment-gateway] GET /api/v1/orders 200 107ms
+2026-03-26T12:10:07Z INFO [payment-gateway] GET /api/v1/search 200 71ms
+2026-03-26T12:11:43Z INFO [payment-gateway] GET /api/v1/cart 200 49ms
+2026-03-26T12:11:46Z INFO [payment-gateway] GET /api/v1/users 200 114ms
+2026-03-26T12:12:27Z INFO [payment-gateway] GET /api/v1/items 200 87ms
+2026-03-26T12:14:00Z INFO [payment-gateway] GET /api/v1/health 200 56ms
+2026-03-26T12:14:06Z INFO [payment-gateway] GET /api/v1/users 200 22ms
+2026-03-26T12:15:35Z INFO [payment-gateway] GET /api/v1/search 200 44ms
+2026-03-26T12:16:32Z INFO [payment-gateway] GET /api/v1/users 200 55ms
+2026-03-26T12:18:06Z INFO [payment-gateway] GET /api/v1/users 200 76ms
+2026-03-26T12:19:44Z INFO [payment-gateway] GET /api/v1/users 200 104ms
+2026-03-26T12:21:38Z INFO [payment-gateway] GET /api/v1/health 200 96ms
+2026-03-26T12:23:46Z INFO [payment-gateway] GET /api/v1/cart 200 44ms
+2026-03-26T12:23:56Z INFO [payment-gateway] GET /api/v1/search 200 86ms
+2026-03-26T12:25:15Z INFO [payment-gateway] GET /api/v1/cart 200 91ms
+2026-03-26T12:26:44Z INFO [payment-gateway] GET /api/v1/users 200 62ms
+2026-03-26T12:26:57Z INFO [payment-gateway] GET /api/v1/orders 200 49ms
+2026-03-26T12:28:42Z INFO [payment-gateway] GET /api/v1/users 200 72ms
+2026-03-26T12:29:46Z INFO [payment-gateway] GET /api/v1/health 200 37ms
+2026-03-26T12:32:25Z INFO [payment-gateway] GET /api/v1/cart 200 14ms
+2026-03-26T12:33:16Z INFO [payment-gateway] GET /api/v1/users 200 90ms
+2026-03-26T12:33:21Z INFO [payment-gateway] GET /api/v1/cart 200 104ms
+2026-03-26T12:36:06Z INFO [payment-gateway] GET /api/v1/users 200 83ms
+2026-03-26T12:37:21Z INFO [payment-gateway] GET /api/v1/cart 200 69ms
+2026-03-26T12:38:06Z INFO [payment-gateway] GET /api/v1/health 200 119ms
+2026-03-26T12:38:41Z INFO [payment-gateway] GET /api/v1/cart 200 60ms
+2026-03-26T12:39:13Z INFO [payment-gateway] GET /api/v1/cart 200 62ms
+2026-03-26T12:41:01Z INFO [payment-gateway] GET /api/v1/search 200 90ms
+2026-03-26T12:46:35Z INFO [payment-gateway] GET /api/v1/orders 200 10ms
+2026-03-26T12:47:18Z INFO [payment-gateway] GET /api/v1/orders 200 11ms
+2026-03-26T12:47:51Z INFO [payment-gateway] GET /api/v1/health 200 95ms
+2026-03-26T12:49:23Z WARN [payment-gateway] Slow request 640ms for GET /api/v1/items
+2026-03-26T12:49:39Z INFO [payment-gateway] GET /api/v1/items 200 70ms
+2026-03-26T12:50:39Z WARN [payment-gateway] Certificate for api.internal expires in 24 days
+2026-03-26T12:51:17Z INFO [payment-gateway] GET /api/v1/items 200 45ms
+2026-03-26T12:52:57Z INFO [payment-gateway] GET /api/v1/items 200 56ms
+2026-03-26T12:53:07Z INFO [payment-gateway] GET /api/v1/search 200 112ms
+2026-03-26T12:53:59Z INFO [payment-gateway] GET /api/v1/health 200 18ms
+2026-03-26T12:57:06Z INFO [payment-gateway] GET /api/v1/orders 200 36ms
+2026-03-26T12:59:48Z INFO [payment-gateway] GET /api/v1/orders 200 88ms
+2026-03-26T13:00:09Z INFO [payment-gateway] GET /api/v1/cart 200 36ms
+2026-03-26T13:05:00Z INFO [payment-gateway] GET /api/v1/health 200 118ms
+2026-03-26T13:05:39Z INFO [payment-gateway] GET /api/v1/cart 200 21ms
+2026-03-26T13:06:49Z INFO [payment-gateway] GET /api/v1/search 200 8ms
+2026-03-26T13:07:02Z INFO [payment-gateway] GET /api/v1/orders 200 115ms
+2026-03-26T13:07:56Z INFO [payment-gateway] GET /api/v1/health 200 75ms
+2026-03-26T13:08:10Z INFO [payment-gateway] GET /api/v1/cart 200 45ms
+2026-03-26T13:10:23Z INFO [payment-gateway] GET /api/v1/users 200 114ms
+2026-03-26T13:11:42Z INFO [payment-gateway] GET /api/v1/users 200 106ms
+2026-03-26T13:14:04Z WARN [payment-gateway] TCP retransmits elevated: 665 per second
+2026-03-26T13:14:26Z INFO [payment-gateway] GET /api/v1/cart 200 22ms
+2026-03-26T13:15:02Z WARN [payment-gateway] Health check slow: 2998ms
+2026-03-26T13:15:30Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-26T13:15:31Z WARN [payment-gateway] Connection to twilio re-established after 117 retries
+2026-03-26T13:15:48Z INFO [payment-gateway] GET /api/v1/users 200 83ms
+2026-03-26T13:16:17Z WARN [payment-gateway] Health check slow: 8153ms
+2026-03-26T13:16:46Z INFO [payment-gateway] GET /api/v1/health 200 118ms
+2026-03-26T13:17:05Z WARN [payment-gateway] Health check slow: 7883ms
+2026-03-26T13:17:38Z ERROR [payment-gateway] i/o timeout while reading from stripe
+2026-03-26T13:17:39Z ERROR [payment-gateway] i/o timeout while reading from twilio
+2026-03-26T13:18:39Z ERROR [payment-gateway] Request failed with status 500
+2026-03-26T13:18:59Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:19:40Z WARN [payment-gateway] Health check slow: 7675ms
+2026-03-26T13:20:16Z ERROR [payment-gateway] Request failed with status 500
+2026-03-26T13:20:58Z WARN [payment-gateway] Packet loss 659% on path to 10.0.0.26
+2026-03-26T13:21:25Z ERROR [payment-gateway] i/o timeout while reading from inventory-service
+2026-03-26T13:21:30Z INFO [payment-gateway] GET /api/v1/users 200 49ms
+2026-03-26T13:22:19Z ERROR [payment-gateway] Request failed with status 500
+2026-03-26T13:22:26Z INFO [payment-gateway] GET /api/v1/search 200 50ms
+2026-03-26T13:22:32Z INFO [payment-gateway] GET /api/v1/health 200 66ms
+2026-03-26T13:23:01Z INFO [payment-gateway] GET /api/v1/health 200 105ms
+2026-03-26T13:23:02Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-26T13:23:08Z INFO [payment-gateway] GET /api/v1/search 200 69ms
+2026-03-26T13:23:09Z INFO [payment-gateway] GET /api/v1/health 200 96ms
+2026-03-26T13:23:21Z WARN [payment-gateway] Packet loss 523% on path to 10.0.2.170
+2026-03-26T13:23:25Z WARN [payment-gateway] Packet loss 564% on path to 10.0.6.103
+2026-03-26T13:23:30Z ERROR [payment-gateway] Request failed with status 500
+2026-03-26T13:24:25Z ERROR [payment-gateway] i/o timeout while reading from auth-service
+2026-03-26T13:24:32Z ERROR [payment-gateway] i/o timeout while reading from payment-gateway
+2026-03-26T13:25:18Z INFO [payment-gateway] GET /api/v1/cart 200 11ms
+2026-03-26T13:25:28Z INFO [payment-gateway] GET /api/v1/items 200 13ms
+2026-03-26T13:25:39Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:26:03Z ERROR [payment-gateway] i/o timeout while reading from payment-gateway
+2026-03-26T13:26:10Z INFO [payment-gateway] GET /api/v1/items 200 40ms
+2026-03-26T13:26:11Z WARN [payment-gateway] Packet loss 382% on path to 10.0.1.9
+2026-03-26T13:26:36Z ERROR [payment-gateway] Request failed with status 500
+2026-03-26T13:26:57Z WARN [payment-gateway] Packet loss 52% on path to 10.0.6.246
+2026-03-26T13:27:12Z WARN [payment-gateway] Packet loss 833% on path to 10.0.3.205
+2026-03-26T13:27:25Z WARN [payment-gateway] Packet loss 526% on path to 10.0.0.127
+2026-03-26T13:27:58Z WARN [payment-gateway] TCP retransmits elevated: 783 per second
+2026-03-26T13:30:26Z WARN [payment-gateway] Health check slow: 5341ms
+2026-03-26T13:30:40Z INFO [payment-gateway] GET /api/v1/search 200 53ms
+2026-03-26T13:32:04Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-26T13:32:15Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:33:11Z INFO [payment-gateway] GET /api/v1/orders 200 81ms
+2026-03-26T13:33:18Z WARN [payment-gateway] Health check slow: 8478ms
+2026-03-26T13:33:26Z ERROR [payment-gateway] i/o timeout while reading from inventory-service
+2026-03-26T13:33:29Z INFO [payment-gateway] GET /api/v1/cart 200 96ms
+2026-03-26T13:33:34Z INFO [payment-gateway] GET /api/v1/cart 200 98ms
+2026-03-26T13:33:43Z WARN [payment-gateway] Packet loss 754% on path to 10.0.6.241
+2026-03-26T13:34:08Z WARN [payment-gateway] TCP retransmits elevated: 686 per second
+2026-03-26T13:34:09Z WARN [payment-gateway] Packet loss 816% on path to 10.0.5.186
+2026-03-26T13:34:10Z INFO [payment-gateway] GET /api/v1/cart 200 42ms
+2026-03-26T13:34:40Z INFO [payment-gateway] GET /api/v1/users 200 111ms
+2026-03-26T13:35:52Z INFO [payment-gateway] GET /api/v1/health 200 101ms
+2026-03-26T13:36:04Z INFO [payment-gateway] GET /api/v1/items 200 59ms
+2026-03-26T13:36:12Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-26T13:36:14Z INFO [payment-gateway] GET /api/v1/cart 200 85ms
+2026-03-26T13:36:33Z WARN [payment-gateway] TCP retransmits elevated: 479 per second
+2026-03-26T13:37:35Z INFO [payment-gateway] GET /api/v1/cart 200 48ms
+2026-03-26T13:37:57Z WARN [payment-gateway] TCP retransmits elevated: 134 per second
+2026-03-26T13:38:09Z WARN [payment-gateway] Health check slow: 3166ms
+2026-03-26T13:38:22Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:38:37Z ERROR [payment-gateway] i/o timeout while reading from stripe
+2026-03-26T13:40:05Z INFO [payment-gateway] GET /api/v1/orders 200 96ms
+2026-03-26T13:40:18Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:40:26Z INFO [payment-gateway] GET /api/v1/health 200 115ms
+2026-03-26T13:40:42Z WARN [payment-gateway] Packet loss 846% on path to 10.0.1.76
+2026-03-26T13:41:11Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:41:31Z INFO [payment-gateway] GET /api/v1/items 200 28ms
+2026-03-26T13:42:04Z INFO [payment-gateway] GET /api/v1/cart 200 8ms
+2026-03-26T13:42:04Z WARN [payment-gateway] TCP retransmits elevated: 652 per second
+2026-03-26T13:42:12Z INFO [payment-gateway] GET /api/v1/health 200 46ms
+2026-03-26T13:42:46Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:42:51Z INFO [payment-gateway] GET /api/v1/users 200 88ms
+2026-03-26T13:43:00Z WARN [payment-gateway] Health check slow: 2426ms
+2026-03-26T13:43:00Z INFO [payment-gateway] GET /api/v1/cart 200 110ms
+2026-03-26T13:43:11Z WARN [payment-gateway] TCP retransmits elevated: 458 per second
+2026-03-26T13:44:01Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:44:13Z INFO [payment-gateway] GET /api/v1/search 200 57ms
+2026-03-26T13:46:29Z ERROR [payment-gateway] Unexpected error handling request
+2026-03-26T13:46:47Z INFO [payment-gateway] GET /api/v1/orders 200 51ms
+2026-03-26T13:47:15Z INFO [payment-gateway] GET /api/v1/orders 200 54ms
+2026-03-26T13:47:55Z ERROR [payment-gateway] i/o timeout while reading from twilio
+2026-03-26T13:47:58Z WARN [payment-gateway] TCP retransmits elevated: 824 per second
+2026-03-26T13:48:05Z INFO [payment-gateway] GET /api/v1/orders 200 55ms
+2026-03-26T13:48:21Z ERROR [payment-gateway] i/o timeout while reading from payment-gateway
+2026-03-26T13:48:34Z WARN [payment-gateway] TCP retransmits elevated: 248 per second
+2026-03-26T13:48:35Z INFO [payment-gateway] GET /api/v1/items 200 64ms
+2026-03-26T13:49:16Z ERROR [payment-gateway] i/o timeout while reading from payment-gateway
+2026-03-26T13:50:11Z INFO [payment-gateway] GET /api/v1/cart 200 35ms
+2026-03-26T13:51:50Z INFO [payment-gateway] GET /api/v1/items 200 32ms
+2026-03-26T13:52:04Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:52:05Z ERROR [payment-gateway] Request failed with status 500
+2026-03-26T13:53:15Z INFO [payment-gateway] GET /api/v1/items 200 111ms
+2026-03-26T13:55:00Z ERROR [payment-gateway] i/o timeout while reading from pricing-service
+2026-03-26T13:56:30Z ERROR [payment-gateway] Request failed with status 500
+2026-03-26T13:56:38Z ERROR [payment-gateway] Connection reset by peer
+2026-03-26T13:58:23Z INFO [payment-gateway] GET /api/v1/orders 200 94ms
+2026-03-26T13:58:26Z INFO [payment-gateway] GET /api/v1/cart 200 70ms
+2026-03-26T13:58:52Z INFO [payment-gateway] GET /api/v1/health 200 54ms
+2026-03-26T13:59:04Z ERROR [payment-gateway] Request failed with status 500
+2026-03-26T13:59:04Z WARN [payment-gateway] Health check slow: 8010ms
+2026-03-26T13:59:32Z WARN [payment-gateway] TCP retransmits elevated: 373 per second
+2026-03-26T13:59:37Z ERROR [payment-gateway] Unexpected error handling request

@@ -1,0 +1,289 @@
+2026-03-15T10:00:08Z INFO [order-service] GET /api/v1/orders 200 24ms
+2026-03-15T10:02:58Z INFO [order-service] GET /api/v1/search 200 24ms
+2026-03-15T10:03:57Z INFO [order-service] GET /api/v1/users 200 85ms
+2026-03-15T10:04:17Z INFO [order-service] GET /api/v1/users 200 112ms
+2026-03-15T10:05:41Z INFO [order-service] GET /api/v1/health 200 16ms
+2026-03-15T10:06:00Z INFO [order-service] GET /api/v1/orders 200 69ms
+2026-03-15T10:07:27Z INFO [order-service] GET /api/v1/orders 200 87ms
+2026-03-15T10:07:42Z INFO [order-service] GET /api/v1/users 200 90ms
+2026-03-15T10:08:11Z INFO [order-service] GET /api/v1/items 200 38ms
+2026-03-15T10:09:28Z INFO [order-service] GET /api/v1/orders 200 75ms
+2026-03-15T10:10:12Z INFO [order-service] GET /api/v1/search 200 35ms
+2026-03-15T10:12:05Z INFO [order-service] GET /api/v1/users 200 37ms
+2026-03-15T10:13:10Z INFO [order-service] GET /api/v1/orders 200 84ms
+2026-03-15T10:14:32Z INFO [order-service] GET /api/v1/users 200 60ms
+2026-03-15T10:16:06Z INFO [order-service] GET /api/v1/cart 200 86ms
+2026-03-15T10:16:11Z INFO [order-service] GET /api/v1/users 200 28ms
+2026-03-15T10:17:05Z INFO [order-service] GET /api/v1/health 200 46ms
+2026-03-15T10:17:14Z INFO [order-service] GET /api/v1/cart 200 91ms
+2026-03-15T10:18:44Z INFO [order-service] GET /api/v1/orders 200 69ms
+2026-03-15T10:20:48Z INFO [order-service] GET /api/v1/cart 200 13ms
+2026-03-15T10:21:31Z INFO [order-service] GET /api/v1/cart 200 44ms
+2026-03-15T10:22:15Z INFO [order-service] GET /api/v1/search 200 59ms
+2026-03-15T10:22:33Z INFO [order-service] GET /api/v1/cart 200 73ms
+2026-03-15T10:22:37Z INFO [order-service] GET /api/v1/items 200 112ms
+2026-03-15T10:24:03Z INFO [order-service] GET /api/v1/cart 200 103ms
+2026-03-15T10:24:16Z INFO [order-service] GET /api/v1/users 200 10ms
+2026-03-15T10:24:39Z INFO [order-service] GET /api/v1/search 200 32ms
+2026-03-15T10:24:59Z INFO [order-service] GET /api/v1/cart 200 25ms
+2026-03-15T10:26:35Z INFO [order-service] GET /api/v1/search 200 97ms
+2026-03-15T10:28:28Z INFO [order-service] GET /api/v1/items 200 82ms
+2026-03-15T10:28:48Z INFO [order-service] GET /api/v1/orders 200 22ms
+2026-03-15T10:29:43Z INFO [order-service] GET /api/v1/cart 200 29ms
+2026-03-15T10:31:22Z INFO [order-service] GET /api/v1/search 200 91ms
+2026-03-15T10:31:47Z INFO [order-service] GET /api/v1/items 200 16ms
+2026-03-15T10:32:44Z INFO [order-service] GET /api/v1/cart 200 106ms
+2026-03-15T10:33:58Z INFO [order-service] GET /api/v1/health 200 85ms
+2026-03-15T10:36:07Z INFO [order-service] GET /api/v1/search 200 80ms
+2026-03-15T10:36:25Z INFO [order-service] GET /api/v1/cart 200 64ms
+2026-03-15T10:37:16Z INFO [order-service] GET /api/v1/items 200 103ms
+2026-03-15T10:39:09Z INFO [order-service] GET /api/v1/users 200 119ms
+2026-03-15T10:40:51Z INFO [order-service] GET /api/v1/users 200 81ms
+2026-03-15T10:41:29Z INFO [order-service] GET /api/v1/cart 200 13ms
+2026-03-15T10:43:21Z INFO [order-service] GET /api/v1/items 200 51ms
+2026-03-15T10:43:29Z INFO [order-service] GET /api/v1/search 200 84ms
+2026-03-15T10:45:07Z INFO [order-service] GET /api/v1/cart 200 55ms
+2026-03-15T10:45:35Z INFO [order-service] GET /api/v1/cart 200 90ms
+2026-03-15T10:47:15Z INFO [order-service] GET /api/v1/users 200 51ms
+2026-03-15T10:47:29Z INFO [order-service] GET /api/v1/health 200 93ms
+2026-03-15T10:48:54Z INFO [order-service] GET /api/v1/cart 200 112ms
+2026-03-15T10:50:07Z INFO [order-service] GET /api/v1/cart 200 118ms
+2026-03-15T10:50:47Z INFO [order-service] GET /api/v1/health 200 69ms
+2026-03-15T10:51:52Z INFO [order-service] GET /api/v1/items 200 19ms
+2026-03-15T10:52:40Z INFO [order-service] GET /api/v1/health 200 27ms
+2026-03-15T10:54:39Z INFO [order-service] GET /api/v1/health 200 118ms
+2026-03-15T10:56:47Z INFO [order-service] GET /api/v1/cart 200 20ms
+2026-03-15T10:56:52Z INFO [order-service] GET /api/v1/search 200 91ms
+2026-03-15T10:57:38Z INFO [order-service] GET /api/v1/health 200 20ms
+2026-03-15T11:00:04Z INFO [order-service] GET /api/v1/search 200 40ms
+2026-03-15T11:01:35Z INFO [order-service] GET /api/v1/cart 200 62ms
+2026-03-15T11:02:32Z INFO [order-service] GET /api/v1/orders 200 55ms
+2026-03-15T11:03:46Z INFO [order-service] GET /api/v1/items 200 89ms
+2026-03-15T11:04:33Z INFO [order-service] GET /api/v1/users 200 97ms
+2026-03-15T11:07:05Z INFO [order-service] GET /api/v1/cart 200 68ms
+2026-03-15T11:08:45Z INFO [order-service] GET /api/v1/items 200 13ms
+2026-03-15T11:10:46Z INFO [order-service] GET /api/v1/users 200 109ms
+2026-03-15T11:11:20Z INFO [order-service] GET /api/v1/users 200 70ms
+2026-03-15T11:12:02Z INFO [order-service] GET /api/v1/health 200 63ms
+2026-03-15T11:13:48Z INFO [order-service] GET /api/v1/items 200 106ms
+2026-03-15T11:15:53Z INFO [order-service] GET /api/v1/orders 200 10ms
+2026-03-15T11:18:25Z INFO [order-service] GET /api/v1/orders 200 59ms
+2026-03-15T11:19:12Z INFO [order-service] GET /api/v1/search 200 102ms
+2026-03-15T11:19:19Z INFO [order-service] GET /api/v1/search 200 45ms
+2026-03-15T11:21:29Z INFO [order-service] GET /api/v1/items 200 56ms
+2026-03-15T11:24:29Z INFO [order-service] GET /api/v1/orders 200 90ms
+2026-03-15T11:30:22Z INFO [order-service] GET /api/v1/cart 200 101ms
+2026-03-15T11:30:49Z INFO [order-service] GET /api/v1/orders 200 38ms
+2026-03-15T11:31:47Z WARN [order-service] Minor GC pause 120ms
+2026-03-15T11:33:32Z INFO [order-service] GET /api/v1/cart 200 103ms
+2026-03-15T11:33:53Z WARN [order-service] Certificate for api.internal expires in 24 days
+2026-03-15T11:34:32Z INFO [order-service] GET /api/v1/orders 200 45ms
+2026-03-15T11:36:44Z INFO [order-service] GET /api/v1/items 200 114ms
+2026-03-15T11:39:33Z WARN [order-service] Certificate for api.internal expires in 24 days
+2026-03-15T11:40:01Z INFO [order-service] GET /api/v1/search 200 109ms
+2026-03-15T11:40:24Z INFO [order-service] GET /api/v1/search 200 93ms
+2026-03-15T11:40:42Z INFO [order-service] GET /api/v1/users 200 106ms
+2026-03-15T11:42:56Z INFO [order-service] GET /api/v1/search 200 47ms
+2026-03-15T11:44:37Z INFO [order-service] GET /api/v1/cart 200 34ms
+2026-03-15T11:47:03Z INFO [order-service] GET /api/v1/orders 200 45ms
+2026-03-15T11:47:19Z INFO [order-service] GET /api/v1/health 200 87ms
+2026-03-15T11:47:31Z INFO [order-service] GET /api/v1/cart 200 103ms
+2026-03-15T11:48:33Z INFO [order-service] GET /api/v1/health 200 29ms
+2026-03-15T11:54:09Z WARN [order-service] Minor GC pause 120ms
+2026-03-15T11:54:35Z INFO [order-service] GET /api/v1/health 200 13ms
+2026-03-15T11:55:32Z INFO [order-service] GET /api/v1/items 200 53ms
+2026-03-15T11:58:39Z INFO [order-service] GET /api/v1/cart 200 91ms
+2026-03-15T11:59:45Z INFO [order-service] GET /api/v1/search 200 115ms
+2026-03-15T11:59:46Z INFO [order-service] GET /api/v1/users 200 68ms
+2026-03-15T12:00:33Z INFO [order-service] GET /api/v1/cart 200 92ms
+2026-03-15T12:04:32Z INFO [order-service] GET /api/v1/users 200 26ms
+2026-03-15T12:06:22Z INFO [order-service] GET /api/v1/health 200 8ms
+2026-03-15T12:06:49Z INFO [order-service] GET /api/v1/health 200 63ms
+2026-03-15T12:08:05Z INFO [order-service] GET /api/v1/cart 200 35ms
+2026-03-15T12:09:24Z INFO [order-service] GET /api/v1/items 200 30ms
+2026-03-15T12:11:13Z INFO [order-service] GET /api/v1/cart 200 57ms
+2026-03-15T12:11:31Z INFO [order-service] GET /api/v1/search 200 34ms
+2026-03-15T12:15:16Z INFO [order-service] GET /api/v1/health 200 20ms
+2026-03-15T12:17:11Z INFO [order-service] GET /api/v1/users 200 61ms
+2026-03-15T12:17:12Z INFO [order-service] GET /api/v1/items 200 103ms
+2026-03-15T12:18:48Z INFO [order-service] GET /api/v1/search 200 14ms
+2026-03-15T12:19:51Z INFO [order-service] GET /api/v1/items 200 61ms
+2026-03-15T12:20:08Z INFO [order-service] GET /api/v1/orders 200 33ms
+2026-03-15T12:20:58Z INFO [order-service] GET /api/v1/orders 200 37ms
+2026-03-15T12:22:23Z INFO [order-service] GET /api/v1/health 200 67ms
+2026-03-15T12:22:47Z INFO [order-service] GET /api/v1/cart 200 70ms
+2026-03-15T12:23:30Z INFO [order-service] GET /api/v1/users 200 56ms
+2026-03-15T12:24:16Z INFO [order-service] GET /api/v1/orders 200 10ms
+2026-03-15T12:26:25Z INFO [order-service] GET /api/v1/users 200 39ms
+2026-03-15T12:28:25Z INFO [order-service] GET /api/v1/search 200 35ms
+2026-03-15T12:30:09Z WARN [order-service] Certificate for twilio.internal expires in 2 hours
+2026-03-15T12:30:19Z INFO [order-service] GET /api/v1/health 200 116ms
+2026-03-15T12:31:26Z INFO [order-service] GET /api/v1/health 200 114ms
+2026-03-15T12:32:44Z INFO [order-service] GET /api/v1/users 200 27ms
+2026-03-15T12:33:14Z WARN [order-service] Health check slow: 2421ms
+2026-03-15T12:33:38Z INFO [order-service] GET /api/v1/items 200 58ms
+2026-03-15T12:33:54Z INFO [order-service] GET /api/v1/users 200 88ms
+2026-03-15T12:34:10Z WARN [order-service] Certificate for stripe.internal expires in 2 hours
+2026-03-15T12:34:24Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T12:34:29Z INFO [order-service] GET /api/v1/orders 200 57ms
+2026-03-15T12:36:15Z INFO [order-service] GET /api/v1/orders 200 49ms
+2026-03-15T12:36:54Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T12:37:07Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T12:40:09Z ERROR [order-service] TLS handshake failed with pricing-service: certificate has expired
+2026-03-15T12:40:41Z WARN [order-service] Health check slow: 4110ms
+2026-03-15T12:41:05Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T12:41:52Z INFO [order-service] GET /api/v1/orders 200 85ms
+2026-03-15T12:42:54Z INFO [order-service] GET /api/v1/health 200 105ms
+2026-03-15T12:43:09Z ERROR [order-service] TLS handshake failed with stripe: certificate has expired
+2026-03-15T12:43:45Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T12:45:16Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T12:45:28Z INFO [order-service] GET /api/v1/search 200 55ms
+2026-03-15T12:45:31Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T12:45:44Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T12:46:20Z ERROR [order-service] Unexpected error handling request
+2026-03-15T12:46:28Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T12:47:03Z ERROR [order-service] Unexpected error handling request
+2026-03-15T12:47:03Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T12:47:16Z INFO [order-service] GET /api/v1/cart 200 44ms
+2026-03-15T12:47:24Z ERROR [order-service] Unexpected error handling request
+2026-03-15T12:51:11Z INFO [order-service] GET /api/v1/users 200 24ms
+2026-03-15T12:51:50Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T12:51:56Z INFO [order-service] GET /api/v1/cart 200 52ms
+2026-03-15T12:52:16Z ERROR [order-service] TLS handshake failed with auth-service: certificate has expired
+2026-03-15T12:52:17Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T12:52:17Z ERROR [order-service] Unexpected error handling request
+2026-03-15T12:52:34Z ERROR [order-service] TLS handshake failed with inventory-service: certificate has expired
+2026-03-15T12:52:40Z ERROR [order-service] Request failed with status 500
+2026-03-15T12:53:33Z INFO [order-service] GET /api/v1/search 200 11ms
+2026-03-15T12:53:37Z INFO [order-service] GET /api/v1/health 200 40ms
+2026-03-15T12:53:53Z INFO [order-service] GET /api/v1/orders 200 98ms
+2026-03-15T12:53:58Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T12:54:05Z INFO [order-service] GET /api/v1/items 200 108ms
+2026-03-15T12:54:16Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T12:55:00Z INFO [order-service] GET /api/v1/health 200 8ms
+2026-03-15T12:55:04Z INFO [order-service] GET /api/v1/search 200 16ms
+2026-03-15T12:58:00Z WARN [order-service] Health check slow: 5799ms
+2026-03-15T12:58:27Z ERROR [order-service] Request failed with status 500
+2026-03-15T13:00:29Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:01:01Z INFO [order-service] GET /api/v1/health 200 76ms
+2026-03-15T13:01:23Z INFO [order-service] GET /api/v1/users 200 54ms
+2026-03-15T13:02:13Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:02:14Z INFO [order-service] GET /api/v1/orders 200 54ms
+2026-03-15T13:02:51Z INFO [order-service] GET /api/v1/items 200 20ms
+2026-03-15T13:03:18Z INFO [order-service] GET /api/v1/orders 200 27ms
+2026-03-15T13:03:49Z ERROR [order-service] Request failed with status 500
+2026-03-15T13:03:58Z INFO [order-service] GET /api/v1/health 200 27ms
+2026-03-15T13:05:40Z INFO [order-service] GET /api/v1/health 200 43ms
+2026-03-15T13:05:59Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:06:02Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:06:21Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:07:10Z ERROR [order-service] TLS handshake failed with auth-service: certificate has expired
+2026-03-15T13:08:44Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:09:00Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:09:20Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:09:42Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:10:14Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:11:41Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:11:45Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:12:34Z INFO [order-service] GET /api/v1/cart 200 50ms
+2026-03-15T13:12:58Z ERROR [order-service] TLS handshake failed with stripe: certificate has expired
+2026-03-15T13:13:42Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:13:46Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:13:59Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:14:05Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:15:41Z INFO [order-service] GET /api/v1/items 200 33ms
+2026-03-15T13:15:57Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:16:03Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:16:32Z ERROR [order-service] TLS handshake failed with inventory-service: certificate has expired
+2026-03-15T13:17:31Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:17:46Z INFO [order-service] GET /api/v1/cart 200 17ms
+2026-03-15T13:18:30Z INFO [order-service] GET /api/v1/orders 200 9ms
+2026-03-15T13:18:41Z INFO [order-service] GET /api/v1/users 200 37ms
+2026-03-15T13:20:10Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:20:42Z INFO [order-service] GET /api/v1/search 200 34ms
+2026-03-15T13:21:04Z INFO [order-service] GET /api/v1/cart 200 116ms
+2026-03-15T13:21:32Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:22:52Z INFO [order-service] GET /api/v1/orders 200 65ms
+2026-03-15T13:23:21Z INFO [order-service] GET /api/v1/cart 200 85ms
+2026-03-15T13:23:22Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:23:51Z INFO [order-service] GET /api/v1/users 200 25ms
+2026-03-15T13:24:04Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:24:15Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:24:38Z WARN [order-service] Health check slow: 8288ms
+2026-03-15T13:24:56Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:25:33Z INFO [order-service] GET /api/v1/search 200 75ms
+2026-03-15T13:26:12Z INFO [order-service] GET /api/v1/orders 200 106ms
+2026-03-15T13:26:12Z INFO [order-service] GET /api/v1/search 200 18ms
+2026-03-15T13:26:19Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:26:22Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:27:00Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:28:53Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:29:13Z INFO [order-service] GET /api/v1/cart 200 12ms
+2026-03-15T13:29:22Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:29:43Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:30:58Z INFO [order-service] GET /api/v1/health 200 55ms
+2026-03-15T13:31:38Z INFO [order-service] GET /api/v1/search 200 12ms
+2026-03-15T13:32:51Z WARN [order-service] Health check slow: 1003ms
+2026-03-15T13:33:02Z INFO [order-service] GET /api/v1/orders 200 85ms
+2026-03-15T13:33:07Z ERROR [order-service] TLS handshake failed with payment-gateway: certificate has expired
+2026-03-15T13:34:07Z INFO [order-service] GET /api/v1/search 200 85ms
+2026-03-15T13:34:12Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:34:21Z ERROR [order-service] Request failed with status 500
+2026-03-15T13:34:36Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:35:16Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:36:50Z INFO [order-service] GET /api/v1/users 200 28ms
+2026-03-15T13:37:13Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:37:14Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:37:22Z ERROR [order-service] TLS handshake failed with twilio: certificate has expired
+2026-03-15T13:38:50Z INFO [order-service] GET /api/v1/search 200 78ms
+2026-03-15T13:39:42Z ERROR [order-service] TLS handshake failed with pricing-service: certificate has expired
+2026-03-15T13:40:17Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:41:01Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:41:09Z INFO [order-service] GET /api/v1/orders 200 109ms
+2026-03-15T13:41:16Z INFO [order-service] GET /api/v1/health 200 36ms
+2026-03-15T13:41:23Z ERROR [order-service] TLS handshake failed with auth-service: certificate has expired
+2026-03-15T13:41:30Z INFO [order-service] GET /api/v1/cart 200 29ms
+2026-03-15T13:41:38Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:41:43Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:42:16Z ERROR [order-service] Request failed with status 500
+2026-03-15T13:42:18Z ERROR [order-service] Request failed with status 500
+2026-03-15T13:42:32Z INFO [order-service] GET /api/v1/users 200 46ms
+2026-03-15T13:42:34Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:42:45Z INFO [order-service] GET /api/v1/search 200 75ms
+2026-03-15T13:42:54Z INFO [order-service] GET /api/v1/search 200 64ms
+2026-03-15T13:43:01Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:43:07Z INFO [order-service] GET /api/v1/users 200 55ms
+2026-03-15T13:44:13Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:45:03Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:45:35Z INFO [order-service] GET /api/v1/health 200 13ms
+2026-03-15T13:45:38Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:46:03Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:46:30Z INFO [order-service] GET /api/v1/items 200 49ms
+2026-03-15T13:47:18Z INFO [order-service] GET /api/v1/users 200 112ms
+2026-03-15T13:48:01Z INFO [order-service] GET /api/v1/items 200 78ms
+2026-03-15T13:48:37Z INFO [order-service] GET /api/v1/items 200 57ms
+2026-03-15T13:49:01Z WARN [order-service] Health check slow: 2259ms
+2026-03-15T13:49:15Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:49:36Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:50:02Z ERROR [order-service] Outbound call failed: javax.net.ssl.SSLException
+2026-03-15T13:50:02Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:50:49Z INFO [order-service] GET /api/v1/users 200 60ms
+2026-03-15T13:51:47Z INFO [order-service] GET /api/v1/orders 200 73ms
+2026-03-15T13:51:48Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:52:22Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:52:34Z INFO [order-service] GET /api/v1/users 200 69ms
+2026-03-15T13:52:45Z INFO [order-service] GET /api/v1/items 200 105ms
+2026-03-15T13:53:11Z INFO [order-service] GET /api/v1/orders 200 40ms
+2026-03-15T13:53:33Z WARN [order-service] Peer certificate not valid after date in the past
+2026-03-15T13:54:37Z INFO [order-service] GET /api/v1/items 200 61ms
+2026-03-15T13:54:38Z ERROR [order-service] Request failed with status 500
+2026-03-15T13:55:06Z ERROR [order-service] TLS handshake failed with pricing-service: certificate has expired
+2026-03-15T13:55:26Z ERROR [order-service] TLS handshake failed with auth-service: certificate has expired
+2026-03-15T13:56:27Z INFO [order-service] GET /api/v1/orders 200 113ms
+2026-03-15T13:57:16Z INFO [order-service] GET /api/v1/cart 200 11ms
+2026-03-15T13:57:27Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:57:45Z WARN [order-service] Health check slow: 3379ms
+2026-03-15T13:58:44Z ERROR [order-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-03-15T13:59:18Z WARN [order-service] Health check slow: 2719ms
+2026-03-15T13:59:44Z ERROR [order-service] Unexpected error handling request
+2026-03-15T13:59:50Z ERROR [order-service] Request failed with status 500

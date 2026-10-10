@@ -1,0 +1,258 @@
+2026-04-02T10:00:57Z INFO [inventory-service] GET /api/v1/health 200 33ms
+2026-04-02T10:03:49Z INFO [inventory-service] GET /api/v1/orders 200 19ms
+2026-04-02T10:05:45Z INFO [inventory-service] GET /api/v1/cart 200 99ms
+2026-04-02T10:05:52Z INFO [inventory-service] GET /api/v1/cart 200 105ms
+2026-04-02T10:08:09Z INFO [inventory-service] GET /api/v1/users 200 82ms
+2026-04-02T10:10:07Z INFO [inventory-service] GET /api/v1/orders 200 110ms
+2026-04-02T10:12:20Z INFO [inventory-service] GET /api/v1/users 200 39ms
+2026-04-02T10:12:50Z INFO [inventory-service] GET /api/v1/cart 200 104ms
+2026-04-02T10:13:06Z INFO [inventory-service] GET /api/v1/health 200 19ms
+2026-04-02T10:13:14Z INFO [inventory-service] GET /api/v1/users 200 47ms
+2026-04-02T10:13:57Z INFO [inventory-service] GET /api/v1/items 200 70ms
+2026-04-02T10:14:13Z INFO [inventory-service] GET /api/v1/search 200 53ms
+2026-04-02T10:14:48Z INFO [inventory-service] GET /api/v1/health 200 83ms
+2026-04-02T10:15:07Z INFO [inventory-service] GET /api/v1/items 200 57ms
+2026-04-02T10:15:36Z WARN [inventory-service] Slow request 640ms for GET /api/v1/items
+2026-04-02T10:16:40Z INFO [inventory-service] GET /api/v1/health 200 93ms
+2026-04-02T10:17:45Z INFO [inventory-service] GET /api/v1/health 200 10ms
+2026-04-02T10:18:06Z INFO [inventory-service] GET /api/v1/items 200 100ms
+2026-04-02T10:19:46Z INFO [inventory-service] GET /api/v1/search 200 42ms
+2026-04-02T10:23:13Z INFO [inventory-service] GET /api/v1/orders 200 79ms
+2026-04-02T10:23:48Z INFO [inventory-service] GET /api/v1/items 200 56ms
+2026-04-02T10:24:17Z INFO [inventory-service] GET /api/v1/users 200 82ms
+2026-04-02T10:25:03Z INFO [inventory-service] GET /api/v1/items 200 93ms
+2026-04-02T10:28:58Z INFO [inventory-service] GET /api/v1/search 200 67ms
+2026-04-02T10:30:15Z INFO [inventory-service] GET /api/v1/health 200 60ms
+2026-04-02T10:31:06Z INFO [inventory-service] GET /api/v1/orders 200 27ms
+2026-04-02T10:31:49Z INFO [inventory-service] GET /api/v1/health 200 83ms
+2026-04-02T10:32:39Z INFO [inventory-service] GET /api/v1/cart 200 63ms
+2026-04-02T10:33:03Z INFO [inventory-service] GET /api/v1/cart 200 21ms
+2026-04-02T10:34:48Z INFO [inventory-service] GET /api/v1/cart 200 38ms
+2026-04-02T10:34:59Z INFO [inventory-service] GET /api/v1/items 200 110ms
+2026-04-02T10:37:40Z INFO [inventory-service] GET /api/v1/items 200 58ms
+2026-04-02T10:38:34Z INFO [inventory-service] GET /api/v1/orders 200 44ms
+2026-04-02T10:41:18Z INFO [inventory-service] GET /api/v1/orders 200 43ms
+2026-04-02T10:41:44Z INFO [inventory-service] GET /api/v1/orders 200 63ms
+2026-04-02T10:43:23Z INFO [inventory-service] GET /api/v1/cart 200 113ms
+2026-04-02T10:49:11Z INFO [inventory-service] GET /api/v1/orders 200 35ms
+2026-04-02T10:51:13Z WARN [inventory-service] Deprecated endpoint /v1/orders/legacy called
+2026-04-02T10:51:36Z INFO [inventory-service] GET /api/v1/orders 200 75ms
+2026-04-02T10:52:03Z INFO [inventory-service] GET /api/v1/search 200 93ms
+2026-04-02T10:54:53Z INFO [inventory-service] GET /api/v1/health 200 116ms
+2026-04-02T10:56:19Z INFO [inventory-service] GET /api/v1/users 200 33ms
+2026-04-02T10:56:48Z INFO [inventory-service] GET /api/v1/users 200 59ms
+2026-04-02T10:57:57Z INFO [inventory-service] GET /api/v1/items 200 36ms
+2026-04-02T10:58:23Z INFO [inventory-service] GET /api/v1/search 200 82ms
+2026-04-02T10:58:52Z INFO [inventory-service] GET /api/v1/search 200 26ms
+2026-04-02T10:59:29Z INFO [inventory-service] GET /api/v1/orders 200 31ms
+2026-04-02T11:04:52Z INFO [inventory-service] GET /api/v1/items 200 31ms
+2026-04-02T11:07:52Z INFO [inventory-service] GET /api/v1/items 200 15ms
+2026-04-02T11:07:55Z INFO [inventory-service] GET /api/v1/orders 200 79ms
+2026-04-02T11:08:09Z INFO [inventory-service] GET /api/v1/users 200 32ms
+2026-04-02T11:08:37Z INFO [inventory-service] GET /api/v1/users 200 70ms
+2026-04-02T11:08:39Z INFO [inventory-service] GET /api/v1/health 200 108ms
+2026-04-02T11:09:17Z INFO [inventory-service] GET /api/v1/items 200 70ms
+2026-04-02T11:10:33Z INFO [inventory-service] GET /api/v1/items 200 61ms
+2026-04-02T11:11:07Z INFO [inventory-service] GET /api/v1/cart 200 22ms
+2026-04-02T11:12:03Z INFO [inventory-service] GET /api/v1/health 200 100ms
+2026-04-02T11:13:32Z INFO [inventory-service] GET /api/v1/users 200 70ms
+2026-04-02T11:13:52Z INFO [inventory-service] GET /api/v1/users 200 24ms
+2026-04-02T11:16:20Z INFO [inventory-service] GET /api/v1/cart 200 104ms
+2026-04-02T11:16:45Z INFO [inventory-service] GET /api/v1/items 200 116ms
+2026-04-02T11:18:22Z INFO [inventory-service] GET /api/v1/cart 200 107ms
+2026-04-02T11:19:15Z INFO [inventory-service] GET /api/v1/items 200 111ms
+2026-04-02T11:19:26Z INFO [inventory-service] GET /api/v1/users 200 73ms
+2026-04-02T11:21:23Z INFO [inventory-service] GET /api/v1/health 200 10ms
+2026-04-02T11:22:27Z INFO [inventory-service] GET /api/v1/health 200 94ms
+2026-04-02T11:26:13Z INFO [inventory-service] GET /api/v1/users 200 37ms
+2026-04-02T11:27:04Z INFO [inventory-service] GET /api/v1/users 200 116ms
+2026-04-02T11:28:06Z INFO [inventory-service] GET /api/v1/search 200 73ms
+2026-04-02T11:29:14Z INFO [inventory-service] GET /api/v1/items 200 85ms
+2026-04-02T11:30:42Z INFO [inventory-service] GET /api/v1/cart 200 86ms
+2026-04-02T11:31:15Z INFO [inventory-service] GET /api/v1/users 200 36ms
+2026-04-02T11:33:50Z INFO [inventory-service] GET /api/v1/health 200 15ms
+2026-04-02T11:35:14Z INFO [inventory-service] GET /api/v1/orders 200 113ms
+2026-04-02T11:35:31Z INFO [inventory-service] GET /api/v1/search 200 93ms
+2026-04-02T11:35:55Z INFO [inventory-service] GET /api/v1/users 200 52ms
+2026-04-02T11:36:16Z INFO [inventory-service] GET /api/v1/search 200 65ms
+2026-04-02T11:37:07Z INFO [inventory-service] GET /api/v1/search 200 12ms
+2026-04-02T11:39:32Z INFO [inventory-service] GET /api/v1/items 200 38ms
+2026-04-02T11:41:15Z INFO [inventory-service] GET /api/v1/health 200 39ms
+2026-04-02T11:43:02Z INFO [inventory-service] GET /api/v1/items 200 96ms
+2026-04-02T11:44:39Z INFO [inventory-service] GET /api/v1/orders 200 59ms
+2026-04-02T11:46:46Z INFO [inventory-service] GET /api/v1/search 200 9ms
+2026-04-02T11:47:06Z INFO [inventory-service] GET /api/v1/items 200 77ms
+2026-04-02T11:48:55Z INFO [inventory-service] GET /api/v1/users 200 115ms
+2026-04-02T11:49:05Z INFO [inventory-service] GET /api/v1/orders 200 62ms
+2026-04-02T11:49:34Z INFO [inventory-service] GET /api/v1/search 200 96ms
+2026-04-02T11:50:19Z WARN [inventory-service] Retry succeeded on attempt 2 for stripe
+2026-04-02T11:51:10Z INFO [inventory-service] GET /api/v1/health 200 9ms
+2026-04-02T11:51:24Z INFO [inventory-service] GET /api/v1/search 200 22ms
+2026-04-02T11:51:44Z INFO [inventory-service] GET /api/v1/health 200 97ms
+2026-04-02T11:52:35Z INFO [inventory-service] GET /api/v1/cart 200 25ms
+2026-04-02T11:52:39Z INFO [inventory-service] GET /api/v1/users 200 44ms
+2026-04-02T11:52:39Z INFO [inventory-service] GET /api/v1/cart 200 14ms
+2026-04-02T11:53:32Z INFO [inventory-service] GET /api/v1/cart 200 97ms
+2026-04-02T11:53:59Z WARN [inventory-service] Minor GC pause 120ms
+2026-04-02T11:56:01Z INFO [inventory-service] GET /api/v1/health 200 28ms
+2026-04-02T11:56:10Z INFO [inventory-service] GET /api/v1/users 200 40ms
+2026-04-02T11:56:28Z INFO [inventory-service] GET /api/v1/search 200 101ms
+2026-04-02T11:57:13Z INFO [inventory-service] GET /api/v1/health 200 112ms
+2026-04-02T11:59:29Z INFO [inventory-service] GET /api/v1/cart 200 28ms
+2026-04-02T11:59:56Z INFO [inventory-service] GET /api/v1/orders 200 95ms
+2026-04-02T12:03:29Z INFO [inventory-service] GET /api/v1/users 200 99ms
+2026-04-02T12:07:24Z INFO [inventory-service] GET /api/v1/items 200 78ms
+2026-04-02T12:08:02Z INFO [inventory-service] GET /api/v1/items 200 108ms
+2026-04-02T12:09:53Z INFO [inventory-service] GET /api/v1/search 200 83ms
+2026-04-02T12:10:40Z INFO [inventory-service] GET /api/v1/health 200 116ms
+2026-04-02T12:11:02Z INFO [inventory-service] GET /api/v1/cart 200 97ms
+2026-04-02T12:11:02Z INFO [inventory-service] GET /api/v1/items 200 70ms
+2026-04-02T12:13:14Z INFO [inventory-service] GET /api/v1/health 200 25ms
+2026-04-02T12:17:48Z INFO [inventory-service] GET /api/v1/health 200 98ms
+2026-04-02T12:18:38Z INFO [inventory-service] GET /api/v1/health 200 60ms
+2026-04-02T12:18:38Z INFO [inventory-service] GET /api/v1/cart 200 112ms
+2026-04-02T12:19:18Z INFO [inventory-service] GET /api/v1/users 200 114ms
+2026-04-02T12:20:32Z INFO [inventory-service] GET /api/v1/orders 200 48ms
+2026-04-02T12:21:58Z INFO [inventory-service] GET /api/v1/health 200 34ms
+2026-04-02T12:22:54Z INFO [inventory-service] GET /api/v1/cart 200 78ms
+2026-04-02T12:25:37Z INFO [inventory-service] GET /api/v1/search 200 101ms
+2026-04-02T12:26:33Z INFO [inventory-service] GET /api/v1/items 200 48ms
+2026-04-02T12:26:39Z INFO [inventory-service] GET /api/v1/users 200 52ms
+2026-04-02T12:28:11Z INFO [inventory-service] GET /api/v1/cart 200 78ms
+2026-04-02T12:28:35Z INFO [inventory-service] GET /api/v1/items 200 71ms
+2026-04-02T12:30:04Z INFO [inventory-service] GET /api/v1/health 200 110ms
+2026-04-02T12:31:08Z INFO [inventory-service] GET /api/v1/cart 200 116ms
+2026-04-02T12:31:42Z INFO [inventory-service] GET /api/v1/orders 200 87ms
+2026-04-02T12:33:05Z INFO [inventory-service] GET /api/v1/users 200 81ms
+2026-04-02T12:34:22Z INFO [inventory-service] GET /api/v1/cart 200 69ms
+2026-04-02T12:42:27Z INFO [inventory-service] GET /api/v1/search 200 80ms
+2026-04-02T12:43:06Z INFO [inventory-service] GET /api/v1/users 200 22ms
+2026-04-02T12:45:07Z INFO [inventory-service] GET /api/v1/orders 200 101ms
+2026-04-02T12:45:49Z INFO [inventory-service] GET /api/v1/health 200 79ms
+2026-04-02T12:48:00Z INFO [inventory-service] GET /api/v1/items 200 101ms
+2026-04-02T12:48:30Z INFO [inventory-service] GET /api/v1/orders 200 23ms
+2026-04-02T12:48:36Z INFO [inventory-service] GET /api/v1/health 200 66ms
+2026-04-02T12:49:54Z INFO [inventory-service] GET /api/v1/health 200 110ms
+2026-04-02T12:51:45Z INFO [inventory-service] GET /api/v1/search 200 74ms
+2026-04-02T12:53:08Z INFO [inventory-service] GET /api/v1/orders 200 13ms
+2026-04-02T12:53:15Z INFO [inventory-service] GET /api/v1/orders 200 28ms
+2026-04-02T12:54:21Z INFO [inventory-service] GET /api/v1/items 200 82ms
+2026-04-02T12:54:29Z INFO [inventory-service] GET /api/v1/users 200 109ms
+2026-04-02T12:57:04Z INFO [inventory-service] GET /api/v1/users 200 110ms
+2026-04-02T12:58:20Z INFO [inventory-service] GET /api/v1/orders 200 49ms
+2026-04-02T13:00:57Z INFO [inventory-service] GET /api/v1/users 200 82ms
+2026-04-02T13:01:09Z INFO [inventory-service] GET /api/v1/search 200 48ms
+2026-04-02T13:03:09Z INFO [inventory-service] GET /api/v1/search 200 29ms
+2026-04-02T13:03:52Z WARN [inventory-service] Disk usage above 85% on /var/lib/data
+2026-04-02T13:04:31Z WARN [inventory-service] Disk usage above 85% on /var/lib/data
+2026-04-02T13:04:48Z INFO [inventory-service] GET /api/v1/cart 200 35ms
+2026-04-02T13:05:25Z INFO [inventory-service] GET /api/v1/health 200 59ms
+2026-04-02T13:06:40Z INFO [inventory-service] GET /api/v1/cart 200 10ms
+2026-04-02T13:07:08Z INFO [inventory-service] GET /api/v1/cart 200 47ms
+2026-04-02T13:07:25Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:07:34Z WARN [inventory-service] Health check slow: 7715ms
+2026-04-02T13:07:36Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:07:51Z INFO [inventory-service] GET /api/v1/search 200 85ms
+2026-04-02T13:08:48Z INFO [inventory-service] GET /api/v1/cart 200 39ms
+2026-04-02T13:09:14Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:09:44Z INFO [inventory-service] GET /api/v1/orders 200 37ms
+2026-04-02T13:10:22Z WARN [inventory-service] Health check slow: 3666ms
+2026-04-02T13:11:01Z INFO [inventory-service] GET /api/v1/users 200 77ms
+2026-04-02T13:11:19Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:11:26Z ERROR [inventory-service] Unexpected error handling request
+2026-04-02T13:11:36Z ERROR [inventory-service] No space left on device
+2026-04-02T13:11:48Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:12:54Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:13:47Z INFO [inventory-service] GET /api/v1/health 200 17ms
+2026-04-02T13:14:49Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:15:05Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:15:25Z INFO [inventory-service] GET /api/v1/cart 200 59ms
+2026-04-02T13:15:46Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:15:47Z INFO [inventory-service] GET /api/v1/users 200 107ms
+2026-04-02T13:15:47Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:15:59Z INFO [inventory-service] GET /api/v1/health 200 27ms
+2026-04-02T13:17:07Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:17:29Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:17:35Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:18:11Z WARN [inventory-service] Health check slow: 8794ms
+2026-04-02T13:20:31Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:20:32Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:20:43Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:20:46Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:22:29Z INFO [inventory-service] GET /api/v1/orders 200 67ms
+2026-04-02T13:22:44Z ERROR [inventory-service] No space left on device
+2026-04-02T13:23:19Z INFO [inventory-service] GET /api/v1/users 200 67ms
+2026-04-02T13:23:32Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:23:34Z ERROR [inventory-service] No space left on device
+2026-04-02T13:23:36Z ERROR [inventory-service] Unexpected error handling request
+2026-04-02T13:23:40Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:23:49Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:23:59Z INFO [inventory-service] GET /api/v1/search 200 25ms
+2026-04-02T13:24:02Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:25:11Z INFO [inventory-service] GET /api/v1/search 200 36ms
+2026-04-02T13:25:29Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:25:29Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:25:34Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:27:26Z WARN [inventory-service] Health check slow: 6519ms
+2026-04-02T13:28:22Z INFO [inventory-service] GET /api/v1/cart 200 57ms
+2026-04-02T13:29:56Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:30:53Z ERROR [inventory-service] Unexpected error handling request
+2026-04-02T13:31:17Z INFO [inventory-service] GET /api/v1/health 200 46ms
+2026-04-02T13:31:24Z INFO [inventory-service] GET /api/v1/search 200 29ms
+2026-04-02T13:31:45Z WARN [inventory-service] Health check slow: 5348ms
+2026-04-02T13:32:23Z INFO [inventory-service] GET /api/v1/cart 200 57ms
+2026-04-02T13:33:02Z ERROR [inventory-service] Unexpected error handling request
+2026-04-02T13:33:54Z INFO [inventory-service] GET /api/v1/cart 200 34ms
+2026-04-02T13:34:07Z WARN [inventory-service] Health check slow: 8930ms
+2026-04-02T13:34:18Z ERROR [inventory-service] Unexpected error handling request
+2026-04-02T13:34:36Z ERROR [inventory-service] Unexpected error handling request
+2026-04-02T13:34:42Z ERROR [inventory-service] No space left on device
+2026-04-02T13:35:57Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:37:04Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:37:07Z INFO [inventory-service] GET /api/v1/cart 200 21ms
+2026-04-02T13:38:28Z INFO [inventory-service] GET /api/v1/orders 200 12ms
+2026-04-02T13:38:29Z INFO [inventory-service] GET /api/v1/search 200 96ms
+2026-04-02T13:39:55Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:39:58Z INFO [inventory-service] GET /api/v1/items 200 101ms
+2026-04-02T13:41:37Z ERROR [inventory-service] No space left on device
+2026-04-02T13:41:40Z INFO [inventory-service] GET /api/v1/cart 200 109ms
+2026-04-02T13:42:20Z INFO [inventory-service] GET /api/v1/users 200 30ms
+2026-04-02T13:44:12Z WARN [inventory-service] Health check slow: 5564ms
+2026-04-02T13:45:25Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:45:49Z WARN [inventory-service] Health check slow: 4206ms
+2026-04-02T13:45:53Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:45:53Z INFO [inventory-service] GET /api/v1/orders 200 23ms
+2026-04-02T13:46:27Z INFO [inventory-service] GET /api/v1/search 200 14ms
+2026-04-02T13:47:17Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:47:31Z INFO [inventory-service] GET /api/v1/health 200 19ms
+2026-04-02T13:48:03Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:48:17Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:49:09Z INFO [inventory-service] GET /api/v1/health 200 104ms
+2026-04-02T13:49:52Z WARN [inventory-service] Health check slow: 4168ms
+2026-04-02T13:50:20Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:50:21Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:51:36Z ERROR [inventory-service] No space left on device
+2026-04-02T13:52:20Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:52:23Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:52:53Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:53:13Z INFO [inventory-service] GET /api/v1/users 200 67ms
+2026-04-02T13:53:57Z INFO [inventory-service] GET /api/v1/health 200 53ms
+2026-04-02T13:53:59Z ERROR [inventory-service] No space left on device
+2026-04-02T13:54:04Z WARN [inventory-service] Log rotation failed: cannot create file
+2026-04-02T13:54:09Z ERROR [inventory-service] Unexpected error handling request
+2026-04-02T13:54:30Z INFO [inventory-service] GET /api/v1/search 200 18ms
+2026-04-02T13:55:21Z INFO [inventory-service] GET /api/v1/items 200 78ms
+2026-04-02T13:55:21Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:55:46Z INFO [inventory-service] GET /api/v1/health 200 92ms
+2026-04-02T13:55:51Z INFO [inventory-service] GET /api/v1/items 200 23ms
+2026-04-02T13:55:51Z ERROR [inventory-service] Request failed with status 500
+2026-04-02T13:55:54Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:56:11Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:57:20Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:57:22Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:57:54Z ERROR [inventory-service] Failed to write WAL segment: disk quota exceeded
+2026-04-02T13:57:54Z ERROR [inventory-service] No space left on device
+2026-04-02T13:57:59Z ERROR [inventory-service] IOException: write failed, filesystem is full
+2026-04-02T13:58:58Z ERROR [inventory-service] No space left on device
+2026-04-02T13:59:17Z INFO [inventory-service] GET /api/v1/orders 200 111ms
+2026-04-02T13:59:43Z INFO [inventory-service] GET /api/v1/cart 200 58ms

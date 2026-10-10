@@ -1,0 +1,272 @@
+2026-03-22T10:00:04Z INFO [search-api] GET /api/v1/health 200 21ms
+2026-03-22T10:00:20Z INFO [search-api] GET /api/v1/items 200 75ms
+2026-03-22T10:01:23Z INFO [search-api] GET /api/v1/cart 200 66ms
+2026-03-22T10:01:58Z INFO [search-api] GET /api/v1/items 200 37ms
+2026-03-22T10:02:02Z INFO [search-api] GET /api/v1/search 200 26ms
+2026-03-22T10:02:40Z INFO [search-api] GET /api/v1/items 200 28ms
+2026-03-22T10:03:08Z INFO [search-api] GET /api/v1/orders 200 88ms
+2026-03-22T10:03:20Z INFO [search-api] GET /api/v1/orders 200 97ms
+2026-03-22T10:04:19Z INFO [search-api] GET /api/v1/items 200 66ms
+2026-03-22T10:07:20Z INFO [search-api] GET /api/v1/users 200 20ms
+2026-03-22T10:07:38Z INFO [search-api] GET /api/v1/cart 200 117ms
+2026-03-22T10:08:15Z INFO [search-api] GET /api/v1/search 200 94ms
+2026-03-22T10:09:25Z INFO [search-api] GET /api/v1/users 200 119ms
+2026-03-22T10:10:27Z INFO [search-api] GET /api/v1/orders 200 28ms
+2026-03-22T10:10:36Z INFO [search-api] GET /api/v1/items 200 62ms
+2026-03-22T10:10:56Z INFO [search-api] GET /api/v1/items 200 27ms
+2026-03-22T10:11:01Z INFO [search-api] GET /api/v1/items 200 25ms
+2026-03-22T10:11:28Z INFO [search-api] GET /api/v1/search 200 104ms
+2026-03-22T10:15:15Z INFO [search-api] GET /api/v1/orders 200 10ms
+2026-03-22T10:15:54Z INFO [search-api] GET /api/v1/users 200 61ms
+2026-03-22T10:19:09Z INFO [search-api] GET /api/v1/search 200 87ms
+2026-03-22T10:26:12Z INFO [search-api] GET /api/v1/users 200 92ms
+2026-03-22T10:26:28Z INFO [search-api] GET /api/v1/users 200 63ms
+2026-03-22T10:26:55Z INFO [search-api] GET /api/v1/health 200 77ms
+2026-03-22T10:27:04Z WARN [search-api] Minor GC pause 120ms
+2026-03-22T10:28:53Z INFO [search-api] GET /api/v1/health 200 41ms
+2026-03-22T10:31:29Z INFO [search-api] GET /api/v1/cart 200 74ms
+2026-03-22T10:35:04Z INFO [search-api] GET /api/v1/users 200 9ms
+2026-03-22T10:36:44Z INFO [search-api] GET /api/v1/cart 200 19ms
+2026-03-22T10:37:42Z INFO [search-api] GET /api/v1/orders 200 69ms
+2026-03-22T10:38:43Z INFO [search-api] GET /api/v1/users 200 85ms
+2026-03-22T10:40:32Z INFO [search-api] GET /api/v1/health 200 13ms
+2026-03-22T10:42:13Z WARN [search-api] Certificate for api.internal expires in 24 days
+2026-03-22T10:42:29Z INFO [search-api] GET /api/v1/search 200 15ms
+2026-03-22T10:48:57Z INFO [search-api] GET /api/v1/health 200 27ms
+2026-03-22T10:49:31Z INFO [search-api] GET /api/v1/health 200 44ms
+2026-03-22T10:53:17Z INFO [search-api] GET /api/v1/users 200 30ms
+2026-03-22T10:57:06Z INFO [search-api] GET /api/v1/health 200 43ms
+2026-03-22T10:57:39Z INFO [search-api] GET /api/v1/health 200 95ms
+2026-03-22T10:59:22Z INFO [search-api] GET /api/v1/users 200 114ms
+2026-03-22T10:59:58Z INFO [search-api] GET /api/v1/users 200 73ms
+2026-03-22T11:00:58Z INFO [search-api] GET /api/v1/cart 200 75ms
+2026-03-22T11:02:30Z INFO [search-api] GET /api/v1/items 200 20ms
+2026-03-22T11:03:45Z INFO [search-api] GET /api/v1/cart 200 14ms
+2026-03-22T11:04:25Z INFO [search-api] GET /api/v1/orders 200 99ms
+2026-03-22T11:05:24Z INFO [search-api] GET /api/v1/orders 200 117ms
+2026-03-22T11:05:43Z INFO [search-api] GET /api/v1/items 200 52ms
+2026-03-22T11:05:54Z INFO [search-api] GET /api/v1/search 200 94ms
+2026-03-22T11:06:15Z INFO [search-api] GET /api/v1/orders 200 83ms
+2026-03-22T11:07:32Z INFO [search-api] GET /api/v1/orders 200 112ms
+2026-03-22T11:10:14Z INFO [search-api] GET /api/v1/cart 200 43ms
+2026-03-22T11:10:32Z INFO [search-api] GET /api/v1/health 200 41ms
+2026-03-22T11:10:42Z INFO [search-api] GET /api/v1/users 200 51ms
+2026-03-22T11:11:18Z INFO [search-api] GET /api/v1/search 200 37ms
+2026-03-22T11:12:09Z INFO [search-api] GET /api/v1/cart 200 19ms
+2026-03-22T11:12:19Z INFO [search-api] GET /api/v1/items 200 115ms
+2026-03-22T11:14:52Z INFO [search-api] GET /api/v1/orders 200 59ms
+2026-03-22T11:15:33Z INFO [search-api] GET /api/v1/cart 200 88ms
+2026-03-22T11:16:24Z INFO [search-api] GET /api/v1/users 200 66ms
+2026-03-22T11:16:35Z INFO [search-api] GET /api/v1/cart 200 34ms
+2026-03-22T11:18:03Z INFO [search-api] GET /api/v1/items 200 97ms
+2026-03-22T11:19:17Z INFO [search-api] GET /api/v1/items 200 33ms
+2026-03-22T11:22:20Z INFO [search-api] GET /api/v1/items 200 55ms
+2026-03-22T11:22:49Z WARN [search-api] Certificate for api.internal expires in 24 days
+2026-03-22T11:23:32Z INFO [search-api] GET /api/v1/users 200 8ms
+2026-03-22T11:23:43Z INFO [search-api] GET /api/v1/health 200 53ms
+2026-03-22T11:24:52Z INFO [search-api] GET /api/v1/orders 200 39ms
+2026-03-22T11:25:19Z INFO [search-api] GET /api/v1/users 200 16ms
+2026-03-22T11:25:51Z INFO [search-api] GET /api/v1/users 200 29ms
+2026-03-22T11:26:14Z INFO [search-api] GET /api/v1/cart 200 39ms
+2026-03-22T11:28:18Z INFO [search-api] GET /api/v1/health 200 61ms
+2026-03-22T11:31:29Z INFO [search-api] GET /api/v1/items 200 77ms
+2026-03-22T11:33:08Z INFO [search-api] GET /api/v1/search 200 89ms
+2026-03-22T11:33:31Z INFO [search-api] GET /api/v1/users 200 29ms
+2026-03-22T11:33:38Z INFO [search-api] GET /api/v1/items 200 45ms
+2026-03-22T11:35:53Z INFO [search-api] GET /api/v1/users 200 115ms
+2026-03-22T11:38:40Z INFO [search-api] GET /api/v1/search 200 42ms
+2026-03-22T11:39:47Z INFO [search-api] GET /api/v1/items 200 70ms
+2026-03-22T11:43:16Z INFO [search-api] GET /api/v1/orders 200 60ms
+2026-03-22T11:44:08Z INFO [search-api] GET /api/v1/cart 200 65ms
+2026-03-22T11:44:25Z INFO [search-api] GET /api/v1/users 200 10ms
+2026-03-22T11:44:55Z INFO [search-api] GET /api/v1/health 200 12ms
+2026-03-22T11:46:31Z INFO [search-api] GET /api/v1/users 200 36ms
+2026-03-22T11:46:52Z INFO [search-api] GET /api/v1/search 200 102ms
+2026-03-22T11:48:49Z INFO [search-api] GET /api/v1/search 200 67ms
+2026-03-22T11:49:18Z INFO [search-api] GET /api/v1/orders 200 74ms
+2026-03-22T11:49:27Z INFO [search-api] GET /api/v1/health 200 98ms
+2026-03-22T11:50:04Z INFO [search-api] GET /api/v1/health 200 34ms
+2026-03-22T11:50:55Z INFO [search-api] GET /api/v1/cart 200 99ms
+2026-03-22T11:51:15Z INFO [search-api] GET /api/v1/orders 200 50ms
+2026-03-22T11:51:20Z INFO [search-api] GET /api/v1/items 200 88ms
+2026-03-22T11:51:47Z INFO [search-api] GET /api/v1/search 200 60ms
+2026-03-22T11:55:35Z INFO [search-api] GET /api/v1/cart 200 49ms
+2026-03-22T11:57:38Z INFO [search-api] GET /api/v1/items 200 20ms
+2026-03-22T11:58:49Z INFO [search-api] GET /api/v1/orders 200 87ms
+2026-03-22T12:02:38Z INFO [search-api] GET /api/v1/users 200 116ms
+2026-03-22T12:02:40Z INFO [search-api] GET /api/v1/cart 200 39ms
+2026-03-22T12:02:47Z WARN [search-api] Minor GC pause 120ms
+2026-03-22T12:04:02Z INFO [search-api] GET /api/v1/cart 200 74ms
+2026-03-22T12:07:37Z INFO [search-api] GET /api/v1/search 200 31ms
+2026-03-22T12:09:49Z INFO [search-api] GET /api/v1/health 200 70ms
+2026-03-22T12:18:03Z INFO [search-api] GET /api/v1/cart 200 106ms
+2026-03-22T12:18:04Z INFO [search-api] GET /api/v1/health 200 43ms
+2026-03-22T12:19:01Z INFO [search-api] GET /api/v1/health 200 86ms
+2026-03-22T12:19:05Z INFO [search-api] GET /api/v1/cart 200 114ms
+2026-03-22T12:19:08Z INFO [search-api] GET /api/v1/items 200 89ms
+2026-03-22T12:19:30Z INFO [search-api] GET /api/v1/search 200 20ms
+2026-03-22T12:20:07Z INFO [search-api] GET /api/v1/users 200 107ms
+2026-03-22T12:20:20Z INFO [search-api] GET /api/v1/search 200 61ms
+2026-03-22T12:22:57Z INFO [search-api] GET /api/v1/cart 200 88ms
+2026-03-22T12:23:16Z INFO [search-api] GET /api/v1/search 200 30ms
+2026-03-22T12:25:49Z INFO [search-api] GET /api/v1/items 200 86ms
+2026-03-22T12:29:37Z INFO [search-api] GET /api/v1/orders 200 107ms
+2026-03-22T12:31:30Z INFO [search-api] GET /api/v1/health 200 32ms
+2026-03-22T12:35:34Z INFO [search-api] GET /api/v1/health 200 86ms
+2026-03-22T12:36:31Z INFO [search-api] GET /api/v1/cart 200 15ms
+2026-03-22T12:38:19Z INFO [search-api] GET /api/v1/orders 200 74ms
+2026-03-22T12:39:06Z INFO [search-api] GET /api/v1/health 200 72ms
+2026-03-22T12:40:21Z INFO [search-api] GET /api/v1/items 200 24ms
+2026-03-22T12:40:58Z INFO [search-api] GET /api/v1/users 200 41ms
+2026-03-22T12:43:21Z INFO [search-api] GET /api/v1/search 200 31ms
+2026-03-22T12:45:40Z INFO [search-api] GET /api/v1/cart 200 44ms
+2026-03-22T12:46:06Z INFO [search-api] GET /api/v1/users 200 74ms
+2026-03-22T12:47:03Z INFO [search-api] GET /api/v1/orders 200 68ms
+2026-03-22T12:48:26Z INFO [search-api] GET /api/v1/items 200 70ms
+2026-03-22T12:48:49Z INFO [search-api] GET /api/v1/search 200 90ms
+2026-03-22T12:49:21Z INFO [search-api] GET /api/v1/search 200 70ms
+2026-03-22T12:50:27Z INFO [search-api] GET /api/v1/health 200 8ms
+2026-03-22T12:51:50Z INFO [search-api] GET /api/v1/orders 200 101ms
+2026-03-22T12:51:55Z INFO [search-api] GET /api/v1/health 200 95ms
+2026-03-22T12:53:44Z INFO [search-api] GET /api/v1/search 200 87ms
+2026-03-22T12:56:03Z INFO [search-api] GET /api/v1/users 200 69ms
+2026-03-22T12:57:40Z INFO [search-api] GET /api/v1/health 200 107ms
+2026-03-22T12:57:43Z INFO [search-api] GET /api/v1/orders 200 94ms
+2026-03-22T12:58:37Z INFO [search-api] GET /api/v1/orders 200 38ms
+2026-03-22T12:59:11Z INFO [search-api] GET /api/v1/users 200 42ms
+2026-03-22T12:59:42Z INFO [search-api] GET /api/v1/orders 200 31ms
+2026-03-22T13:01:42Z INFO [search-api] GET /api/v1/users 200 57ms
+2026-03-22T13:02:10Z INFO [search-api] GET /api/v1/cart 200 45ms
+2026-03-22T13:02:56Z INFO [search-api] GET /api/v1/users 200 65ms
+2026-03-22T13:05:04Z INFO [search-api] GET /api/v1/health 200 40ms
+2026-03-22T13:06:04Z INFO [search-api] GET /api/v1/cart 200 81ms
+2026-03-22T13:06:48Z WARN [search-api] Redis latency spike 3284ms
+2026-03-22T13:07:18Z INFO [search-api] GET /api/v1/orders 200 41ms
+2026-03-22T13:08:24Z INFO [search-api] GET /api/v1/health 200 115ms
+2026-03-22T13:09:02Z INFO [search-api] GET /api/v1/items 200 40ms
+2026-03-22T13:09:18Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:09:42Z WARN [search-api] Cache stampede: 668 concurrent loads for the same key
+2026-03-22T13:10:46Z WARN [search-api] Health check slow: 8078ms
+2026-03-22T13:11:29Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:11:33Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:11:40Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:11:51Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:12:00Z WARN [search-api] Cache stampede: 709 concurrent loads for the same key
+2026-03-22T13:12:07Z INFO [search-api] GET /api/v1/search 200 103ms
+2026-03-22T13:12:40Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:13:06Z INFO [search-api] GET /api/v1/health 200 56ms
+2026-03-22T13:14:00Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:14:07Z WARN [search-api] Health check slow: 1957ms
+2026-03-22T13:14:53Z WARN [search-api] Health check slow: 1035ms
+2026-03-22T13:15:11Z WARN [search-api] Health check slow: 5070ms
+2026-03-22T13:15:25Z WARN [search-api] Cache stampede: 211 concurrent loads for the same key
+2026-03-22T13:15:47Z INFO [search-api] GET /api/v1/items 200 18ms
+2026-03-22T13:16:05Z ERROR [search-api] Unexpected error handling request
+2026-03-22T13:16:12Z WARN [search-api] Cache stampede: 827 concurrent loads for the same key
+2026-03-22T13:16:57Z INFO [search-api] GET /api/v1/items 200 114ms
+2026-03-22T13:17:41Z INFO [search-api] GET /api/v1/orders 200 11ms
+2026-03-22T13:18:10Z WARN [search-api] Cache stampede: 373 concurrent loads for the same key
+2026-03-22T13:18:38Z ERROR [search-api] Redis connection refused: 10.0.0.64:6379
+2026-03-22T13:19:10Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:20:04Z WARN [search-api] Cache stampede: 485 concurrent loads for the same key
+2026-03-22T13:20:18Z WARN [search-api] Cache stampede: 506 concurrent loads for the same key
+2026-03-22T13:20:29Z INFO [search-api] GET /api/v1/orders 200 92ms
+2026-03-22T13:20:31Z ERROR [search-api] Unexpected error handling request
+2026-03-22T13:20:47Z ERROR [search-api] Unexpected error handling request
+2026-03-22T13:20:56Z INFO [search-api] GET /api/v1/users 200 40ms
+2026-03-22T13:21:00Z ERROR [search-api] Redis connection refused: 10.0.8.22:6379
+2026-03-22T13:21:02Z INFO [search-api] GET /api/v1/search 200 55ms
+2026-03-22T13:21:04Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:21:12Z ERROR [search-api] Unexpected error handling request
+2026-03-22T13:21:37Z ERROR [search-api] Redis connection refused: 10.0.2.151:6379
+2026-03-22T13:23:03Z WARN [search-api] Health check slow: 6007ms
+2026-03-22T13:23:35Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:23:45Z ERROR [search-api] Unexpected error handling request
+2026-03-22T13:24:19Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:24:43Z INFO [search-api] GET /api/v1/items 200 70ms
+2026-03-22T13:25:07Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:25:20Z WARN [search-api] Cache stampede: 719 concurrent loads for the same key
+2026-03-22T13:25:31Z INFO [search-api] GET /api/v1/items 200 73ms
+2026-03-22T13:25:38Z INFO [search-api] GET /api/v1/items 200 20ms
+2026-03-22T13:25:48Z WARN [search-api] Health check slow: 6894ms
+2026-03-22T13:25:54Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:26:44Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:26:51Z INFO [search-api] GET /api/v1/items 200 38ms
+2026-03-22T13:26:53Z INFO [search-api] GET /api/v1/health 200 102ms
+2026-03-22T13:27:57Z INFO [search-api] GET /api/v1/users 200 55ms
+2026-03-22T13:28:50Z INFO [search-api] GET /api/v1/users 200 41ms
+2026-03-22T13:29:14Z WARN [search-api] Cache stampede: 628 concurrent loads for the same key
+2026-03-22T13:29:17Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:29:20Z WARN [search-api] Health check slow: 4839ms
+2026-03-22T13:30:53Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:31:12Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:31:28Z WARN [search-api] Cache stampede: 108 concurrent loads for the same key
+2026-03-22T13:31:39Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:31:49Z INFO [search-api] GET /api/v1/items 200 81ms
+2026-03-22T13:32:20Z INFO [search-api] GET /api/v1/users 200 31ms
+2026-03-22T13:34:09Z ERROR [search-api] Redis connection refused: 10.0.8.110:6379
+2026-03-22T13:34:17Z WARN [search-api] Health check slow: 8678ms
+2026-03-22T13:34:25Z WARN [search-api] Cache stampede: 192 concurrent loads for the same key
+2026-03-22T13:34:59Z ERROR [search-api] Redis connection refused: 10.0.8.147:6379
+2026-03-22T13:35:27Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:35:32Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:36:34Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:36:49Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:37:59Z ERROR [search-api] Unexpected error handling request
+2026-03-22T13:38:03Z ERROR [search-api] Redis connection refused: 10.0.5.120:6379
+2026-03-22T13:38:24Z WARN [search-api] Cache stampede: 76 concurrent loads for the same key
+2026-03-22T13:39:00Z ERROR [search-api] Redis connection refused: 10.0.8.217:6379
+2026-03-22T13:40:08Z INFO [search-api] GET /api/v1/health 200 70ms
+2026-03-22T13:40:50Z INFO [search-api] GET /api/v1/items 200 38ms
+2026-03-22T13:40:54Z ERROR [search-api] Unexpected error handling request
+2026-03-22T13:41:06Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:41:36Z WARN [search-api] Cache stampede: 892 concurrent loads for the same key
+2026-03-22T13:41:47Z WARN [search-api] Health check slow: 7438ms
+2026-03-22T13:41:47Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:42:21Z INFO [search-api] GET /api/v1/cart 200 50ms
+2026-03-22T13:42:24Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:42:24Z WARN [search-api] Cache stampede: 714 concurrent loads for the same key
+2026-03-22T13:42:41Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:42:46Z INFO [search-api] GET /api/v1/search 200 113ms
+2026-03-22T13:42:56Z ERROR [search-api] Unexpected error handling request
+2026-03-22T13:43:38Z INFO [search-api] GET /api/v1/users 200 77ms
+2026-03-22T13:44:05Z INFO [search-api] GET /api/v1/users 200 54ms
+2026-03-22T13:44:07Z INFO [search-api] GET /api/v1/users 200 59ms
+2026-03-22T13:44:31Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:44:41Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:45:25Z INFO [search-api] GET /api/v1/health 200 62ms
+2026-03-22T13:45:33Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:46:15Z ERROR [search-api] Redis connection refused: 10.0.3.241:6379
+2026-03-22T13:46:34Z WARN [search-api] Cache stampede: 601 concurrent loads for the same key
+2026-03-22T13:47:13Z INFO [search-api] GET /api/v1/cart 200 100ms
+2026-03-22T13:47:31Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:48:26Z ERROR [search-api] Redis connection refused: 10.0.2.189:6379
+2026-03-22T13:48:27Z INFO [search-api] GET /api/v1/orders 200 78ms
+2026-03-22T13:49:06Z WARN [search-api] Cache stampede: 462 concurrent loads for the same key
+2026-03-22T13:49:38Z WARN [search-api] Cache stampede: 876 concurrent loads for the same key
+2026-03-22T13:49:56Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:50:05Z WARN [search-api] Health check slow: 8590ms
+2026-03-22T13:50:35Z INFO [search-api] GET /api/v1/search 200 32ms
+2026-03-22T13:50:38Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:50:54Z WARN [search-api] Cache stampede: 386 concurrent loads for the same key
+2026-03-22T13:51:01Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:52:00Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:52:09Z INFO [search-api] GET /api/v1/orders 200 73ms
+2026-03-22T13:52:10Z INFO [search-api] GET /api/v1/orders 200 118ms
+2026-03-22T13:52:40Z INFO [search-api] GET /api/v1/items 200 60ms
+2026-03-22T13:52:53Z INFO [search-api] GET /api/v1/items 200 23ms
+2026-03-22T13:53:30Z ERROR [search-api] Request failed with status 500
+2026-03-22T13:53:34Z WARN [search-api] Cache stampede: 678 concurrent loads for the same key
+2026-03-22T13:55:02Z INFO [search-api] GET /api/v1/health 200 11ms
+2026-03-22T13:55:03Z INFO [search-api] GET /api/v1/orders 200 66ms
+2026-03-22T13:55:24Z WARN [search-api] Health check slow: 4687ms
+2026-03-22T13:55:32Z INFO [search-api] GET /api/v1/orders 200 77ms
+2026-03-22T13:55:39Z ERROR [search-api] Redis connection refused: 10.0.6.134:6379
+2026-03-22T13:55:44Z INFO [search-api] GET /api/v1/items 200 44ms
+2026-03-22T13:57:50Z INFO [search-api] GET /api/v1/orders 200 107ms
+2026-03-22T13:58:19Z INFO [search-api] GET /api/v1/cart 200 88ms
+2026-03-22T13:58:30Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:58:36Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:58:47Z ERROR [search-api] JedisConnectionException: could not get a resource from the pool
+2026-03-22T13:58:58Z WARN [search-api] Cache miss ratio 100%, falling back to database
+2026-03-22T13:59:08Z INFO [search-api] GET /api/v1/search 200 51ms

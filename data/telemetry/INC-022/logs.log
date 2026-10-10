@@ -1,0 +1,260 @@
+2026-04-05T10:01:20Z INFO [order-service] GET /api/v1/items 200 23ms
+2026-04-05T10:02:26Z INFO [order-service] GET /api/v1/cart 200 106ms
+2026-04-05T10:03:15Z INFO [order-service] GET /api/v1/users 200 119ms
+2026-04-05T10:04:58Z INFO [order-service] GET /api/v1/users 200 119ms
+2026-04-05T10:05:11Z INFO [order-service] GET /api/v1/users 200 23ms
+2026-04-05T10:06:27Z INFO [order-service] GET /api/v1/orders 200 87ms
+2026-04-05T10:06:57Z INFO [order-service] GET /api/v1/users 200 8ms
+2026-04-05T10:08:09Z INFO [order-service] GET /api/v1/search 200 111ms
+2026-04-05T10:10:10Z INFO [order-service] GET /api/v1/orders 200 66ms
+2026-04-05T10:13:48Z INFO [order-service] GET /api/v1/cart 200 76ms
+2026-04-05T10:14:05Z INFO [order-service] GET /api/v1/health 200 37ms
+2026-04-05T10:16:23Z INFO [order-service] GET /api/v1/search 200 116ms
+2026-04-05T10:16:36Z INFO [order-service] GET /api/v1/cart 200 70ms
+2026-04-05T10:18:37Z INFO [order-service] GET /api/v1/users 200 100ms
+2026-04-05T10:20:03Z INFO [order-service] GET /api/v1/health 200 11ms
+2026-04-05T10:21:05Z INFO [order-service] GET /api/v1/users 200 33ms
+2026-04-05T10:23:22Z WARN [order-service] Retry succeeded on attempt 2 for twilio
+2026-04-05T10:23:51Z INFO [order-service] GET /api/v1/items 200 32ms
+2026-04-05T10:27:09Z INFO [order-service] GET /api/v1/health 200 36ms
+2026-04-05T10:27:54Z INFO [order-service] GET /api/v1/users 200 24ms
+2026-04-05T10:30:03Z INFO [order-service] GET /api/v1/orders 200 16ms
+2026-04-05T10:30:51Z INFO [order-service] GET /api/v1/orders 200 70ms
+2026-04-05T10:34:49Z INFO [order-service] GET /api/v1/orders 200 105ms
+2026-04-05T10:35:05Z INFO [order-service] GET /api/v1/items 200 118ms
+2026-04-05T10:35:07Z INFO [order-service] GET /api/v1/health 200 21ms
+2026-04-05T10:36:08Z INFO [order-service] GET /api/v1/search 200 58ms
+2026-04-05T10:38:51Z INFO [order-service] GET /api/v1/users 200 113ms
+2026-04-05T10:39:30Z INFO [order-service] GET /api/v1/users 200 39ms
+2026-04-05T10:40:15Z INFO [order-service] GET /api/v1/search 200 53ms
+2026-04-05T10:40:23Z INFO [order-service] GET /api/v1/cart 200 114ms
+2026-04-05T10:41:53Z INFO [order-service] GET /api/v1/orders 200 18ms
+2026-04-05T10:43:19Z INFO [order-service] GET /api/v1/search 200 109ms
+2026-04-05T10:46:46Z INFO [order-service] GET /api/v1/cart 200 70ms
+2026-04-05T10:47:09Z INFO [order-service] GET /api/v1/orders 200 87ms
+2026-04-05T10:47:20Z INFO [order-service] GET /api/v1/cart 200 29ms
+2026-04-05T10:48:02Z INFO [order-service] GET /api/v1/orders 200 40ms
+2026-04-05T10:48:55Z INFO [order-service] GET /api/v1/health 200 96ms
+2026-04-05T10:49:30Z INFO [order-service] GET /api/v1/users 200 101ms
+2026-04-05T10:49:31Z INFO [order-service] GET /api/v1/search 200 60ms
+2026-04-05T10:49:48Z INFO [order-service] GET /api/v1/search 200 90ms
+2026-04-05T10:50:20Z INFO [order-service] GET /api/v1/items 200 83ms
+2026-04-05T10:51:04Z INFO [order-service] GET /api/v1/items 200 10ms
+2026-04-05T10:51:05Z INFO [order-service] GET /api/v1/health 200 16ms
+2026-04-05T10:53:28Z INFO [order-service] GET /api/v1/items 200 46ms
+2026-04-05T10:55:58Z INFO [order-service] GET /api/v1/search 200 55ms
+2026-04-05T10:56:32Z INFO [order-service] GET /api/v1/orders 200 106ms
+2026-04-05T10:58:27Z INFO [order-service] GET /api/v1/users 200 10ms
+2026-04-05T11:00:48Z INFO [order-service] GET /api/v1/items 200 115ms
+2026-04-05T11:01:02Z INFO [order-service] GET /api/v1/items 200 19ms
+2026-04-05T11:01:33Z INFO [order-service] GET /api/v1/users 200 101ms
+2026-04-05T11:05:31Z INFO [order-service] GET /api/v1/cart 200 8ms
+2026-04-05T11:08:35Z INFO [order-service] GET /api/v1/items 200 55ms
+2026-04-05T11:09:10Z INFO [order-service] GET /api/v1/health 200 46ms
+2026-04-05T11:09:44Z INFO [order-service] GET /api/v1/orders 200 77ms
+2026-04-05T11:10:06Z WARN [order-service] Retry succeeded on attempt 2 for auth-service
+2026-04-05T11:13:12Z INFO [order-service] GET /api/v1/items 200 17ms
+2026-04-05T11:16:14Z INFO [order-service] GET /api/v1/search 200 80ms
+2026-04-05T11:18:06Z INFO [order-service] GET /api/v1/users 200 37ms
+2026-04-05T11:18:17Z INFO [order-service] GET /api/v1/orders 200 75ms
+2026-04-05T11:18:37Z INFO [order-service] GET /api/v1/health 200 24ms
+2026-04-05T11:18:47Z INFO [order-service] GET /api/v1/items 200 35ms
+2026-04-05T11:19:02Z INFO [order-service] GET /api/v1/users 200 18ms
+2026-04-05T11:19:39Z INFO [order-service] GET /api/v1/users 200 113ms
+2026-04-05T11:19:53Z INFO [order-service] GET /api/v1/health 200 80ms
+2026-04-05T11:19:57Z INFO [order-service] GET /api/v1/health 200 96ms
+2026-04-05T11:20:42Z INFO [order-service] GET /api/v1/cart 200 109ms
+2026-04-05T11:21:21Z INFO [order-service] GET /api/v1/health 200 116ms
+2026-04-05T11:25:44Z INFO [order-service] GET /api/v1/health 200 94ms
+2026-04-05T11:26:09Z INFO [order-service] GET /api/v1/search 200 43ms
+2026-04-05T11:26:10Z INFO [order-service] GET /api/v1/cart 200 64ms
+2026-04-05T11:30:23Z INFO [order-service] GET /api/v1/cart 200 58ms
+2026-04-05T11:31:41Z INFO [order-service] GET /api/v1/cart 200 42ms
+2026-04-05T11:32:55Z INFO [order-service] GET /api/v1/users 200 30ms
+2026-04-05T11:33:19Z INFO [order-service] GET /api/v1/health 200 106ms
+2026-04-05T11:33:55Z INFO [order-service] GET /api/v1/search 200 34ms
+2026-04-05T11:34:00Z INFO [order-service] GET /api/v1/orders 200 67ms
+2026-04-05T11:35:32Z INFO [order-service] GET /api/v1/health 200 83ms
+2026-04-05T11:36:14Z INFO [order-service] GET /api/v1/orders 200 32ms
+2026-04-05T11:40:54Z INFO [order-service] GET /api/v1/health 200 50ms
+2026-04-05T11:41:26Z INFO [order-service] GET /api/v1/search 200 58ms
+2026-04-05T11:43:03Z INFO [order-service] GET /api/v1/items 200 55ms
+2026-04-05T11:43:45Z INFO [order-service] GET /api/v1/search 200 12ms
+2026-04-05T11:43:45Z INFO [order-service] GET /api/v1/cart 200 99ms
+2026-04-05T11:46:29Z INFO [order-service] GET /api/v1/cart 200 72ms
+2026-04-05T11:47:42Z INFO [order-service] GET /api/v1/orders 200 111ms
+2026-04-05T11:48:23Z INFO [order-service] GET /api/v1/items 200 63ms
+2026-04-05T11:49:08Z INFO [order-service] GET /api/v1/users 200 100ms
+2026-04-05T11:50:09Z INFO [order-service] GET /api/v1/cart 200 111ms
+2026-04-05T11:53:24Z WARN [order-service] Certificate for api.internal expires in 24 days
+2026-04-05T11:53:53Z INFO [order-service] GET /api/v1/items 200 82ms
+2026-04-05T11:55:03Z INFO [order-service] GET /api/v1/items 200 114ms
+2026-04-05T11:55:38Z INFO [order-service] GET /api/v1/search 200 64ms
+2026-04-05T11:58:26Z INFO [order-service] GET /api/v1/health 200 35ms
+2026-04-05T11:59:32Z INFO [order-service] GET /api/v1/search 200 48ms
+2026-04-05T12:01:30Z INFO [order-service] GET /api/v1/orders 200 96ms
+2026-04-05T12:01:34Z INFO [order-service] GET /api/v1/search 200 82ms
+2026-04-05T12:02:04Z INFO [order-service] GET /api/v1/users 200 27ms
+2026-04-05T12:02:56Z INFO [order-service] GET /api/v1/items 200 74ms
+2026-04-05T12:06:56Z INFO [order-service] GET /api/v1/users 200 27ms
+2026-04-05T12:07:53Z INFO [order-service] GET /api/v1/orders 200 62ms
+2026-04-05T12:08:01Z INFO [order-service] GET /api/v1/health 200 10ms
+2026-04-05T12:09:51Z INFO [order-service] GET /api/v1/users 200 112ms
+2026-04-05T12:10:57Z INFO [order-service] GET /api/v1/cart 200 76ms
+2026-04-05T12:11:17Z INFO [order-service] GET /api/v1/health 200 18ms
+2026-04-05T12:14:01Z INFO [order-service] GET /api/v1/items 200 35ms
+2026-04-05T12:14:58Z INFO [order-service] GET /api/v1/search 200 24ms
+2026-04-05T12:18:11Z INFO [order-service] GET /api/v1/search 200 31ms
+2026-04-05T12:18:19Z INFO [order-service] GET /api/v1/users 200 93ms
+2026-04-05T12:19:28Z INFO [order-service] GET /api/v1/health 200 101ms
+2026-04-05T12:19:42Z INFO [order-service] GET /api/v1/items 200 88ms
+2026-04-05T12:20:17Z INFO [order-service] GET /api/v1/health 200 18ms
+2026-04-05T12:20:21Z INFO [order-service] GET /api/v1/health 200 37ms
+2026-04-05T12:20:36Z INFO [order-service] GET /api/v1/users 200 8ms
+2026-04-05T12:21:13Z INFO [order-service] GET /api/v1/search 200 94ms
+2026-04-05T12:21:22Z INFO [order-service] GET /api/v1/items 200 73ms
+2026-04-05T12:23:23Z INFO [order-service] GET /api/v1/cart 200 78ms
+2026-04-05T12:24:49Z INFO [order-service] GET /api/v1/users 200 62ms
+2026-04-05T12:26:03Z INFO [order-service] GET /api/v1/users 200 58ms
+2026-04-05T12:27:29Z INFO [order-service] GET /api/v1/orders 200 42ms
+2026-04-05T12:29:09Z INFO [order-service] GET /api/v1/cart 200 76ms
+2026-04-05T12:30:06Z INFO [order-service] GET /api/v1/items 200 62ms
+2026-04-05T12:30:24Z INFO [order-service] GET /api/v1/orders 200 59ms
+2026-04-05T12:30:48Z INFO [order-service] GET /api/v1/orders 200 116ms
+2026-04-05T12:32:36Z INFO [order-service] GET /api/v1/search 200 101ms
+2026-04-05T12:33:32Z INFO [order-service] GET /api/v1/search 200 51ms
+2026-04-05T12:41:03Z INFO [order-service] GET /api/v1/health 200 45ms
+2026-04-05T12:41:04Z INFO [order-service] GET /api/v1/health 200 60ms
+2026-04-05T12:41:36Z INFO [order-service] GET /api/v1/users 200 116ms
+2026-04-05T12:41:41Z INFO [order-service] GET /api/v1/health 200 70ms
+2026-04-05T12:43:32Z INFO [order-service] GET /api/v1/cart 200 113ms
+2026-04-05T12:44:50Z INFO [order-service] GET /api/v1/items 200 71ms
+2026-04-05T12:45:03Z INFO [order-service] GET /api/v1/cart 200 51ms
+2026-04-05T12:46:03Z INFO [order-service] Deployment of release v2.648.0 completed, rolling update finished
+2026-04-05T12:46:55Z INFO [order-service] GET /api/v1/items 200 65ms
+2026-04-05T12:47:05Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:307)
+2026-04-05T12:47:26Z INFO [order-service] GET /api/v1/cart 200 81ms
+2026-04-05T12:49:18Z WARN [order-service] Deserialization failed for payload schema v891
+2026-04-05T12:49:58Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T12:50:13Z WARN [order-service] Deserialization failed for payload schema v477
+2026-04-05T12:50:45Z WARN [order-service] Health check slow: 6269ms
+2026-04-05T12:51:31Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:718)
+2026-04-05T12:51:37Z INFO [order-service] GET /api/v1/search 200 48ms
+2026-04-05T12:52:50Z INFO [order-service] GET /api/v1/health 200 46ms
+2026-04-05T12:53:05Z INFO [order-service] GET /api/v1/orders 200 119ms
+2026-04-05T12:53:36Z INFO [order-service] GET /api/v1/health 200 77ms
+2026-04-05T12:53:46Z WARN [order-service] Deserialization failed for payload schema v43
+2026-04-05T12:54:26Z WARN [order-service] Health check slow: 1619ms
+2026-04-05T12:54:27Z INFO [order-service] GET /api/v1/health 200 57ms
+2026-04-05T12:54:54Z INFO [order-service] GET /api/v1/cart 200 21ms
+2026-04-05T12:54:55Z INFO [order-service] GET /api/v1/orders 200 102ms
+2026-04-05T12:55:22Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:501)
+2026-04-05T12:55:50Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T12:55:54Z INFO [order-service] GET /api/v1/search 200 56ms
+2026-04-05T12:56:23Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T12:56:39Z INFO [order-service] GET /api/v1/orders 200 28ms
+2026-04-05T12:57:34Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T12:57:38Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T12:58:00Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:893)
+2026-04-05T12:58:24Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:592)
+2026-04-05T12:59:49Z WARN [order-service] Deserialization failed for payload schema v351
+2026-04-05T13:00:36Z WARN [order-service] Deserialization failed for payload schema v801
+2026-04-05T13:01:29Z WARN [order-service] Health check slow: 7659ms
+2026-04-05T13:02:15Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:850)
+2026-04-05T13:02:41Z INFO [order-service] GET /api/v1/users 200 87ms
+2026-04-05T13:03:11Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:03:42Z WARN [order-service] Deserialization failed for payload schema v679
+2026-04-05T13:03:54Z INFO [order-service] GET /api/v1/orders 200 35ms
+2026-04-05T13:06:34Z INFO [order-service] GET /api/v1/items 200 89ms
+2026-04-05T13:07:02Z WARN [order-service] Health check slow: 5618ms
+2026-04-05T13:08:01Z WARN [order-service] Health check slow: 4293ms
+2026-04-05T13:09:05Z INFO [order-service] GET /api/v1/orders 200 72ms
+2026-04-05T13:09:17Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:09:19Z INFO [order-service] GET /api/v1/cart 200 89ms
+2026-04-05T13:09:29Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:10:56Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:11:10Z INFO [order-service] GET /api/v1/users 200 90ms
+2026-04-05T13:11:19Z INFO [order-service] GET /api/v1/health 200 74ms
+2026-04-05T13:12:12Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:12:23Z INFO [order-service] GET /api/v1/items 200 68ms
+2026-04-05T13:12:35Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:12:55Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:12:58Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:13:44Z INFO [order-service] GET /api/v1/orders 200 33ms
+2026-04-05T13:15:18Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:15:22Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:16:58Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:748)
+2026-04-05T13:17:14Z INFO [order-service] GET /api/v1/orders 200 91ms
+2026-04-05T13:18:46Z WARN [order-service] Health check slow: 5192ms
+2026-04-05T13:19:42Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:390)
+2026-04-05T13:20:15Z INFO [order-service] GET /api/v1/orders 200 56ms
+2026-04-05T13:22:14Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:818)
+2026-04-05T13:23:20Z INFO [order-service] GET /api/v1/health 200 103ms
+2026-04-05T13:25:23Z WARN [order-service] Deserialization failed for payload schema v686
+2026-04-05T13:25:44Z INFO [order-service] GET /api/v1/items 200 70ms
+2026-04-05T13:25:44Z INFO [order-service] GET /api/v1/items 200 34ms
+2026-04-05T13:25:49Z INFO [order-service] GET /api/v1/orders 200 70ms
+2026-04-05T13:26:21Z INFO [order-service] GET /api/v1/users 200 99ms
+2026-04-05T13:26:35Z INFO [order-service] GET /api/v1/users 200 38ms
+2026-04-05T13:26:36Z ERROR [order-service] Request failed with status 500
+2026-04-05T13:26:54Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:27:26Z INFO [order-service] GET /api/v1/orders 200 87ms
+2026-04-05T13:28:11Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:28:31Z INFO [order-service] GET /api/v1/search 200 73ms
+2026-04-05T13:30:10Z INFO [order-service] GET /api/v1/orders 200 21ms
+2026-04-05T13:30:25Z INFO [order-service] GET /api/v1/users 200 73ms
+2026-04-05T13:30:27Z ERROR [order-service] Request failed with status 500
+2026-04-05T13:30:43Z INFO [order-service] GET /api/v1/items 200 37ms
+2026-04-05T13:31:05Z WARN [order-service] Health check slow: 2438ms
+2026-04-05T13:31:58Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:32:21Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:32:45Z ERROR [order-service] Request failed with status 500
+2026-04-05T13:33:16Z INFO [order-service] GET /api/v1/search 200 109ms
+2026-04-05T13:33:35Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:716)
+2026-04-05T13:34:29Z INFO [order-service] GET /api/v1/search 200 93ms
+2026-04-05T13:34:48Z INFO [order-service] GET /api/v1/users 200 17ms
+2026-04-05T13:35:06Z WARN [order-service] Deserialization failed for payload schema v29
+2026-04-05T13:35:22Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:36:53Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:37:23Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:37:38Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:37:42Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:39:06Z WARN [order-service] Deserialization failed for payload schema v633
+2026-04-05T13:39:45Z WARN [order-service] Deserialization failed for payload schema v410
+2026-04-05T13:40:42Z INFO [order-service] GET /api/v1/health 200 83ms
+2026-04-05T13:40:59Z WARN [order-service] Deserialization failed for payload schema v424
+2026-04-05T13:41:20Z INFO [order-service] GET /api/v1/items 200 53ms
+2026-04-05T13:41:26Z INFO [order-service] GET /api/v1/cart 200 84ms
+2026-04-05T13:42:08Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:42:27Z WARN [order-service] Deserialization failed for payload schema v594
+2026-04-05T13:42:42Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:848)
+2026-04-05T13:42:50Z INFO [order-service] GET /api/v1/search 200 103ms
+2026-04-05T13:44:24Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:46:13Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:47:01Z WARN [order-service] Deserialization failed for payload schema v626
+2026-04-05T13:47:48Z INFO [order-service] GET /api/v1/search 200 30ms
+2026-04-05T13:47:53Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:48:58Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:48:59Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:49:07Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:77)
+2026-04-05T13:49:20Z WARN [order-service] Deserialization failed for payload schema v257
+2026-04-05T13:49:22Z INFO [order-service] GET /api/v1/users 200 27ms
+2026-04-05T13:49:56Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:50:31Z INFO [order-service] GET /api/v1/health 200 31ms
+2026-04-05T13:50:55Z ERROR [order-service] Unhandled exception in request handler: unexpected null field
+2026-04-05T13:51:57Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:74)
+2026-04-05T13:52:50Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:53:15Z INFO [order-service] GET /api/v1/cart 200 74ms
+2026-04-05T13:53:32Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:560)
+2026-04-05T13:53:46Z WARN [order-service] Health check slow: 2351ms
+2026-04-05T13:54:37Z INFO [order-service] GET /api/v1/orders 200 51ms
+2026-04-05T13:55:07Z ERROR [order-service] Unexpected error handling request
+2026-04-05T13:55:30Z WARN [order-service] Health check slow: 881ms
+2026-04-05T13:55:31Z INFO [order-service] GET /api/v1/items 200 77ms
+2026-04-05T13:55:41Z ERROR [order-service] Request failed with 500 after new release
+2026-04-05T13:56:16Z INFO [order-service] GET /api/v1/search 200 75ms
+2026-04-05T13:56:32Z INFO [order-service] GET /api/v1/search 200 59ms
+2026-04-05T13:57:41Z INFO [order-service] GET /api/v1/health 200 39ms
+2026-04-05T13:57:55Z INFO [order-service] GET /api/v1/users 200 23ms
+2026-04-05T13:58:56Z ERROR [order-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:79)
+2026-04-05T13:59:39Z INFO [order-service] GET /api/v1/health 200 119ms

@@ -1,0 +1,269 @@
+2026-04-08T10:00:06Z INFO [auth-service] GET /api/v1/users 200 62ms
+2026-04-08T10:03:10Z INFO [auth-service] GET /api/v1/search 200 66ms
+2026-04-08T10:04:10Z INFO [auth-service] GET /api/v1/users 200 55ms
+2026-04-08T10:04:14Z INFO [auth-service] GET /api/v1/items 200 118ms
+2026-04-08T10:06:13Z INFO [auth-service] GET /api/v1/items 200 67ms
+2026-04-08T10:06:20Z INFO [auth-service] GET /api/v1/search 200 117ms
+2026-04-08T10:06:23Z INFO [auth-service] GET /api/v1/orders 200 118ms
+2026-04-08T10:07:55Z INFO [auth-service] GET /api/v1/cart 200 10ms
+2026-04-08T10:10:25Z INFO [auth-service] GET /api/v1/orders 200 16ms
+2026-04-08T10:16:34Z INFO [auth-service] GET /api/v1/orders 200 29ms
+2026-04-08T10:17:15Z INFO [auth-service] GET /api/v1/search 200 10ms
+2026-04-08T10:17:49Z INFO [auth-service] GET /api/v1/health 200 11ms
+2026-04-08T10:17:59Z INFO [auth-service] GET /api/v1/cart 200 89ms
+2026-04-08T10:19:40Z INFO [auth-service] GET /api/v1/search 200 40ms
+2026-04-08T10:23:32Z INFO [auth-service] GET /api/v1/search 200 34ms
+2026-04-08T10:25:59Z INFO [auth-service] GET /api/v1/items 200 117ms
+2026-04-08T10:28:15Z INFO [auth-service] GET /api/v1/items 200 41ms
+2026-04-08T10:28:24Z INFO [auth-service] GET /api/v1/search 200 74ms
+2026-04-08T10:28:56Z INFO [auth-service] GET /api/v1/users 200 115ms
+2026-04-08T10:31:50Z INFO [auth-service] GET /api/v1/health 200 100ms
+2026-04-08T10:32:55Z INFO [auth-service] GET /api/v1/cart 200 68ms
+2026-04-08T10:34:02Z WARN [auth-service] Deprecated endpoint /v1/orders/legacy called
+2026-04-08T10:35:22Z INFO [auth-service] GET /api/v1/search 200 96ms
+2026-04-08T10:37:24Z INFO [auth-service] GET /api/v1/cart 200 9ms
+2026-04-08T10:37:50Z INFO [auth-service] GET /api/v1/items 200 25ms
+2026-04-08T10:38:25Z INFO [auth-service] GET /api/v1/cart 200 118ms
+2026-04-08T10:39:46Z INFO [auth-service] GET /api/v1/search 200 65ms
+2026-04-08T10:39:47Z INFO [auth-service] GET /api/v1/search 200 68ms
+2026-04-08T10:41:47Z INFO [auth-service] GET /api/v1/cart 200 49ms
+2026-04-08T10:42:43Z INFO [auth-service] GET /api/v1/health 200 113ms
+2026-04-08T10:42:55Z INFO [auth-service] GET /api/v1/search 200 112ms
+2026-04-08T10:43:12Z INFO [auth-service] GET /api/v1/orders 200 87ms
+2026-04-08T10:44:57Z INFO [auth-service] GET /api/v1/health 200 23ms
+2026-04-08T10:45:27Z INFO [auth-service] GET /api/v1/items 200 26ms
+2026-04-08T10:45:36Z INFO [auth-service] GET /api/v1/users 200 31ms
+2026-04-08T10:46:03Z INFO [auth-service] GET /api/v1/health 200 33ms
+2026-04-08T10:47:38Z INFO [auth-service] GET /api/v1/cart 200 38ms
+2026-04-08T10:49:07Z INFO [auth-service] GET /api/v1/items 200 15ms
+2026-04-08T10:50:15Z INFO [auth-service] GET /api/v1/cart 200 94ms
+2026-04-08T10:51:26Z INFO [auth-service] GET /api/v1/cart 200 23ms
+2026-04-08T10:56:18Z INFO [auth-service] GET /api/v1/users 200 75ms
+2026-04-08T10:56:49Z INFO [auth-service] GET /api/v1/users 200 106ms
+2026-04-08T10:57:30Z INFO [auth-service] GET /api/v1/items 200 66ms
+2026-04-08T10:58:02Z INFO [auth-service] GET /api/v1/users 200 52ms
+2026-04-08T11:00:51Z INFO [auth-service] GET /api/v1/health 200 118ms
+2026-04-08T11:01:20Z INFO [auth-service] GET /api/v1/orders 200 74ms
+2026-04-08T11:01:21Z INFO [auth-service] GET /api/v1/orders 200 111ms
+2026-04-08T11:02:18Z INFO [auth-service] GET /api/v1/search 200 115ms
+2026-04-08T11:03:01Z INFO [auth-service] GET /api/v1/search 200 94ms
+2026-04-08T11:06:49Z INFO [auth-service] GET /api/v1/orders 200 81ms
+2026-04-08T11:07:05Z INFO [auth-service] GET /api/v1/items 200 13ms
+2026-04-08T11:08:51Z INFO [auth-service] GET /api/v1/users 200 36ms
+2026-04-08T11:11:18Z INFO [auth-service] GET /api/v1/users 200 81ms
+2026-04-08T11:12:58Z INFO [auth-service] GET /api/v1/health 200 119ms
+2026-04-08T11:13:48Z INFO [auth-service] GET /api/v1/orders 200 37ms
+2026-04-08T11:14:15Z INFO [auth-service] GET /api/v1/cart 200 12ms
+2026-04-08T11:15:46Z INFO [auth-service] GET /api/v1/health 200 67ms
+2026-04-08T11:16:24Z INFO [auth-service] GET /api/v1/cart 200 32ms
+2026-04-08T11:17:19Z INFO [auth-service] GET /api/v1/search 200 20ms
+2026-04-08T11:19:07Z INFO [auth-service] GET /api/v1/cart 200 118ms
+2026-04-08T11:19:10Z INFO [auth-service] GET /api/v1/users 200 112ms
+2026-04-08T11:21:01Z INFO [auth-service] GET /api/v1/users 200 15ms
+2026-04-08T11:22:03Z INFO [auth-service] GET /api/v1/health 200 33ms
+2026-04-08T11:22:49Z INFO [auth-service] GET /api/v1/orders 200 102ms
+2026-04-08T11:23:47Z INFO [auth-service] GET /api/v1/orders 200 9ms
+2026-04-08T11:24:25Z INFO [auth-service] GET /api/v1/cart 200 48ms
+2026-04-08T11:24:28Z INFO [auth-service] GET /api/v1/search 200 99ms
+2026-04-08T11:29:05Z INFO [auth-service] GET /api/v1/cart 200 68ms
+2026-04-08T11:29:55Z INFO [auth-service] GET /api/v1/users 200 28ms
+2026-04-08T11:30:49Z INFO [auth-service] GET /api/v1/health 200 109ms
+2026-04-08T11:34:44Z INFO [auth-service] GET /api/v1/cart 200 43ms
+2026-04-08T11:35:03Z INFO [auth-service] GET /api/v1/items 200 83ms
+2026-04-08T11:35:06Z INFO [auth-service] GET /api/v1/users 200 86ms
+2026-04-08T11:37:40Z INFO [auth-service] GET /api/v1/items 200 76ms
+2026-04-08T11:38:51Z INFO [auth-service] GET /api/v1/health 200 44ms
+2026-04-08T11:42:08Z INFO [auth-service] GET /api/v1/cart 200 91ms
+2026-04-08T11:42:25Z INFO [auth-service] GET /api/v1/users 200 69ms
+2026-04-08T11:45:12Z INFO [auth-service] GET /api/v1/cart 200 15ms
+2026-04-08T11:46:45Z INFO [auth-service] GET /api/v1/items 200 33ms
+2026-04-08T11:48:03Z INFO [auth-service] GET /api/v1/orders 200 62ms
+2026-04-08T11:51:37Z INFO [auth-service] GET /api/v1/items 200 21ms
+2026-04-08T11:52:15Z INFO [auth-service] GET /api/v1/users 200 29ms
+2026-04-08T11:55:06Z INFO [auth-service] GET /api/v1/users 200 78ms
+2026-04-08T11:56:19Z INFO [auth-service] GET /api/v1/health 200 37ms
+2026-04-08T11:57:45Z INFO [auth-service] GET /api/v1/items 200 55ms
+2026-04-08T11:57:57Z INFO [auth-service] GET /api/v1/cart 200 47ms
+2026-04-08T12:02:40Z INFO [auth-service] GET /api/v1/cart 200 92ms
+2026-04-08T12:03:34Z INFO [auth-service] GET /api/v1/search 200 12ms
+2026-04-08T12:04:40Z INFO [auth-service] GET /api/v1/orders 200 40ms
+2026-04-08T12:05:39Z INFO [auth-service] GET /api/v1/orders 200 60ms
+2026-04-08T12:07:13Z INFO [auth-service] GET /api/v1/items 200 41ms
+2026-04-08T12:08:09Z INFO [auth-service] GET /api/v1/search 200 69ms
+2026-04-08T12:08:42Z INFO [auth-service] GET /api/v1/orders 200 77ms
+2026-04-08T12:08:52Z INFO [auth-service] GET /api/v1/items 200 49ms
+2026-04-08T12:11:28Z INFO [auth-service] GET /api/v1/cart 200 40ms
+2026-04-08T12:12:03Z INFO [auth-service] GET /api/v1/cart 200 90ms
+2026-04-08T12:14:48Z INFO [auth-service] GET /api/v1/orders 200 90ms
+2026-04-08T12:14:59Z INFO [auth-service] GET /api/v1/health 200 30ms
+2026-04-08T12:15:08Z INFO [auth-service] GET /api/v1/users 200 109ms
+2026-04-08T12:21:00Z INFO [auth-service] GET /api/v1/cart 200 55ms
+2026-04-08T12:21:14Z INFO [auth-service] GET /api/v1/search 200 102ms
+2026-04-08T12:22:42Z INFO [auth-service] GET /api/v1/cart 200 81ms
+2026-04-08T12:24:13Z INFO [auth-service] GET /api/v1/users 200 87ms
+2026-04-08T12:24:54Z INFO [auth-service] GET /api/v1/orders 200 44ms
+2026-04-08T12:28:11Z INFO [auth-service] GET /api/v1/cart 200 97ms
+2026-04-08T12:28:20Z INFO [auth-service] GET /api/v1/health 200 36ms
+2026-04-08T12:28:53Z INFO [auth-service] GET /api/v1/search 200 60ms
+2026-04-08T12:29:02Z INFO [auth-service] GET /api/v1/orders 200 44ms
+2026-04-08T12:30:00Z INFO [auth-service] GET /api/v1/users 200 36ms
+2026-04-08T12:30:31Z INFO [auth-service] GET /api/v1/search 200 66ms
+2026-04-08T12:30:58Z INFO [auth-service] GET /api/v1/orders 200 90ms
+2026-04-08T12:31:13Z INFO [auth-service] GET /api/v1/items 200 78ms
+2026-04-08T12:31:50Z INFO [auth-service] GET /api/v1/cart 200 110ms
+2026-04-08T12:34:14Z INFO [auth-service] GET /api/v1/search 200 15ms
+2026-04-08T12:34:37Z INFO [auth-service] GET /api/v1/users 200 104ms
+2026-04-08T12:34:46Z INFO [auth-service] GET /api/v1/cart 200 70ms
+2026-04-08T12:35:27Z INFO [auth-service] GET /api/v1/health 200 79ms
+2026-04-08T12:37:41Z INFO [auth-service] GET /api/v1/items 200 14ms
+2026-04-08T12:39:10Z INFO [auth-service] GET /api/v1/orders 200 92ms
+2026-04-08T12:41:35Z INFO [auth-service] GET /api/v1/search 200 95ms
+2026-04-08T12:42:09Z INFO [auth-service] GET /api/v1/health 200 111ms
+2026-04-08T12:43:40Z INFO [auth-service] GET /api/v1/health 200 66ms
+2026-04-08T12:44:19Z WARN [auth-service] Deprecated endpoint /v1/orders/legacy called
+2026-04-08T12:45:55Z WARN [auth-service] Certificate for api.internal expires in 24 days
+2026-04-08T12:47:07Z WARN [auth-service] Deprecated endpoint /v1/orders/legacy called
+2026-04-08T12:48:39Z INFO [auth-service] GET /api/v1/users 200 63ms
+2026-04-08T12:48:55Z INFO [auth-service] GET /api/v1/orders 200 20ms
+2026-04-08T12:49:06Z INFO [auth-service] GET /api/v1/cart 200 93ms
+2026-04-08T12:49:36Z INFO [auth-service] GET /api/v1/health 200 17ms
+2026-04-08T12:49:55Z INFO [auth-service] GET /api/v1/items 200 107ms
+2026-04-08T12:49:57Z INFO [auth-service] GET /api/v1/search 200 53ms
+2026-04-08T12:51:58Z INFO [auth-service] GET /api/v1/health 200 13ms
+2026-04-08T12:52:57Z WARN [auth-service] Heap usage above 85% after full GC
+2026-04-08T12:54:18Z INFO [auth-service] GET /api/v1/orders 200 84ms
+2026-04-08T12:54:22Z INFO [auth-service] GET /api/v1/items 200 85ms
+2026-04-08T12:54:30Z WARN [auth-service] Health check slow: 3576ms
+2026-04-08T12:54:32Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T12:55:09Z WARN [auth-service] Full GC pause 1684ms, heap usage 97%
+2026-04-08T12:55:27Z WARN [auth-service] Heap usage above 85% after full GC
+2026-04-08T12:55:49Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T12:57:04Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T12:57:04Z INFO [auth-service] GET /api/v1/cart 200 89ms
+2026-04-08T12:57:12Z WARN [auth-service] Health check slow: 5272ms
+2026-04-08T12:57:15Z WARN [auth-service] Health check slow: 3929ms
+2026-04-08T12:57:24Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T12:57:32Z ERROR [auth-service] Request failed with status 500
+2026-04-08T12:58:59Z ERROR [auth-service] Request failed with status 500
+2026-04-08T12:59:42Z WARN [auth-service] GC overhead: spending 271% of time in garbage collection
+2026-04-08T13:00:35Z INFO [auth-service] GET /api/v1/cart 200 39ms
+2026-04-08T13:00:48Z WARN [auth-service] GC overhead: spending 793% of time in garbage collection
+2026-04-08T13:01:14Z ERROR [auth-service] Request failed with status 500
+2026-04-08T13:01:32Z INFO [auth-service] GET /api/v1/search 200 40ms
+2026-04-08T13:02:04Z WARN [auth-service] GC overhead: spending 658% of time in garbage collection
+2026-04-08T13:02:47Z WARN [auth-service] Full GC pause 3839ms, heap usage 97%
+2026-04-08T13:02:52Z INFO [auth-service] GET /api/v1/search 200 114ms
+2026-04-08T13:03:52Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:03:57Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:03:57Z ERROR [auth-service] Request failed with status 500
+2026-04-08T13:04:25Z INFO [auth-service] GET /api/v1/search 200 65ms
+2026-04-08T13:04:26Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:05:04Z INFO [auth-service] GET /api/v1/cart 200 56ms
+2026-04-08T13:06:42Z WARN [auth-service] Full GC pause 1506ms, heap usage 97%
+2026-04-08T13:06:54Z WARN [auth-service] Health check slow: 8093ms
+2026-04-08T13:08:10Z WARN [auth-service] Health check slow: 8063ms
+2026-04-08T13:09:22Z WARN [auth-service] GC overhead: spending 136% of time in garbage collection
+2026-04-08T13:09:22Z WARN [auth-service] Health check slow: 8211ms
+2026-04-08T13:09:37Z INFO [auth-service] GET /api/v1/items 200 74ms
+2026-04-08T13:09:57Z INFO [auth-service] GET /api/v1/items 200 96ms
+2026-04-08T13:09:58Z INFO [auth-service] GET /api/v1/search 200 67ms
+2026-04-08T13:10:07Z INFO [auth-service] GET /api/v1/search 200 14ms
+2026-04-08T13:10:07Z WARN [auth-service] Health check slow: 6185ms
+2026-04-08T13:10:21Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:10:28Z ERROR [auth-service] Request failed with status 500
+2026-04-08T13:10:40Z INFO [auth-service] GET /api/v1/users 200 97ms
+2026-04-08T13:12:20Z INFO [auth-service] GET /api/v1/health 200 46ms
+2026-04-08T13:12:36Z ERROR [auth-service] Request failed with status 500
+2026-04-08T13:12:38Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:13:07Z WARN [auth-service] Health check slow: 856ms
+2026-04-08T13:13:18Z INFO [auth-service] GET /api/v1/health 200 37ms
+2026-04-08T13:14:43Z INFO [auth-service] GET /api/v1/orders 200 19ms
+2026-04-08T13:14:48Z INFO [auth-service] GET /api/v1/health 200 59ms
+2026-04-08T13:15:24Z INFO [auth-service] GET /api/v1/health 200 47ms
+2026-04-08T13:15:48Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T13:16:00Z INFO [auth-service] GET /api/v1/search 200 27ms
+2026-04-08T13:16:03Z ERROR [auth-service] Request failed with status 500
+2026-04-08T13:16:05Z WARN [auth-service] Full GC pause 2720ms, heap usage 97%
+2026-04-08T13:16:32Z WARN [auth-service] Full GC pause 3841ms, heap usage 97%
+2026-04-08T13:16:41Z WARN [auth-service] Full GC pause 3992ms, heap usage 97%
+2026-04-08T13:16:50Z WARN [auth-service] Health check slow: 8554ms
+2026-04-08T13:16:50Z WARN [auth-service] Full GC pause 8967ms, heap usage 97%
+2026-04-08T13:17:45Z INFO [auth-service] GET /api/v1/orders 200 73ms
+2026-04-08T13:17:56Z WARN [auth-service] Full GC pause 3953ms, heap usage 97%
+2026-04-08T13:18:16Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:19:12Z WARN [auth-service] Health check slow: 8637ms
+2026-04-08T13:20:29Z INFO [auth-service] GET /api/v1/users 200 8ms
+2026-04-08T13:21:17Z ERROR [auth-service] Request failed with status 500
+2026-04-08T13:21:52Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T13:22:45Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:23:06Z INFO [auth-service] GET /api/v1/items 200 103ms
+2026-04-08T13:24:52Z WARN [auth-service] Health check slow: 4689ms
+2026-04-08T13:25:59Z WARN [auth-service] Health check slow: 5307ms
+2026-04-08T13:26:41Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:26:48Z WARN [auth-service] GC overhead: spending 32% of time in garbage collection
+2026-04-08T13:27:00Z WARN [auth-service] GC overhead: spending 228% of time in garbage collection
+2026-04-08T13:27:13Z INFO [auth-service] GET /api/v1/orders 200 50ms
+2026-04-08T13:27:22Z INFO [auth-service] GET /api/v1/users 200 93ms
+2026-04-08T13:28:26Z WARN [auth-service] Full GC pause 4540ms, heap usage 97%
+2026-04-08T13:29:01Z INFO [auth-service] GET /api/v1/items 200 44ms
+2026-04-08T13:31:27Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:32:11Z WARN [auth-service] Full GC pause 5335ms, heap usage 97%
+2026-04-08T13:32:37Z ERROR [auth-service] Request failed with status 500
+2026-04-08T13:32:44Z INFO [auth-service] GET /api/v1/search 200 70ms
+2026-04-08T13:32:59Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:33:01Z WARN [auth-service] GC overhead: spending 225% of time in garbage collection
+2026-04-08T13:34:44Z WARN [auth-service] Full GC pause 6643ms, heap usage 97%
+2026-04-08T13:35:29Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T13:36:22Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T13:36:44Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:36:47Z INFO [auth-service] GET /api/v1/cart 200 71ms
+2026-04-08T13:37:21Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T13:37:35Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:38:22Z INFO [auth-service] GET /api/v1/health 200 109ms
+2026-04-08T13:39:18Z INFO [auth-service] GET /api/v1/health 200 92ms
+2026-04-08T13:39:25Z INFO [auth-service] GET /api/v1/users 200 27ms
+2026-04-08T13:40:52Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:40:56Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:41:25Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T13:43:04Z WARN [auth-service] GC overhead: spending 203% of time in garbage collection
+2026-04-08T13:43:19Z INFO [auth-service] GET /api/v1/items 200 71ms
+2026-04-08T13:43:27Z INFO [auth-service] GET /api/v1/orders 200 109ms
+2026-04-08T13:43:30Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T13:43:57Z INFO [auth-service] GET /api/v1/cart 200 33ms
+2026-04-08T13:44:55Z INFO [auth-service] GET /api/v1/items 200 73ms
+2026-04-08T13:44:58Z WARN [auth-service] GC overhead: spending 204% of time in garbage collection
+2026-04-08T13:45:46Z WARN [auth-service] Health check slow: 6043ms
+2026-04-08T13:46:18Z INFO [auth-service] GET /api/v1/orders 200 22ms
+2026-04-08T13:46:30Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:46:38Z INFO [auth-service] GET /api/v1/orders 200 41ms
+2026-04-08T13:46:42Z INFO [auth-service] GET /api/v1/items 200 113ms
+2026-04-08T13:46:45Z INFO [auth-service] GET /api/v1/users 200 102ms
+2026-04-08T13:47:07Z INFO [auth-service] GET /api/v1/users 200 53ms
+2026-04-08T13:47:55Z INFO [auth-service] GET /api/v1/search 200 24ms
+2026-04-08T13:47:56Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:47:57Z INFO [auth-service] GET /api/v1/health 200 102ms
+2026-04-08T13:48:30Z INFO [auth-service] GET /api/v1/items 200 26ms
+2026-04-08T13:49:02Z WARN [auth-service] Full GC pause 1357ms, heap usage 97%
+2026-04-08T13:49:50Z INFO [auth-service] GET /api/v1/orders 200 61ms
+2026-04-08T13:49:53Z INFO [auth-service] GET /api/v1/search 200 91ms
+2026-04-08T13:50:43Z INFO [auth-service] GET /api/v1/orders 200 12ms
+2026-04-08T13:51:42Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:52:03Z WARN [auth-service] GC overhead: spending 865% of time in garbage collection
+2026-04-08T13:52:10Z ERROR [auth-service] Unexpected error handling request
+2026-04-08T13:52:14Z ERROR [auth-service] Request failed: unable to allocate buffer, insufficient memory
+2026-04-08T13:52:50Z INFO [auth-service] GET /api/v1/cart 200 84ms
+2026-04-08T13:53:53Z INFO [auth-service] GET /api/v1/orders 200 10ms
+2026-04-08T13:54:16Z INFO [auth-service] GET /api/v1/orders 200 62ms
+2026-04-08T13:54:29Z INFO [auth-service] GET /api/v1/orders 200 8ms
+2026-04-08T13:54:36Z INFO [auth-service] GET /api/v1/health 200 78ms
+2026-04-08T13:55:35Z INFO [auth-service] GET /api/v1/users 200 111ms
+2026-04-08T13:56:24Z WARN [auth-service] GC overhead: spending 508% of time in garbage collection
+2026-04-08T13:56:46Z WARN [auth-service] GC overhead: spending 292% of time in garbage collection
+2026-04-08T13:57:12Z INFO [auth-service] GET /api/v1/health 200 59ms
+2026-04-08T13:57:30Z WARN [auth-service] Health check slow: 7856ms
+2026-04-08T13:57:44Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:58:23Z WARN [auth-service] GC overhead: spending 205% of time in garbage collection
+2026-04-08T13:58:47Z WARN [auth-service] Health check slow: 7421ms
+2026-04-08T13:58:54Z ERROR [auth-service] Request failed with status 500
+2026-04-08T13:59:14Z ERROR [auth-service] java.lang.OutOfMemoryError: Java heap space
+2026-04-08T13:59:33Z ERROR [auth-service] Request failed with status 500

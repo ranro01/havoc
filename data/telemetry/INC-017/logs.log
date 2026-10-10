@@ -1,0 +1,287 @@
+2026-03-31T10:01:09Z INFO [checkout-service] GET /api/v1/users 200 37ms
+2026-03-31T10:05:39Z INFO [checkout-service] GET /api/v1/search 200 16ms
+2026-03-31T10:07:13Z INFO [checkout-service] GET /api/v1/users 200 37ms
+2026-03-31T10:07:38Z INFO [checkout-service] GET /api/v1/search 200 12ms
+2026-03-31T10:08:06Z INFO [checkout-service] GET /api/v1/items 200 17ms
+2026-03-31T10:10:28Z INFO [checkout-service] GET /api/v1/users 200 51ms
+2026-03-31T10:11:00Z INFO [checkout-service] GET /api/v1/search 200 110ms
+2026-03-31T10:11:10Z INFO [checkout-service] GET /api/v1/items 200 10ms
+2026-03-31T10:11:11Z INFO [checkout-service] GET /api/v1/cart 200 77ms
+2026-03-31T10:11:15Z INFO [checkout-service] GET /api/v1/health 200 111ms
+2026-03-31T10:13:20Z INFO [checkout-service] GET /api/v1/items 200 110ms
+2026-03-31T10:14:47Z INFO [checkout-service] GET /api/v1/items 200 86ms
+2026-03-31T10:16:25Z INFO [checkout-service] GET /api/v1/users 200 54ms
+2026-03-31T10:18:28Z INFO [checkout-service] GET /api/v1/orders 200 99ms
+2026-03-31T10:22:48Z INFO [checkout-service] GET /api/v1/items 200 100ms
+2026-03-31T10:23:30Z INFO [checkout-service] GET /api/v1/users 200 58ms
+2026-03-31T10:23:37Z INFO [checkout-service] GET /api/v1/users 200 86ms
+2026-03-31T10:25:36Z INFO [checkout-service] GET /api/v1/cart 200 13ms
+2026-03-31T10:25:37Z INFO [checkout-service] GET /api/v1/health 200 62ms
+2026-03-31T10:31:16Z INFO [checkout-service] GET /api/v1/cart 200 40ms
+2026-03-31T10:32:22Z INFO [checkout-service] GET /api/v1/items 200 24ms
+2026-03-31T10:34:01Z INFO [checkout-service] GET /api/v1/users 200 29ms
+2026-03-31T10:34:48Z INFO [checkout-service] GET /api/v1/health 200 99ms
+2026-03-31T10:35:13Z INFO [checkout-service] GET /api/v1/search 200 118ms
+2026-03-31T10:35:46Z INFO [checkout-service] GET /api/v1/users 200 82ms
+2026-03-31T10:38:08Z INFO [checkout-service] GET /api/v1/search 200 18ms
+2026-03-31T10:38:49Z INFO [checkout-service] GET /api/v1/orders 200 42ms
+2026-03-31T10:39:50Z INFO [checkout-service] GET /api/v1/search 200 93ms
+2026-03-31T10:40:01Z INFO [checkout-service] GET /api/v1/search 200 16ms
+2026-03-31T10:41:26Z INFO [checkout-service] GET /api/v1/search 200 14ms
+2026-03-31T10:42:14Z INFO [checkout-service] GET /api/v1/health 200 47ms
+2026-03-31T10:45:38Z WARN [checkout-service] Certificate for api.internal expires in 24 days
+2026-03-31T10:45:49Z INFO [checkout-service] GET /api/v1/orders 200 55ms
+2026-03-31T10:46:40Z INFO [checkout-service] GET /api/v1/search 200 89ms
+2026-03-31T10:46:41Z INFO [checkout-service] GET /api/v1/orders 200 33ms
+2026-03-31T10:47:15Z INFO [checkout-service] GET /api/v1/items 200 38ms
+2026-03-31T10:47:18Z INFO [checkout-service] GET /api/v1/users 200 61ms
+2026-03-31T10:49:38Z INFO [checkout-service] GET /api/v1/users 200 94ms
+2026-03-31T10:50:11Z INFO [checkout-service] GET /api/v1/orders 200 34ms
+2026-03-31T10:53:03Z INFO [checkout-service] GET /api/v1/search 200 119ms
+2026-03-31T10:57:18Z INFO [checkout-service] GET /api/v1/search 200 40ms
+2026-03-31T10:58:07Z INFO [checkout-service] GET /api/v1/cart 200 27ms
+2026-03-31T10:58:57Z INFO [checkout-service] GET /api/v1/users 200 26ms
+2026-03-31T11:00:10Z INFO [checkout-service] GET /api/v1/users 200 28ms
+2026-03-31T11:03:43Z INFO [checkout-service] GET /api/v1/users 200 67ms
+2026-03-31T11:04:28Z INFO [checkout-service] GET /api/v1/search 200 71ms
+2026-03-31T11:04:45Z INFO [checkout-service] GET /api/v1/cart 200 112ms
+2026-03-31T11:05:40Z INFO [checkout-service] GET /api/v1/cart 200 44ms
+2026-03-31T11:05:56Z INFO [checkout-service] GET /api/v1/orders 200 90ms
+2026-03-31T11:06:49Z INFO [checkout-service] GET /api/v1/orders 200 18ms
+2026-03-31T11:07:50Z INFO [checkout-service] GET /api/v1/search 200 66ms
+2026-03-31T11:07:58Z INFO [checkout-service] GET /api/v1/search 200 113ms
+2026-03-31T11:09:49Z INFO [checkout-service] GET /api/v1/users 200 105ms
+2026-03-31T11:10:10Z INFO [checkout-service] GET /api/v1/items 200 57ms
+2026-03-31T11:11:17Z INFO [checkout-service] GET /api/v1/cart 200 33ms
+2026-03-31T11:13:50Z INFO [checkout-service] GET /api/v1/users 200 95ms
+2026-03-31T11:19:20Z INFO [checkout-service] GET /api/v1/cart 200 71ms
+2026-03-31T11:19:34Z INFO [checkout-service] GET /api/v1/search 200 100ms
+2026-03-31T11:19:45Z INFO [checkout-service] GET /api/v1/cart 200 89ms
+2026-03-31T11:19:54Z INFO [checkout-service] GET /api/v1/items 200 39ms
+2026-03-31T11:22:49Z INFO [checkout-service] GET /api/v1/orders 200 111ms
+2026-03-31T11:23:20Z INFO [checkout-service] GET /api/v1/orders 200 50ms
+2026-03-31T11:24:11Z INFO [checkout-service] GET /api/v1/cart 200 44ms
+2026-03-31T11:24:47Z INFO [checkout-service] GET /api/v1/users 200 34ms
+2026-03-31T11:25:27Z INFO [checkout-service] GET /api/v1/users 200 18ms
+2026-03-31T11:27:22Z INFO [checkout-service] GET /api/v1/items 200 9ms
+2026-03-31T11:30:18Z INFO [checkout-service] GET /api/v1/orders 200 88ms
+2026-03-31T11:30:31Z INFO [checkout-service] GET /api/v1/cart 200 62ms
+2026-03-31T11:30:31Z INFO [checkout-service] GET /api/v1/search 200 20ms
+2026-03-31T11:31:09Z INFO [checkout-service] GET /api/v1/cart 200 70ms
+2026-03-31T11:32:30Z INFO [checkout-service] GET /api/v1/orders 200 55ms
+2026-03-31T11:35:26Z INFO [checkout-service] GET /api/v1/orders 200 55ms
+2026-03-31T11:38:23Z INFO [checkout-service] GET /api/v1/users 200 54ms
+2026-03-31T11:38:38Z INFO [checkout-service] GET /api/v1/users 200 19ms
+2026-03-31T11:40:05Z INFO [checkout-service] GET /api/v1/users 200 114ms
+2026-03-31T11:40:08Z INFO [checkout-service] GET /api/v1/users 200 49ms
+2026-03-31T11:40:10Z INFO [checkout-service] GET /api/v1/cart 200 82ms
+2026-03-31T11:41:02Z INFO [checkout-service] GET /api/v1/items 200 36ms
+2026-03-31T11:41:02Z INFO [checkout-service] GET /api/v1/orders 200 27ms
+2026-03-31T11:41:34Z INFO [checkout-service] GET /api/v1/health 200 118ms
+2026-03-31T11:45:52Z INFO [checkout-service] GET /api/v1/items 200 118ms
+2026-03-31T11:46:42Z INFO [checkout-service] GET /api/v1/items 200 64ms
+2026-03-31T11:48:41Z INFO [checkout-service] GET /api/v1/cart 200 74ms
+2026-03-31T11:49:02Z INFO [checkout-service] GET /api/v1/users 200 37ms
+2026-03-31T11:49:27Z INFO [checkout-service] GET /api/v1/items 200 52ms
+2026-03-31T11:50:40Z INFO [checkout-service] GET /api/v1/cart 200 91ms
+2026-03-31T11:51:04Z INFO [checkout-service] GET /api/v1/health 200 87ms
+2026-03-31T11:52:53Z INFO [checkout-service] GET /api/v1/users 200 8ms
+2026-03-31T11:52:59Z INFO [checkout-service] GET /api/v1/health 200 109ms
+2026-03-31T11:53:50Z INFO [checkout-service] GET /api/v1/users 200 103ms
+2026-03-31T11:54:26Z INFO [checkout-service] GET /api/v1/search 200 36ms
+2026-03-31T11:54:43Z INFO [checkout-service] GET /api/v1/cart 200 35ms
+2026-03-31T11:55:45Z WARN [checkout-service] Slow request 640ms for GET /api/v1/items
+2026-03-31T11:56:14Z INFO [checkout-service] GET /api/v1/orders 200 102ms
+2026-03-31T11:57:00Z INFO [checkout-service] GET /api/v1/orders 200 31ms
+2026-03-31T11:57:07Z INFO [checkout-service] GET /api/v1/health 200 15ms
+2026-03-31T11:57:46Z INFO [checkout-service] GET /api/v1/health 200 61ms
+2026-03-31T11:59:29Z INFO [checkout-service] GET /api/v1/users 200 68ms
+2026-03-31T12:02:54Z INFO [checkout-service] GET /api/v1/items 200 34ms
+2026-03-31T12:03:51Z INFO [checkout-service] GET /api/v1/users 200 119ms
+2026-03-31T12:06:05Z INFO [checkout-service] GET /api/v1/cart 200 18ms
+2026-03-31T12:06:40Z INFO [checkout-service] GET /api/v1/orders 200 60ms
+2026-03-31T12:07:56Z INFO [checkout-service] GET /api/v1/orders 200 60ms
+2026-03-31T12:08:14Z WARN [checkout-service] Slow request 640ms for GET /api/v1/items
+2026-03-31T12:11:17Z INFO [checkout-service] GET /api/v1/health 200 61ms
+2026-03-31T12:13:45Z INFO [checkout-service] GET /api/v1/users 200 37ms
+2026-03-31T12:13:56Z INFO [checkout-service] GET /api/v1/orders 200 32ms
+2026-03-31T12:14:59Z INFO [checkout-service] GET /api/v1/items 200 118ms
+2026-03-31T12:15:41Z INFO [checkout-service] GET /api/v1/orders 200 8ms
+2026-03-31T12:18:37Z INFO [checkout-service] GET /api/v1/cart 200 119ms
+2026-03-31T12:20:10Z INFO [checkout-service] GET /api/v1/cart 200 18ms
+2026-03-31T12:20:21Z INFO [checkout-service] GET /api/v1/users 200 76ms
+2026-03-31T12:21:54Z INFO [checkout-service] GET /api/v1/search 200 98ms
+2026-03-31T12:22:13Z INFO [checkout-service] GET /api/v1/search 200 111ms
+2026-03-31T12:28:30Z INFO [checkout-service] GET /api/v1/health 200 114ms
+2026-03-31T12:30:11Z INFO [checkout-service] GET /api/v1/health 200 56ms
+2026-03-31T12:30:12Z WARN [checkout-service] Retry succeeded on attempt 2 for pricing-service
+2026-03-31T12:32:44Z INFO [checkout-service] GET /api/v1/orders 200 98ms
+2026-03-31T12:33:13Z INFO [checkout-service] GET /api/v1/items 200 95ms
+2026-03-31T12:33:23Z INFO [checkout-service] GET /api/v1/cart 200 100ms
+2026-03-31T12:36:57Z INFO [checkout-service] GET /api/v1/health 200 34ms
+2026-03-31T12:37:18Z INFO [checkout-service] GET /api/v1/health 200 98ms
+2026-03-31T12:37:26Z INFO [checkout-service] GET /api/v1/items 200 42ms
+2026-03-31T12:41:53Z INFO [checkout-service] GET /api/v1/users 200 91ms
+2026-03-31T12:47:03Z INFO [checkout-service] GET /api/v1/users 200 37ms
+2026-03-31T12:51:32Z INFO [checkout-service] GET /api/v1/orders 200 100ms
+2026-03-31T12:51:48Z INFO [checkout-service] GET /api/v1/users 200 108ms
+2026-03-31T12:52:10Z INFO [checkout-service] GET /api/v1/cart 200 95ms
+2026-03-31T12:53:50Z INFO [checkout-service] GET /api/v1/search 200 23ms
+2026-03-31T12:55:15Z INFO [checkout-service] GET /api/v1/health 200 83ms
+2026-03-31T12:55:43Z INFO [checkout-service] GET /api/v1/items 200 43ms
+2026-03-31T12:57:52Z INFO [checkout-service] GET /api/v1/search 200 31ms
+2026-03-31T12:59:26Z WARN [checkout-service] Backing off outbound calls to api.inventory-service.com
+2026-03-31T12:59:28Z INFO [checkout-service] GET /api/v1/orders 200 99ms
+2026-03-31T13:00:23Z ERROR [checkout-service] Quota exceeded for API key ending 400
+2026-03-31T13:00:44Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:01:09Z INFO [checkout-service] GET /api/v1/items 200 44ms
+2026-03-31T13:01:21Z INFO [checkout-service] GET /api/v1/search 200 57ms
+2026-03-31T13:01:23Z WARN [checkout-service] Outbound call volume to api.stripe.com 836% above usual
+2026-03-31T13:01:26Z WARN [checkout-service] Retry-After header received: 625 seconds
+2026-03-31T13:01:47Z ERROR [checkout-service] Quota exceeded for API key ending 126
+2026-03-31T13:02:19Z WARN [checkout-service] Retry-After header received: 282 seconds
+2026-03-31T13:02:25Z ERROR [checkout-service] Quota exceeded for API key ending 666
+2026-03-31T13:02:25Z WARN [checkout-service] Health check slow: 3213ms
+2026-03-31T13:02:39Z WARN [checkout-service] Backing off outbound calls to api.stripe.com
+2026-03-31T13:02:45Z ERROR [checkout-service] Quota exceeded for API key ending 330
+2026-03-31T13:03:15Z ERROR [checkout-service] Quota exceeded for API key ending 313
+2026-03-31T13:04:02Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:04:30Z INFO [checkout-service] GET /api/v1/orders 200 59ms
+2026-03-31T13:04:32Z WARN [checkout-service] Backing off outbound calls to api.pricing-service.com
+2026-03-31T13:05:04Z WARN [checkout-service] Backing off outbound calls to api.inventory-service.com
+2026-03-31T13:05:41Z ERROR [checkout-service] 429 Too Many Requests from api.payment-gateway.com
+2026-03-31T13:06:03Z WARN [checkout-service] Health check slow: 6803ms
+2026-03-31T13:06:17Z ERROR [checkout-service] 429 Too Many Requests from api.twilio.com
+2026-03-31T13:06:38Z WARN [checkout-service] Health check slow: 2737ms
+2026-03-31T13:06:41Z WARN [checkout-service] Backing off outbound calls to api.pricing-service.com
+2026-03-31T13:06:46Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:07:16Z WARN [checkout-service] Backing off outbound calls to api.stripe.com
+2026-03-31T13:08:08Z INFO [checkout-service] GET /api/v1/orders 200 76ms
+2026-03-31T13:09:27Z INFO [checkout-service] GET /api/v1/search 200 81ms
+2026-03-31T13:09:51Z INFO [checkout-service] GET /api/v1/items 200 8ms
+2026-03-31T13:09:57Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:10:25Z INFO [checkout-service] GET /api/v1/users 200 88ms
+2026-03-31T13:10:28Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:10:30Z WARN [checkout-service] Health check slow: 7860ms
+2026-03-31T13:10:50Z WARN [checkout-service] Health check slow: 5098ms
+2026-03-31T13:11:42Z WARN [checkout-service] Retry-After header received: 398 seconds
+2026-03-31T13:11:52Z INFO [checkout-service] GET /api/v1/search 200 112ms
+2026-03-31T13:12:00Z WARN [checkout-service] Backing off outbound calls to api.stripe.com
+2026-03-31T13:12:05Z INFO [checkout-service] GET /api/v1/items 200 104ms
+2026-03-31T13:12:23Z INFO [checkout-service] GET /api/v1/health 200 100ms
+2026-03-31T13:13:27Z WARN [checkout-service] Backing off outbound calls to api.twilio.com
+2026-03-31T13:14:07Z INFO [checkout-service] GET /api/v1/users 200 31ms
+2026-03-31T13:14:30Z INFO [checkout-service] GET /api/v1/users 200 61ms
+2026-03-31T13:15:17Z ERROR [checkout-service] 429 Too Many Requests from api.auth-service.com
+2026-03-31T13:15:40Z WARN [checkout-service] Health check slow: 3159ms
+2026-03-31T13:16:20Z ERROR [checkout-service] Quota exceeded for API key ending 852
+2026-03-31T13:16:21Z WARN [checkout-service] Health check slow: 1859ms
+2026-03-31T13:16:54Z WARN [checkout-service] Health check slow: 1860ms
+2026-03-31T13:19:12Z INFO [checkout-service] GET /api/v1/items 200 69ms
+2026-03-31T13:19:36Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:20:02Z ERROR [checkout-service] 429 Too Many Requests from api.twilio.com
+2026-03-31T13:20:14Z INFO [checkout-service] GET /api/v1/users 200 17ms
+2026-03-31T13:21:14Z WARN [checkout-service] Retry-After header received: 573 seconds
+2026-03-31T13:22:13Z ERROR [checkout-service] 429 Too Many Requests from api.payment-gateway.com
+2026-03-31T13:22:28Z INFO [checkout-service] GET /api/v1/search 200 112ms
+2026-03-31T13:22:54Z INFO [checkout-service] GET /api/v1/orders 200 92ms
+2026-03-31T13:23:00Z WARN [checkout-service] Retry-After header received: 803 seconds
+2026-03-31T13:23:24Z INFO [checkout-service] GET /api/v1/health 200 111ms
+2026-03-31T13:23:24Z INFO [checkout-service] GET /api/v1/users 200 74ms
+2026-03-31T13:23:32Z INFO [checkout-service] GET /api/v1/items 200 109ms
+2026-03-31T13:23:33Z INFO [checkout-service] GET /api/v1/cart 200 12ms
+2026-03-31T13:23:44Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:23:49Z INFO [checkout-service] GET /api/v1/search 200 58ms
+2026-03-31T13:23:55Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:23:55Z ERROR [checkout-service] 429 Too Many Requests from api.twilio.com
+2026-03-31T13:24:17Z WARN [checkout-service] Health check slow: 4538ms
+2026-03-31T13:24:37Z INFO [checkout-service] GET /api/v1/health 200 19ms
+2026-03-31T13:24:47Z INFO [checkout-service] GET /api/v1/cart 200 26ms
+2026-03-31T13:24:53Z ERROR [checkout-service] Quota exceeded for API key ending 8
+2026-03-31T13:24:54Z ERROR [checkout-service] Quota exceeded for API key ending 126
+2026-03-31T13:25:04Z INFO [checkout-service] GET /api/v1/search 200 102ms
+2026-03-31T13:25:13Z INFO [checkout-service] GET /api/v1/orders 200 66ms
+2026-03-31T13:25:33Z INFO [checkout-service] GET /api/v1/health 200 86ms
+2026-03-31T13:26:25Z INFO [checkout-service] GET /api/v1/search 200 15ms
+2026-03-31T13:26:41Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:26:45Z INFO [checkout-service] GET /api/v1/items 200 73ms
+2026-03-31T13:27:07Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:27:42Z INFO [checkout-service] GET /api/v1/orders 200 83ms
+2026-03-31T13:27:53Z ERROR [checkout-service] 429 Too Many Requests from api.inventory-service.com
+2026-03-31T13:28:15Z INFO [checkout-service] GET /api/v1/health 200 39ms
+2026-03-31T13:29:04Z WARN [checkout-service] Backing off outbound calls to api.inventory-service.com
+2026-03-31T13:29:11Z WARN [checkout-service] Backing off outbound calls to api.auth-service.com
+2026-03-31T13:29:16Z WARN [checkout-service] Retry-After header received: 821 seconds
+2026-03-31T13:29:30Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:29:51Z INFO [checkout-service] GET /api/v1/cart 200 83ms
+2026-03-31T13:29:52Z ERROR [checkout-service] 429 Too Many Requests from api.pricing-service.com
+2026-03-31T13:29:53Z INFO [checkout-service] GET /api/v1/orders 200 54ms
+2026-03-31T13:30:02Z ERROR [checkout-service] Quota exceeded for API key ending 263
+2026-03-31T13:30:24Z WARN [checkout-service] Retry-After header received: 28 seconds
+2026-03-31T13:30:24Z WARN [checkout-service] Backing off outbound calls to api.pricing-service.com
+2026-03-31T13:31:22Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:31:24Z INFO [checkout-service] GET /api/v1/items 200 98ms
+2026-03-31T13:31:39Z WARN [checkout-service] Retry-After header received: 367 seconds
+2026-03-31T13:31:53Z WARN [checkout-service] Retry-After header received: 436 seconds
+2026-03-31T13:32:31Z INFO [checkout-service] GET /api/v1/orders 200 52ms
+2026-03-31T13:32:44Z WARN [checkout-service] Retry-After header received: 184 seconds
+2026-03-31T13:35:11Z INFO [checkout-service] GET /api/v1/items 200 54ms
+2026-03-31T13:35:54Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:36:47Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:36:52Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:37:49Z INFO [checkout-service] GET /api/v1/users 200 118ms
+2026-03-31T13:38:16Z WARN [checkout-service] Health check slow: 5917ms
+2026-03-31T13:38:28Z WARN [checkout-service] Retry-After header received: 172 seconds
+2026-03-31T13:38:47Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:39:07Z ERROR [checkout-service] 429 Too Many Requests from api.payment-gateway.com
+2026-03-31T13:39:08Z WARN [checkout-service] Health check slow: 2907ms
+2026-03-31T13:39:31Z ERROR [checkout-service] 429 Too Many Requests from api.pricing-service.com
+2026-03-31T13:39:33Z WARN [checkout-service] Retry-After header received: 536 seconds
+2026-03-31T13:39:42Z ERROR [checkout-service] Quota exceeded for API key ending 8
+2026-03-31T13:41:09Z WARN [checkout-service] Backing off outbound calls to api.twilio.com
+2026-03-31T13:42:12Z ERROR [checkout-service] 429 Too Many Requests from api.inventory-service.com
+2026-03-31T13:42:21Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:42:24Z ERROR [checkout-service] Unexpected error handling request
+2026-03-31T13:42:58Z INFO [checkout-service] GET /api/v1/search 200 72ms
+2026-03-31T13:43:17Z INFO [checkout-service] GET /api/v1/orders 200 43ms
+2026-03-31T13:43:21Z WARN [checkout-service] Retry-After header received: 473 seconds
+2026-03-31T13:43:29Z WARN [checkout-service] Backing off outbound calls to api.twilio.com
+2026-03-31T13:43:39Z INFO [checkout-service] GET /api/v1/health 200 66ms
+2026-03-31T13:44:37Z INFO [checkout-service] GET /api/v1/orders 200 30ms
+2026-03-31T13:45:18Z INFO [checkout-service] GET /api/v1/cart 200 116ms
+2026-03-31T13:45:25Z ERROR [checkout-service] 429 Too Many Requests from api.stripe.com
+2026-03-31T13:45:41Z ERROR [checkout-service] Quota exceeded for API key ending 152
+2026-03-31T13:47:53Z WARN [checkout-service] Health check slow: 4346ms
+2026-03-31T13:48:15Z INFO [checkout-service] GET /api/v1/cart 200 99ms
+2026-03-31T13:48:18Z INFO [checkout-service] GET /api/v1/users 200 44ms
+2026-03-31T13:48:28Z WARN [checkout-service] Backing off outbound calls to api.auth-service.com
+2026-03-31T13:48:32Z WARN [checkout-service] Retry-After header received: 489 seconds
+2026-03-31T13:48:57Z WARN [checkout-service] Retry-After header received: 582 seconds
+2026-03-31T13:49:05Z INFO [checkout-service] GET /api/v1/cart 200 85ms
+2026-03-31T13:49:50Z INFO [checkout-service] GET /api/v1/cart 200 38ms
+2026-03-31T13:50:50Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:52:16Z WARN [checkout-service] Backing off outbound calls to api.twilio.com
+2026-03-31T13:52:21Z ERROR [checkout-service] Quota exceeded for API key ending 242
+2026-03-31T13:52:42Z WARN [checkout-service] Backing off outbound calls to api.payment-gateway.com
+2026-03-31T13:53:03Z INFO [checkout-service] GET /api/v1/items 200 68ms
+2026-03-31T13:53:21Z ERROR [checkout-service] Quota exceeded for API key ending 361
+2026-03-31T13:53:33Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:53:38Z INFO [checkout-service] GET /api/v1/items 200 67ms
+2026-03-31T13:53:42Z WARN [checkout-service] Retry-After header received: 296 seconds
+2026-03-31T13:54:04Z ERROR [checkout-service] 429 Too Many Requests from api.auth-service.com
+2026-03-31T13:54:22Z ERROR [checkout-service] 429 Too Many Requests from api.twilio.com
+2026-03-31T13:55:21Z ERROR [checkout-service] Quota exceeded for API key ending 192
+2026-03-31T13:55:30Z ERROR [checkout-service] 429 Too Many Requests from api.payment-gateway.com
+2026-03-31T13:55:55Z INFO [checkout-service] GET /api/v1/cart 200 91ms
+2026-03-31T13:56:09Z WARN [checkout-service] Health check slow: 6299ms
+2026-03-31T13:56:34Z ERROR [checkout-service] Quota exceeded for API key ending 331
+2026-03-31T13:56:46Z WARN [checkout-service] Retry-After header received: 157 seconds
+2026-03-31T13:56:52Z INFO [checkout-service] GET /api/v1/health 200 64ms
+2026-03-31T13:56:58Z ERROR [checkout-service] Quota exceeded for API key ending 516
+2026-03-31T13:57:05Z INFO [checkout-service] GET /api/v1/orders 200 36ms
+2026-03-31T13:58:21Z WARN [checkout-service] Health check slow: 8013ms
+2026-03-31T13:58:30Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:58:37Z ERROR [checkout-service] Quota exceeded for API key ending 849
+2026-03-31T13:58:46Z WARN [checkout-service] Retry-After header received: 392 seconds
+2026-03-31T13:59:06Z ERROR [checkout-service] Request failed with status 500
+2026-03-31T13:59:20Z INFO [checkout-service] GET /api/v1/items 200 86ms

@@ -1,0 +1,286 @@
+2026-03-18T10:00:53Z INFO [auth-service] GET /api/v1/cart 200 97ms
+2026-03-18T10:03:45Z INFO [auth-service] GET /api/v1/health 200 104ms
+2026-03-18T10:03:49Z INFO [auth-service] GET /api/v1/health 200 48ms
+2026-03-18T10:04:12Z INFO [auth-service] GET /api/v1/orders 200 33ms
+2026-03-18T10:05:27Z INFO [auth-service] GET /api/v1/orders 200 42ms
+2026-03-18T10:05:40Z INFO [auth-service] GET /api/v1/items 200 90ms
+2026-03-18T10:06:45Z INFO [auth-service] GET /api/v1/items 200 84ms
+2026-03-18T10:07:58Z INFO [auth-service] GET /api/v1/search 200 37ms
+2026-03-18T10:09:41Z INFO [auth-service] GET /api/v1/users 200 54ms
+2026-03-18T10:09:50Z INFO [auth-service] GET /api/v1/orders 200 97ms
+2026-03-18T10:11:53Z INFO [auth-service] GET /api/v1/health 200 102ms
+2026-03-18T10:12:26Z INFO [auth-service] GET /api/v1/items 200 111ms
+2026-03-18T10:12:56Z INFO [auth-service] GET /api/v1/items 200 9ms
+2026-03-18T10:14:16Z INFO [auth-service] GET /api/v1/search 200 13ms
+2026-03-18T10:14:29Z INFO [auth-service] GET /api/v1/health 200 23ms
+2026-03-18T10:15:42Z INFO [auth-service] GET /api/v1/health 200 102ms
+2026-03-18T10:18:08Z INFO [auth-service] GET /api/v1/orders 200 12ms
+2026-03-18T10:18:23Z INFO [auth-service] GET /api/v1/cart 200 49ms
+2026-03-18T10:18:31Z INFO [auth-service] GET /api/v1/users 200 43ms
+2026-03-18T10:18:31Z INFO [auth-service] GET /api/v1/health 200 21ms
+2026-03-18T10:19:07Z INFO [auth-service] GET /api/v1/search 200 89ms
+2026-03-18T10:22:00Z INFO [auth-service] GET /api/v1/health 200 42ms
+2026-03-18T10:23:29Z INFO [auth-service] GET /api/v1/cart 200 26ms
+2026-03-18T10:25:23Z INFO [auth-service] GET /api/v1/cart 200 21ms
+2026-03-18T10:25:29Z INFO [auth-service] GET /api/v1/health 200 54ms
+2026-03-18T10:28:22Z INFO [auth-service] GET /api/v1/search 200 107ms
+2026-03-18T10:31:40Z INFO [auth-service] GET /api/v1/search 200 68ms
+2026-03-18T10:32:03Z INFO [auth-service] GET /api/v1/orders 200 81ms
+2026-03-18T10:32:15Z INFO [auth-service] GET /api/v1/items 200 108ms
+2026-03-18T10:33:25Z INFO [auth-service] GET /api/v1/items 200 65ms
+2026-03-18T10:33:28Z INFO [auth-service] GET /api/v1/cart 200 24ms
+2026-03-18T10:34:57Z INFO [auth-service] GET /api/v1/users 200 81ms
+2026-03-18T10:35:09Z WARN [auth-service] Certificate for api.internal expires in 24 days
+2026-03-18T10:35:16Z INFO [auth-service] GET /api/v1/health 200 69ms
+2026-03-18T10:36:47Z INFO [auth-service] GET /api/v1/cart 200 56ms
+2026-03-18T10:39:22Z INFO [auth-service] GET /api/v1/orders 200 66ms
+2026-03-18T10:39:38Z INFO [auth-service] GET /api/v1/search 200 118ms
+2026-03-18T10:40:22Z INFO [auth-service] GET /api/v1/search 200 87ms
+2026-03-18T10:40:56Z INFO [auth-service] GET /api/v1/users 200 99ms
+2026-03-18T10:41:11Z INFO [auth-service] GET /api/v1/users 200 84ms
+2026-03-18T10:41:26Z INFO [auth-service] GET /api/v1/users 200 109ms
+2026-03-18T10:43:31Z INFO [auth-service] GET /api/v1/users 200 23ms
+2026-03-18T10:43:36Z INFO [auth-service] GET /api/v1/orders 200 40ms
+2026-03-18T10:43:41Z INFO [auth-service] GET /api/v1/cart 200 94ms
+2026-03-18T10:44:59Z INFO [auth-service] GET /api/v1/health 200 46ms
+2026-03-18T10:45:37Z INFO [auth-service] GET /api/v1/health 200 119ms
+2026-03-18T10:46:25Z INFO [auth-service] GET /api/v1/health 200 84ms
+2026-03-18T10:46:57Z INFO [auth-service] GET /api/v1/items 200 44ms
+2026-03-18T10:47:58Z INFO [auth-service] GET /api/v1/orders 200 34ms
+2026-03-18T10:48:03Z INFO [auth-service] GET /api/v1/search 200 92ms
+2026-03-18T10:51:07Z INFO [auth-service] GET /api/v1/users 200 32ms
+2026-03-18T10:52:11Z INFO [auth-service] GET /api/v1/cart 200 65ms
+2026-03-18T10:52:32Z INFO [auth-service] GET /api/v1/search 200 45ms
+2026-03-18T10:53:13Z INFO [auth-service] GET /api/v1/users 200 39ms
+2026-03-18T10:53:27Z INFO [auth-service] GET /api/v1/items 200 47ms
+2026-03-18T10:53:29Z INFO [auth-service] GET /api/v1/search 200 47ms
+2026-03-18T10:54:39Z INFO [auth-service] GET /api/v1/items 200 102ms
+2026-03-18T10:54:49Z INFO [auth-service] GET /api/v1/health 200 56ms
+2026-03-18T10:56:47Z INFO [auth-service] GET /api/v1/orders 200 95ms
+2026-03-18T10:56:55Z INFO [auth-service] GET /api/v1/search 200 69ms
+2026-03-18T10:58:10Z INFO [auth-service] GET /api/v1/health 200 97ms
+2026-03-18T10:59:23Z WARN [auth-service] Minor GC pause 120ms
+2026-03-18T11:01:23Z INFO [auth-service] GET /api/v1/items 200 54ms
+2026-03-18T11:02:21Z INFO [auth-service] GET /api/v1/items 200 57ms
+2026-03-18T11:03:39Z INFO [auth-service] GET /api/v1/health 200 67ms
+2026-03-18T11:03:41Z INFO [auth-service] GET /api/v1/orders 200 21ms
+2026-03-18T11:04:14Z INFO [auth-service] GET /api/v1/items 200 38ms
+2026-03-18T11:05:05Z INFO [auth-service] GET /api/v1/health 200 75ms
+2026-03-18T11:05:41Z INFO [auth-service] GET /api/v1/users 200 54ms
+2026-03-18T11:08:18Z INFO [auth-service] GET /api/v1/items 200 85ms
+2026-03-18T11:08:46Z INFO [auth-service] GET /api/v1/cart 200 44ms
+2026-03-18T11:08:57Z INFO [auth-service] GET /api/v1/items 200 74ms
+2026-03-18T11:10:09Z INFO [auth-service] GET /api/v1/orders 200 94ms
+2026-03-18T11:10:22Z INFO [auth-service] GET /api/v1/cart 200 35ms
+2026-03-18T11:11:58Z INFO [auth-service] GET /api/v1/cart 200 60ms
+2026-03-18T11:12:22Z INFO [auth-service] GET /api/v1/search 200 107ms
+2026-03-18T11:16:42Z INFO [auth-service] GET /api/v1/orders 200 43ms
+2026-03-18T11:18:29Z INFO [auth-service] GET /api/v1/items 200 105ms
+2026-03-18T11:19:57Z INFO [auth-service] GET /api/v1/cart 200 115ms
+2026-03-18T11:20:02Z INFO [auth-service] GET /api/v1/cart 200 47ms
+2026-03-18T11:20:20Z INFO [auth-service] GET /api/v1/orders 200 80ms
+2026-03-18T11:21:44Z INFO [auth-service] GET /api/v1/users 200 24ms
+2026-03-18T11:23:39Z INFO [auth-service] GET /api/v1/health 200 32ms
+2026-03-18T11:26:21Z INFO [auth-service] GET /api/v1/orders 200 108ms
+2026-03-18T11:26:47Z INFO [auth-service] GET /api/v1/search 200 56ms
+2026-03-18T11:27:13Z INFO [auth-service] GET /api/v1/cart 200 118ms
+2026-03-18T11:27:32Z INFO [auth-service] GET /api/v1/orders 200 83ms
+2026-03-18T11:30:22Z INFO [auth-service] GET /api/v1/cart 200 107ms
+2026-03-18T11:30:24Z INFO [auth-service] GET /api/v1/users 200 77ms
+2026-03-18T11:32:44Z INFO [auth-service] GET /api/v1/cart 200 40ms
+2026-03-18T11:33:02Z INFO [auth-service] GET /api/v1/cart 200 13ms
+2026-03-18T11:33:19Z INFO [auth-service] GET /api/v1/search 200 19ms
+2026-03-18T11:36:40Z INFO [auth-service] GET /api/v1/users 200 42ms
+2026-03-18T11:37:54Z INFO [auth-service] GET /api/v1/users 200 47ms
+2026-03-18T11:39:28Z INFO [auth-service] GET /api/v1/health 200 61ms
+2026-03-18T11:42:02Z INFO [auth-service] GET /api/v1/search 200 25ms
+2026-03-18T11:42:22Z INFO [auth-service] GET /api/v1/health 200 21ms
+2026-03-18T11:42:39Z INFO [auth-service] GET /api/v1/cart 200 93ms
+2026-03-18T11:43:25Z INFO [auth-service] GET /api/v1/items 200 112ms
+2026-03-18T11:44:00Z WARN [auth-service] Minor GC pause 120ms
+2026-03-18T11:46:03Z INFO [auth-service] GET /api/v1/search 200 90ms
+2026-03-18T11:46:15Z INFO [auth-service] GET /api/v1/health 200 48ms
+2026-03-18T11:49:03Z INFO [auth-service] GET /api/v1/health 200 117ms
+2026-03-18T11:49:19Z INFO [auth-service] GET /api/v1/cart 200 66ms
+2026-03-18T11:50:25Z INFO [auth-service] GET /api/v1/health 200 100ms
+2026-03-18T11:51:16Z INFO [auth-service] GET /api/v1/search 200 105ms
+2026-03-18T11:56:58Z INFO [auth-service] GET /api/v1/orders 200 105ms
+2026-03-18T11:57:24Z INFO [auth-service] GET /api/v1/items 200 82ms
+2026-03-18T11:58:12Z INFO [auth-service] GET /api/v1/search 200 8ms
+2026-03-18T11:58:25Z INFO [auth-service] GET /api/v1/health 200 100ms
+2026-03-18T11:58:53Z INFO [auth-service] GET /api/v1/users 200 46ms
+2026-03-18T12:03:18Z INFO [auth-service] GET /api/v1/users 200 83ms
+2026-03-18T12:04:44Z INFO [auth-service] GET /api/v1/cart 200 93ms
+2026-03-18T12:06:25Z INFO [auth-service] GET /api/v1/items 200 8ms
+2026-03-18T12:06:50Z INFO [auth-service] GET /api/v1/cart 200 66ms
+2026-03-18T12:07:18Z INFO [auth-service] GET /api/v1/orders 200 79ms
+2026-03-18T12:10:26Z INFO [auth-service] GET /api/v1/search 200 106ms
+2026-03-18T12:12:12Z INFO [auth-service] GET /api/v1/users 200 53ms
+2026-03-18T12:14:33Z INFO [auth-service] GET /api/v1/cart 200 13ms
+2026-03-18T12:14:33Z INFO [auth-service] GET /api/v1/search 200 88ms
+2026-03-18T12:15:07Z INFO [auth-service] GET /api/v1/users 200 119ms
+2026-03-18T12:15:40Z INFO [auth-service] GET /api/v1/items 200 107ms
+2026-03-18T12:16:40Z INFO [auth-service] GET /api/v1/cart 200 54ms
+2026-03-18T12:16:59Z INFO [auth-service] GET /api/v1/orders 200 87ms
+2026-03-18T12:18:43Z INFO [auth-service] GET /api/v1/orders 200 57ms
+2026-03-18T12:21:21Z INFO [auth-service] GET /api/v1/cart 200 96ms
+2026-03-18T12:21:38Z INFO [auth-service] GET /api/v1/health 200 27ms
+2026-03-18T12:21:57Z INFO [auth-service] GET /api/v1/users 200 90ms
+2026-03-18T12:22:15Z INFO [auth-service] GET /api/v1/orders 200 88ms
+2026-03-18T12:22:58Z INFO [auth-service] GET /api/v1/orders 200 87ms
+2026-03-18T12:24:54Z WARN [auth-service] Retry succeeded on attempt 2 for payment-gateway
+2026-03-18T12:25:46Z INFO [auth-service] GET /api/v1/search 200 109ms
+2026-03-18T12:25:52Z INFO [auth-service] GET /api/v1/health 200 52ms
+2026-03-18T12:26:31Z INFO [auth-service] GET /api/v1/users 200 42ms
+2026-03-18T12:36:24Z INFO [auth-service] GET /api/v1/items 200 92ms
+2026-03-18T12:42:08Z INFO [auth-service] GET /api/v1/health 200 54ms
+2026-03-18T12:42:36Z INFO [auth-service] Deployment of release v2.277.0 completed, rolling update finished
+2026-03-18T12:43:49Z INFO [auth-service] GET /api/v1/search 200 23ms
+2026-03-18T12:44:01Z INFO [auth-service] GET /api/v1/items 200 104ms
+2026-03-18T12:44:37Z INFO [auth-service] GET /api/v1/orders 200 23ms
+2026-03-18T12:44:39Z INFO [auth-service] GET /api/v1/orders 200 78ms
+2026-03-18T12:46:46Z INFO [auth-service] Deployment of release v2.760.0 completed, rolling update finished
+2026-03-18T12:46:57Z WARN [auth-service] Health check slow: 6616ms
+2026-03-18T12:47:40Z INFO [auth-service] GET /api/v1/users 200 50ms
+2026-03-18T12:48:14Z INFO [auth-service] GET /api/v1/users 200 97ms
+2026-03-18T12:49:15Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T12:49:41Z WARN [auth-service] Deserialization failed for payload schema v891
+2026-03-18T12:50:03Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T12:50:17Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T12:50:47Z WARN [auth-service] Deserialization failed for payload schema v397
+2026-03-18T12:51:14Z WARN [auth-service] Deserialization failed for payload schema v319
+2026-03-18T12:51:50Z WARN [auth-service] Health check slow: 829ms
+2026-03-18T12:51:51Z INFO [auth-service] GET /api/v1/health 200 101ms
+2026-03-18T12:52:09Z WARN [auth-service] Health check slow: 1811ms
+2026-03-18T12:52:47Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T12:53:08Z INFO [auth-service] GET /api/v1/search 200 50ms
+2026-03-18T12:53:43Z WARN [auth-service] Health check slow: 4342ms
+2026-03-18T12:54:35Z INFO [auth-service] GET /api/v1/items 200 11ms
+2026-03-18T12:54:36Z INFO [auth-service] GET /api/v1/orders 200 116ms
+2026-03-18T12:54:37Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T12:55:34Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T12:55:35Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T12:56:10Z INFO [auth-service] GET /api/v1/orders 200 84ms
+2026-03-18T12:56:15Z INFO [auth-service] GET /api/v1/search 200 106ms
+2026-03-18T12:57:02Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:648)
+2026-03-18T12:57:11Z INFO [auth-service] GET /api/v1/health 200 41ms
+2026-03-18T12:57:12Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T12:57:19Z INFO [auth-service] GET /api/v1/cart 200 43ms
+2026-03-18T12:57:47Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T12:58:19Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T12:59:07Z WARN [auth-service] Health check slow: 4440ms
+2026-03-18T12:59:10Z ERROR [auth-service] Request failed with status 500
+2026-03-18T12:59:39Z WARN [auth-service] Health check slow: 1142ms
+2026-03-18T12:59:48Z INFO [auth-service] GET /api/v1/items 200 114ms
+2026-03-18T13:01:10Z INFO [auth-service] GET /api/v1/cart 200 56ms
+2026-03-18T13:01:37Z INFO [auth-service] GET /api/v1/orders 200 99ms
+2026-03-18T13:02:00Z WARN [auth-service] Deserialization failed for payload schema v47
+2026-03-18T13:02:12Z WARN [auth-service] Deserialization failed for payload schema v225
+2026-03-18T13:03:14Z INFO [auth-service] GET /api/v1/search 200 71ms
+2026-03-18T13:03:24Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:347)
+2026-03-18T13:04:56Z INFO [auth-service] GET /api/v1/items 200 33ms
+2026-03-18T13:05:31Z INFO [auth-service] GET /api/v1/cart 200 90ms
+2026-03-18T13:05:54Z WARN [auth-service] Health check slow: 2319ms
+2026-03-18T13:06:13Z WARN [auth-service] Deserialization failed for payload schema v355
+2026-03-18T13:06:14Z INFO [auth-service] GET /api/v1/items 200 116ms
+2026-03-18T13:06:27Z ERROR [auth-service] Request failed with status 500
+2026-03-18T13:06:32Z INFO [auth-service] GET /api/v1/orders 200 33ms
+2026-03-18T13:08:28Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:696)
+2026-03-18T13:08:29Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:08:33Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:08:51Z WARN [auth-service] Deserialization failed for payload schema v721
+2026-03-18T13:09:50Z WARN [auth-service] Deserialization failed for payload schema v154
+2026-03-18T13:09:55Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:10:09Z INFO [auth-service] GET /api/v1/search 200 80ms
+2026-03-18T13:10:13Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:328)
+2026-03-18T13:10:18Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:11:28Z INFO [auth-service] GET /api/v1/health 200 103ms
+2026-03-18T13:11:43Z WARN [auth-service] Deserialization failed for payload schema v43
+2026-03-18T13:11:54Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:803)
+2026-03-18T13:13:01Z INFO [auth-service] GET /api/v1/cart 200 87ms
+2026-03-18T13:13:01Z WARN [auth-service] Deserialization failed for payload schema v487
+2026-03-18T13:13:41Z INFO [auth-service] GET /api/v1/search 200 45ms
+2026-03-18T13:14:43Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:14:46Z INFO [auth-service] GET /api/v1/health 200 80ms
+2026-03-18T13:15:37Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:542)
+2026-03-18T13:16:27Z INFO [auth-service] GET /api/v1/users 200 115ms
+2026-03-18T13:16:44Z WARN [auth-service] Deserialization failed for payload schema v473
+2026-03-18T13:17:07Z INFO [auth-service] GET /api/v1/cart 200 80ms
+2026-03-18T13:18:15Z WARN [auth-service] Deserialization failed for payload schema v180
+2026-03-18T13:18:41Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:255)
+2026-03-18T13:19:34Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:228)
+2026-03-18T13:20:04Z INFO [auth-service] GET /api/v1/cart 200 45ms
+2026-03-18T13:20:11Z WARN [auth-service] Health check slow: 8785ms
+2026-03-18T13:22:56Z WARN [auth-service] Health check slow: 3824ms
+2026-03-18T13:23:20Z WARN [auth-service] Deserialization failed for payload schema v182
+2026-03-18T13:23:22Z INFO [auth-service] GET /api/v1/cart 200 88ms
+2026-03-18T13:23:38Z INFO [auth-service] GET /api/v1/search 200 93ms
+2026-03-18T13:23:38Z INFO [auth-service] GET /api/v1/health 200 70ms
+2026-03-18T13:24:16Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:24:21Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:25:25Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:26:05Z INFO [auth-service] GET /api/v1/health 200 56ms
+2026-03-18T13:26:43Z INFO [auth-service] GET /api/v1/orders 200 112ms
+2026-03-18T13:27:51Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:630)
+2026-03-18T13:28:02Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:399)
+2026-03-18T13:28:51Z INFO [auth-service] GET /api/v1/items 200 114ms
+2026-03-18T13:28:57Z WARN [auth-service] Health check slow: 7044ms
+2026-03-18T13:28:58Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:280)
+2026-03-18T13:29:27Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:30:01Z INFO [auth-service] GET /api/v1/cart 200 37ms
+2026-03-18T13:31:11Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:32:13Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:32:40Z INFO [auth-service] GET /api/v1/users 200 98ms
+2026-03-18T13:32:40Z INFO [auth-service] GET /api/v1/items 200 36ms
+2026-03-18T13:33:30Z WARN [auth-service] Deserialization failed for payload schema v162
+2026-03-18T13:34:23Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:34:40Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:34:42Z INFO [auth-service] GET /api/v1/search 200 104ms
+2026-03-18T13:36:15Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:8)
+2026-03-18T13:36:22Z INFO [auth-service] GET /api/v1/health 200 87ms
+2026-03-18T13:36:33Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:631)
+2026-03-18T13:37:09Z ERROR [auth-service] Request failed with status 500
+2026-03-18T13:37:20Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:38:17Z ERROR [auth-service] Request failed with status 500
+2026-03-18T13:38:33Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:38:35Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:39:33Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:39:44Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:40:46Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:40:58Z WARN [auth-service] Deserialization failed for payload schema v744
+2026-03-18T13:41:12Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:41:16Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:15)
+2026-03-18T13:41:21Z INFO [auth-service] GET /api/v1/items 200 102ms
+2026-03-18T13:42:26Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:142)
+2026-03-18T13:42:36Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:181)
+2026-03-18T13:43:27Z INFO [auth-service] GET /api/v1/orders 200 36ms
+2026-03-18T13:43:31Z WARN [auth-service] Deserialization failed for payload schema v158
+2026-03-18T13:43:32Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:45:23Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:45:31Z INFO [auth-service] GET /api/v1/items 200 43ms
+2026-03-18T13:45:41Z WARN [auth-service] Deserialization failed for payload schema v367
+2026-03-18T13:46:14Z ERROR [auth-service] Request failed with status 500
+2026-03-18T13:47:20Z INFO [auth-service] GET /api/v1/health 200 116ms
+2026-03-18T13:47:33Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:49:02Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:49:04Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:50:23Z INFO [auth-service] GET /api/v1/cart 200 101ms
+2026-03-18T13:51:27Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:51:49Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:52:54Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:52:58Z WARN [auth-service] Deserialization failed for payload schema v352
+2026-03-18T13:53:24Z ERROR [auth-service] Request failed with status 500
+2026-03-18T13:53:49Z ERROR [auth-service] Unexpected error handling request
+2026-03-18T13:54:02Z ERROR [auth-service] Request failed with status 500
+2026-03-18T13:54:03Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:54:36Z ERROR [auth-service] Request failed with status 500
+2026-03-18T13:54:43Z INFO [auth-service] GET /api/v1/orders 200 56ms
+2026-03-18T13:54:49Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:55:24Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:57:11Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:57:12Z ERROR [auth-service] Unhandled exception in request handler: unexpected null field
+2026-03-18T13:58:26Z INFO [auth-service] GET /api/v1/search 200 35ms
+2026-03-18T13:59:08Z ERROR [auth-service] Request failed with 500 after new release
+2026-03-18T13:59:22Z WARN [auth-service] Deserialization failed for payload schema v264
+2026-03-18T13:59:26Z ERROR [auth-service] NullPointerException at OrderMapper.toDto(OrderMapper.java:252)
+2026-03-18T13:59:49Z WARN [auth-service] Health check slow: 7014ms

@@ -1,0 +1,19 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Generated files
+index/
+results/cache/
+
+# OS files
+.DS_Store

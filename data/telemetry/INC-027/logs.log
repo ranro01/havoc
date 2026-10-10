@@ -1,0 +1,247 @@
+2026-04-10T10:01:09Z INFO [inventory-service] GET /api/v1/orders 200 102ms
+2026-04-10T10:01:18Z INFO [inventory-service] GET /api/v1/search 200 8ms
+2026-04-10T10:02:51Z INFO [inventory-service] GET /api/v1/orders 200 89ms
+2026-04-10T10:04:31Z INFO [inventory-service] GET /api/v1/cart 200 29ms
+2026-04-10T10:04:42Z INFO [inventory-service] GET /api/v1/cart 200 49ms
+2026-04-10T10:05:48Z INFO [inventory-service] GET /api/v1/search 200 48ms
+2026-04-10T10:07:14Z INFO [inventory-service] GET /api/v1/health 200 11ms
+2026-04-10T10:07:21Z INFO [inventory-service] GET /api/v1/users 200 93ms
+2026-04-10T10:08:21Z INFO [inventory-service] GET /api/v1/orders 200 17ms
+2026-04-10T10:09:34Z INFO [inventory-service] GET /api/v1/users 200 8ms
+2026-04-10T10:11:35Z INFO [inventory-service] GET /api/v1/users 200 103ms
+2026-04-10T10:14:23Z INFO [inventory-service] GET /api/v1/items 200 106ms
+2026-04-10T10:17:17Z INFO [inventory-service] GET /api/v1/orders 200 93ms
+2026-04-10T10:17:40Z INFO [inventory-service] GET /api/v1/health 200 63ms
+2026-04-10T10:19:17Z INFO [inventory-service] GET /api/v1/health 200 81ms
+2026-04-10T10:21:30Z INFO [inventory-service] GET /api/v1/search 200 95ms
+2026-04-10T10:24:55Z INFO [inventory-service] GET /api/v1/health 200 107ms
+2026-04-10T10:26:49Z INFO [inventory-service] GET /api/v1/users 200 95ms
+2026-04-10T10:27:30Z INFO [inventory-service] GET /api/v1/users 200 13ms
+2026-04-10T10:27:30Z INFO [inventory-service] GET /api/v1/items 200 118ms
+2026-04-10T10:27:46Z INFO [inventory-service] GET /api/v1/search 200 111ms
+2026-04-10T10:28:25Z INFO [inventory-service] GET /api/v1/health 200 73ms
+2026-04-10T10:31:49Z INFO [inventory-service] GET /api/v1/health 200 49ms
+2026-04-10T10:32:37Z INFO [inventory-service] GET /api/v1/search 200 22ms
+2026-04-10T10:35:08Z INFO [inventory-service] GET /api/v1/orders 200 66ms
+2026-04-10T10:36:04Z INFO [inventory-service] GET /api/v1/health 200 117ms
+2026-04-10T10:36:33Z INFO [inventory-service] GET /api/v1/orders 200 50ms
+2026-04-10T10:40:38Z INFO [inventory-service] GET /api/v1/orders 200 101ms
+2026-04-10T10:42:20Z INFO [inventory-service] GET /api/v1/health 200 45ms
+2026-04-10T10:44:07Z INFO [inventory-service] GET /api/v1/cart 200 27ms
+2026-04-10T10:44:16Z INFO [inventory-service] GET /api/v1/cart 200 19ms
+2026-04-10T10:45:49Z INFO [inventory-service] GET /api/v1/search 200 31ms
+2026-04-10T10:46:51Z INFO [inventory-service] GET /api/v1/users 200 112ms
+2026-04-10T10:48:15Z INFO [inventory-service] GET /api/v1/orders 200 87ms
+2026-04-10T10:49:35Z INFO [inventory-service] GET /api/v1/users 200 93ms
+2026-04-10T10:51:31Z INFO [inventory-service] GET /api/v1/cart 200 72ms
+2026-04-10T10:52:11Z INFO [inventory-service] GET /api/v1/cart 200 53ms
+2026-04-10T10:54:53Z INFO [inventory-service] GET /api/v1/cart 200 50ms
+2026-04-10T10:55:14Z INFO [inventory-service] GET /api/v1/health 200 63ms
+2026-04-10T10:56:11Z INFO [inventory-service] GET /api/v1/search 200 32ms
+2026-04-10T10:56:12Z INFO [inventory-service] GET /api/v1/items 200 118ms
+2026-04-10T10:56:14Z INFO [inventory-service] GET /api/v1/items 200 119ms
+2026-04-10T10:58:09Z INFO [inventory-service] GET /api/v1/items 200 99ms
+2026-04-10T10:59:28Z INFO [inventory-service] GET /api/v1/search 200 105ms
+2026-04-10T11:00:15Z INFO [inventory-service] GET /api/v1/items 200 117ms
+2026-04-10T11:02:21Z INFO [inventory-service] GET /api/v1/health 200 91ms
+2026-04-10T11:05:04Z INFO [inventory-service] GET /api/v1/orders 200 45ms
+2026-04-10T11:05:30Z INFO [inventory-service] GET /api/v1/orders 200 14ms
+2026-04-10T11:07:08Z INFO [inventory-service] GET /api/v1/search 200 86ms
+2026-04-10T11:08:16Z INFO [inventory-service] GET /api/v1/search 200 48ms
+2026-04-10T11:09:28Z INFO [inventory-service] GET /api/v1/health 200 16ms
+2026-04-10T11:10:03Z INFO [inventory-service] GET /api/v1/users 200 42ms
+2026-04-10T11:17:27Z INFO [inventory-service] GET /api/v1/health 200 105ms
+2026-04-10T11:20:06Z INFO [inventory-service] GET /api/v1/search 200 28ms
+2026-04-10T11:20:09Z INFO [inventory-service] GET /api/v1/health 200 96ms
+2026-04-10T11:20:54Z INFO [inventory-service] GET /api/v1/items 200 27ms
+2026-04-10T11:21:27Z INFO [inventory-service] GET /api/v1/health 200 41ms
+2026-04-10T11:21:55Z INFO [inventory-service] GET /api/v1/users 200 62ms
+2026-04-10T11:24:49Z INFO [inventory-service] GET /api/v1/cart 200 72ms
+2026-04-10T11:27:44Z INFO [inventory-service] GET /api/v1/cart 200 109ms
+2026-04-10T11:30:01Z INFO [inventory-service] GET /api/v1/search 200 83ms
+2026-04-10T11:31:30Z INFO [inventory-service] GET /api/v1/orders 200 11ms
+2026-04-10T11:33:01Z INFO [inventory-service] GET /api/v1/cart 200 23ms
+2026-04-10T11:33:18Z INFO [inventory-service] GET /api/v1/orders 200 91ms
+2026-04-10T11:34:36Z INFO [inventory-service] GET /api/v1/orders 200 8ms
+2026-04-10T11:35:20Z INFO [inventory-service] GET /api/v1/cart 200 105ms
+2026-04-10T11:39:31Z INFO [inventory-service] GET /api/v1/health 200 26ms
+2026-04-10T11:39:32Z INFO [inventory-service] GET /api/v1/search 200 51ms
+2026-04-10T11:40:03Z INFO [inventory-service] GET /api/v1/cart 200 63ms
+2026-04-10T11:40:51Z INFO [inventory-service] GET /api/v1/cart 200 88ms
+2026-04-10T11:41:18Z INFO [inventory-service] GET /api/v1/search 200 50ms
+2026-04-10T11:42:06Z INFO [inventory-service] GET /api/v1/users 200 118ms
+2026-04-10T11:42:18Z INFO [inventory-service] GET /api/v1/orders 200 95ms
+2026-04-10T11:42:29Z INFO [inventory-service] GET /api/v1/users 200 22ms
+2026-04-10T11:45:12Z INFO [inventory-service] GET /api/v1/search 200 68ms
+2026-04-10T11:46:54Z INFO [inventory-service] GET /api/v1/search 200 61ms
+2026-04-10T11:48:21Z INFO [inventory-service] GET /api/v1/search 200 95ms
+2026-04-10T11:48:34Z INFO [inventory-service] GET /api/v1/cart 200 70ms
+2026-04-10T11:49:32Z INFO [inventory-service] GET /api/v1/users 200 98ms
+2026-04-10T11:50:11Z INFO [inventory-service] GET /api/v1/users 200 29ms
+2026-04-10T11:50:42Z INFO [inventory-service] GET /api/v1/health 200 47ms
+2026-04-10T11:51:48Z INFO [inventory-service] GET /api/v1/orders 200 39ms
+2026-04-10T11:54:31Z INFO [inventory-service] GET /api/v1/cart 200 42ms
+2026-04-10T11:55:28Z INFO [inventory-service] GET /api/v1/orders 200 58ms
+2026-04-10T11:56:30Z INFO [inventory-service] GET /api/v1/items 200 96ms
+2026-04-10T11:57:06Z INFO [inventory-service] GET /api/v1/cart 200 65ms
+2026-04-10T12:00:19Z INFO [inventory-service] GET /api/v1/health 200 28ms
+2026-04-10T12:02:17Z INFO [inventory-service] GET /api/v1/search 200 20ms
+2026-04-10T12:04:54Z WARN [inventory-service] Retry succeeded on attempt 2 for stripe
+2026-04-10T12:06:01Z WARN [inventory-service] Deprecated endpoint /v1/orders/legacy called
+2026-04-10T12:08:36Z INFO [inventory-service] GET /api/v1/cart 200 44ms
+2026-04-10T12:08:45Z INFO [inventory-service] GET /api/v1/health 200 55ms
+2026-04-10T12:08:47Z INFO [inventory-service] GET /api/v1/search 200 36ms
+2026-04-10T12:10:20Z INFO [inventory-service] GET /api/v1/items 200 31ms
+2026-04-10T12:12:13Z INFO [inventory-service] GET /api/v1/users 200 79ms
+2026-04-10T12:13:07Z INFO [inventory-service] GET /api/v1/search 200 80ms
+2026-04-10T12:14:58Z INFO [inventory-service] GET /api/v1/items 200 97ms
+2026-04-10T12:16:04Z INFO [inventory-service] GET /api/v1/orders 200 60ms
+2026-04-10T12:20:48Z INFO [inventory-service] GET /api/v1/health 200 114ms
+2026-04-10T12:22:22Z INFO [inventory-service] GET /api/v1/cart 200 50ms
+2026-04-10T12:24:59Z INFO [inventory-service] GET /api/v1/search 200 43ms
+2026-04-10T12:25:27Z INFO [inventory-service] GET /api/v1/users 200 81ms
+2026-04-10T12:26:14Z INFO [inventory-service] GET /api/v1/orders 200 111ms
+2026-04-10T12:26:22Z INFO [inventory-service] GET /api/v1/users 200 98ms
+2026-04-10T12:26:49Z INFO [inventory-service] GET /api/v1/orders 200 64ms
+2026-04-10T12:29:07Z INFO [inventory-service] GET /api/v1/users 200 53ms
+2026-04-10T12:31:00Z INFO [inventory-service] GET /api/v1/search 200 118ms
+2026-04-10T12:31:41Z INFO [inventory-service] GET /api/v1/orders 200 19ms
+2026-04-10T12:31:42Z INFO [inventory-service] GET /api/v1/search 200 119ms
+2026-04-10T12:33:22Z INFO [inventory-service] GET /api/v1/orders 200 51ms
+2026-04-10T12:34:49Z INFO [inventory-service] GET /api/v1/health 200 31ms
+2026-04-10T12:34:54Z INFO [inventory-service] GET /api/v1/cart 200 108ms
+2026-04-10T12:35:59Z INFO [inventory-service] GET /api/v1/health 200 35ms
+2026-04-10T12:36:22Z INFO [inventory-service] GET /api/v1/users 200 105ms
+2026-04-10T12:38:05Z INFO [inventory-service] GET /api/v1/orders 200 47ms
+2026-04-10T12:38:41Z INFO [inventory-service] GET /api/v1/search 200 47ms
+2026-04-10T12:39:59Z INFO [inventory-service] GET /api/v1/users 200 57ms
+2026-04-10T12:40:21Z INFO [inventory-service] GET /api/v1/items 200 14ms
+2026-04-10T12:40:39Z INFO [inventory-service] GET /api/v1/items 200 97ms
+2026-04-10T12:43:28Z INFO [inventory-service] GET /api/v1/users 200 54ms
+2026-04-10T12:44:12Z INFO [inventory-service] GET /api/v1/cart 200 79ms
+2026-04-10T12:45:08Z INFO [inventory-service] GET /api/v1/users 200 83ms
+2026-04-10T12:45:51Z INFO [inventory-service] GET /api/v1/health 200 109ms
+2026-04-10T12:46:10Z INFO [inventory-service] GET /api/v1/users 200 55ms
+2026-04-10T12:46:44Z INFO [inventory-service] GET /api/v1/cart 200 38ms
+2026-04-10T12:47:35Z INFO [inventory-service] GET /api/v1/users 200 49ms
+2026-04-10T12:49:37Z INFO [inventory-service] GET /api/v1/health 200 77ms
+2026-04-10T12:49:53Z INFO [inventory-service] GET /api/v1/health 200 85ms
+2026-04-10T12:51:24Z INFO [inventory-service] GET /api/v1/orders 200 84ms
+2026-04-10T12:54:21Z INFO [inventory-service] GET /api/v1/items 200 77ms
+2026-04-10T12:55:21Z INFO [inventory-service] GET /api/v1/orders 200 51ms
+2026-04-10T12:57:46Z INFO [inventory-service] GET /api/v1/users 200 11ms
+2026-04-10T12:58:43Z INFO [inventory-service] GET /api/v1/search 200 86ms
+2026-04-10T13:01:32Z INFO [inventory-service] GET /api/v1/search 200 21ms
+2026-04-10T13:01:33Z INFO [inventory-service] GET /api/v1/orders 200 53ms
+2026-04-10T13:03:27Z INFO [inventory-service] GET /api/v1/users 200 16ms
+2026-04-10T13:07:02Z INFO [inventory-service] GET /api/v1/search 200 53ms
+2026-04-10T13:07:20Z WARN [inventory-service] Certificate for inventory-service.internal expires in 2 hours
+2026-04-10T13:08:01Z INFO [inventory-service] GET /api/v1/orders 200 45ms
+2026-04-10T13:08:04Z INFO [inventory-service] GET /api/v1/health 200 97ms
+2026-04-10T13:08:48Z ERROR [inventory-service] Unexpected error handling request
+2026-04-10T13:09:05Z WARN [inventory-service] Health check slow: 4796ms
+2026-04-10T13:09:31Z WARN [inventory-service] Certificate for inventory-service.internal expires in 2 hours
+2026-04-10T13:09:40Z INFO [inventory-service] GET /api/v1/orders 200 89ms
+2026-04-10T13:09:44Z INFO [inventory-service] GET /api/v1/users 200 60ms
+2026-04-10T13:09:46Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:10:28Z INFO [inventory-service] GET /api/v1/items 200 66ms
+2026-04-10T13:11:00Z ERROR [inventory-service] Unexpected error handling request
+2026-04-10T13:11:37Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:11:53Z INFO [inventory-service] GET /api/v1/cart 200 84ms
+2026-04-10T13:12:58Z ERROR [inventory-service] TLS handshake failed with stripe: certificate has expired
+2026-04-10T13:13:27Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:13:31Z INFO [inventory-service] GET /api/v1/orders 200 67ms
+2026-04-10T13:14:01Z ERROR [inventory-service] TLS handshake failed with inventory-service: certificate has expired
+2026-04-10T13:14:31Z INFO [inventory-service] GET /api/v1/search 200 37ms
+2026-04-10T13:14:35Z INFO [inventory-service] GET /api/v1/items 200 37ms
+2026-04-10T13:15:07Z INFO [inventory-service] GET /api/v1/items 200 94ms
+2026-04-10T13:16:06Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:16:53Z INFO [inventory-service] GET /api/v1/search 200 98ms
+2026-04-10T13:16:59Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:17:10Z INFO [inventory-service] GET /api/v1/items 200 95ms
+2026-04-10T13:17:30Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:18:11Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:18:14Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:18:36Z ERROR [inventory-service] Unexpected error handling request
+2026-04-10T13:18:41Z INFO [inventory-service] GET /api/v1/cart 200 86ms
+2026-04-10T13:18:57Z INFO [inventory-service] GET /api/v1/cart 200 56ms
+2026-04-10T13:18:58Z INFO [inventory-service] GET /api/v1/users 200 101ms
+2026-04-10T13:20:17Z INFO [inventory-service] GET /api/v1/search 200 38ms
+2026-04-10T13:20:44Z INFO [inventory-service] GET /api/v1/users 200 48ms
+2026-04-10T13:21:42Z INFO [inventory-service] GET /api/v1/health 200 60ms
+2026-04-10T13:22:16Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:22:36Z ERROR [inventory-service] Unexpected error handling request
+2026-04-10T13:24:33Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:24:54Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:25:42Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:26:40Z INFO [inventory-service] GET /api/v1/users 200 95ms
+2026-04-10T13:28:20Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:29:09Z ERROR [inventory-service] Request failed with status 500
+2026-04-10T13:29:18Z WARN [inventory-service] Health check slow: 7311ms
+2026-04-10T13:29:22Z INFO [inventory-service] GET /api/v1/items 200 40ms
+2026-04-10T13:29:52Z ERROR [inventory-service] TLS handshake failed with payment-gateway: certificate has expired
+2026-04-10T13:30:07Z INFO [inventory-service] GET /api/v1/health 200 109ms
+2026-04-10T13:30:30Z INFO [inventory-service] GET /api/v1/cart 200 101ms
+2026-04-10T13:30:37Z INFO [inventory-service] GET /api/v1/items 200 49ms
+2026-04-10T13:31:17Z ERROR [inventory-service] Unexpected error handling request
+2026-04-10T13:31:24Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:32:27Z INFO [inventory-service] GET /api/v1/orders 200 74ms
+2026-04-10T13:32:33Z ERROR [inventory-service] Unexpected error handling request
+2026-04-10T13:32:46Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:32:47Z INFO [inventory-service] GET /api/v1/cart 200 28ms
+2026-04-10T13:33:00Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:33:14Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:33:17Z WARN [inventory-service] Health check slow: 1917ms
+2026-04-10T13:33:20Z INFO [inventory-service] GET /api/v1/search 200 11ms
+2026-04-10T13:34:02Z INFO [inventory-service] GET /api/v1/orders 200 46ms
+2026-04-10T13:34:27Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:34:53Z INFO [inventory-service] GET /api/v1/orders 200 18ms
+2026-04-10T13:38:00Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:38:24Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:38:48Z INFO [inventory-service] GET /api/v1/cart 200 75ms
+2026-04-10T13:39:08Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:39:14Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:40:42Z ERROR [inventory-service] TLS handshake failed with pricing-service: certificate has expired
+2026-04-10T13:40:46Z INFO [inventory-service] GET /api/v1/items 200 79ms
+2026-04-10T13:41:33Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:42:50Z INFO [inventory-service] GET /api/v1/items 200 69ms
+2026-04-10T13:43:00Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:43:56Z WARN [inventory-service] Health check slow: 3239ms
+2026-04-10T13:44:14Z INFO [inventory-service] GET /api/v1/search 200 66ms
+2026-04-10T13:45:22Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:45:39Z INFO [inventory-service] GET /api/v1/orders 200 14ms
+2026-04-10T13:45:41Z INFO [inventory-service] GET /api/v1/users 200 23ms
+2026-04-10T13:45:44Z INFO [inventory-service] GET /api/v1/cart 200 31ms
+2026-04-10T13:46:57Z INFO [inventory-service] GET /api/v1/search 200 92ms
+2026-04-10T13:46:59Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:47:20Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:47:46Z INFO [inventory-service] GET /api/v1/items 200 96ms
+2026-04-10T13:48:44Z ERROR [inventory-service] TLS handshake failed with payment-gateway: certificate has expired
+2026-04-10T13:48:52Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:49:21Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:49:40Z ERROR [inventory-service] TLS handshake failed with payment-gateway: certificate has expired
+2026-04-10T13:49:51Z ERROR [inventory-service] TLS handshake failed with auth-service: certificate has expired
+2026-04-10T13:51:01Z INFO [inventory-service] GET /api/v1/search 200 63ms
+2026-04-10T13:51:56Z INFO [inventory-service] GET /api/v1/orders 200 84ms
+2026-04-10T13:52:33Z WARN [inventory-service] Health check slow: 3897ms
+2026-04-10T13:53:04Z WARN [inventory-service] Health check slow: 2878ms
+2026-04-10T13:53:13Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:53:34Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:53:40Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:54:00Z ERROR [inventory-service] SSLHandshakeException: PKIX path validation failed: certificate expired
+2026-04-10T13:54:08Z INFO [inventory-service] GET /api/v1/orders 200 35ms
+2026-04-10T13:54:33Z INFO [inventory-service] GET /api/v1/items 200 92ms
+2026-04-10T13:55:19Z ERROR [inventory-service] TLS handshake failed with payment-gateway: certificate has expired
+2026-04-10T13:55:31Z ERROR [inventory-service] Unexpected error handling request
+2026-04-10T13:55:38Z WARN [inventory-service] Health check slow: 8570ms
+2026-04-10T13:55:45Z INFO [inventory-service] GET /api/v1/items 200 71ms
+2026-04-10T13:56:32Z ERROR [inventory-service] TLS handshake failed with payment-gateway: certificate has expired
+2026-04-10T13:56:43Z WARN [inventory-service] Peer certificate not valid after date in the past
+2026-04-10T13:56:55Z ERROR [inventory-service] Request failed with status 500
+2026-04-10T13:57:32Z ERROR [inventory-service] Request failed with status 500
+2026-04-10T13:57:51Z WARN [inventory-service] Health check slow: 5524ms
+2026-04-10T13:58:09Z INFO [inventory-service] GET /api/v1/health 200 35ms
+2026-04-10T13:58:54Z INFO [inventory-service] GET /api/v1/items 200 25ms
+2026-04-10T13:59:12Z WARN [inventory-service] Health check slow: 3836ms
+2026-04-10T13:59:20Z ERROR [inventory-service] Outbound call failed: javax.net.ssl.SSLException
+2026-04-10T13:59:22Z INFO [inventory-service] GET /api/v1/items 200 90ms

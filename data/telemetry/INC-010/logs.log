@@ -1,0 +1,302 @@
+2026-03-24T10:01:15Z INFO [auth-service] GET /api/v1/items 200 58ms
+2026-03-24T10:01:57Z INFO [auth-service] GET /api/v1/cart 200 79ms
+2026-03-24T10:02:15Z INFO [auth-service] GET /api/v1/users 200 9ms
+2026-03-24T10:02:27Z INFO [auth-service] GET /api/v1/items 200 56ms
+2026-03-24T10:04:14Z INFO [auth-service] GET /api/v1/items 200 37ms
+2026-03-24T10:05:16Z INFO [auth-service] GET /api/v1/users 200 97ms
+2026-03-24T10:06:00Z INFO [auth-service] GET /api/v1/health 200 100ms
+2026-03-24T10:10:19Z INFO [auth-service] GET /api/v1/search 200 90ms
+2026-03-24T10:11:28Z INFO [auth-service] GET /api/v1/users 200 52ms
+2026-03-24T10:12:48Z INFO [auth-service] GET /api/v1/search 200 55ms
+2026-03-24T10:17:45Z INFO [auth-service] GET /api/v1/search 200 60ms
+2026-03-24T10:19:09Z INFO [auth-service] GET /api/v1/health 200 44ms
+2026-03-24T10:21:13Z INFO [auth-service] GET /api/v1/health 200 85ms
+2026-03-24T10:21:47Z INFO [auth-service] GET /api/v1/orders 200 66ms
+2026-03-24T10:22:59Z INFO [auth-service] GET /api/v1/items 200 55ms
+2026-03-24T10:23:27Z INFO [auth-service] GET /api/v1/search 200 25ms
+2026-03-24T10:23:34Z INFO [auth-service] GET /api/v1/orders 200 18ms
+2026-03-24T10:24:56Z INFO [auth-service] GET /api/v1/search 200 98ms
+2026-03-24T10:26:17Z INFO [auth-service] GET /api/v1/users 200 40ms
+2026-03-24T10:27:15Z INFO [auth-service] GET /api/v1/items 200 92ms
+2026-03-24T10:30:23Z INFO [auth-service] GET /api/v1/health 200 10ms
+2026-03-24T10:34:58Z INFO [auth-service] GET /api/v1/items 200 47ms
+2026-03-24T10:35:16Z INFO [auth-service] GET /api/v1/orders 200 10ms
+2026-03-24T10:37:47Z INFO [auth-service] GET /api/v1/users 200 62ms
+2026-03-24T10:37:50Z INFO [auth-service] GET /api/v1/cart 200 26ms
+2026-03-24T10:39:28Z INFO [auth-service] GET /api/v1/search 200 26ms
+2026-03-24T10:40:47Z INFO [auth-service] GET /api/v1/search 200 73ms
+2026-03-24T10:48:47Z INFO [auth-service] GET /api/v1/orders 200 109ms
+2026-03-24T10:48:57Z INFO [auth-service] GET /api/v1/orders 200 18ms
+2026-03-24T10:51:30Z INFO [auth-service] GET /api/v1/orders 200 116ms
+2026-03-24T10:51:50Z INFO [auth-service] GET /api/v1/cart 200 90ms
+2026-03-24T10:52:27Z INFO [auth-service] GET /api/v1/health 200 62ms
+2026-03-24T10:53:50Z INFO [auth-service] GET /api/v1/health 200 93ms
+2026-03-24T10:55:04Z INFO [auth-service] GET /api/v1/cart 200 108ms
+2026-03-24T10:56:00Z INFO [auth-service] GET /api/v1/search 200 93ms
+2026-03-24T10:56:27Z INFO [auth-service] GET /api/v1/items 200 93ms
+2026-03-24T10:57:49Z INFO [auth-service] GET /api/v1/cart 200 9ms
+2026-03-24T10:58:14Z INFO [auth-service] GET /api/v1/health 200 91ms
+2026-03-24T10:59:01Z INFO [auth-service] GET /api/v1/users 200 28ms
+2026-03-24T10:59:43Z INFO [auth-service] GET /api/v1/search 200 70ms
+2026-03-24T10:59:52Z INFO [auth-service] GET /api/v1/cart 200 107ms
+2026-03-24T11:00:00Z INFO [auth-service] GET /api/v1/cart 200 10ms
+2026-03-24T11:00:59Z INFO [auth-service] GET /api/v1/search 200 108ms
+2026-03-24T11:04:41Z INFO [auth-service] GET /api/v1/search 200 101ms
+2026-03-24T11:05:28Z INFO [auth-service] GET /api/v1/health 200 54ms
+2026-03-24T11:07:24Z INFO [auth-service] GET /api/v1/users 200 82ms
+2026-03-24T11:09:22Z INFO [auth-service] GET /api/v1/orders 200 98ms
+2026-03-24T11:13:16Z INFO [auth-service] GET /api/v1/users 200 54ms
+2026-03-24T11:14:33Z INFO [auth-service] GET /api/v1/orders 200 33ms
+2026-03-24T11:16:27Z INFO [auth-service] GET /api/v1/cart 200 26ms
+2026-03-24T11:16:43Z INFO [auth-service] GET /api/v1/items 200 30ms
+2026-03-24T11:16:52Z INFO [auth-service] GET /api/v1/users 200 83ms
+2026-03-24T11:17:38Z INFO [auth-service] GET /api/v1/cart 200 25ms
+2026-03-24T11:20:58Z INFO [auth-service] GET /api/v1/orders 200 73ms
+2026-03-24T11:23:09Z INFO [auth-service] GET /api/v1/cart 200 74ms
+2026-03-24T11:23:23Z INFO [auth-service] GET /api/v1/orders 200 90ms
+2026-03-24T11:23:31Z INFO [auth-service] GET /api/v1/orders 200 48ms
+2026-03-24T11:25:59Z INFO [auth-service] GET /api/v1/orders 200 83ms
+2026-03-24T11:26:59Z INFO [auth-service] GET /api/v1/orders 200 92ms
+2026-03-24T11:27:46Z WARN [auth-service] Deprecated endpoint /v1/orders/legacy called
+2026-03-24T11:28:10Z WARN [auth-service] Deprecated endpoint /v1/orders/legacy called
+2026-03-24T11:28:35Z INFO [auth-service] GET /api/v1/search 200 37ms
+2026-03-24T11:31:14Z INFO [auth-service] GET /api/v1/cart 200 58ms
+2026-03-24T11:31:40Z INFO [auth-service] GET /api/v1/cart 200 61ms
+2026-03-24T11:41:15Z INFO [auth-service] GET /api/v1/orders 200 91ms
+2026-03-24T11:43:34Z INFO [auth-service] GET /api/v1/cart 200 102ms
+2026-03-24T11:44:30Z INFO [auth-service] GET /api/v1/users 200 24ms
+2026-03-24T11:45:00Z INFO [auth-service] GET /api/v1/cart 200 49ms
+2026-03-24T11:45:10Z INFO [auth-service] GET /api/v1/cart 200 32ms
+2026-03-24T11:48:25Z INFO [auth-service] GET /api/v1/cart 200 66ms
+2026-03-24T11:50:38Z INFO [auth-service] GET /api/v1/users 200 80ms
+2026-03-24T11:50:40Z INFO [auth-service] GET /api/v1/health 200 103ms
+2026-03-24T11:50:40Z INFO [auth-service] GET /api/v1/search 200 34ms
+2026-03-24T11:51:47Z WARN [auth-service] Deprecated endpoint /v1/orders/legacy called
+2026-03-24T11:52:10Z INFO [auth-service] GET /api/v1/orders 200 16ms
+2026-03-24T11:52:56Z INFO [auth-service] GET /api/v1/users 200 91ms
+2026-03-24T11:53:04Z INFO [auth-service] GET /api/v1/search 200 74ms
+2026-03-24T11:53:16Z INFO [auth-service] GET /api/v1/items 200 114ms
+2026-03-24T11:55:27Z INFO [auth-service] GET /api/v1/items 200 19ms
+2026-03-24T11:58:11Z INFO [auth-service] GET /api/v1/orders 200 20ms
+2026-03-24T11:59:15Z INFO [auth-service] GET /api/v1/cart 200 89ms
+2026-03-24T11:59:31Z INFO [auth-service] GET /api/v1/search 200 88ms
+2026-03-24T11:59:41Z INFO [auth-service] GET /api/v1/orders 200 70ms
+2026-03-24T12:01:23Z INFO [auth-service] GET /api/v1/users 200 16ms
+2026-03-24T12:02:15Z INFO [auth-service] GET /api/v1/orders 200 8ms
+2026-03-24T12:03:44Z INFO [auth-service] GET /api/v1/orders 200 10ms
+2026-03-24T12:05:15Z INFO [auth-service] GET /api/v1/users 200 45ms
+2026-03-24T12:11:36Z INFO [auth-service] GET /api/v1/users 200 85ms
+2026-03-24T12:12:41Z INFO [auth-service] GET /api/v1/cart 200 59ms
+2026-03-24T12:12:52Z INFO [auth-service] GET /api/v1/search 200 39ms
+2026-03-24T12:13:56Z INFO [auth-service] GET /api/v1/cart 200 91ms
+2026-03-24T12:14:03Z INFO [auth-service] GET /api/v1/search 200 83ms
+2026-03-24T12:14:18Z INFO [auth-service] GET /api/v1/items 200 22ms
+2026-03-24T12:15:51Z INFO [auth-service] GET /api/v1/orders 200 11ms
+2026-03-24T12:17:21Z INFO [auth-service] GET /api/v1/cart 200 85ms
+2026-03-24T12:18:36Z INFO [auth-service] GET /api/v1/health 200 101ms
+2026-03-24T12:19:37Z INFO [auth-service] GET /api/v1/orders 200 28ms
+2026-03-24T12:21:40Z INFO [auth-service] GET /api/v1/health 200 79ms
+2026-03-24T12:23:48Z INFO [auth-service] GET /api/v1/items 200 54ms
+2026-03-24T12:26:45Z INFO [auth-service] GET /api/v1/users 200 81ms
+2026-03-24T12:29:01Z INFO [auth-service] GET /api/v1/items 200 34ms
+2026-03-24T12:31:24Z INFO [auth-service] GET /api/v1/users 200 24ms
+2026-03-24T12:32:16Z INFO [auth-service] GET /api/v1/users 200 65ms
+2026-03-24T12:32:55Z INFO [auth-service] GET /api/v1/cart 200 85ms
+2026-03-24T12:33:52Z INFO [auth-service] GET /api/v1/cart 200 81ms
+2026-03-24T12:34:16Z INFO [auth-service] GET /api/v1/health 200 115ms
+2026-03-24T12:34:53Z INFO [auth-service] GET /api/v1/orders 200 119ms
+2026-03-24T12:35:59Z INFO [auth-service] GET /api/v1/cart 200 98ms
+2026-03-24T12:36:00Z INFO [auth-service] GET /api/v1/search 200 69ms
+2026-03-24T12:36:48Z INFO [auth-service] GET /api/v1/users 200 65ms
+2026-03-24T12:37:37Z INFO [auth-service] GET /api/v1/items 200 114ms
+2026-03-24T12:38:04Z INFO [auth-service] GET /api/v1/orders 200 35ms
+2026-03-24T12:40:00Z INFO [auth-service] GET /api/v1/search 200 18ms
+2026-03-24T12:40:24Z INFO [auth-service] GET /api/v1/cart 200 80ms
+2026-03-24T12:41:29Z INFO [auth-service] GET /api/v1/health 200 82ms
+2026-03-24T12:41:48Z INFO [auth-service] GET /api/v1/health 200 115ms
+2026-03-24T12:41:58Z INFO [auth-service] GET /api/v1/users 200 118ms
+2026-03-24T12:42:40Z INFO [auth-service] GET /api/v1/cart 200 8ms
+2026-03-24T12:44:02Z INFO [auth-service] GET /api/v1/search 200 36ms
+2026-03-24T12:44:17Z INFO [auth-service] GET /api/v1/cart 200 111ms
+2026-03-24T12:48:03Z INFO [auth-service] GET /api/v1/health 200 80ms
+2026-03-24T12:48:29Z INFO [auth-service] GET /api/v1/cart 200 49ms
+2026-03-24T12:48:45Z INFO [auth-service] GET /api/v1/orders 200 83ms
+2026-03-24T12:52:27Z INFO [auth-service] GET /api/v1/health 200 26ms
+2026-03-24T12:53:48Z INFO [auth-service] GET /api/v1/orders 200 59ms
+2026-03-24T12:54:15Z WARN [auth-service] Minor GC pause 120ms
+2026-03-24T12:54:20Z INFO [auth-service] GET /api/v1/orders 200 13ms
+2026-03-24T12:55:02Z INFO [auth-service] GET /api/v1/health 200 86ms
+2026-03-24T12:56:14Z INFO [auth-service] GET /api/v1/health 200 62ms
+2026-03-24T12:56:17Z INFO [auth-service] GET /api/v1/health 200 68ms
+2026-03-24T12:56:35Z INFO [auth-service] GET /api/v1/search 200 77ms
+2026-03-24T12:56:51Z INFO [auth-service] GET /api/v1/cart 200 9ms
+2026-03-24T12:57:18Z INFO [auth-service] GET /api/v1/health 200 12ms
+2026-03-24T12:59:26Z INFO [auth-service] Autoscaler scaling up from 850 to 850 replicas
+2026-03-24T13:00:36Z INFO [auth-service] Autoscaler scaling up from 659 to 659 replicas
+2026-03-24T13:01:03Z INFO [auth-service] GET /api/v1/orders 200 111ms
+2026-03-24T13:02:01Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:02:35Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:02:42Z ERROR [auth-service] Request queue depth 205 exceeds limit, shedding load
+2026-03-24T13:03:04Z INFO [auth-service] GET /api/v1/cart 200 93ms
+2026-03-24T13:03:38Z WARN [auth-service] Autoscaler reached maximum replicas (840), cannot scale further
+2026-03-24T13:04:22Z INFO [auth-service] GET /api/v1/health 200 24ms
+2026-03-24T13:04:23Z INFO [auth-service] GET /api/v1/cart 200 52ms
+2026-03-24T13:04:30Z WARN [auth-service] CPU throttling detected: container throttled in 61% of periods
+2026-03-24T13:04:35Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:04:38Z ERROR [auth-service] Request queue depth 592 exceeds limit, shedding load
+2026-03-24T13:04:42Z INFO [auth-service] GET /api/v1/health 200 116ms
+2026-03-24T13:05:10Z INFO [auth-service] GET /api/v1/search 200 81ms
+2026-03-24T13:05:12Z WARN [auth-service] Autoscaler reached maximum replicas (557), cannot scale further
+2026-03-24T13:06:10Z INFO [auth-service] GET /api/v1/cart 200 99ms
+2026-03-24T13:06:31Z ERROR [auth-service] Request queue depth 710 exceeds limit, shedding load
+2026-03-24T13:07:08Z INFO [auth-service] GET /api/v1/orders 200 118ms
+2026-03-24T13:07:11Z WARN [auth-service] CPU throttling detected: container throttled in 213% of periods
+2026-03-24T13:07:12Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:07:14Z WARN [auth-service] CPU throttling detected: container throttled in 790% of periods
+2026-03-24T13:07:45Z INFO [auth-service] GET /api/v1/health 200 15ms
+2026-03-24T13:08:12Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:08:20Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:08:44Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:09:06Z ERROR [auth-service] Request queue depth 864 exceeds limit, shedding load
+2026-03-24T13:09:09Z WARN [auth-service] Autoscaler reached maximum replicas (421), cannot scale further
+2026-03-24T13:09:11Z INFO [auth-service] GET /api/v1/cart 200 99ms
+2026-03-24T13:09:43Z WARN [auth-service] Health check slow: 5891ms
+2026-03-24T13:10:19Z INFO [auth-service] GET /api/v1/health 200 22ms
+2026-03-24T13:10:55Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:11:11Z WARN [auth-service] Autoscaler reached maximum replicas (176), cannot scale further
+2026-03-24T13:11:18Z ERROR [auth-service] Request queue depth 865 exceeds limit, shedding load
+2026-03-24T13:11:49Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:12:07Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:12:18Z WARN [auth-service] Autoscaler reached maximum replicas (284), cannot scale further
+2026-03-24T13:12:20Z ERROR [auth-service] Request queue depth 641 exceeds limit, shedding load
+2026-03-24T13:12:41Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:12:55Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:13:02Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:13:03Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:14:21Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:14:30Z INFO [auth-service] GET /api/v1/items 200 83ms
+2026-03-24T13:15:33Z INFO [auth-service] GET /api/v1/users 200 50ms
+2026-03-24T13:15:38Z WARN [auth-service] Health check slow: 2329ms
+2026-03-24T13:15:52Z INFO [auth-service] GET /api/v1/orders 200 61ms
+2026-03-24T13:16:04Z INFO [auth-service] GET /api/v1/health 200 54ms
+2026-03-24T13:16:32Z WARN [auth-service] Health check slow: 4424ms
+2026-03-24T13:17:23Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:18:02Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:19:28Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:19:48Z WARN [auth-service] CPU throttling detected: container throttled in 610% of periods
+2026-03-24T13:20:14Z WARN [auth-service] CPU throttling detected: container throttled in 723% of periods
+2026-03-24T13:20:54Z INFO [auth-service] GET /api/v1/items 200 96ms
+2026-03-24T13:21:20Z WARN [auth-service] Autoscaler reached maximum replicas (893), cannot scale further
+2026-03-24T13:21:32Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:21:33Z INFO [auth-service] GET /api/v1/items 200 55ms
+2026-03-24T13:21:36Z INFO [auth-service] GET /api/v1/health 200 48ms
+2026-03-24T13:22:05Z INFO [auth-service] GET /api/v1/search 200 101ms
+2026-03-24T13:22:09Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:22:12Z INFO [auth-service] GET /api/v1/cart 200 27ms
+2026-03-24T13:22:17Z INFO [auth-service] GET /api/v1/health 200 24ms
+2026-03-24T13:22:41Z ERROR [auth-service] Request queue depth 564 exceeds limit, shedding load
+2026-03-24T13:23:16Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:23:24Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:23:58Z ERROR [auth-service] Request queue depth 449 exceeds limit, shedding load
+2026-03-24T13:24:40Z INFO [auth-service] GET /api/v1/items 200 29ms
+2026-03-24T13:24:45Z WARN [auth-service] Health check slow: 5860ms
+2026-03-24T13:24:56Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:25:11Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:25:41Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:26:19Z INFO [auth-service] GET /api/v1/search 200 44ms
+2026-03-24T13:26:57Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:26:59Z WARN [auth-service] Autoscaler reached maximum replicas (806), cannot scale further
+2026-03-24T13:27:01Z WARN [auth-service] Health check slow: 4654ms
+2026-03-24T13:27:14Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:27:21Z WARN [auth-service] CPU throttling detected: container throttled in 492% of periods
+2026-03-24T13:27:37Z WARN [auth-service] Autoscaler reached maximum replicas (622), cannot scale further
+2026-03-24T13:27:53Z INFO [auth-service] GET /api/v1/cart 200 64ms
+2026-03-24T13:27:53Z INFO [auth-service] GET /api/v1/health 200 89ms
+2026-03-24T13:27:55Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:28:11Z INFO [auth-service] GET /api/v1/search 200 46ms
+2026-03-24T13:28:11Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:28:31Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:29:21Z INFO [auth-service] GET /api/v1/cart 200 47ms
+2026-03-24T13:29:38Z INFO [auth-service] GET /api/v1/health 200 89ms
+2026-03-24T13:29:47Z WARN [auth-service] CPU throttling detected: container throttled in 691% of periods
+2026-03-24T13:29:48Z WARN [auth-service] CPU throttling detected: container throttled in 774% of periods
+2026-03-24T13:30:53Z WARN [auth-service] CPU throttling detected: container throttled in 337% of periods
+2026-03-24T13:31:25Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:31:26Z WARN [auth-service] Autoscaler reached maximum replicas (368), cannot scale further
+2026-03-24T13:31:29Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:31:34Z WARN [auth-service] Autoscaler reached maximum replicas (753), cannot scale further
+2026-03-24T13:31:41Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:32:12Z WARN [auth-service] CPU throttling detected: container throttled in 768% of periods
+2026-03-24T13:32:30Z WARN [auth-service] Health check slow: 5960ms
+2026-03-24T13:32:32Z ERROR [auth-service] Request queue depth 841 exceeds limit, shedding load
+2026-03-24T13:32:49Z INFO [auth-service] GET /api/v1/health 200 29ms
+2026-03-24T13:33:08Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:33:18Z INFO [auth-service] GET /api/v1/users 200 61ms
+2026-03-24T13:34:57Z WARN [auth-service] CPU throttling detected: container throttled in 255% of periods
+2026-03-24T13:35:31Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:36:16Z INFO [auth-service] GET /api/v1/items 200 44ms
+2026-03-24T13:36:22Z WARN [auth-service] Health check slow: 1423ms
+2026-03-24T13:36:45Z WARN [auth-service] Autoscaler reached maximum replicas (779), cannot scale further
+2026-03-24T13:37:54Z INFO [auth-service] GET /api/v1/users 200 46ms
+2026-03-24T13:37:58Z INFO [auth-service] GET /api/v1/users 200 15ms
+2026-03-24T13:38:45Z INFO [auth-service] GET /api/v1/cart 200 28ms
+2026-03-24T13:38:50Z WARN [auth-service] Autoscaler reached maximum replicas (527), cannot scale further
+2026-03-24T13:38:55Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:39:31Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:39:41Z WARN [auth-service] Health check slow: 3175ms
+2026-03-24T13:39:49Z WARN [auth-service] CPU throttling detected: container throttled in 684% of periods
+2026-03-24T13:39:56Z WARN [auth-service] Autoscaler reached maximum replicas (208), cannot scale further
+2026-03-24T13:40:06Z ERROR [auth-service] Request queue depth 244 exceeds limit, shedding load
+2026-03-24T13:40:33Z ERROR [auth-service] Request queue depth 227 exceeds limit, shedding load
+2026-03-24T13:41:19Z INFO [auth-service] GET /api/v1/users 200 74ms
+2026-03-24T13:41:40Z WARN [auth-service] Health check slow: 6375ms
+2026-03-24T13:41:43Z ERROR [auth-service] Request queue depth 484 exceeds limit, shedding load
+2026-03-24T13:42:24Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:42:25Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:42:28Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:42:37Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:43:08Z WARN [auth-service] Autoscaler reached maximum replicas (184), cannot scale further
+2026-03-24T13:43:09Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:43:46Z ERROR [auth-service] Request queue depth 521 exceeds limit, shedding load
+2026-03-24T13:44:24Z WARN [auth-service] CPU throttling detected: container throttled in 402% of periods
+2026-03-24T13:44:33Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:44:52Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:45:03Z INFO [auth-service] GET /api/v1/cart 200 51ms
+2026-03-24T13:45:33Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:45:40Z WARN [auth-service] Autoscaler reached maximum replicas (388), cannot scale further
+2026-03-24T13:45:41Z INFO [auth-service] GET /api/v1/search 200 15ms
+2026-03-24T13:46:05Z WARN [auth-service] Health check slow: 8189ms
+2026-03-24T13:46:13Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:46:40Z WARN [auth-service] Autoscaler reached maximum replicas (19), cannot scale further
+2026-03-24T13:46:41Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:46:44Z INFO [auth-service] GET /api/v1/cart 200 83ms
+2026-03-24T13:47:52Z WARN [auth-service] Autoscaler reached maximum replicas (322), cannot scale further
+2026-03-24T13:48:04Z INFO [auth-service] GET /api/v1/orders 200 102ms
+2026-03-24T13:48:07Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:48:08Z WARN [auth-service] Autoscaler reached maximum replicas (507), cannot scale further
+2026-03-24T13:48:44Z INFO [auth-service] GET /api/v1/users 200 114ms
+2026-03-24T13:49:35Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:50:04Z ERROR [auth-service] Request failed with status 500
+2026-03-24T13:50:58Z WARN [auth-service] Health check slow: 8855ms
+2026-03-24T13:51:15Z INFO [auth-service] GET /api/v1/cart 200 59ms
+2026-03-24T13:52:09Z INFO [auth-service] GET /api/v1/items 200 66ms
+2026-03-24T13:52:18Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:52:50Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:53:08Z WARN [auth-service] Autoscaler reached maximum replicas (775), cannot scale further
+2026-03-24T13:53:09Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:53:22Z INFO [auth-service] GET /api/v1/users 200 109ms
+2026-03-24T13:53:46Z INFO [auth-service] GET /api/v1/users 200 61ms
+2026-03-24T13:54:29Z WARN [auth-service] CPU throttling detected: container throttled in 632% of periods
+2026-03-24T13:55:18Z INFO [auth-service] GET /api/v1/cart 200 93ms
+2026-03-24T13:55:23Z INFO [auth-service] GET /api/v1/health 200 103ms
+2026-03-24T13:56:13Z INFO [auth-service] GET /api/v1/search 200 55ms
+2026-03-24T13:56:23Z WARN [auth-service] CPU throttling detected: container throttled in 80% of periods
+2026-03-24T13:56:40Z ERROR [auth-service] Request queue depth 13 exceeds limit, shedding load
+2026-03-24T13:57:12Z INFO [auth-service] GET /api/v1/cart 200 31ms
+2026-03-24T13:57:34Z WARN [auth-service] CPU throttling detected: container throttled in 109% of periods
+2026-03-24T13:57:43Z ERROR [auth-service] Request rejected: server overloaded
+2026-03-24T13:58:25Z INFO [auth-service] GET /api/v1/users 200 91ms
+2026-03-24T13:58:37Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:58:50Z INFO [auth-service] GET /api/v1/items 200 64ms
+2026-03-24T13:59:20Z ERROR [auth-service] Unexpected error handling request
+2026-03-24T13:59:45Z INFO [auth-service] GET /api/v1/health 200 28ms

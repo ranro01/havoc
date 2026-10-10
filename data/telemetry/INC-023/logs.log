@@ -1,0 +1,265 @@
+2026-04-06T10:00:41Z INFO [auth-service] GET /api/v1/search 200 42ms
+2026-04-06T10:03:21Z INFO [auth-service] GET /api/v1/users 200 55ms
+2026-04-06T10:05:08Z INFO [auth-service] GET /api/v1/search 200 89ms
+2026-04-06T10:05:17Z INFO [auth-service] GET /api/v1/search 200 80ms
+2026-04-06T10:05:24Z INFO [auth-service] GET /api/v1/orders 200 92ms
+2026-04-06T10:06:34Z INFO [auth-service] GET /api/v1/items 200 34ms
+2026-04-06T10:06:36Z INFO [auth-service] GET /api/v1/health 200 16ms
+2026-04-06T10:07:25Z INFO [auth-service] GET /api/v1/health 200 104ms
+2026-04-06T10:08:17Z INFO [auth-service] GET /api/v1/health 200 93ms
+2026-04-06T10:08:50Z INFO [auth-service] GET /api/v1/items 200 27ms
+2026-04-06T10:09:49Z WARN [auth-service] Slow request 640ms for GET /api/v1/items
+2026-04-06T10:10:20Z INFO [auth-service] GET /api/v1/items 200 25ms
+2026-04-06T10:12:23Z INFO [auth-service] GET /api/v1/items 200 55ms
+2026-04-06T10:13:41Z INFO [auth-service] GET /api/v1/items 200 108ms
+2026-04-06T10:15:34Z INFO [auth-service] GET /api/v1/items 200 90ms
+2026-04-06T10:16:53Z INFO [auth-service] GET /api/v1/items 200 77ms
+2026-04-06T10:17:37Z INFO [auth-service] GET /api/v1/users 200 64ms
+2026-04-06T10:17:45Z INFO [auth-service] GET /api/v1/items 200 40ms
+2026-04-06T10:19:54Z INFO [auth-service] GET /api/v1/health 200 53ms
+2026-04-06T10:19:54Z INFO [auth-service] GET /api/v1/search 200 78ms
+2026-04-06T10:21:43Z INFO [auth-service] GET /api/v1/orders 200 114ms
+2026-04-06T10:22:31Z INFO [auth-service] GET /api/v1/items 200 17ms
+2026-04-06T10:23:30Z INFO [auth-service] GET /api/v1/cart 200 52ms
+2026-04-06T10:24:00Z INFO [auth-service] GET /api/v1/users 200 38ms
+2026-04-06T10:24:30Z INFO [auth-service] GET /api/v1/items 200 35ms
+2026-04-06T10:24:32Z INFO [auth-service] GET /api/v1/health 200 69ms
+2026-04-06T10:25:39Z INFO [auth-service] GET /api/v1/cart 200 115ms
+2026-04-06T10:25:43Z INFO [auth-service] GET /api/v1/orders 200 95ms
+2026-04-06T10:25:56Z INFO [auth-service] GET /api/v1/search 200 38ms
+2026-04-06T10:27:48Z INFO [auth-service] GET /api/v1/items 200 40ms
+2026-04-06T10:29:24Z INFO [auth-service] GET /api/v1/orders 200 89ms
+2026-04-06T10:30:20Z INFO [auth-service] GET /api/v1/search 200 30ms
+2026-04-06T10:31:01Z INFO [auth-service] GET /api/v1/items 200 69ms
+2026-04-06T10:32:37Z INFO [auth-service] GET /api/v1/cart 200 66ms
+2026-04-06T10:34:32Z INFO [auth-service] GET /api/v1/cart 200 112ms
+2026-04-06T10:34:48Z INFO [auth-service] GET /api/v1/orders 200 12ms
+2026-04-06T10:36:01Z INFO [auth-service] GET /api/v1/users 200 86ms
+2026-04-06T10:37:21Z INFO [auth-service] GET /api/v1/health 200 61ms
+2026-04-06T10:37:23Z INFO [auth-service] GET /api/v1/search 200 86ms
+2026-04-06T10:37:46Z INFO [auth-service] GET /api/v1/cart 200 75ms
+2026-04-06T10:38:22Z INFO [auth-service] GET /api/v1/items 200 79ms
+2026-04-06T10:39:43Z INFO [auth-service] GET /api/v1/cart 200 69ms
+2026-04-06T10:40:19Z INFO [auth-service] GET /api/v1/orders 200 32ms
+2026-04-06T10:41:06Z WARN [auth-service] Retry succeeded on attempt 2 for pricing-service
+2026-04-06T10:41:18Z INFO [auth-service] GET /api/v1/search 200 91ms
+2026-04-06T10:44:50Z INFO [auth-service] GET /api/v1/search 200 28ms
+2026-04-06T10:50:49Z INFO [auth-service] GET /api/v1/cart 200 51ms
+2026-04-06T10:51:00Z INFO [auth-service] GET /api/v1/users 200 55ms
+2026-04-06T10:53:58Z INFO [auth-service] GET /api/v1/users 200 95ms
+2026-04-06T10:54:04Z INFO [auth-service] GET /api/v1/search 200 102ms
+2026-04-06T10:56:00Z INFO [auth-service] GET /api/v1/search 200 43ms
+2026-04-06T11:00:24Z INFO [auth-service] GET /api/v1/search 200 9ms
+2026-04-06T11:01:17Z INFO [auth-service] GET /api/v1/health 200 34ms
+2026-04-06T11:05:42Z INFO [auth-service] GET /api/v1/search 200 107ms
+2026-04-06T11:07:09Z INFO [auth-service] GET /api/v1/items 200 19ms
+2026-04-06T11:07:13Z INFO [auth-service] GET /api/v1/orders 200 45ms
+2026-04-06T11:07:24Z INFO [auth-service] GET /api/v1/search 200 52ms
+2026-04-06T11:12:25Z INFO [auth-service] GET /api/v1/health 200 90ms
+2026-04-06T11:13:56Z INFO [auth-service] GET /api/v1/health 200 55ms
+2026-04-06T11:14:22Z INFO [auth-service] GET /api/v1/cart 200 48ms
+2026-04-06T11:14:48Z INFO [auth-service] GET /api/v1/users 200 26ms
+2026-04-06T11:15:43Z INFO [auth-service] GET /api/v1/health 200 77ms
+2026-04-06T11:16:46Z INFO [auth-service] GET /api/v1/search 200 27ms
+2026-04-06T11:19:35Z INFO [auth-service] GET /api/v1/users 200 58ms
+2026-04-06T11:20:09Z INFO [auth-service] GET /api/v1/health 200 63ms
+2026-04-06T11:21:20Z WARN [auth-service] Retry succeeded on attempt 2 for stripe
+2026-04-06T11:24:01Z INFO [auth-service] GET /api/v1/orders 200 16ms
+2026-04-06T11:28:33Z INFO [auth-service] GET /api/v1/users 200 115ms
+2026-04-06T11:29:17Z INFO [auth-service] GET /api/v1/cart 200 27ms
+2026-04-06T11:31:19Z INFO [auth-service] GET /api/v1/items 200 99ms
+2026-04-06T11:31:25Z INFO [auth-service] GET /api/v1/search 200 50ms
+2026-04-06T11:34:45Z INFO [auth-service] GET /api/v1/search 200 105ms
+2026-04-06T11:35:34Z INFO [auth-service] GET /api/v1/items 200 25ms
+2026-04-06T11:36:07Z INFO [auth-service] GET /api/v1/orders 200 75ms
+2026-04-06T11:37:36Z INFO [auth-service] GET /api/v1/cart 200 71ms
+2026-04-06T11:39:02Z INFO [auth-service] GET /api/v1/orders 200 94ms
+2026-04-06T11:39:59Z INFO [auth-service] GET /api/v1/search 200 43ms
+2026-04-06T11:40:16Z INFO [auth-service] GET /api/v1/health 200 88ms
+2026-04-06T11:42:12Z INFO [auth-service] GET /api/v1/health 200 72ms
+2026-04-06T11:44:31Z INFO [auth-service] GET /api/v1/health 200 99ms
+2026-04-06T11:44:36Z INFO [auth-service] GET /api/v1/users 200 97ms
+2026-04-06T11:44:43Z INFO [auth-service] GET /api/v1/cart 200 37ms
+2026-04-06T11:45:25Z INFO [auth-service] GET /api/v1/search 200 18ms
+2026-04-06T11:45:45Z INFO [auth-service] GET /api/v1/orders 200 102ms
+2026-04-06T11:47:39Z INFO [auth-service] GET /api/v1/orders 200 61ms
+2026-04-06T11:49:36Z INFO [auth-service] GET /api/v1/items 200 66ms
+2026-04-06T11:49:45Z INFO [auth-service] GET /api/v1/items 200 31ms
+2026-04-06T11:50:08Z INFO [auth-service] GET /api/v1/health 200 45ms
+2026-04-06T11:50:30Z INFO [auth-service] GET /api/v1/users 200 96ms
+2026-04-06T11:50:57Z INFO [auth-service] GET /api/v1/items 200 9ms
+2026-04-06T11:52:42Z INFO [auth-service] GET /api/v1/cart 200 41ms
+2026-04-06T11:54:59Z INFO [auth-service] GET /api/v1/users 200 71ms
+2026-04-06T11:55:13Z INFO [auth-service] GET /api/v1/users 200 59ms
+2026-04-06T11:56:58Z INFO [auth-service] GET /api/v1/search 200 55ms
+2026-04-06T11:59:18Z INFO [auth-service] GET /api/v1/cart 200 78ms
+2026-04-06T12:02:51Z INFO [auth-service] GET /api/v1/cart 200 10ms
+2026-04-06T12:02:56Z INFO [auth-service] GET /api/v1/search 200 118ms
+2026-04-06T12:03:04Z INFO [auth-service] GET /api/v1/search 200 74ms
+2026-04-06T12:05:10Z INFO [auth-service] GET /api/v1/health 200 113ms
+2026-04-06T12:05:35Z INFO [auth-service] GET /api/v1/items 200 11ms
+2026-04-06T12:06:58Z INFO [auth-service] GET /api/v1/orders 200 91ms
+2026-04-06T12:12:02Z INFO [auth-service] GET /api/v1/items 200 84ms
+2026-04-06T12:12:22Z INFO [auth-service] GET /api/v1/cart 200 59ms
+2026-04-06T12:12:29Z INFO [auth-service] GET /api/v1/cart 200 110ms
+2026-04-06T12:13:19Z INFO [auth-service] GET /api/v1/items 200 36ms
+2026-04-06T12:14:01Z INFO [auth-service] GET /api/v1/orders 200 60ms
+2026-04-06T12:15:51Z INFO [auth-service] GET /api/v1/orders 200 34ms
+2026-04-06T12:21:22Z INFO [auth-service] GET /api/v1/search 200 38ms
+2026-04-06T12:21:35Z INFO [auth-service] GET /api/v1/cart 200 97ms
+2026-04-06T12:23:19Z INFO [auth-service] GET /api/v1/orders 200 56ms
+2026-04-06T12:24:33Z INFO [auth-service] GET /api/v1/cart 200 54ms
+2026-04-06T12:26:17Z INFO [auth-service] GET /api/v1/cart 200 11ms
+2026-04-06T12:26:19Z INFO [auth-service] GET /api/v1/health 200 109ms
+2026-04-06T12:26:23Z INFO [auth-service] GET /api/v1/cart 200 38ms
+2026-04-06T12:27:46Z INFO [auth-service] GET /api/v1/items 200 14ms
+2026-04-06T12:28:18Z INFO [auth-service] GET /api/v1/cart 200 76ms
+2026-04-06T12:29:45Z INFO [auth-service] GET /api/v1/items 200 43ms
+2026-04-06T12:30:39Z INFO [auth-service] GET /api/v1/health 200 115ms
+2026-04-06T12:31:03Z INFO [auth-service] GET /api/v1/items 200 50ms
+2026-04-06T12:32:45Z INFO [auth-service] GET /api/v1/orders 200 29ms
+2026-04-06T12:33:41Z INFO [auth-service] GET /api/v1/health 200 36ms
+2026-04-06T12:33:48Z INFO [auth-service] GET /api/v1/users 200 23ms
+2026-04-06T12:35:16Z INFO [auth-service] GET /api/v1/items 200 89ms
+2026-04-06T12:37:14Z INFO [auth-service] GET /api/v1/items 200 112ms
+2026-04-06T12:37:15Z INFO [auth-service] GET /api/v1/health 200 116ms
+2026-04-06T12:38:10Z INFO [auth-service] GET /api/v1/orders 200 65ms
+2026-04-06T12:41:55Z INFO [auth-service] GET /api/v1/search 200 60ms
+2026-04-06T12:42:16Z INFO [auth-service] GET /api/v1/health 200 93ms
+2026-04-06T12:43:15Z INFO [auth-service] GET /api/v1/health 200 10ms
+2026-04-06T12:44:33Z INFO [auth-service] GET /api/v1/users 200 109ms
+2026-04-06T12:47:47Z INFO [auth-service] GET /api/v1/items 200 92ms
+2026-04-06T12:49:16Z INFO [auth-service] GET /api/v1/orders 200 30ms
+2026-04-06T12:49:18Z INFO [auth-service] GET /api/v1/users 200 58ms
+2026-04-06T12:50:35Z INFO [auth-service] GET /api/v1/search 200 81ms
+2026-04-06T12:53:33Z INFO [auth-service] GET /api/v1/cart 200 80ms
+2026-04-06T12:53:51Z INFO [auth-service] GET /api/v1/health 200 41ms
+2026-04-06T12:55:44Z INFO [auth-service] GET /api/v1/items 200 79ms
+2026-04-06T12:56:03Z INFO [auth-service] GET /api/v1/cart 200 56ms
+2026-04-06T12:57:44Z WARN [auth-service] Resolver retry 248 for stripe.internal
+2026-04-06T12:58:04Z INFO [auth-service] GET /api/v1/users 200 119ms
+2026-04-06T12:58:18Z ERROR [auth-service] Unexpected error handling request
+2026-04-06T12:59:36Z ERROR [auth-service] UnknownHostException: inventory-service.internal
+2026-04-06T12:59:50Z ERROR [auth-service] Temporary failure in name resolution for twilio.internal
+2026-04-06T13:00:46Z WARN [auth-service] DNS lookup timed out after 8301ms
+2026-04-06T13:01:02Z INFO [auth-service] GET /api/v1/search 200 29ms
+2026-04-06T13:01:41Z WARN [auth-service] DNS lookup timed out after 8638ms
+2026-04-06T13:02:05Z INFO [auth-service] GET /api/v1/users 200 21ms
+2026-04-06T13:02:32Z ERROR [auth-service] UnknownHostException: payment-gateway.internal
+2026-04-06T13:02:37Z INFO [auth-service] GET /api/v1/users 200 65ms
+2026-04-06T13:02:50Z INFO [auth-service] GET /api/v1/cart 200 115ms
+2026-04-06T13:03:25Z INFO [auth-service] GET /api/v1/health 200 29ms
+2026-04-06T13:03:28Z INFO [auth-service] GET /api/v1/search 200 53ms
+2026-04-06T13:03:45Z WARN [auth-service] Health check slow: 5927ms
+2026-04-06T13:04:47Z INFO [auth-service] GET /api/v1/cart 200 14ms
+2026-04-06T13:06:23Z INFO [auth-service] GET /api/v1/search 200 16ms
+2026-04-06T13:07:17Z INFO [auth-service] GET /api/v1/items 200 22ms
+2026-04-06T13:08:35Z WARN [auth-service] DNS lookup timed out after 4158ms
+2026-04-06T13:09:34Z ERROR [auth-service] Failed to connect to twilio: no such host
+2026-04-06T13:09:51Z ERROR [auth-service] Temporary failure in name resolution for pricing-service.internal
+2026-04-06T13:10:49Z ERROR [auth-service] Temporary failure in name resolution for stripe.internal
+2026-04-06T13:11:29Z ERROR [auth-service] Unexpected error handling request
+2026-04-06T13:11:45Z INFO [auth-service] GET /api/v1/items 200 104ms
+2026-04-06T13:12:08Z INFO [auth-service] GET /api/v1/items 200 59ms
+2026-04-06T13:12:30Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:13:22Z ERROR [auth-service] Temporary failure in name resolution for payment-gateway.internal
+2026-04-06T13:13:32Z ERROR [auth-service] Unexpected error handling request
+2026-04-06T13:14:50Z INFO [auth-service] GET /api/v1/orders 200 33ms
+2026-04-06T13:15:05Z ERROR [auth-service] Failed to connect to payment-gateway: no such host
+2026-04-06T13:15:48Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:16:32Z INFO [auth-service] GET /api/v1/orders 200 16ms
+2026-04-06T13:16:50Z INFO [auth-service] GET /api/v1/users 200 47ms
+2026-04-06T13:17:01Z ERROR [auth-service] Failed to connect to pricing-service: no such host
+2026-04-06T13:17:14Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:17:44Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:18:14Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:19:05Z WARN [auth-service] DNS lookup timed out after 6726ms
+2026-04-06T13:19:22Z WARN [auth-service] Health check slow: 7125ms
+2026-04-06T13:19:22Z ERROR [auth-service] Failed to connect to twilio: no such host
+2026-04-06T13:19:35Z ERROR [auth-service] Unexpected error handling request
+2026-04-06T13:19:48Z INFO [auth-service] GET /api/v1/orders 200 25ms
+2026-04-06T13:19:54Z INFO [auth-service] GET /api/v1/cart 200 46ms
+2026-04-06T13:21:01Z ERROR [auth-service] Temporary failure in name resolution for payment-gateway.internal
+2026-04-06T13:21:11Z WARN [auth-service] DNS lookup timed out after 8778ms
+2026-04-06T13:21:30Z ERROR [auth-service] Temporary failure in name resolution for pricing-service.internal
+2026-04-06T13:21:38Z WARN [auth-service] DNS lookup timed out after 6644ms
+2026-04-06T13:22:16Z INFO [auth-service] GET /api/v1/orders 200 72ms
+2026-04-06T13:22:40Z ERROR [auth-service] UnknownHostException: inventory-service.internal
+2026-04-06T13:23:33Z WARN [auth-service] DNS lookup timed out after 4559ms
+2026-04-06T13:23:38Z ERROR [auth-service] Unexpected error handling request
+2026-04-06T13:23:39Z WARN [auth-service] Health check slow: 1314ms
+2026-04-06T13:23:41Z ERROR [auth-service] UnknownHostException: pricing-service.internal
+2026-04-06T13:24:14Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:25:49Z INFO [auth-service] GET /api/v1/cart 200 60ms
+2026-04-06T13:26:43Z ERROR [auth-service] Temporary failure in name resolution for stripe.internal
+2026-04-06T13:27:04Z ERROR [auth-service] UnknownHostException: inventory-service.internal
+2026-04-06T13:27:30Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:28:06Z ERROR [auth-service] Temporary failure in name resolution for auth-service.internal
+2026-04-06T13:28:19Z WARN [auth-service] Health check slow: 2203ms
+2026-04-06T13:29:05Z ERROR [auth-service] Failed to connect to auth-service: no such host
+2026-04-06T13:29:14Z ERROR [auth-service] Failed to connect to stripe: no such host
+2026-04-06T13:29:21Z INFO [auth-service] GET /api/v1/items 200 80ms
+2026-04-06T13:29:30Z INFO [auth-service] GET /api/v1/users 200 20ms
+2026-04-06T13:30:18Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:30:27Z ERROR [auth-service] Unexpected error handling request
+2026-04-06T13:30:49Z INFO [auth-service] GET /api/v1/search 200 62ms
+2026-04-06T13:31:36Z INFO [auth-service] GET /api/v1/cart 200 39ms
+2026-04-06T13:31:38Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:32:52Z WARN [auth-service] DNS lookup timed out after 4166ms
+2026-04-06T13:32:56Z ERROR [auth-service] UnknownHostException: auth-service.internal
+2026-04-06T13:33:00Z ERROR [auth-service] Failed to connect to stripe: no such host
+2026-04-06T13:33:05Z WARN [auth-service] DNS lookup timed out after 2793ms
+2026-04-06T13:33:13Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:33:15Z ERROR [auth-service] Temporary failure in name resolution for auth-service.internal
+2026-04-06T13:33:38Z WARN [auth-service] Health check slow: 7124ms
+2026-04-06T13:34:10Z ERROR [auth-service] Temporary failure in name resolution for twilio.internal
+2026-04-06T13:34:26Z ERROR [auth-service] Temporary failure in name resolution for twilio.internal
+2026-04-06T13:35:01Z ERROR [auth-service] Temporary failure in name resolution for stripe.internal
+2026-04-06T13:35:15Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:35:26Z ERROR [auth-service] Unexpected error handling request
+2026-04-06T13:35:32Z WARN [auth-service] Health check slow: 8775ms
+2026-04-06T13:36:38Z INFO [auth-service] GET /api/v1/users 200 90ms
+2026-04-06T13:36:41Z INFO [auth-service] GET /api/v1/search 200 111ms
+2026-04-06T13:36:50Z ERROR [auth-service] Failed to connect to payment-gateway: no such host
+2026-04-06T13:37:01Z ERROR [auth-service] Temporary failure in name resolution for twilio.internal
+2026-04-06T13:38:12Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:39:59Z INFO [auth-service] GET /api/v1/health 200 14ms
+2026-04-06T13:40:01Z WARN [auth-service] Health check slow: 4452ms
+2026-04-06T13:40:20Z ERROR [auth-service] Failed to connect to auth-service: no such host
+2026-04-06T13:40:44Z INFO [auth-service] GET /api/v1/items 200 110ms
+2026-04-06T13:40:53Z ERROR [auth-service] Failed to connect to auth-service: no such host
+2026-04-06T13:41:01Z INFO [auth-service] GET /api/v1/orders 200 16ms
+2026-04-06T13:41:22Z WARN [auth-service] DNS lookup timed out after 4902ms
+2026-04-06T13:41:28Z INFO [auth-service] GET /api/v1/orders 200 32ms
+2026-04-06T13:41:42Z ERROR [auth-service] UnknownHostException: auth-service.internal
+2026-04-06T13:43:35Z INFO [auth-service] GET /api/v1/orders 200 81ms
+2026-04-06T13:43:53Z ERROR [auth-service] Failed to connect to payment-gateway: no such host
+2026-04-06T13:45:00Z INFO [auth-service] GET /api/v1/search 200 98ms
+2026-04-06T13:46:20Z INFO [auth-service] GET /api/v1/health 200 12ms
+2026-04-06T13:46:41Z INFO [auth-service] GET /api/v1/orders 200 93ms
+2026-04-06T13:46:59Z ERROR [auth-service] UnknownHostException: stripe.internal
+2026-04-06T13:47:49Z INFO [auth-service] GET /api/v1/items 200 41ms
+2026-04-06T13:47:54Z ERROR [auth-service] UnknownHostException: twilio.internal
+2026-04-06T13:48:05Z WARN [auth-service] Health check slow: 3529ms
+2026-04-06T13:48:48Z INFO [auth-service] GET /api/v1/health 200 44ms
+2026-04-06T13:49:21Z ERROR [auth-service] Failed to connect to payment-gateway: no such host
+2026-04-06T13:49:23Z INFO [auth-service] GET /api/v1/cart 200 84ms
+2026-04-06T13:49:50Z WARN [auth-service] Health check slow: 5342ms
+2026-04-06T13:50:47Z WARN [auth-service] DNS lookup timed out after 6033ms
+2026-04-06T13:50:55Z ERROR [auth-service] Failed to connect to pricing-service: no such host
+2026-04-06T13:50:58Z WARN [auth-service] Health check slow: 8890ms
+2026-04-06T13:51:38Z INFO [auth-service] GET /api/v1/health 200 38ms
+2026-04-06T13:51:55Z WARN [auth-service] Health check slow: 3582ms
+2026-04-06T13:52:19Z WARN [auth-service] DNS lookup timed out after 1867ms
+2026-04-06T13:53:20Z INFO [auth-service] GET /api/v1/cart 200 108ms
+2026-04-06T13:54:27Z ERROR [auth-service] UnknownHostException: twilio.internal
+2026-04-06T13:54:54Z INFO [auth-service] GET /api/v1/users 200 28ms
+2026-04-06T13:55:22Z INFO [auth-service] GET /api/v1/cart 200 46ms
+2026-04-06T13:56:13Z INFO [auth-service] GET /api/v1/search 200 105ms
+2026-04-06T13:57:18Z ERROR [auth-service] Unexpected error handling request
+2026-04-06T13:58:16Z INFO [auth-service] GET /api/v1/search 200 92ms
+2026-04-06T13:58:30Z INFO [auth-service] GET /api/v1/orders 200 106ms
+2026-04-06T13:59:04Z ERROR [auth-service] Request failed with status 500
+2026-04-06T13:59:34Z INFO [auth-service] GET /api/v1/cart 200 52ms
+2026-04-06T13:59:40Z ERROR [auth-service] Temporary failure in name resolution for auth-service.internal
+2026-04-06T13:59:53Z INFO [auth-service] GET /api/v1/cart 200 68ms
