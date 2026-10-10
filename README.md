@@ -4,9 +4,7 @@ Havoc is an agentic incident-triage assistant that investigates synthetic produc
 
 ## Architecture
 
-## Architecture
-
-The following diagram shows the incident-triage workflow, evidence-gathering tools, and RCA validation loop.
+The following diagram illustrates the incident-triage workflow, evidence-gathering tools, and RCA validation loop.
 
 ```mermaid
 flowchart TD
@@ -18,6 +16,7 @@ flowchart TD
     E --> F["Metric anomaly detection"]
     E --> G["Log-pattern search"]
     E --> H["Runbook and postmortem RAG"]
+
     F --> I["Collect evidence"]
     G --> I
     H --> I
@@ -45,7 +44,7 @@ flowchart TD
 
 Python 3.11 or newer is recommended.
 
-Create and activate a virtual environment, then install the dependencies:
+Create and activate a virtual environment:
 
 ```bash
 python -m venv .venv
@@ -70,13 +69,17 @@ pip install -r requirements-dev.txt -r requirements-hf.txt
 pip install -e .
 ```
 
-Create a local environment file from the example:
+Create a local environment file from the example.
+
+On Windows PowerShell:
+
+```powershell
+Copy-Item .env.example .env
+```
+
+On Linux or macOS:
 
 ```bash
-# Windows PowerShell
-Copy-Item .env.example .env
-
-# Linux or macOS
 cp .env.example .env
 ```
 
@@ -104,13 +107,15 @@ python scripts/build_index.py
 uvicorn havoc.api:app --reload
 ```
 
-Open `http://127.0.0.1:8000/docs` to explore the API. The triage endpoint accepts an incident ID, such as `INC-001`.
+Open [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) to explore the API. The triage endpoint accepts an incident ID, such as `INC-001`.
 
 ## Tests
 
 ```bash
 python -m pytest
 ```
+
+The project also includes a GitHub Actions workflow that runs tests and builds the Docker image.
 
 ## Evaluation
 
@@ -132,37 +137,52 @@ The variants are:
 - **Agent without RAG:** Tool-using agent without runbook retrieval.
 - **Full agent:** Tool-using agent with runbook retrieval.
 
-Evaluation outputs are written to `results/results.json` and `results/results.md`. RCA results should be reported with the model name, number of incidents, successful predictions, accuracy, and 95% confidence intervals. Failed predictions must be reported separately.
+Evaluation outputs are written to `results/results.json` and `results/results.md`. RCA accuracy, completion rate, tool calls, and latency are reported separately.
 
-## Current Retrieval and Anomaly Results
+## Evaluation Results
 
-These preliminary results use **30 synthetic incidents**.
+All results below are from **30 synthetic incidents** evaluated using Google Gemini 3.1 Flash Lite (`gemini-3.1-flash-lite`). The confidence intervals are 95% Wilson intervals.
+
+### RCA Accuracy
+
+| Variant                    |   Accuracy (95% CI) |    Completed | Failed | Valid RCA | Avg. tool calls | Avg. latency |
+| -------------------------- | ------------------: | -----------: | -----: | --------: | --------------: | -----------: |
+| Baseline (alert text only) |  30% (9/30, 17–48%) | 30/30 (100%) |      0 |     30/30 |             0.0 |        2.6 s |
+| Agent without RAG          | 97% (29/30, 83–99%) | 30/30 (100%) |      0 |     30/30 |             2.0 |       12.1 s |
+| Full agent with RAG        | 90% (27/30, 74–97%) | 30/30 (100%) |      0 |     30/30 |             3.0 |       24.7 s |
+
+In this evaluation, both tool-using variants outperformed the alert-only baseline. The full agent with RAG did not improve accuracy over the agent without RAG and had higher average latency. The difference between the two agent variants should not be treated as statistically established from this small sample.
 
 ### Retrieval
 
+Retrieval hit@k measures whether the correct cause's runbook or postmortem appears among the top-k retrieved documents.
+
 | Query                   |                      Hit@1 |                      Hit@3 |
 | ----------------------- | -------------------------: | -------------------------: |
-| Alert text only         |   5/30 (17%; 95% CI 7–34%) | 10/30 (33%; 95% CI 19–51%) |
-| Alert plus log evidence | 16/30 (53%; 95% CI 36–70%) | 26/30 (87%; 95% CI 70–95%) |
+| Alert text only         |   17% (5/30, 95% CI 7–34%) | 33% (10/30, 95% CI 19–51%) |
+| Alert plus log evidence | 53% (16/30, 95% CI 36–70%) | 87% (26/30, 95% CI 70–95%) |
+
+Adding log evidence improved retrieval performance on this synthetic dataset.
 
 ### Anomaly Onset Detection
 
-Success means detecting onset within 15 minutes of the true onset.
+Success means detecting the onset within 15 minutes of the true onset.
 
 | Method           |                     Detected |
 | ---------------- | ---------------------------: |
-| Robust z-score   | 30/30 (100%; 95% CI 89–100%) |
-| Isolation Forest |   19/30 (63%; 95% CI 46–78%) |
+| Robust z-score   | 100% (30/30, 95% CI 89–100%) |
+| Isolation Forest |   63% (19/30, 95% CI 46–78%) |
 
-RCA accuracy results for the baseline, agent without RAG, and full agent should be taken from the completed LLM evaluation in `results/results.md`, not inferred from retrieval or anomaly-detection metrics.
+Robust z-score performed better than Isolation Forest on this evaluation set.
 
 ## Limitations
 
-- All incidents and supporting runbooks are synthetic.
-- The evaluation set is small; confidence intervals reflect substantial uncertainty.
+- All incidents, telemetry, runbooks, and postmortems are synthetic.
+- The evaluation set is small; confidence intervals reflect uncertainty.
 - Synthetic runbooks may be easier to retrieve than real operational documentation.
 - Telemetry is read from local files rather than production observability systems such as Prometheus or Loki.
-- Model outputs and confidence scores should not be treated as calibrated probabilities without separate validation.
+- These results measure performance on the current synthetic dataset and do not establish production performance.
+- Model-generated confidence scores should not be treated as calibrated probabilities without separate validation.
 
 ## License
 
